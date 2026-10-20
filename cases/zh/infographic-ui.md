@@ -1,6 +1,6 @@
-# 信息图与 UI · GPT Image 2.5 提示词
+# 信息图与 UI · GPT Image 2.5
 
-[← 返回首页](../../README_zh.md) · 24 条 · [cinel](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 24 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D 国家旅行指南地图信息图提示词
 
@@ -949,4 +949,3 @@ Clean infographic layout, square 1:1: a three-panel comparison of the same origi
 - 原作者: [@neroallinai](https://x.com/neroallinai)
 - 原帖: https://x.com/neroallinai/status/2110718598222385329
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/character-style-3panel-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-

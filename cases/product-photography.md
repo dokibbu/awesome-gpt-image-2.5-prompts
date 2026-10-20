@@ -1,6 +1,6 @@
-# Product & E-commerce · GPT Image 2.5 Prompts
+# Product & E-commerce · GPT Image 2.5
 
-[← Back to README](../README.md) · 39 prompts · [cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 39 · [Category on cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -1206,4 +1206,3 @@ Ultra-realistic 3D product shot, square 1:1: an unbranded glass bottle sharp in 
 - Author: [@FilmluneCOM](https://x.com/FilmluneCOM)
 - Original post: https://x.com/FilmluneCOM/status/2109902038834598239
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/cherry-bottle-ice-splash-product?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-

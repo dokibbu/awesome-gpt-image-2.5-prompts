@@ -1,6 +1,6 @@
-# Infographics & UI · GPT Image 2.5 Prompts
+# Infographics & UI · GPT Image 2.5
 
-[← Back to README](../README.md) · 24 prompts · [cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 24 · [Category on cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -949,4 +949,3 @@ Clean infographic layout, square 1:1: a three-panel comparison of the same origi
 - Author: [@neroallinai](https://x.com/neroallinai)
 - Original post: https://x.com/neroallinai/status/2110718598222385329
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/character-style-3panel-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-

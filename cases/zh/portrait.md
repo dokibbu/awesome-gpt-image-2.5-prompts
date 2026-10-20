@@ -1,6 +1,6 @@
-# 人像写真 · GPT Image 2.5 提示词
+# 人像写真 · GPT Image 2.5
 
-[← 返回首页](../../README_zh.md) · 74 条 · [cinel](https://cinel.ai/zh/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 74 · [cinel 分类页](https://cinel.ai/zh/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 橄榄绿丝绒纱丽高级时装棚拍人像提示词
 
@@ -1992,4 +1992,3 @@ Haunting high-fashion portrait, square 1:1: a fictional young East Asian woman c
 - 原作者: [@joey_tail](https://x.com/joey_tail)
 - 原帖: https://x.com/joey_tail/status/2111129894931648832
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pearl-mask-fashion-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-

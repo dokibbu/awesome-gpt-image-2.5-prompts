@@ -1,6 +1,6 @@
-# 美食饮品 · GPT Image 2.5 提示词
+# 美食饮品 · GPT Image 2.5
 
-[← 返回首页](../../README_zh.md) · 85 条 · [cinel](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 85 · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 食材悬浮爆炸式美食信息图提示词
 
@@ -1804,4 +1804,3 @@ Hyper-realistic cinematic food infographic of Italian pasta carbonara, square 1:
 - 原作者: [@Preda2005](https://x.com/Preda2005)
 - 原帖: https://x.com/Preda2005/status/2049960503880118525
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/carbonara-floating-ingredients-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-

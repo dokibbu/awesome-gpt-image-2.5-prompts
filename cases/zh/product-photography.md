@@ -1,6 +1,6 @@
-# 产品与电商 · GPT Image 2.5 提示词
+# 产品与电商 · GPT Image 2.5
 
-[← 返回首页](../../README_zh.md) · 39 条 · [cinel](https://cinel.ai/zh/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 39 · [cinel 分类页](https://cinel.ai/zh/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 九宫格产品样机分镜提示词
 
@@ -1206,4 +1206,3 @@ Ultra-realistic 3D product shot, square 1:1: an unbranded glass bottle sharp in 
 - 原作者: [@FilmluneCOM](https://x.com/FilmluneCOM)
 - 原帖: https://x.com/FilmluneCOM/status/2109902038834598239
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/cherry-bottle-ice-splash-product?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-

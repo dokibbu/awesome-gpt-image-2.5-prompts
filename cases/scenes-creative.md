@@ -1,6 +1,6 @@
-# Creative Scenes · GPT Image 2.5 Prompts
+# Creative Scenes · GPT Image 2.5
 
-[← Back to README](../README.md) · 82 prompts · [cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 82 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 
@@ -1259,4 +1259,3 @@ Surreal cinematic scene, square 1:1: an ornate train station fully underwater, s
 - Author: [@Rana_Farooq_kz](https://x.com/Rana_Farooq_kz)
 - Original post: https://x.com/Rana_Farooq_kz/status/2111537664033948153
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/underwater-train-station-scene?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-

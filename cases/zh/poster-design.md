@@ -1,6 +1,6 @@
-# 海报与平面设计 · GPT Image 2.5 提示词
+# 海报与平面设计 · GPT Image 2.5
 
-[← 返回首页](../../README_zh.md) · 39 条 · [cinel](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 39 · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 运动员致敬双重曝光拼贴海报提示词
 
@@ -1229,4 +1229,3 @@ Charming vintage travel poster, square 1:1: Kyoto in a colourful storybook-inspi
 - 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
 - 原帖: https://x.com/Goodmanprotocol/status/2111372178461540580
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/vintage-travel-poster-kyoto?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-

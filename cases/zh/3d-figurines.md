@@ -1,6 +1,6 @@
-# 3D 角色与手办 · GPT Image 2.5 提示词
+# 3D 角色与手办 · GPT Image 2.5
 
-[← 返回首页](../../README_zh.md) · 52 条 · [cinel](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 52 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 照片转极简 3D 玩具角色风格提示词
 
@@ -1042,4 +1042,3 @@ High-detail 3D render, square 1:1: a trendy fictional young woman as a designer-
 - 原作者: [@azed_ai](https://x.com/azed_ai)
 - 原帖: https://x.com/azed_ai/status/2111774317289889900
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/y2k-chibi-designer-toy-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-

@@ -1,6 +1,6 @@
-# Illustration & Anime · GPT Image 2.5 Prompts
+# Illustration & Anime · GPT Image 2.5
 
-[← Back to README](../README.md) · 37 prompts · [cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 37 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -608,4 +608,3 @@ Stylized 3D anime video keyframe, square 1:1: two original fictional tennis play
 - Author: [@Mayz1169](https://x.com/Mayz1169)
 - Original post: https://x.com/Mayz1169/status/2109647912292749521
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/anime-tennis-matchpoint-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-

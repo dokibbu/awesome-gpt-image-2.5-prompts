@@ -1,6 +1,6 @@
-# Food & Drink · GPT Image 2.5 Prompts
+# Food & Drink · GPT Image 2.5
 
-[← Back to README](../README.md) · 85 prompts · [cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 85 · [Category on cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
@@ -1804,4 +1804,3 @@ Hyper-realistic cinematic food infographic of Italian pasta carbonara, square 1:
 - Author: [@Preda2005](https://x.com/Preda2005)
 - Original post: https://x.com/Preda2005/status/2049960503880118525
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/carbonara-floating-ingredients-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-

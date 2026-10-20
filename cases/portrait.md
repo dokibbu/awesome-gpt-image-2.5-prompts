@@ -1,6 +1,6 @@
-# Portrait & Headshot · GPT Image 2.5 Prompts
+# Portrait & Headshot · GPT Image 2.5
 
-[← Back to README](../README.md) · 74 prompts · [cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 74 · [Category on cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Olive Velvet Saree High-Fashion Studio Portrait
 
@@ -1992,4 +1992,3 @@ Haunting high-fashion portrait, square 1:1: a fictional young East Asian woman c
 - Author: [@joey_tail](https://x.com/joey_tail)
 - Original post: https://x.com/joey_tail/status/2111129894931648832
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pearl-mask-fashion-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-

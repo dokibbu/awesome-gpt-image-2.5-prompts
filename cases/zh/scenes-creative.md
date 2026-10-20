@@ -1,6 +1,6 @@
-# 创意场景 · GPT Image 2.5 提示词
+# 创意场景 · GPT Image 2.5
 
-[← 返回首页](../../README_zh.md) · 82 条 · [cinel](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 82 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 巨型钢笔写出书中世界的魔幻场景提示词
 
@@ -1259,4 +1259,3 @@ Surreal cinematic scene, square 1:1: an ornate train station fully underwater, s
 - 原作者: [@Rana_Farooq_kz](https://x.com/Rana_Farooq_kz)
 - 原帖: https://x.com/Rana_Farooq_kz/status/2111537664033948153
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/underwater-train-station-scene?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-

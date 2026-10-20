@@ -1,6 +1,6 @@
-# 插画与动漫 · GPT Image 2.5 提示词
+# 插画与动漫 · GPT Image 2.5
 
-[← 返回首页](../../README_zh.md) · 37 条 · [cinel](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 37 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 极简黑白线稿人物插画提示词
 
@@ -608,4 +608,3 @@ Stylized 3D anime video keyframe, square 1:1: two original fictional tennis play
 - 原作者: [@Mayz1169](https://x.com/Mayz1169)
 - 原帖: https://x.com/Mayz1169/status/2109647912292749521
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/anime-tennis-matchpoint-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-

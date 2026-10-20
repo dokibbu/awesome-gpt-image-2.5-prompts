@@ -1,6 +1,6 @@
-# Posters, Logos & Graphic Design · GPT Image 2.5 Prompts
+# Posters, Logos & Graphic Design · GPT Image 2.5
 
-[← Back to README](../README.md) · 39 prompts · [cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 39 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sports Tribute Double-Exposure Collage Poster Prompt
 
@@ -1229,4 +1229,3 @@ Charming vintage travel poster, square 1:1: Kyoto in a colourful storybook-inspi
 - Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
 - Original post: https://x.com/Goodmanprotocol/status/2111372178461540580
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/vintage-travel-poster-kyoto?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
