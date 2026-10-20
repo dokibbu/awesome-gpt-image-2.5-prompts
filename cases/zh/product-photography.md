@@ -1207,4 +1207,3 @@ Ultra-realistic 3D product shot, square 1:1: an unbranded glass bottle sharp in 
 - 原帖: https://x.com/FilmluneCOM/status/2109902038834598239
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/cherry-bottle-ice-splash-product?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-版权归各条目原作者所有；删除请求请通过 cinel.ai 联系。

@@ -1993,4 +1993,3 @@ Haunting high-fashion portrait, square 1:1: a fictional young East Asian woman c
 - 原帖: https://x.com/joey_tail/status/2111129894931648832
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pearl-mask-fashion-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-版权归各条目原作者所有；删除请求请通过 cinel.ai 联系。

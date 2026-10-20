@@ -609,4 +609,3 @@ Stylized 3D anime video keyframe, square 1:1: two original fictional tennis play
 - Original post: https://x.com/Mayz1169/status/2109647912292749521
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/anime-tennis-matchpoint-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-Rights belong to the credited original authors. Takedown requests: contact via cinel.ai.

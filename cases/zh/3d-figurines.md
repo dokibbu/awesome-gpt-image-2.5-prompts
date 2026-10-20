@@ -1043,4 +1043,3 @@ High-detail 3D render, square 1:1: a trendy fictional young woman as a designer-
 - 原帖: https://x.com/azed_ai/status/2111774317289889900
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/y2k-chibi-designer-toy-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-版权归各条目原作者所有；删除请求请通过 cinel.ai 联系。

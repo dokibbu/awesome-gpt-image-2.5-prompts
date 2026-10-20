@@ -1606,8 +1606,6 @@ A cinematic silhouette shot of local fishermen lining the Galata Bridge in Istan
 - 原帖: https://x.com/ozan_sihay/status/2001003144566681621
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/fishermen-bridge-sunset-silhouette?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-## 许可与版权
+## 许可
 
-- 代码（scripts/、.github/）：MIT，见 [LICENSE](LICENSE)。
-- 提示词与示例：版权归各条目注明的原作者所有。本仓库仅做索引和引用，每条都标注原作者和原帖链接。部分数据来自 MeiGen.ai 的 [NanoBanana Trending Prompts](https://github.com/jau123/nanobanana-trending-prompts)，遵循 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)；我们做了修改（补全占位符、用 GPT Image 2.5 重新生成示例图）。详见 [CONTENT_LICENSE.md](CONTENT_LICENSE.md)。
-- 删除请求：如果你是原作者，希望删除或修改署名，请通过 [cinel.ai](https://cinel.ai) 联系我们，或在本仓库提 Issue，我们会尽快处理。
+代码（scripts/、.github/）采用 MIT 许可，见 [LICENSE](LICENSE)。每条提示词均注明原作者和原帖链接。

@@ -950,4 +950,3 @@ Clean infographic layout, square 1:1: a three-panel comparison of the same origi
 - 原帖: https://x.com/neroallinai/status/2110718598222385329
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/character-style-3panel-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-版权归各条目原作者所有；删除请求请通过 cinel.ai 联系。

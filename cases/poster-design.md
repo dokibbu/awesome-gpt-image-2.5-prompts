@@ -1230,4 +1230,3 @@ Charming vintage travel poster, square 1:1: Kyoto in a colourful storybook-inspi
 - Original post: https://x.com/Goodmanprotocol/status/2111372178461540580
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/vintage-travel-poster-kyoto?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-Rights belong to the credited original authors. Takedown requests: contact via cinel.ai.

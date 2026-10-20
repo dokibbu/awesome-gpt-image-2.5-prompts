@@ -1260,4 +1260,3 @@ Surreal cinematic scene, square 1:1: an ornate train station fully underwater, s
 - Original post: https://x.com/Rana_Farooq_kz/status/2111537664033948153
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/underwater-train-station-scene?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-Rights belong to the credited original authors. Takedown requests: contact via cinel.ai.

@@ -1805,4 +1805,3 @@ Hyper-realistic cinematic food infographic of Italian pasta carbonara, square 1:
 - Original post: https://x.com/Preda2005/status/2049960503880118525
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/carbonara-floating-ingredients-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-Rights belong to the credited original authors. Takedown requests: contact via cinel.ai.
