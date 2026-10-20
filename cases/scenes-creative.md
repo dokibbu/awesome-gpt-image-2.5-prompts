@@ -1,6 +1,6 @@
 # Creative Scenes · GPT Image 2.5
 
-[← README](../README.md) · 82 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 91 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 
@@ -1259,3 +1259,129 @@ Surreal cinematic scene, square 1:1: an ornate train station fully underwater, s
 - Author: [@Rana_Farooq_kz](https://x.com/Rana_Farooq_kz)
 - Original post: https://x.com/Rana_Farooq_kz/status/2111537664033948153
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/underwater-train-station-scene?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Aurora Ice Staircase Romantic Painting
+
+<a href="https://cinel.ai/prompts/p/aurora-ice-staircase-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/aurora-ice-staircase-painting.webp" alt="Aurora Ice Staircase Romantic Painting" width="480"></a>
+
+> Adapted from a prompt + image post by @NayaVerseee on 2026-10-15 (36 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Romantic landscape oil painting in the sublime 19th-century tradition, cold night light, fine oil glazing, square 1:1. Very wide shot, overwhelming scale: an endless staircase of translucent ice rises from a frozen sea straight up into a towering green and violet aurora, vanishing among the stars. On the lowest steps, a tiny distant red-haired figure seen from behind in a long dark-blue cloak, face too small to see, begins to climb with one hand on the frozen railing. She is the only figure in the scene. No text, no logo. Square 1:1 composition.
+```
+
+- Author: [@NayaVerseee](https://x.com/NayaVerseee)
+- Original post: https://x.com/NayaVerseee/status/2110800375607632229
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/aurora-ice-staircase-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Vintage Camera Turned Inhabitable Building
+
+<a href="https://cinel.ai/prompts/p/vintage-camera-inhabitable-building?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/vintage-camera-inhabitable-building.webp" alt="Vintage Camera Turned Inhabitable Building" width="480"></a>
+
+> Adapted from a prompt + image post by @Gdgtify on 2026-10-16 (11 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+High-end architectural photography, square 1:1: a vintage rangefinder film camera transformed into a real inhabitable building while keeping its signature silhouette — the lens barrel becomes a round glass-walled atrium café, the body becomes a two-storey leather-textured facade with brushed-aluminium trim, the shutter dial becomes a rooftop terrace, the viewfinder becomes a long panoramic window. Set on a green hillside park overlooking a city at golden hour, at least five human-scale cues (people walking, bicycles, benches, trees, lit interiors). Architectural plausibility, cinematic realism, no brand names, no logos, no text. Square 1:1 composition.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2111008745874452615
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/vintage-camera-inhabitable-building?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Halloween Camcorder Skeleton Dance Keyframe
+
+<a href="https://cinel.ai/prompts/p/halloween-camcorder-skeleton-dance-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/halloween-camcorder-skeleton-dance-keyframe.webp" alt="Halloween Camcorder Skeleton Dance Keyframe" width="360"></a>
+
+> Adapted from a Seedance 2.5 video post by @Just_sharon7 on 2026-10-19 (448 likes at capture). We rewrote it as one clean vertical 9:16 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Photoreal raw flash camcorder video keyframe, vertical 9:16, like a found Halloween night tape: front-row fisheye view of a packed barn Halloween party, harsh on-camera flash blasting what is close to the lens, blown highlights and hard shadows, everything far away falls into near-black. A full-body skeleton character with bleached off-white bones, mirrored aviator sunglasses, a black vest, a bright orange baseball cap and plain white sneakers is frozen mid-headspin on the straw-strewn dance floor; behind him a crowd in witch hats and bedsheet ghost costumes screams and cheers. Strong barrel distortion, heavy camcorder noise and grain, slight interlacing, smeared motion blur, slightly crushed green-tinted digital colour, absurd moment played totally real. No on-screen text, no timestamp, no brand, no logo. Vertical 9:16 composition.
+```
+
+- Author: [@Just_sharon7](https://x.com/Just_sharon7)
+- Original post: https://x.com/Just_sharon7/status/2112154192534241709
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/halloween-camcorder-skeleton-dance-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Classroom Showdown Aftermath Keyframe
+
+<a href="https://cinel.ai/prompts/p/classroom-showdown-aftermath-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/classroom-showdown-aftermath-keyframe.webp" alt="Classroom Showdown Aftermath Keyframe" width="480"></a>
+
+> Adapted from a video post (Seedance 2.5) by @Alina_with_Ai on 2026-10-18 (237 likes at capture). We rewrote it as one clean widescreen 16:9 key-frame still, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Cinematic live-action thriller video keyframe, widescreen 16:9, realistic gritty Korean-thriller look: an old, run-down school classroom at night with a teal-green chalkboard, worn grey concrete floor, overturned wooden desks and chairs, a brown leather sofa and wooden cabinets, loose papers frozen mid-air and thin dust hanging under cold flickering fluorescent tubes. In the middle stands a fictional young woman in a black baseball cap pulled low over her eyes, her long black ponytail whipping mid-turn, fitted black long-sleeve top, black pants and dark glossy arm wraps, cold emotionless face, calm after the fight. Desaturated green-teal colour grade, slow-motion feel, natural film grain, handheld camera at waist height. No other people, no blood, no weapons, no text, no subtitles, no logo. Widescreen 16:9 composition.
+```
+
+- Author: [@Alina_with_Ai](https://x.com/Alina_with_Ai)
+- Original post: https://x.com/Alina_with_Ai/status/2111661075590684814
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/classroom-showdown-aftermath-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Glowing Snail Sunset Water Wallpaper
+
+<a href="https://cinel.ai/prompts/p/glowing-snail-sunset-water-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/glowing-snail-sunset-water-wallpaper.webp" alt="Glowing Snail Sunset Water Wallpaper" width="480"></a>
+
+> Adapted from an image post by @churvikv on 2026-10-17 (128 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Serene minimal wallpaper photograph, square 1:1: a snail with a translucent amber shell that glows from within glides across mirror-still water at dusk, the low sun sitting on the horizon behind it, its perfect reflection below, tall feathery reeds on one side, soft lavender and peach sky, calm gradient water, quiet poetic mood, no text, no logo. Square 1:1 composition.
+```
+
+- Author: [@churvikv](https://x.com/churvikv)
+- Original post: https://x.com/churvikv/status/2111561461306917097
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/glowing-snail-sunset-water-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 2003 Camcorder Mall Ice Cream Date Keyframe
+
+<a href="https://cinel.ai/prompts/p/camcorder-2003-mall-ice-cream-date-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/camcorder-2003-mall-ice-cream-date-keyframe.webp" alt="2003 Camcorder Mall Ice Cream Date Keyframe" width="480"></a>
+
+> Adapted from a video post (Seedance 2.5) by @AIwithkhan on 2026-10-20 (80 likes at capture). We rewrote it as one clean widescreen 16:9 key-frame still, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Ultra-realistic early-2000s MiniDV camcorder video keyframe, widescreen 16:9, like a friend's home video from 2003: a sweet candid moment between a fictional young adult Korean couple in a busy Seoul shopping mall. She has long black hair, natural makeup, a fitted pastel-pink top, low-rise blue jeans and a small shoulder bag, a big teddy bear tucked under one arm, laughing as she offers him a bite of one large shared vanilla soft-serve cone; he wears a casual striped T-shirt and loose jeans, holds a tiny stuffed rabbit and smiles shyly with a little ice cream on his lip. Fluorescent mall lighting, a toy store of colourful plushies and passing shoppers behind them, handheld framing slightly off-centre, soft digital detail, faded colours, mild compression noise, autofocus softness and natural motion blur. Unbranded shops, no readable signs, no text, no timestamp, no logo. Widescreen 16:9 composition.
+```
+
+- Author: [@AIwithkhan](https://x.com/AIwithkhan)
+- Original post: https://x.com/AIwithkhan/status/2112383970478522877
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/camcorder-2003-mall-ice-cream-date-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Elevator Shortcut Impossible Stairs Keyframe
+
+<a href="https://cinel.ai/prompts/p/elevator-shortcut-impossible-stairs-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/elevator-shortcut-impossible-stairs-keyframe.webp" alt="Elevator Shortcut Impossible Stairs Keyframe" width="480"></a>
+
+> Adapted from a video post by @umesh_ai on 2026-10-18 (117 likes at capture). We rewrote it as one clean widescreen 16:9 key-frame still, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Cinematic surreal action-comedy video keyframe, widescreen 16:9, photoreal: an impatient office worker with short dark hair, a cobalt-blue suit, white shirt, loose mustard-yellow tie, black sneakers and a charcoal messenger bag across his body bounds up an immense vertical shaft filled with cantilevered staircases that twist off in impossible directions, one hand gripping a continuous glossy red tubular handrail that loops through the whole space; his tie and hair fly with the speed. Far below, a tiny ordinary office lobby with closed elevator doors and a calm woman in a cream coat holding a plain coffee cup. Dramatic low camera rocketing upward just behind his trailing foot, strong parallax, cool daylight falling from above, crisp concrete and steel textures. No text, no signs, no logo. Widescreen 16:9 composition.
+```
+
+- Author: [@umesh_ai](https://x.com/umesh_ai)
+- Original post: https://x.com/umesh_ai/status/2111683472897225067
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/elevator-shortcut-impossible-stairs-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Open Window Coastal View Painting
+
+<a href="https://cinel.ai/prompts/p/open-window-coastal-view-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/open-window-coastal-view-painting.webp" alt="Open Window Coastal View Painting" width="480"></a>
+
+> Adapted from an image post by @AllaAisling on 2026-10-17 (47 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Painterly illustration, square 1:1: view through a tall open double window with white frames from a terracotta-red room, potted plants and a small white radiator below the sill, lush leaves and orange flowers framing the edges; outside, a sunlit Mediterranean garden with dark cypress trees slopes down to a calm blue bay and distant islands, towering white cumulus clouds in a deep blue sky, crisp summer daylight, rich saturated colours, no people, no text, no logo. Square 1:1 composition.
+```
+
+- Author: [@AllaAisling](https://x.com/AllaAisling)
+- Original post: https://x.com/AllaAisling/status/2111492181018186059
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/open-window-coastal-view-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Jam Lid Twisting Pastry World Keyframe
+
+<a href="https://cinel.ai/prompts/p/jam-lid-twisting-pastry-world-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/jam-lid-twisting-pastry-world-keyframe.webp" alt="Jam Lid Twisting Pastry World Keyframe" width="480"></a>
+
+> Adapted from a video post by @umesh_ai on 2026-10-20 (64 likes at capture). We rewrote it as one clean widescreen 16:9 key-frame still, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Cinematic surreal action-comedy video keyframe, widescreen 16:9, photoreal: an adult woman with dark hair in a messy bun, plum-coloured pajamas and cream slippers rides her small wooden breakfast counter and stool through an impossible landscape of colossal golden croissants and spiralling ribbons of laminated pastry, the counter banking between two enormous flaky curls. She leans hard against the turn, wrestling with an ordinary glass jar of strawberry jam with a bright red metal screw lid through a blue-and-white checked tea towel, face set in absurd determination; a slice of toast on a plain plate rides on the counter beside her. Crumbs drift like sand, warm morning light, crisp buttery pastry textures rushing past on both sides, dynamic low tracking camera with motion blur at the edges. No text, no labels, no logo. Widescreen 16:9 composition.
+```
+
+- Author: [@umesh_ai](https://x.com/umesh_ai)
+- Original post: https://x.com/umesh_ai/status/2112397267017810346
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/jam-lid-twisting-pastry-world-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

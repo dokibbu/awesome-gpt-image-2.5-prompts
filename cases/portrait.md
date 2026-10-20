@@ -1,6 +1,6 @@
 # Portrait & Headshot · GPT Image 2.5
 
-[← README](../README.md) · 74 · [Category on cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 78 · [Category on cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Olive Velvet Saree High-Fashion Studio Portrait
 
@@ -1992,3 +1992,59 @@ Haunting high-fashion portrait, square 1:1: a fictional young East Asian woman c
 - Author: [@joey_tail](https://x.com/joey_tail)
 - Original post: https://x.com/joey_tail/status/2111129894931648832
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pearl-mask-fashion-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Avant-Garde Film-Grain Editorial Portrait
+
+<a href="https://cinel.ai/prompts/p/avant-garde-film-grain-editorial-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/avant-garde-film-grain-editorial-portrait.webp" alt="Avant-Garde Film-Grain Editorial Portrait" width="480"></a>
+
+> Adapted from a prompt + image post by @olivercribs on 2026-10-20 (180 likes at capture). We rewrote it as one clean square 1:1 image, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Avant-garde high-fashion editorial photograph, square 1:1, captured on a medium-format digital camera with an 85mm f/1.4 lens, 35mm film grain, 5200K daylight. Three-quarter body portrait of a strikingly beautiful fictional 20-year-old Argentinian woman with natural, unretouched fair skin and raw skin texture — visible pores, faint freckles, fine baby hairs. She wears a sculptural avant-garde couture look: an asymmetric ivory organza jacket with exaggerated folded shoulders over a high-neck black column dress and a single oversized silver ear cuff. Calm direct gaze, one hand resting at her collar. Plain warm-grey seamless studio backdrop, soft window-like key light from the left with gentle falloff, refined magazine mood. No text, no logo, no watermark. Square 1:1 composition.
+```
+
+- Author: [@olivercribs](https://x.com/olivercribs)
+- Original post: https://x.com/olivercribs/status/2112380288047194217
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/avant-garde-film-grain-editorial-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Emerald Café Casual Fashion Portrait
+
+<a href="https://cinel.ai/prompts/p/emerald-cafe-casual-fashion-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/emerald-cafe-casual-fashion-portrait.webp" alt="Emerald Café Casual Fashion Portrait" width="480"></a>
+
+> Adapted from a prompt + image post by @hey_am_cherry on 2026-10-19 (102 likes at capture). We rewrote it as one clean square 1:1 image, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Realistic lifestyle fashion portrait, square 1:1: a fictional young woman stands casually outside a premium modern café with deep emerald green exterior panels and large glass windows revealing a warm, softly lit interior — minimal Scandinavian café aesthetic with hanging pendant lights, wooden furniture and subtle reflections on the glass. She wears a pastel sage-green baseball cap, a fitted white tube top, olive-green denim overall shorts with one strap unfastened, plain unbranded olive canvas sneakers with no side marks and delicate gold jewelry; a plain smooth black leather mini bag with a simple flap and no hardware sits on a small marble café table beside a plain takeaway coffee cup. Natural relaxed pose with one leg slightly crossed and one hand in her pocket, calm confident expression looking at the camera. Eye-level full-body framing, shallow depth of field, creamy bokeh, soft golden-hour daylight, premium editorial fashion photography, realistic skin texture, crisp details. No brand, no logo, no text, no watermark. Square 1:1 composition.
+```
+
+- Author: [@hey_am_cherry](https://x.com/hey_am_cherry)
+- Original post: https://x.com/hey_am_cherry/status/2112044506514440506
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/emerald-cafe-casual-fashion-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Striped Light Oil Portrait
+
+<a href="https://cinel.ai/prompts/p/striped-light-oil-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/striped-light-oil-portrait.webp" alt="Striped Light Oil Portrait" width="480"></a>
+
+> Adapted from an image post by @AllaAisling on 2026-10-18 (82 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Hyperrealistic oil painting portrait, square 1:1: tight close-up of a fictional young woman with dark wavy hair falling across her face and grey-blue eyes, bold vertical stripes of warm sunlight through window blinds falling across her face and hair, visible fine brushwork and skin texture with faint freckles, calm intense gaze straight at the viewer, a black-and-white striped top just visible at the bottom edge, deep shadow background, no text, no logo. Square 1:1 composition.
+```
+
+- Author: [@AllaAisling](https://x.com/AllaAisling)
+- Original post: https://x.com/AllaAisling/status/2111859350235214309
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/striped-light-oil-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Photoreal Character Turnaround Sheet
+
+<a href="https://cinel.ai/prompts/p/photoreal-character-turnaround-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/photoreal-character-turnaround-sheet.webp" alt="Photoreal Character Turnaround Sheet" width="480"></a>
+
+> Adapted from an image post by @DavoCreates on 2026-10-17 (22 likes at capture). We rewrote it as one clean square 1:1 image, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Photorealistic character turnaround reference sheet, square 1:1, on a seamless mid-grey studio background: the same fictional young man with short dark curly hair, light stubble and a calm neutral expression shown three times side by side — a full-body front view, a full-body right-side profile view and a large head-and-shoulders close-up — wearing a mustard-yellow pullover hoodie, black slim trousers and dark sneakers. Identical face, hair, proportions and clothing in every view, neutral standing pose with relaxed arms, even soft studio lighting, crisp realistic fabric and skin texture, clean casting-sheet layout with even spacing. No text, no labels, no logo. Square 1:1 composition.
+```
+
+- Author: [@DavoCreates](https://x.com/DavoCreates)
+- Original post: https://x.com/DavoCreates/status/2111490754665239032
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/photoreal-character-turnaround-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

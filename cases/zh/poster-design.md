@@ -1,6 +1,6 @@
 # 海报与平面设计 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 39 · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 42 · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 运动员致敬双重曝光拼贴海报提示词
 
@@ -1229,3 +1229,45 @@ Charming vintage travel poster, square 1:1: Kyoto in a colourful storybook-inspi
 - 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
 - 原帖: https://x.com/Goodmanprotocol/status/2111372178461540580
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/vintage-travel-poster-kyoto?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 飞扬丝绸高定时装海报
+
+<a href="https://cinel.ai/zh/prompts/p/billowing-silk-couture-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/billowing-silk-couture-poster.webp" alt="飞扬丝绸高定时装海报" width="480"></a>
+
+> 根据 @MrLarus 于 2026-10-17 的提示词+图片帖改写（记录时 79 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+Cinematic haute couture fashion poster, square 1:1, spontaneous realistic photography aesthetic. An adult fictional female model photographed from an intimate low-angle 28mm wide-angle perspective, mid-turn on a black volcanic sand desert at sunset, wearing a sculpted ivory column gown. An enormous translucent apricot silk fabric billows overhead and sweeps past the camera lens in elegant sculptural curves, natural foreground occlusion, subtle motion blur, windblown hair, realistic fabric physics, breathtaking backlit transparency. Golden-hour sunlight on the fabric against cool blue shadows, natural skin texture, cinematic color grading, subtle film grain. One bold high-contrast Didone serif headline reading "DRIFT" near the top, integrated without covering the model. Luxury fashion editorial, dramatic yet believable. No brand, no logo, no watermark, no other text. Square 1:1 composition.
+```
+
+- 原作者: [@MrLarus](https://x.com/MrLarus)
+- 原帖: https://x.com/MrLarus/status/2111485322186142095
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/billowing-silk-couture-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 水粉泡泡字城市插画海报
+
+<a href="https://cinel.ai/zh/prompts/p/gouache-bubble-letter-city-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/gouache-bubble-letter-city-poster.webp" alt="水粉泡泡字城市插画海报" width="480"></a>
+
+> 根据 @Goodmanprotocol 于 2026-10-16 的提示词+图片帖改写（记录时 47 赞）。我们改成一张干净的1:1方形图，去掉品牌和Logo，也不需要你的照片。一次只改一个变量。
+
+```text
+Create a cute, playful square 1:1 illustrated poster of Lisbon, Portugal, featuring bold bubble lettering, charming hand-painted illustrations and a colorful stationery-print aesthetic. MAIN SUBJECT: a large, instantly recognizable yellow vintage tram climbing a steep hilly street of pastel tiled houses with terracotta roofs, preserving its defining shape and colors. TYPOGRAPHY: a huge, chunky, rounded English title "LISBON" across the top in vibrant tangerine orange; a small rounded label "PORTUGAL" and a short playful caption "sunny hills & sweet tarts" near the bottom; all lettering bold, readable and correctly spelled. ILLUSTRATION STYLE: soft opaque gouache and oil-pastel textures, rounded shapes, gentle painted highlights, subtle handmade imperfections. DECORATIONS: five small subject-specific doodles around the main illustration — a custard tart, a blue-and-white tile, a sardine, a lemon and a seagull. COLOR & LAYOUT: bright warm cream background, tangerine title, with sky blue, sunny yellow and terracotta accents; full and lively but balanced, generous spacing, nothing obscuring the subject. Whimsical collectible art print. AVOID: white sticker outlines, double borders, glossy 3D rendering, vector-flat graphics, clutter, illegible text, logos and watermarks. Square 1:1 composition.
+```
+
+- 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- 原帖: https://x.com/Goodmanprotocol/status/2110939679407427733
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/gouache-bubble-letter-city-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 玻璃字母热带雨林3D渲染
+
+<a href="https://cinel.ai/zh/prompts/p/glass-letter-jungle-terrarium-render?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/glass-letter-jungle-terrarium-render.webp" alt="玻璃字母热带雨林3D渲染" width="480"></a>
+
+> 根据 @Bmohreal 于 2026-10-17 的纯提示词帖改写（记录时 5 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+Ultra-detailed 3D render, square 1:1: a large capital letter W made of thick transparent glass, and inside the letter a lush tropical jungle under glass — exotic plants, ferns, vines and tiny flowers filling the hollow letterform, hyper-realistic, ray-traced reflections and refractions, photorealistic lighting, soft natural shadows, elegant modern design, seamless white-grey studio background, no other text, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@Bmohreal](https://x.com/Bmohreal)
+- 原帖: https://x.com/Bmohreal/status/2111495150354526624
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/glass-letter-jungle-terrarium-render?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

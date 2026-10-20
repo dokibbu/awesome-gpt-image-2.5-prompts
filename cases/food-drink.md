@@ -1,6 +1,6 @@
 # Food & Drink · GPT Image 2.5
 
-[← README](../README.md) · 115 · [Category on cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 117 · [Category on cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
@@ -2224,3 +2224,31 @@ Ultra minimalist modern food recipe infographic poster for Tomato Potato Stir-Fr
 - Author: [@sereinworld](https://x.com/sereinworld)
 - Original post: https://x.com/sereinworld/status/2052387250806390976
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/tomato-beef-brisket-collage-recipe-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pistachio Cone Paris Golden-Hour Portrait
+
+<a href="https://cinel.ai/prompts/p/pistachio-cone-paris-golden-hour-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pistachio-cone-paris-golden-hour-portrait.webp" alt="Pistachio Cone Paris Golden-Hour Portrait" width="480"></a>
+
+> Adapted from a prompt + image post by @afrinxai on 2026-10-16 (51 likes at capture). We rewrote it as one clean square 1:1 image, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Vibrant golden-hour street fashion portrait, square 1:1: a fictional young woman in a ruby-red outfit peeks over gold-rimmed heart-shaped sunglasses with deep red lenses, holding a crisp waffle cone with two scoops of pale green pistachio ice cream, drizzled with white cream and sprinkled with chopped pistachios, out toward the camera as a bold foreground hero. Long wavy honey-brown hair with a few thin braids, a red bandana with a small white floral print tied in a bow, light freckles, glossy cherry-red lips, small hoop earrings. Fitted ruby-red knit top under an open red leather jacket, an oval ruby pendant on a black cord, red jeweled bracelets, glossy cherry-red nails. Behind her, a lively Parisian boulevard at golden hour — cream stone buildings, wrought-iron balconies, a vintage street lamp, red awnings and a café with a warm pink neon glow — melts into creamy amber bokeh. Warm backlight rims her hair; crisp highlights sparkle on the lenses and the glossy ice cream. Polished lifestyle editorial finish, 50mm f/1.8 look. No text, no readable signs, no logos, no watermark. Square 1:1 composition.
+```
+
+- Author: [@afrinxai](https://x.com/afrinxai)
+- Original post: https://x.com/afrinxai/status/2111095820724375803
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pistachio-cone-paris-golden-hour-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Rainy Café Chocolate Lava Cake
+
+<a href="https://cinel.ai/prompts/p/rainy-cafe-chocolate-lava-cake-dessert?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/rainy-cafe-chocolate-lava-cake-dessert.webp" alt="Rainy Café Chocolate Lava Cake" width="480"></a>
+
+> Adapted from a prompt + image post by @Nokiardnv on 2026-10-14 (25 likes at capture). We rewrote it as one clean square 1:1 image, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Ultra-realistic luxury dessert photography, square 1:1: a premium café interior during heavy rain, rain streaming down the window glass with blurred warm city lights beyond. On a dark luxurious table, an elegant black plate holds a molten chocolate lava cake, split open with glossy chocolate flowing out, a scoop of vanilla ice cream and fresh mint leaves, beside a premium espresso shot and golden cutlery. Warm candle glow, rich textures, soft reflections on the table, high-end pastry advertising look, photorealistic, no people, no text, no logo. Square 1:1 composition.
+```
+
+- Author: [@Nokiardnv](https://x.com/Nokiardnv)
+- Original post: https://x.com/Nokiardnv/status/2110446334918758652
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/rainy-cafe-chocolate-lava-cake-dessert?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

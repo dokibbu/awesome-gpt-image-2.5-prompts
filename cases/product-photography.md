@@ -1,6 +1,6 @@
 # Product & E-commerce · GPT Image 2.5
 
-[← README](../README.md) · 39 · [Category on cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 41 · [Category on cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -1206,3 +1206,31 @@ Ultra-realistic 3D product shot, square 1:1: an unbranded glass bottle sharp in 
 - Author: [@FilmluneCOM](https://x.com/FilmluneCOM)
 - Original post: https://x.com/FilmluneCOM/status/2109902038834598239
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/cherry-bottle-ice-splash-product?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Suitcase to Flying Motorcycle Keyframe
+
+<a href="https://cinel.ai/prompts/p/suitcase-flying-motorcycle-transform-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/suitcase-flying-motorcycle-transform-keyframe.webp" alt="Suitcase to Flying Motorcycle Keyframe" width="480"></a>
+
+> Adapted from a Grok Imagine video post by @Aiminithoughts on 2026-10-20 (24 likes at capture). We rewrote it as one clean widescreen 16:9 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Cinematic sci-fi product keyframe, widescreen 16:9: inside a vast futuristic airport hangar, one single sleek brushed-metal suitcase, centered and alone on the floor, is caught at the exact halfway moment of transforming into a flying motorcycle (half suitcase, half bike, a single hybrid object, not a lineup or sequence) — hundreds of precision-engineered panels expanding outward, hidden mechanical arms extending from its core, wheels unfolding, the frame lengthening, twin anti-gravity thrusters glowing blue beneath the chassis. Polished concrete floor with reflections, cool rim lights, hangar doors open to a hazy futuristic skyline. Fictional design, no brand, no text, no logo. Widescreen 16:9 composition.
+```
+
+- Author: [@Aiminithoughts](https://x.com/Aiminithoughts)
+- Original post: https://x.com/Aiminithoughts/status/2112364398350311506
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/suitcase-flying-motorcycle-transform-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Inflating Juice Bottle Typography Poster
+
+<a href="https://cinel.ai/prompts/p/inflating-juice-bottle-typography-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/inflating-juice-bottle-typography-poster.webp" alt="Inflating Juice Bottle Typography Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @ou_zhen599 on 2026-10-16 (8 likes at capture). We rewrote it as one clean square 1:1 image, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Premium commercial product poster for a fictional juice brand "VELVABERRY", square 1:1. One short rounded squeeze-style strawberry juice bottle with a ribbed cap, made of soft-touch semi-gloss plastic in saturated strawberry red, sits slightly tilted in the left-center foreground; its body visibly swells and stretches to the right, seamlessly inflating into giant pressurized 3D letters reading "SQUEEZE BACK" in the same glossy strawberry-red material, with condensation beads across both bottle and letters. The bottle label reads exactly "VELVABERRY" and "STRAWBERRY JUICE" with a small embossed strawberry icon. Beneath the inflated slogan, narrow cream-white condensed type reads "JUICE THAT PUSHES BACK." Deep black-to-burgundy gradient background with a concentrated crimson glow behind the product, strong commercial key light from the upper left, subtle right-edge rim light, believable volume tension, crisp legible text, elegant negative space. Avoid extra bottles, melted plastic, random fruit clutter and any resemblance to a real beverage brand. Square 1:1 composition.
+```
+
+- Author: [@ou_zhen599](https://x.com/ou_zhen599)
+- Original post: https://x.com/ou_zhen599/status/2111034381150339446
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/inflating-juice-bottle-typography-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

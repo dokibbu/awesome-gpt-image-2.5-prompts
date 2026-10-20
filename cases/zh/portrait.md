@@ -1,6 +1,6 @@
 # 人像写真 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 74 · [cinel 分类页](https://cinel.ai/zh/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 78 · [cinel 分类页](https://cinel.ai/zh/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 橄榄绿丝绒纱丽高级时装棚拍人像提示词
 
@@ -1992,3 +1992,59 @@ Haunting high-fashion portrait, square 1:1: a fictional young East Asian woman c
 - 原作者: [@joey_tail](https://x.com/joey_tail)
 - 原帖: https://x.com/joey_tail/status/2111129894931648832
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pearl-mask-fashion-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 前卫胶片颗粒时尚大片人像
+
+<a href="https://cinel.ai/zh/prompts/p/avant-garde-film-grain-editorial-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/avant-garde-film-grain-editorial-portrait.webp" alt="前卫胶片颗粒时尚大片人像" width="480"></a>
+
+> 根据 @olivercribs 于 2026-10-20 的提示词+图片帖改写（记录时 180 赞）。我们改成一张干净的1:1方形图，去掉品牌和Logo，也不需要你的照片。一次只改一个变量。
+
+```text
+Avant-garde high-fashion editorial photograph, square 1:1, captured on a medium-format digital camera with an 85mm f/1.4 lens, 35mm film grain, 5200K daylight. Three-quarter body portrait of a strikingly beautiful fictional 20-year-old Argentinian woman with natural, unretouched fair skin and raw skin texture — visible pores, faint freckles, fine baby hairs. She wears a sculptural avant-garde couture look: an asymmetric ivory organza jacket with exaggerated folded shoulders over a high-neck black column dress and a single oversized silver ear cuff. Calm direct gaze, one hand resting at her collar. Plain warm-grey seamless studio backdrop, soft window-like key light from the left with gentle falloff, refined magazine mood. No text, no logo, no watermark. Square 1:1 composition.
+```
+
+- 原作者: [@olivercribs](https://x.com/olivercribs)
+- 原帖: https://x.com/olivercribs/status/2112380288047194217
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/avant-garde-film-grain-editorial-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 祖母绿咖啡馆休闲时尚人像
+
+<a href="https://cinel.ai/zh/prompts/p/emerald-cafe-casual-fashion-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/emerald-cafe-casual-fashion-portrait.webp" alt="祖母绿咖啡馆休闲时尚人像" width="480"></a>
+
+> 根据 @hey_am_cherry 于 2026-10-19 的提示词+图片帖改写（记录时 102 赞）。我们改成一张干净的1:1方形图，去掉品牌和Logo，也不需要你的照片。一次只改一个变量。
+
+```text
+Realistic lifestyle fashion portrait, square 1:1: a fictional young woman stands casually outside a premium modern café with deep emerald green exterior panels and large glass windows revealing a warm, softly lit interior — minimal Scandinavian café aesthetic with hanging pendant lights, wooden furniture and subtle reflections on the glass. She wears a pastel sage-green baseball cap, a fitted white tube top, olive-green denim overall shorts with one strap unfastened, plain unbranded olive canvas sneakers with no side marks and delicate gold jewelry; a plain smooth black leather mini bag with a simple flap and no hardware sits on a small marble café table beside a plain takeaway coffee cup. Natural relaxed pose with one leg slightly crossed and one hand in her pocket, calm confident expression looking at the camera. Eye-level full-body framing, shallow depth of field, creamy bokeh, soft golden-hour daylight, premium editorial fashion photography, realistic skin texture, crisp details. No brand, no logo, no text, no watermark. Square 1:1 composition.
+```
+
+- 原作者: [@hey_am_cherry](https://x.com/hey_am_cherry)
+- 原帖: https://x.com/hey_am_cherry/status/2112044506514440506
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/emerald-cafe-casual-fashion-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 条纹光影油画人像
+
+<a href="https://cinel.ai/zh/prompts/p/striped-light-oil-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/striped-light-oil-portrait.webp" alt="条纹光影油画人像" width="480"></a>
+
+> 根据 @AllaAisling 于 2026-10-18 的图片帖改写（记录时 82 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+Hyperrealistic oil painting portrait, square 1:1: tight close-up of a fictional young woman with dark wavy hair falling across her face and grey-blue eyes, bold vertical stripes of warm sunlight through window blinds falling across her face and hair, visible fine brushwork and skin texture with faint freckles, calm intense gaze straight at the viewer, a black-and-white striped top just visible at the bottom edge, deep shadow background, no text, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@AllaAisling](https://x.com/AllaAisling)
+- 原帖: https://x.com/AllaAisling/status/2111859350235214309
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/striped-light-oil-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 写实人物三视图设定表
+
+<a href="https://cinel.ai/zh/prompts/p/photoreal-character-turnaround-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/photoreal-character-turnaround-sheet.webp" alt="写实人物三视图设定表" width="480"></a>
+
+> 根据 @DavoCreates 于 2026-10-17 的图片帖改写（记录时 22 赞）。我们改成一张干净的1:1方形图，去掉品牌和Logo，也不需要你的照片。一次只改一个变量。
+
+```text
+Photorealistic character turnaround reference sheet, square 1:1, on a seamless mid-grey studio background: the same fictional young man with short dark curly hair, light stubble and a calm neutral expression shown three times side by side — a full-body front view, a full-body right-side profile view and a large head-and-shoulders close-up — wearing a mustard-yellow pullover hoodie, black slim trousers and dark sneakers. Identical face, hair, proportions and clothing in every view, neutral standing pose with relaxed arms, even soft studio lighting, crisp realistic fabric and skin texture, clean casting-sheet layout with even spacing. No text, no labels, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@DavoCreates](https://x.com/DavoCreates)
+- 原帖: https://x.com/DavoCreates/status/2111490754665239032
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/photoreal-character-turnaround-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

@@ -1,6 +1,6 @@
 # Infographics & UI · GPT Image 2.5
 
-[← README](../README.md) · 24 · [Category on cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 26 · [Category on cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -949,3 +949,31 @@ Clean infographic layout, square 1:1: a three-panel comparison of the same origi
 - Author: [@neroallinai](https://x.com/neroallinai)
 - Original post: https://x.com/neroallinai/status/2110718598222385329
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/character-style-3panel-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Kid-Friendly Physics Comic Infographic
+
+<a href="https://cinel.ai/prompts/p/kid-friendly-physics-comic-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/kid-friendly-physics-comic-infographic.webp" alt="Kid-Friendly Physics Comic Infographic" width="480"></a>
+
+> Adapted from a prompt + image post by @Gdgtify on 2026-10-19 (8 likes at capture). We rewrote it as one clean square 1:1 image, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Bold educational comic infographic poster about gravity for kids, square 1:1. One main hand-lettered headline "GRAVITY: THE GREAT PULL" across the top; below it, a segmented comic layout of four bright colour-zone panels, each with a short hand-lettered header: "WHY THINGS FALL", "THE MOON'S ORBIT", "HEAVY VS LIGHT" and "OCEAN TIDES". Core figures drawn in cartoon language with thick outlines — a cheerful apple dropping from a tree toward a cute round Earth, a smiling Moon on a dotted orbit path, a feather and a bowling ball falling side by side, ocean waves pulled toward the Moon — with a few props rendered as soft glossy 3D toy-like objects. Arrows, simple icons, small speech bubbles of one or two words, doodles and callout boxes. Strong poster palette of bright yellow, red, cyan, blue, green, white and black. Clear explainer-chart readability, minimal correctly spelled text, no logos. Square 1:1 composition.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2112129130799968578
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/kid-friendly-physics-comic-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Stay Rental App Explore Home UI
+
+<a href="https://cinel.ai/prompts/p/rental-app-explore-home-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/rental-app-explore-home-ui.webp" alt="Stay Rental App Explore Home UI" width="480"></a>
+
+> Adapted from a prompt-only post by @Tegadesigns on 2026-10-14 (18 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+High-fidelity mobile app UI mockup, square 1:1 canvas: one modern unbranded smartphone floating centered on a soft warm off-white background with a gentle shadow, showing a minimal, premium, image-led 'Explore' home screen for a short-stay apartment rental app. Colours: background #FCFBF9, text #111111, accent #F0642D. Header title "Explore" with a notification bell with an orange dot; a rounded search bar "Where to?"; a row of small apartment thumbnail chips labelled "Studios", "Lofts", "City flats", "Long stays" with Studios outlined in orange; a full-width rounded featured card with a luxury modern apartment photo (cream sofa, marble, plants), dark gradient overlay and white text "FEATURED STAY" and "Book now"; a section "This week's picks" with a bright living-room photo and a heart icon; bottom navigation "Home", "Saved", "Inbox", "Profile". Clean sans-serif typography, 8px spacing, rounded cards, subtle shadows, crisp legible text, no brand names, no logos. Square 1:1 composition.
+```
+
+- Author: [@Tegadesigns](https://x.com/Tegadesigns)
+- Original post: https://x.com/Tegadesigns/status/2110415342489211208
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/rental-app-explore-home-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

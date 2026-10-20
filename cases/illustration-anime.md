@@ -1,6 +1,6 @@
 # Illustration & Anime · GPT Image 2.5
 
-[← README](../README.md) · 37 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 43 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -608,3 +608,87 @@ Stylized 3D anime video keyframe, square 1:1: two original fictional tennis play
 - Author: [@Mayz1169](https://x.com/Mayz1169)
 - Original post: https://x.com/Mayz1169/status/2109647912292749521
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/anime-tennis-matchpoint-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Whimsical Gothic Cartoon Character
+
+<a href="https://cinel.ai/prompts/p/gothic-cartoon-character-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/gothic-cartoon-character-illustration.webp" alt="Whimsical Gothic Cartoon Character" width="480"></a>
+
+> Adapted from a prompt + image post by @azed_ai on 2026-10-19 (108 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+A whimsical gothic cartoon illustration of an eccentric old ballerina, featuring huge round teal eyes and a long pointed nose, a wild white bun of wispy hair, expressive glassy eyes, wearing a ragged crimson tutu with red pointe shoes and striped stockings, balancing on one spindly leg with arms flung wide, elongated limbs, exaggerated proportions, quirky personality, dark fairytale aesthetic, delicate sketch-like details, theatrical elegance, subtle macabre humor, stylized character design, full-body composition, clean white background, no text, no logo. Square 1:1 composition.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2112135940953260039
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/gothic-cartoon-character-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Cloud Loom Surrealist Tower Painting
+
+<a href="https://cinel.ai/prompts/p/cloud-loom-surrealist-tower?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/cloud-loom-surrealist-tower.webp" alt="Cloud Loom Surrealist Tower Painting" width="480"></a>
+
+> Adapted from a prompt + image post by @NayaVerseee on 2026-10-19 (26 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Mystical surrealist painting, delicate fine glazed brushwork, ochre, rust and pale turquoise, precise and dreamlike, square 1:1. Very wide view inside a colossal round stone tower open to the sky: an immense wooden loom, taller than a cathedral, weaves the clouds themselves, long white threads of cloud pulled down from the sky through its frame and woven into a vast drifting fabric that spills out of the tower windows over the valley. On a narrow wooden ledge high up the loom, a tiny distant red-haired figure in a long rust-coloured dress, face too small to see, guides one thread of cloud with her hand. No text, no logo. Square 1:1 composition.
+```
+
+- Author: [@NayaVerseee](https://x.com/NayaVerseee)
+- Original post: https://x.com/NayaVerseee/status/2112249925161337154
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/cloud-loom-surrealist-tower?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Geometric Best Friends Fashion Illustration
+
+<a href="https://cinel.ai/prompts/p/geometric-best-friends-fashion-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/geometric-best-friends-fashion-illustration.webp" alt="Geometric Best Friends Fashion Illustration" width="480"></a>
+
+> Adapted from a prompt + image post by @saniaspeaks_ on 2026-10-16 (75 likes at capture). We rewrote it as one clean square 1:1 image, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Full-body minimalist geometric editorial fashion illustration, square 1:1, of two stylish young fictional female friends standing close together, facing the viewer and playfully pointing their index fingers toward the viewer. Left girl: dark hair in a messy low bun, dusty-pink oversized sweatshirt, cream wide-leg cargo trousers, chunky white sneakers with subtle pink accents and a small black shoulder bag, carrying cream shopping bags with pink tissue paper and a kraft-paper bouquet of pink and white flowers. Right girl: long dark wavy hair, beige baseball cap, oversized deep forest-green sweatshirt, wide-leg denim jeans with folded cuffs, chunky brown-and-cream sneakers and a cream canvas tote, carrying cream shopping bags. Soft elegant proportions, cheerful subtle smiles, clearly visible natural hands. Style: hand-painted digital artwork with angular polygonal shading, faceted clothing folds, subtle brush textures, visible paper grain and simplified facial details, soft diffused light and gentle ground shadows. Palette: dusty pink, warm ivory, cream, beige, deep forest green, denim blue, muted brown and soft black. Full bodies visible from head to toe, centered with generous negative space on a warm ivory textured background. No drink, no extra people, no text, no logo. Square 1:1 composition.
+```
+
+- Author: [@saniaspeaks_](https://x.com/saniaspeaks_)
+- Original post: https://x.com/saniaspeaks_/status/2110940513209549117
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/geometric-best-friends-fashion-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Paper-Cut Whale Sky Diorama
+
+<a href="https://cinel.ai/prompts/p/paper-cut-whale-sky-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/paper-cut-whale-sky-diorama.webp" alt="Paper-Cut Whale Sky Diorama" width="480"></a>
+
+> Adapted from a prompt + image post by @AllaAisling on 2026-10-18 (14 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Layered cut paper diorama, square 1:1: a colossal whale made of intricately folded origami paper swimming through a sky above a paper-cut village of rooftops and windmills, dozens of paper layers creating depth, soft cast shadows between layers, tiny paper villagers flying paper kites in the foreground for scale, paper clouds with deckled edges, warm backlight glowing through thin paper, cream, dusty blue, terracotta and sage green palette, handcrafted, delicate, dreamy, massive scale, no text, no logo. Square 1:1 composition.
+```
+
+- Author: [@AllaAisling](https://x.com/AllaAisling)
+- Original post: https://x.com/AllaAisling/status/2111913708330860583
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/paper-cut-whale-sky-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Turtle Leaf Glider Valley Keyframe
+
+<a href="https://cinel.ai/prompts/p/turtle-leaf-glider-valley-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/turtle-leaf-glider-valley-keyframe.webp" alt="Turtle Leaf Glider Valley Keyframe" width="480"></a>
+
+> Adapted from a Seedance 2.5 video post by @AIwithWania on 2026-10-20 (42 likes at capture). We rewrote it as one clean widescreen 16:9 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Cinematic 3D animation keyframe, widescreen 16:9: a tiny turtle with a brown patterned shell, green skin, big brown eyes and a fluttering red scarf glides through the air holding an enormous green leaf overhead like a hang glider, soaring above a spectacular green valley with towering rocky cliffs and distant mountains, golden sunlight, sweeping aerial camera angle, joyful determined expression, detailed textures, vibrant fantasy landscape, no text, no logo. Widescreen 16:9 composition.
+```
+
+- Author: [@AIwithWania](https://x.com/AIwithWania)
+- Original post: https://x.com/AIwithWania/status/2112460090024632776
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/turtle-leaf-glider-valley-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Anime Rainy Balcony Coffee Keyframe
+
+<a href="https://cinel.ai/prompts/p/anime-rainy-balcony-coffee-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/anime-rainy-balcony-coffee-keyframe.webp" alt="Anime Rainy Balcony Coffee Keyframe" width="360"></a>
+
+> Adapted from a an unspecified model video post by @JohnSmith5912 on 2026-10-17 (23 likes at capture). We rewrote it as one clean vertical 9:16 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Cozy anime-style video keyframe, vertical 9:16: a cute fictional young woman in pink pajamas with small black hearts sits comfortably on a chair on a candle-lit balcony decorated with warm fairy lights and potted plants on a rainy night, holding a warm steaming mug of frothy coffee topped with cocoa powder in both hands, looking out at the rainy city lights with a peaceful expression, soft cinematic lighting, rain streaks and glowing bokeh, clean anime linework, no text, no logo. Vertical 9:16 composition.
+```
+
+- Author: [@JohnSmith5912](https://x.com/JohnSmith5912)
+- Original post: https://x.com/JohnSmith5912/status/2111391726191681700
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/anime-rainy-balcony-coffee-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

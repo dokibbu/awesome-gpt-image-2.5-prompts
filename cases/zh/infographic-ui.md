@@ -1,6 +1,6 @@
 # 信息图与 UI · GPT Image 2.5
 
-[← README](../../README_zh.md) · 24 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 26 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D 国家旅行指南地图信息图提示词
 
@@ -949,3 +949,31 @@ Clean infographic layout, square 1:1: a three-panel comparison of the same origi
 - 原作者: [@neroallinai](https://x.com/neroallinai)
 - 原帖: https://x.com/neroallinai/status/2110718598222385329
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/character-style-3panel-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 儿童友好物理漫画信息图
+
+<a href="https://cinel.ai/zh/prompts/p/kid-friendly-physics-comic-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/kid-friendly-physics-comic-infographic.webp" alt="儿童友好物理漫画信息图" width="480"></a>
+
+> 根据 @Gdgtify 于 2026-10-19 的提示词+图片帖改写（记录时 8 赞）。我们改成一张干净的1:1方形图，去掉品牌和Logo，也不需要你的照片。一次只改一个变量。
+
+```text
+Bold educational comic infographic poster about gravity for kids, square 1:1. One main hand-lettered headline "GRAVITY: THE GREAT PULL" across the top; below it, a segmented comic layout of four bright colour-zone panels, each with a short hand-lettered header: "WHY THINGS FALL", "THE MOON'S ORBIT", "HEAVY VS LIGHT" and "OCEAN TIDES". Core figures drawn in cartoon language with thick outlines — a cheerful apple dropping from a tree toward a cute round Earth, a smiling Moon on a dotted orbit path, a feather and a bowling ball falling side by side, ocean waves pulled toward the Moon — with a few props rendered as soft glossy 3D toy-like objects. Arrows, simple icons, small speech bubbles of one or two words, doodles and callout boxes. Strong poster palette of bright yellow, red, cyan, blue, green, white and black. Clear explainer-chart readability, minimal correctly spelled text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2112129130799968578
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/kid-friendly-physics-comic-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 民宿租房App探索首页UI
+
+<a href="https://cinel.ai/zh/prompts/p/rental-app-explore-home-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/rental-app-explore-home-ui.webp" alt="民宿租房App探索首页UI" width="480"></a>
+
+> 根据 @Tegadesigns 于 2026-10-14 的纯提示词帖改写（记录时 18 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+High-fidelity mobile app UI mockup, square 1:1 canvas: one modern unbranded smartphone floating centered on a soft warm off-white background with a gentle shadow, showing a minimal, premium, image-led 'Explore' home screen for a short-stay apartment rental app. Colours: background #FCFBF9, text #111111, accent #F0642D. Header title "Explore" with a notification bell with an orange dot; a rounded search bar "Where to?"; a row of small apartment thumbnail chips labelled "Studios", "Lofts", "City flats", "Long stays" with Studios outlined in orange; a full-width rounded featured card with a luxury modern apartment photo (cream sofa, marble, plants), dark gradient overlay and white text "FEATURED STAY" and "Book now"; a section "This week's picks" with a bright living-room photo and a heart icon; bottom navigation "Home", "Saved", "Inbox", "Profile". Clean sans-serif typography, 8px spacing, rounded cards, subtle shadows, crisp legible text, no brand names, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@Tegadesigns](https://x.com/Tegadesigns)
+- 原帖: https://x.com/Tegadesigns/status/2110415342489211208
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/rental-app-explore-home-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

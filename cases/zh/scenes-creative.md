@@ -1,6 +1,6 @@
 # 创意场景 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 82 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 91 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 巨型钢笔写出书中世界的魔幻场景提示词
 
@@ -1259,3 +1259,129 @@ Surreal cinematic scene, square 1:1: an ornate train station fully underwater, s
 - 原作者: [@Rana_Farooq_kz](https://x.com/Rana_Farooq_kz)
 - 原帖: https://x.com/Rana_Farooq_kz/status/2111537664033948153
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/underwater-train-station-scene?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 极光冰梯浪漫主义油画
+
+<a href="https://cinel.ai/zh/prompts/p/aurora-ice-staircase-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/aurora-ice-staircase-painting.webp" alt="极光冰梯浪漫主义油画" width="480"></a>
+
+> 根据 @NayaVerseee 于 2026-10-15 的提示词+图片帖改写（记录时 36 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+Romantic landscape oil painting in the sublime 19th-century tradition, cold night light, fine oil glazing, square 1:1. Very wide shot, overwhelming scale: an endless staircase of translucent ice rises from a frozen sea straight up into a towering green and violet aurora, vanishing among the stars. On the lowest steps, a tiny distant red-haired figure seen from behind in a long dark-blue cloak, face too small to see, begins to climb with one hand on the frozen railing. She is the only figure in the scene. No text, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@NayaVerseee](https://x.com/NayaVerseee)
+- 原帖: https://x.com/NayaVerseee/status/2110800375607632229
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/aurora-ice-staircase-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 复古相机变身可居住建筑
+
+<a href="https://cinel.ai/zh/prompts/p/vintage-camera-inhabitable-building?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/vintage-camera-inhabitable-building.webp" alt="复古相机变身可居住建筑" width="480"></a>
+
+> 根据 @Gdgtify 于 2026-10-16 的提示词+图片帖改写（记录时 11 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+High-end architectural photography, square 1:1: a vintage rangefinder film camera transformed into a real inhabitable building while keeping its signature silhouette — the lens barrel becomes a round glass-walled atrium café, the body becomes a two-storey leather-textured facade with brushed-aluminium trim, the shutter dial becomes a rooftop terrace, the viewfinder becomes a long panoramic window. Set on a green hillside park overlooking a city at golden hour, at least five human-scale cues (people walking, bicycles, benches, trees, lit interiors). Architectural plausibility, cinematic realism, no brand names, no logos, no text. Square 1:1 composition.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2111008745874452615
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/vintage-camera-inhabitable-building?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 万圣节摄像机骷髅斗舞关键帧
+
+<a href="https://cinel.ai/zh/prompts/p/halloween-camcorder-skeleton-dance-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/halloween-camcorder-skeleton-dance-keyframe.webp" alt="万圣节摄像机骷髅斗舞关键帧" width="360"></a>
+
+> 根据 @Just_sharon7 于 2026-10-19 的视频帖改写（记录时 448 赞）。我们改成一张干净的9:16竖版图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+Photoreal raw flash camcorder video keyframe, vertical 9:16, like a found Halloween night tape: front-row fisheye view of a packed barn Halloween party, harsh on-camera flash blasting what is close to the lens, blown highlights and hard shadows, everything far away falls into near-black. A full-body skeleton character with bleached off-white bones, mirrored aviator sunglasses, a black vest, a bright orange baseball cap and plain white sneakers is frozen mid-headspin on the straw-strewn dance floor; behind him a crowd in witch hats and bedsheet ghost costumes screams and cheers. Strong barrel distortion, heavy camcorder noise and grain, slight interlacing, smeared motion blur, slightly crushed green-tinted digital colour, absurd moment played totally real. No on-screen text, no timestamp, no brand, no logo. Vertical 9:16 composition.
+```
+
+- 原作者: [@Just_sharon7](https://x.com/Just_sharon7)
+- 原帖: https://x.com/Just_sharon7/status/2112154192534241709
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/halloween-camcorder-skeleton-dance-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 废弃教室对决余波关键帧
+
+<a href="https://cinel.ai/zh/prompts/p/classroom-showdown-aftermath-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/classroom-showdown-aftermath-keyframe.webp" alt="废弃教室对决余波关键帧" width="480"></a>
+
+> 根据 @Alina_with_Ai 于 2026-10-18 的视频帖改写（记录时 237 赞）。我们改成一张干净的16:9宽屏关键帧，去掉品牌和Logo，也不需要你的照片。一次只改一个变量。
+
+```text
+Cinematic live-action thriller video keyframe, widescreen 16:9, realistic gritty Korean-thriller look: an old, run-down school classroom at night with a teal-green chalkboard, worn grey concrete floor, overturned wooden desks and chairs, a brown leather sofa and wooden cabinets, loose papers frozen mid-air and thin dust hanging under cold flickering fluorescent tubes. In the middle stands a fictional young woman in a black baseball cap pulled low over her eyes, her long black ponytail whipping mid-turn, fitted black long-sleeve top, black pants and dark glossy arm wraps, cold emotionless face, calm after the fight. Desaturated green-teal colour grade, slow-motion feel, natural film grain, handheld camera at waist height. No other people, no blood, no weapons, no text, no subtitles, no logo. Widescreen 16:9 composition.
+```
+
+- 原作者: [@Alina_with_Ai](https://x.com/Alina_with_Ai)
+- 原帖: https://x.com/Alina_with_Ai/status/2111661075590684814
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/classroom-showdown-aftermath-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 发光蜗牛日落水面壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/glowing-snail-sunset-water-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/glowing-snail-sunset-water-wallpaper.webp" alt="发光蜗牛日落水面壁纸" width="480"></a>
+
+> 根据 @churvikv 于 2026-10-17 的图片帖改写（记录时 128 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+Serene minimal wallpaper photograph, square 1:1: a snail with a translucent amber shell that glows from within glides across mirror-still water at dusk, the low sun sitting on the horizon behind it, its perfect reflection below, tall feathery reeds on one side, soft lavender and peach sky, calm gradient water, quiet poetic mood, no text, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@churvikv](https://x.com/churvikv)
+- 原帖: https://x.com/churvikv/status/2111561461306917097
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/glowing-snail-sunset-water-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 2003年DV摄像机商场冰淇淋约会关键帧
+
+<a href="https://cinel.ai/zh/prompts/p/camcorder-2003-mall-ice-cream-date-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/camcorder-2003-mall-ice-cream-date-keyframe.webp" alt="2003年DV摄像机商场冰淇淋约会关键帧" width="480"></a>
+
+> 根据 @AIwithkhan 于 2026-10-20 的视频帖改写（记录时 80 赞）。我们改成一张干净的16:9宽屏关键帧，去掉品牌和Logo，也不需要你的照片。一次只改一个变量。
+
+```text
+Ultra-realistic early-2000s MiniDV camcorder video keyframe, widescreen 16:9, like a friend's home video from 2003: a sweet candid moment between a fictional young adult Korean couple in a busy Seoul shopping mall. She has long black hair, natural makeup, a fitted pastel-pink top, low-rise blue jeans and a small shoulder bag, a big teddy bear tucked under one arm, laughing as she offers him a bite of one large shared vanilla soft-serve cone; he wears a casual striped T-shirt and loose jeans, holds a tiny stuffed rabbit and smiles shyly with a little ice cream on his lip. Fluorescent mall lighting, a toy store of colourful plushies and passing shoppers behind them, handheld framing slightly off-centre, soft digital detail, faded colours, mild compression noise, autofocus softness and natural motion blur. Unbranded shops, no readable signs, no text, no timestamp, no logo. Widescreen 16:9 composition.
+```
+
+- 原作者: [@AIwithkhan](https://x.com/AIwithkhan)
+- 原帖: https://x.com/AIwithkhan/status/2112383970478522877
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/camcorder-2003-mall-ice-cream-date-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 不等电梯的不可能楼梯关键帧
+
+<a href="https://cinel.ai/zh/prompts/p/elevator-shortcut-impossible-stairs-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/elevator-shortcut-impossible-stairs-keyframe.webp" alt="不等电梯的不可能楼梯关键帧" width="480"></a>
+
+> 根据 @umesh_ai 于 2026-10-18 的视频帖改写（记录时 117 赞）。我们改成一张干净的16:9宽屏关键帧，去掉品牌和Logo，也不需要你的照片。一次只改一个变量。
+
+```text
+Cinematic surreal action-comedy video keyframe, widescreen 16:9, photoreal: an impatient office worker with short dark hair, a cobalt-blue suit, white shirt, loose mustard-yellow tie, black sneakers and a charcoal messenger bag across his body bounds up an immense vertical shaft filled with cantilevered staircases that twist off in impossible directions, one hand gripping a continuous glossy red tubular handrail that loops through the whole space; his tie and hair fly with the speed. Far below, a tiny ordinary office lobby with closed elevator doors and a calm woman in a cream coat holding a plain coffee cup. Dramatic low camera rocketing upward just behind his trailing foot, strong parallax, cool daylight falling from above, crisp concrete and steel textures. No text, no signs, no logo. Widescreen 16:9 composition.
+```
+
+- 原作者: [@umesh_ai](https://x.com/umesh_ai)
+- 原帖: https://x.com/umesh_ai/status/2111683472897225067
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/elevator-shortcut-impossible-stairs-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 敞开窗外海岸风景画
+
+<a href="https://cinel.ai/zh/prompts/p/open-window-coastal-view-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/open-window-coastal-view-painting.webp" alt="敞开窗外海岸风景画" width="480"></a>
+
+> 根据 @AllaAisling 于 2026-10-17 的图片帖改写（记录时 47 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+Painterly illustration, square 1:1: view through a tall open double window with white frames from a terracotta-red room, potted plants and a small white radiator below the sill, lush leaves and orange flowers framing the edges; outside, a sunlit Mediterranean garden with dark cypress trees slopes down to a calm blue bay and distant islands, towering white cumulus clouds in a deep blue sky, crisp summer daylight, rich saturated colours, no people, no text, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@AllaAisling](https://x.com/AllaAisling)
+- 原帖: https://x.com/AllaAisling/status/2111492181018186059
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/open-window-coastal-view-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 拧不开果酱盖的酥皮世界关键帧
+
+<a href="https://cinel.ai/zh/prompts/p/jam-lid-twisting-pastry-world-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/jam-lid-twisting-pastry-world-keyframe.webp" alt="拧不开果酱盖的酥皮世界关键帧" width="480"></a>
+
+> 根据 @umesh_ai 于 2026-10-20 的视频帖改写（记录时 64 赞）。我们改成一张干净的16:9宽屏关键帧，去掉品牌和Logo，也不需要你的照片。一次只改一个变量。
+
+```text
+Cinematic surreal action-comedy video keyframe, widescreen 16:9, photoreal: an adult woman with dark hair in a messy bun, plum-coloured pajamas and cream slippers rides her small wooden breakfast counter and stool through an impossible landscape of colossal golden croissants and spiralling ribbons of laminated pastry, the counter banking between two enormous flaky curls. She leans hard against the turn, wrestling with an ordinary glass jar of strawberry jam with a bright red metal screw lid through a blue-and-white checked tea towel, face set in absurd determination; a slice of toast on a plain plate rides on the counter beside her. Crumbs drift like sand, warm morning light, crisp buttery pastry textures rushing past on both sides, dynamic low tracking camera with motion blur at the edges. No text, no labels, no logo. Widescreen 16:9 composition.
+```
+
+- 原作者: [@umesh_ai](https://x.com/umesh_ai)
+- 原帖: https://x.com/umesh_ai/status/2112397267017810346
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/jam-lid-twisting-pastry-world-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

@@ -1,6 +1,6 @@
 # Posters, Logos & Graphic Design · GPT Image 2.5
 
-[← README](../README.md) · 39 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 42 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sports Tribute Double-Exposure Collage Poster Prompt
 
@@ -1229,3 +1229,45 @@ Charming vintage travel poster, square 1:1: Kyoto in a colourful storybook-inspi
 - Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
 - Original post: https://x.com/Goodmanprotocol/status/2111372178461540580
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/vintage-travel-poster-kyoto?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Billowing Silk Couture Fashion Poster
+
+<a href="https://cinel.ai/prompts/p/billowing-silk-couture-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/billowing-silk-couture-poster.webp" alt="Billowing Silk Couture Fashion Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @MrLarus on 2026-10-17 (79 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Cinematic haute couture fashion poster, square 1:1, spontaneous realistic photography aesthetic. An adult fictional female model photographed from an intimate low-angle 28mm wide-angle perspective, mid-turn on a black volcanic sand desert at sunset, wearing a sculpted ivory column gown. An enormous translucent apricot silk fabric billows overhead and sweeps past the camera lens in elegant sculptural curves, natural foreground occlusion, subtle motion blur, windblown hair, realistic fabric physics, breathtaking backlit transparency. Golden-hour sunlight on the fabric against cool blue shadows, natural skin texture, cinematic color grading, subtle film grain. One bold high-contrast Didone serif headline reading "DRIFT" near the top, integrated without covering the model. Luxury fashion editorial, dramatic yet believable. No brand, no logo, no watermark, no other text. Square 1:1 composition.
+```
+
+- Author: [@MrLarus](https://x.com/MrLarus)
+- Original post: https://x.com/MrLarus/status/2111485322186142095
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/billowing-silk-couture-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Gouache Bubble-Letter City Poster
+
+<a href="https://cinel.ai/prompts/p/gouache-bubble-letter-city-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/gouache-bubble-letter-city-poster.webp" alt="Gouache Bubble-Letter City Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @Goodmanprotocol on 2026-10-16 (47 likes at capture). We rewrote it as one clean square 1:1 image, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Create a cute, playful square 1:1 illustrated poster of Lisbon, Portugal, featuring bold bubble lettering, charming hand-painted illustrations and a colorful stationery-print aesthetic. MAIN SUBJECT: a large, instantly recognizable yellow vintage tram climbing a steep hilly street of pastel tiled houses with terracotta roofs, preserving its defining shape and colors. TYPOGRAPHY: a huge, chunky, rounded English title "LISBON" across the top in vibrant tangerine orange; a small rounded label "PORTUGAL" and a short playful caption "sunny hills & sweet tarts" near the bottom; all lettering bold, readable and correctly spelled. ILLUSTRATION STYLE: soft opaque gouache and oil-pastel textures, rounded shapes, gentle painted highlights, subtle handmade imperfections. DECORATIONS: five small subject-specific doodles around the main illustration — a custard tart, a blue-and-white tile, a sardine, a lemon and a seagull. COLOR & LAYOUT: bright warm cream background, tangerine title, with sky blue, sunny yellow and terracotta accents; full and lively but balanced, generous spacing, nothing obscuring the subject. Whimsical collectible art print. AVOID: white sticker outlines, double borders, glossy 3D rendering, vector-flat graphics, clutter, illegible text, logos and watermarks. Square 1:1 composition.
+```
+
+- Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- Original post: https://x.com/Goodmanprotocol/status/2110939679407427733
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/gouache-bubble-letter-city-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Glass Letter Jungle Terrarium Render
+
+<a href="https://cinel.ai/prompts/p/glass-letter-jungle-terrarium-render?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/glass-letter-jungle-terrarium-render.webp" alt="Glass Letter Jungle Terrarium Render" width="480"></a>
+
+> Adapted from a prompt-only post by @Bmohreal on 2026-10-17 (5 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Ultra-detailed 3D render, square 1:1: a large capital letter W made of thick transparent glass, and inside the letter a lush tropical jungle under glass — exotic plants, ferns, vines and tiny flowers filling the hollow letterform, hyper-realistic, ray-traced reflections and refractions, photorealistic lighting, soft natural shadows, elegant modern design, seamless white-grey studio background, no other text, no logo. Square 1:1 composition.
+```
+
+- Author: [@Bmohreal](https://x.com/Bmohreal)
+- Original post: https://x.com/Bmohreal/status/2111495150354526624
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/glass-letter-jungle-terrarium-render?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

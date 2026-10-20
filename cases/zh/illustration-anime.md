@@ -1,6 +1,6 @@
 # 插画与动漫 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 37 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 43 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 极简黑白线稿人物插画提示词
 
@@ -608,3 +608,87 @@ Stylized 3D anime video keyframe, square 1:1: two original fictional tennis play
 - 原作者: [@Mayz1169](https://x.com/Mayz1169)
 - 原帖: https://x.com/Mayz1169/status/2109647912292749521
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/anime-tennis-matchpoint-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 哥特童话卡通角色插画
+
+<a href="https://cinel.ai/zh/prompts/p/gothic-cartoon-character-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/gothic-cartoon-character-illustration.webp" alt="哥特童话卡通角色插画" width="480"></a>
+
+> 根据 @azed_ai 于 2026-10-19 的提示词+图片帖改写（记录时 108 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+A whimsical gothic cartoon illustration of an eccentric old ballerina, featuring huge round teal eyes and a long pointed nose, a wild white bun of wispy hair, expressive glassy eyes, wearing a ragged crimson tutu with red pointe shoes and striped stockings, balancing on one spindly leg with arms flung wide, elongated limbs, exaggerated proportions, quirky personality, dark fairytale aesthetic, delicate sketch-like details, theatrical elegance, subtle macabre humor, stylized character design, full-body composition, clean white background, no text, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@azed_ai](https://x.com/azed_ai)
+- 原帖: https://x.com/azed_ai/status/2112135940953260039
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/gothic-cartoon-character-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 云织机超现实高塔画
+
+<a href="https://cinel.ai/zh/prompts/p/cloud-loom-surrealist-tower?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/cloud-loom-surrealist-tower.webp" alt="云织机超现实高塔画" width="480"></a>
+
+> 根据 @NayaVerseee 于 2026-10-19 的提示词+图片帖改写（记录时 26 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+Mystical surrealist painting, delicate fine glazed brushwork, ochre, rust and pale turquoise, precise and dreamlike, square 1:1. Very wide view inside a colossal round stone tower open to the sky: an immense wooden loom, taller than a cathedral, weaves the clouds themselves, long white threads of cloud pulled down from the sky through its frame and woven into a vast drifting fabric that spills out of the tower windows over the valley. On a narrow wooden ledge high up the loom, a tiny distant red-haired figure in a long rust-coloured dress, face too small to see, guides one thread of cloud with her hand. No text, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@NayaVerseee](https://x.com/NayaVerseee)
+- 原帖: https://x.com/NayaVerseee/status/2112249925161337154
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/cloud-loom-surrealist-tower?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 几何风闺蜜时尚插画
+
+<a href="https://cinel.ai/zh/prompts/p/geometric-best-friends-fashion-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/geometric-best-friends-fashion-illustration.webp" alt="几何风闺蜜时尚插画" width="480"></a>
+
+> 根据 @saniaspeaks_ 于 2026-10-16 的提示词+图片帖改写（记录时 75 赞）。我们改成一张干净的1:1方形图，去掉品牌和Logo，也不需要你的照片。一次只改一个变量。
+
+```text
+Full-body minimalist geometric editorial fashion illustration, square 1:1, of two stylish young fictional female friends standing close together, facing the viewer and playfully pointing their index fingers toward the viewer. Left girl: dark hair in a messy low bun, dusty-pink oversized sweatshirt, cream wide-leg cargo trousers, chunky white sneakers with subtle pink accents and a small black shoulder bag, carrying cream shopping bags with pink tissue paper and a kraft-paper bouquet of pink and white flowers. Right girl: long dark wavy hair, beige baseball cap, oversized deep forest-green sweatshirt, wide-leg denim jeans with folded cuffs, chunky brown-and-cream sneakers and a cream canvas tote, carrying cream shopping bags. Soft elegant proportions, cheerful subtle smiles, clearly visible natural hands. Style: hand-painted digital artwork with angular polygonal shading, faceted clothing folds, subtle brush textures, visible paper grain and simplified facial details, soft diffused light and gentle ground shadows. Palette: dusty pink, warm ivory, cream, beige, deep forest green, denim blue, muted brown and soft black. Full bodies visible from head to toe, centered with generous negative space on a warm ivory textured background. No drink, no extra people, no text, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@saniaspeaks_](https://x.com/saniaspeaks_)
+- 原帖: https://x.com/saniaspeaks_/status/2110940513209549117
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/geometric-best-friends-fashion-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 纸雕鲸鱼天空立体场景
+
+<a href="https://cinel.ai/zh/prompts/p/paper-cut-whale-sky-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/paper-cut-whale-sky-diorama.webp" alt="纸雕鲸鱼天空立体场景" width="480"></a>
+
+> 根据 @AllaAisling 于 2026-10-18 的提示词+图片帖改写（记录时 14 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+Layered cut paper diorama, square 1:1: a colossal whale made of intricately folded origami paper swimming through a sky above a paper-cut village of rooftops and windmills, dozens of paper layers creating depth, soft cast shadows between layers, tiny paper villagers flying paper kites in the foreground for scale, paper clouds with deckled edges, warm backlight glowing through thin paper, cream, dusty blue, terracotta and sage green palette, handcrafted, delicate, dreamy, massive scale, no text, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@AllaAisling](https://x.com/AllaAisling)
+- 原帖: https://x.com/AllaAisling/status/2111913708330860583
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/paper-cut-whale-sky-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 小乌龟树叶滑翔山谷关键帧
+
+<a href="https://cinel.ai/zh/prompts/p/turtle-leaf-glider-valley-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/turtle-leaf-glider-valley-keyframe.webp" alt="小乌龟树叶滑翔山谷关键帧" width="480"></a>
+
+> 根据 @AIwithWania 于 2026-10-20 的视频帖改写（记录时 42 赞）。我们改成一张干净的16:9宽屏图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+Cinematic 3D animation keyframe, widescreen 16:9: a tiny turtle with a brown patterned shell, green skin, big brown eyes and a fluttering red scarf glides through the air holding an enormous green leaf overhead like a hang glider, soaring above a spectacular green valley with towering rocky cliffs and distant mountains, golden sunlight, sweeping aerial camera angle, joyful determined expression, detailed textures, vibrant fantasy landscape, no text, no logo. Widescreen 16:9 composition.
+```
+
+- 原作者: [@AIwithWania](https://x.com/AIwithWania)
+- 原帖: https://x.com/AIwithWania/status/2112460090024632776
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/turtle-leaf-glider-valley-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 动漫雨夜阳台咖啡关键帧
+
+<a href="https://cinel.ai/zh/prompts/p/anime-rainy-balcony-coffee-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/anime-rainy-balcony-coffee-keyframe.webp" alt="动漫雨夜阳台咖啡关键帧" width="360"></a>
+
+> 根据 @JohnSmith5912 于 2026-10-17 的视频帖改写（记录时 23 赞）。我们改成一张干净的9:16竖版图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+Cozy anime-style video keyframe, vertical 9:16: a cute fictional young woman in pink pajamas with small black hearts sits comfortably on a chair on a candle-lit balcony decorated with warm fairy lights and potted plants on a rainy night, holding a warm steaming mug of frothy coffee topped with cocoa powder in both hands, looking out at the rainy city lights with a peaceful expression, soft cinematic lighting, rain streaks and glowing bokeh, clean anime linework, no text, no logo. Vertical 9:16 composition.
+```
+
+- 原作者: [@JohnSmith5912](https://x.com/JohnSmith5912)
+- 原帖: https://x.com/JohnSmith5912/status/2111391726191681700
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/anime-rainy-balcony-coffee-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

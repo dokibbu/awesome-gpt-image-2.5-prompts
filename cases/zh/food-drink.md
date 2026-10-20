@@ -1,6 +1,6 @@
 # 美食饮品 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 115 · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 117 · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 食材悬浮爆炸式美食信息图提示词
 
@@ -2224,3 +2224,31 @@ Ultra minimalist modern food recipe infographic poster for Tomato Potato Stir-Fr
 - 原作者: [@sereinworld](https://x.com/sereinworld)
 - 原帖: https://x.com/sereinworld/status/2052387250806390976
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/tomato-beef-brisket-collage-recipe-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 巴黎黄金时刻开心果甜筒人像
+
+<a href="https://cinel.ai/zh/prompts/p/pistachio-cone-paris-golden-hour-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pistachio-cone-paris-golden-hour-portrait.webp" alt="巴黎黄金时刻开心果甜筒人像" width="480"></a>
+
+> 根据 @afrinxai 于 2026-10-16 的提示词+图片帖改写（记录时 51 赞）。我们改成一张干净的1:1方形图，去掉品牌和Logo，也不需要你的照片。一次只改一个变量。
+
+```text
+Vibrant golden-hour street fashion portrait, square 1:1: a fictional young woman in a ruby-red outfit peeks over gold-rimmed heart-shaped sunglasses with deep red lenses, holding a crisp waffle cone with two scoops of pale green pistachio ice cream, drizzled with white cream and sprinkled with chopped pistachios, out toward the camera as a bold foreground hero. Long wavy honey-brown hair with a few thin braids, a red bandana with a small white floral print tied in a bow, light freckles, glossy cherry-red lips, small hoop earrings. Fitted ruby-red knit top under an open red leather jacket, an oval ruby pendant on a black cord, red jeweled bracelets, glossy cherry-red nails. Behind her, a lively Parisian boulevard at golden hour — cream stone buildings, wrought-iron balconies, a vintage street lamp, red awnings and a café with a warm pink neon glow — melts into creamy amber bokeh. Warm backlight rims her hair; crisp highlights sparkle on the lenses and the glossy ice cream. Polished lifestyle editorial finish, 50mm f/1.8 look. No text, no readable signs, no logos, no watermark. Square 1:1 composition.
+```
+
+- 原作者: [@afrinxai](https://x.com/afrinxai)
+- 原帖: https://x.com/afrinxai/status/2111095820724375803
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pistachio-cone-paris-golden-hour-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 雨夜咖啡馆熔岩巧克力蛋糕
+
+<a href="https://cinel.ai/zh/prompts/p/rainy-cafe-chocolate-lava-cake-dessert?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/rainy-cafe-chocolate-lava-cake-dessert.webp" alt="雨夜咖啡馆熔岩巧克力蛋糕" width="480"></a>
+
+> 根据 @Nokiardnv 于 2026-10-14 的提示词+图片帖改写（记录时 25 赞）。我们改成一张干净的1:1方形图，去掉品牌和Logo，也不需要你的照片。一次只改一个变量。
+
+```text
+Ultra-realistic luxury dessert photography, square 1:1: a premium café interior during heavy rain, rain streaming down the window glass with blurred warm city lights beyond. On a dark luxurious table, an elegant black plate holds a molten chocolate lava cake, split open with glossy chocolate flowing out, a scoop of vanilla ice cream and fresh mint leaves, beside a premium espresso shot and golden cutlery. Warm candle glow, rich textures, soft reflections on the table, high-end pastry advertising look, photorealistic, no people, no text, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@Nokiardnv](https://x.com/Nokiardnv)
+- 原帖: https://x.com/Nokiardnv/status/2110446334918758652
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/rainy-cafe-chocolate-lava-cake-dessert?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

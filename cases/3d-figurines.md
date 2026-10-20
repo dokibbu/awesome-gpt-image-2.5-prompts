@@ -1,6 +1,6 @@
 # 3D Characters & Figurines · GPT Image 2.5
 
-[← README](../README.md) · 52 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 54 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1042,3 +1042,31 @@ High-detail 3D render, square 1:1: a trendy fictional young woman as a designer-
 - Author: [@azed_ai](https://x.com/azed_ai)
 - Original post: https://x.com/azed_ai/status/2111774317289889900
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/y2k-chibi-designer-toy-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Salt Crystal Micro Sculpture Figure
+
+<a href="https://cinel.ai/prompts/p/salt-crystal-micro-sculpture-figure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/salt-crystal-micro-sculpture-figure.webp" alt="Salt Crystal Micro Sculpture Figure" width="480"></a>
+
+> Adapted from a prompt + image post by @edizkan_ on 2026-10-18 (32 likes at capture). We rewrote it as one clean square 1:1 image, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Macro product photograph, square 1:1: a micro sculpture of a cute original cartoon fox character — rounded body, big pointed ears, fluffy tail, simple dot eyes, no mouth — made entirely of tiny coloured salt grains in tangerine orange, cream, soft pink and teal, every grain visible as a sparkling translucent crystal, the colours forming clean graphic zones. The sculpture stands alone, centered on a seamless pale grey-beige background, and is the only element in the picture. Clean product photography lighting, soft diffused key light, crisp crystal highlights, a gentle contact shadow, shallow macro depth of field. No text, no logo. Square 1:1 composition.
+```
+
+- Author: [@edizkan_](https://x.com/edizkan_)
+- Original post: https://x.com/edizkan_/status/2111928978969657827
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/salt-crystal-micro-sculpture-figure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Papercraft Halloween Witch Cottage Diorama
+
+<a href="https://cinel.ai/prompts/p/papercraft-halloween-witch-cottage-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/papercraft-halloween-witch-cottage-diorama.webp" alt="Papercraft Halloween Witch Cottage Diorama" width="480"></a>
+
+> Adapted from an image post by @minuitIA on 2026-10-17 (29 likes at capture). We rewrote it as one clean square 1:1 image, removing brands, logos and any need for your own photo. Change one variable at a time.
+
+```text
+Handcrafted paper sculpture diorama, square 1:1: a tall witch figure folded and cut from black and charcoal cardstock — pointed hat, flowing layered paper robe, a long broom of cut paper straw strips — stands in front of a crooked little paper cottage with glowing amber windows, carved paper jack-o'-lanterns at her feet, a pale cream paper moon and tiny paper bats in a warm terracotta-orange sky, layered cut-paper hills behind. Visible paper fibres, crisp folds and scored edges, soft shadows between layers, warm studio light, playful-spooky storybook mood. No text, no logo. Square 1:1 composition.
+```
+
+- Author: [@minuitIA](https://x.com/minuitIA)
+- Original post: https://x.com/minuitIA/status/2111510286805131671
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/papercraft-halloween-witch-cottage-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

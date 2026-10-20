@@ -13,26 +13,26 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-엄선한 **462**개의 GPT Image 2.5 프롬프트 모음입니다. 각 항목에는 예시 이미지, 전체 프롬프트, 원작자와 원본 게시물 링크가 포함되어 있습니다. 데이터는 [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 프롬프트 라이브러리에서 자동으로 동기화됩니다.
+엄선한 **492**개의 GPT Image 2.5 프롬프트 모음입니다. 각 항목에는 예시 이미지, 전체 프롬프트, 원작자와 원본 게시물 링크가 포함되어 있습니다. 데이터는 [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 프롬프트 라이브러리에서 자동으로 동기화됩니다.
 
 👉 [cinel.ai에서 전체 보기 및 온라인 생성](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ## 목차
 
-- [인물 사진·헤드샷](#portrait) (74) · [전체](cases/portrait.md)
-- [제품·이커머스](#product-photography) (39) · [전체](cases/product-photography.md)
-- [포스터·로고·그래픽 디자인](#poster-design) (39) · [전체](cases/poster-design.md)
-- [인포그래픽·UI](#infographic-ui) (24) · [전체](cases/infographic-ui.md)
-- [3D 캐릭터·피규어](#3d-figurines) (52) · [전체](cases/3d-figurines.md)
-- [음식·음료](#food-drink) (115) · [전체](cases/food-drink.md)
-- [일러스트·애니메](#illustration-anime) (37) · [전체](cases/illustration-anime.md)
-- [크리에이티브 장면](#scenes-creative) (82) · [전체](cases/scenes-creative.md)
+- [인물 사진·헤드샷](#portrait) (78) · [전체](cases/portrait.md)
+- [제품·이커머스](#product-photography) (41) · [전체](cases/product-photography.md)
+- [포스터·로고·그래픽 디자인](#poster-design) (42) · [전체](cases/poster-design.md)
+- [인포그래픽·UI](#infographic-ui) (26) · [전체](cases/infographic-ui.md)
+- [3D 캐릭터·피규어](#3d-figurines) (54) · [전체](cases/3d-figurines.md)
+- [음식·음료](#food-drink) (117) · [전체](cases/food-drink.md)
+- [일러스트·애니메](#illustration-anime) (43) · [전체](cases/illustration-anime.md)
+- [크리에이티브 장면](#scenes-creative) (91) · [전체](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
 ## 인물 사진·헤드샷
 
-추천 6개 · [전체 74개 보기](cases/portrait.md) · [cinel 카테고리](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+추천 6개 · [전체 78개 보기](cases/portrait.md) · [cinel 카테고리](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Olive Velvet Saree High-Fashion Studio Portrait
 
@@ -307,7 +307,7 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 ## 제품·이커머스
 
-추천 6개 · [전체 39개 보기](cases/product-photography.md) · [cinel 카테고리](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+추천 6개 · [전체 41개 보기](cases/product-photography.md) · [cinel 카테고리](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -522,7 +522,7 @@ A high-end editorial photo of a amber glass face-oil bottle with a dropper place
 
 ## 포스터·로고·그래픽 디자인
 
-추천 6개 · [전체 39개 보기](cases/poster-design.md) · [cinel 카테고리](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+추천 6개 · [전체 42개 보기](cases/poster-design.md) · [cinel 카테고리](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sports Tribute Double-Exposure Collage Poster Prompt
 
@@ -783,7 +783,7 @@ Make the aspect ratio 9:16
 
 ## 인포그래픽·UI
 
-추천 6개 · [전체 24개 보기](cases/infographic-ui.md) · [cinel 카테고리](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+추천 6개 · [전체 26개 보기](cases/infographic-ui.md) · [cinel 카테고리](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -916,7 +916,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## 3D 캐릭터·피규어
 
-추천 6개 · [전체 52개 보기](cases/3d-figurines.md) · [cinel 카테고리](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+추천 6개 · [전체 54개 보기](cases/3d-figurines.md) · [cinel 카테고리](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1105,7 +1105,7 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## 음식·음료
 
-추천 6개 · [전체 115개 보기](cases/food-drink.md) · [cinel 카테고리](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+추천 6개 · [전체 117개 보기](cases/food-drink.md) · [cinel 카테고리](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
@@ -1432,7 +1432,7 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 ## 일러스트·애니메
 
-추천 6개 · [전체 37개 보기](cases/illustration-anime.md) · [cinel 카테고리](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+추천 6개 · [전체 43개 보기](cases/illustration-anime.md) · [cinel 카테고리](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -1526,7 +1526,7 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 ## 크리에이티브 장면
 
-추천 6개 · [전체 82개 보기](cases/scenes-creative.md) · [cinel 카테고리](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+추천 6개 · [전체 91개 보기](cases/scenes-creative.md) · [cinel 카테고리](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 

@@ -1,6 +1,6 @@
 # 3D 角色与手办 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 52 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 54 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 照片转极简 3D 玩具角色风格提示词
 
@@ -1042,3 +1042,31 @@ High-detail 3D render, square 1:1: a trendy fictional young woman as a designer-
 - 原作者: [@azed_ai](https://x.com/azed_ai)
 - 原帖: https://x.com/azed_ai/status/2111774317289889900
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/y2k-chibi-designer-toy-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 彩色盐粒微雕角色
+
+<a href="https://cinel.ai/zh/prompts/p/salt-crystal-micro-sculpture-figure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/salt-crystal-micro-sculpture-figure.webp" alt="彩色盐粒微雕角色" width="480"></a>
+
+> 根据 @edizkan_ 于 2026-10-18 的提示词+图片帖改写（记录时 32 赞）。我们改成一张干净的1:1方形图，去掉品牌和Logo，也不需要你的照片。一次只改一个变量。
+
+```text
+Macro product photograph, square 1:1: a micro sculpture of a cute original cartoon fox character — rounded body, big pointed ears, fluffy tail, simple dot eyes, no mouth — made entirely of tiny coloured salt grains in tangerine orange, cream, soft pink and teal, every grain visible as a sparkling translucent crystal, the colours forming clean graphic zones. The sculpture stands alone, centered on a seamless pale grey-beige background, and is the only element in the picture. Clean product photography lighting, soft diffused key light, crisp crystal highlights, a gentle contact shadow, shallow macro depth of field. No text, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@edizkan_](https://x.com/edizkan_)
+- 原帖: https://x.com/edizkan_/status/2111928978969657827
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/salt-crystal-micro-sculpture-figure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 纸艺万圣节女巫小屋立体场景
+
+<a href="https://cinel.ai/zh/prompts/p/papercraft-halloween-witch-cottage-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/papercraft-halloween-witch-cottage-diorama.webp" alt="纸艺万圣节女巫小屋立体场景" width="480"></a>
+
+> 根据 @minuitIA 于 2026-10-17 的图片帖改写（记录时 29 赞）。我们改成一张干净的1:1方形图，去掉品牌和Logo，也不需要你的照片。一次只改一个变量。
+
+```text
+Handcrafted paper sculpture diorama, square 1:1: a tall witch figure folded and cut from black and charcoal cardstock — pointed hat, flowing layered paper robe, a long broom of cut paper straw strips — stands in front of a crooked little paper cottage with glowing amber windows, carved paper jack-o'-lanterns at her feet, a pale cream paper moon and tiny paper bats in a warm terracotta-orange sky, layered cut-paper hills behind. Visible paper fibres, crisp folds and scored edges, soft shadows between layers, warm studio light, playful-spooky storybook mood. No text, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@minuitIA](https://x.com/minuitIA)
+- 原帖: https://x.com/minuitIA/status/2111510286805131671
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/papercraft-halloween-witch-cottage-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
