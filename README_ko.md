@@ -12,7 +12,7 @@
 [![🇷🇺 Русский](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C-457b9d)](README_ru.md)
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 
-엄선한 **432**개의 GPT Image 2.5 프롬프트 모음입니다. 각 항목에는 예시 이미지, 전체 프롬프트, 원작자와 원본 게시물 링크가 포함되어 있습니다. 데이터는 [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 프롬프트 라이브러리에서 자동으로 동기화됩니다.
+엄선한 **462**개의 GPT Image 2.5 프롬프트 모음입니다. 각 항목에는 예시 이미지, 전체 프롬프트, 원작자와 원본 게시물 링크가 포함되어 있습니다. 데이터는 [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 프롬프트 라이브러리에서 자동으로 동기화됩니다.
 
 👉 [cinel.ai에서 전체 보기 및 온라인 생성](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -23,7 +23,7 @@
 - [포스터·로고·그래픽 디자인](#poster-design) (39) · [전체](cases/poster-design.md)
 - [인포그래픽·UI](#infographic-ui) (24) · [전체](cases/infographic-ui.md)
 - [3D 캐릭터·피규어](#3d-figurines) (52) · [전체](cases/3d-figurines.md)
-- [음식·음료](#food-drink) (85) · [전체](cases/food-drink.md)
+- [음식·음료](#food-drink) (115) · [전체](cases/food-drink.md)
 - [일러스트·애니메](#illustration-anime) (37) · [전체](cases/illustration-anime.md)
 - [크리에이티브 장면](#scenes-creative) (82) · [전체](cases/scenes-creative.md)
 
@@ -1104,7 +1104,7 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## 음식·음료
 
-추천 6개 · [전체 85개 보기](cases/food-drink.md) · [cinel 카테고리](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+추천 6개 · [전체 115개 보기](cases/food-drink.md) · [cinel 카테고리](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 

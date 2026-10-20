@@ -12,7 +12,7 @@
 [![🇷🇺 Русский](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C-457b9d)](README_ru.md)
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 
-Eine kuratierte Liste mit **432** GPT Image 2.5-Prompts. Jeder Eintrag enthält ein Beispielbild, den vollständigen Prompt und die Nennung des Originalautors mit Link zum Originalbeitrag. Die Daten stammen aus der Prompt-Bibliothek von [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) und werden automatisch synchronisiert.
+Eine kuratierte Liste mit **462** GPT Image 2.5-Prompts. Jeder Eintrag enthält ein Beispielbild, den vollständigen Prompt und die Nennung des Originalautors mit Link zum Originalbeitrag. Die Daten stammen aus der Prompt-Bibliothek von [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) und werden automatisch synchronisiert.
 
 👉 [Alle ansehen und online generieren auf cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -23,7 +23,7 @@ Eine kuratierte Liste mit **432** GPT Image 2.5-Prompts. Jeder Eintrag enthält 
 - [Poster, Logos & Grafikdesign](#poster-design) (39) · [alle](cases/poster-design.md)
 - [Infografiken & UI](#infographic-ui) (24) · [alle](cases/infographic-ui.md)
 - [3D-Figuren & Charaktere](#3d-figurines) (52) · [alle](cases/3d-figurines.md)
-- [Essen & Trinken](#food-drink) (85) · [alle](cases/food-drink.md)
+- [Essen & Trinken](#food-drink) (115) · [alle](cases/food-drink.md)
 - [Illustration & Anime](#illustration-anime) (37) · [alle](cases/illustration-anime.md)
 - [Kreative Szenen](#scenes-creative) (82) · [alle](cases/scenes-creative.md)
 
@@ -1104,7 +1104,7 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## Essen & Trinken
 
-6 ausgewählt · [Alle 85 ansehen](cases/food-drink.md) · [Kategorie auf cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 ausgewählt · [Alle 115 ansehen](cases/food-drink.md) · [Kategorie auf cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 

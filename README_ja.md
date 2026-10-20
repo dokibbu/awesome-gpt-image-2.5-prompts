@@ -12,7 +12,7 @@
 [![🇷🇺 Русский](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C-457b9d)](README_ru.md)
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 
-厳選した **432** 件の GPT Image 2.5 プロンプト集です。各項目に作例画像、プロンプト全文、元の作者と元投稿へのリンクを掲載しています。データは [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) のプロンプトライブラリから自動で同期されます。
+厳選した **462** 件の GPT Image 2.5 プロンプト集です。各項目に作例画像、プロンプト全文、元の作者と元投稿へのリンクを掲載しています。データは [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) のプロンプトライブラリから自動で同期されます。
 
 👉 [cinel.ai ですべて見る・オンラインで生成](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -23,7 +23,7 @@
 - [ポスター・ロゴ・グラフィック](#poster-design) (39) · [すべて](cases/poster-design.md)
 - [インフォグラフィック・UI](#infographic-ui) (24) · [すべて](cases/infographic-ui.md)
 - [3D キャラクター・フィギュア](#3d-figurines) (52) · [すべて](cases/3d-figurines.md)
-- [フード・ドリンク](#food-drink) (85) · [すべて](cases/food-drink.md)
+- [フード・ドリンク](#food-drink) (115) · [すべて](cases/food-drink.md)
 - [イラスト・アニメ](#illustration-anime) (37) · [すべて](cases/illustration-anime.md)
 - [クリエイティブシーン](#scenes-creative) (82) · [すべて](cases/scenes-creative.md)
 
@@ -1104,7 +1104,7 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## フード・ドリンク
 
-厳選 6 件 · [全 85 件を見る](cases/food-drink.md) · [cinel のカテゴリ](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+厳選 6 件 · [全 115 件を見る](cases/food-drink.md) · [cinel のカテゴリ](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
