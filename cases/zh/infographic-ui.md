@@ -1,6 +1,6 @@
 # 信息图与 UI · GPT Image 2.5
 
-[← README](../../README_zh.md) · 26 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 31 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D 国家旅行指南地图信息图提示词
 
@@ -977,3 +977,73 @@ High-fidelity mobile app UI mockup, square 1:1 canvas: one modern unbranded smar
 - 原作者: [@Tegadesigns](https://x.com/Tegadesigns)
 - 原帖: https://x.com/Tegadesigns/status/2110415342489211208
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/rental-app-explore-home-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 咖啡馆甜品社媒帖子套图
+
+<a href="https://cinel.ai/zh/prompts/p/cafe-dessert-social-post-pack?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/cafe-dessert-social-post-pack.webp" alt="咖啡馆甜品社媒帖子套图" width="480"></a>
+
+> 根据 @Zyrellix 于 2026-05-10 的提示词+图片帖改写（记录时 234 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+A stylish social media post collection for "Mango Sago Cup" from a fictional café "SUNNY SPOON", shown as a 2×2 grid of four square promotional post designs. Each post uses a mango-yellow and coral background with smooth gradients, circular highlights behind the cup, flowing wave shapes, floating mango cubes and sago pearls, decorative arrows and playful accents. Soft commercial studio lighting, glossy realistic dessert rendering, macro detail, slight tilted product angles. Bold rounded headline type with a handwritten subtitle; short promo lines across the four posts: "Fresh & Delicious", "Limited Time Offer", "Order Now", "Only $4.00". Clean spacing, trendy Gen Z café marketing style, crisp readable text, no real brands or app logos. Square 1:1 composition.
+```
+
+- 原作者: [@Zyrellix](https://x.com/Zyrellix)
+- 原帖: https://x.com/Zyrellix/status/2053309842727833959
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/cafe-dessert-social-post-pack?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 复古狗狗品种百科海报
+
+<a href="https://cinel.ai/zh/prompts/p/vintage-dog-breed-encyclopedia-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/vintage-dog-breed-encyclopedia-poster.webp" alt="复古狗狗品种百科海报" width="480"></a>
+
+> 根据 @Naiknelofar788 于 2026-05-07 的提示词+图片帖改写（记录时 151 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Highly detailed vintage encyclopedia-style dog breed poster for the Border Collie. Style: old natural history chart, Victorian encyclopedia plate, museum wall poster. Aged parchment texture, ornate vintage border, elegant serif typography, a realistic detailed Border Collie standing in the center in front of a soft painted mountain background. Earthy palette of muted forest green, navy, faded gold and warm brown. Small infographic sections around it with short readable labels: "Breed Profile", "Temperament", "Health & Care", "Diet", "Fun Facts", "Coat Patterns", plus a paw print diagram, engraved icons and botanical sketch details. Balanced symmetrical layout, collectible printable look, realistic fur. No QR code, no modern UI. Square 1:1 composition.
+```
+
+- 原作者: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- 原帖: https://x.com/Naiknelofar788/status/2052209599210799325
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/vintage-dog-breed-encyclopedia-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 三日城市旅行行程海报
+
+<a href="https://cinel.ai/zh/prompts/p/three-day-city-travel-itinerary-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/three-day-city-travel-itinerary-poster.webp" alt="三日城市旅行行程海报" width="480"></a>
+
+> 根据 @tisch_eins 于 2026-05-06 的提示词+图片帖改写（记录时 107 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Beautiful 3-day travel itinerary visual for a first-time trip to Lisbon. Premium travel-guide layout with three clear columns: Day 1, Day 2, Day 3, each split into Morning, Afternoon and Evening with one short activity line each (for example "Tram ride up the hill", "Custard tarts by the river", "Sunset viewpoint"). A simple map-inspired strip with dotted routes and small pins along the bottom, a short "best for" label per day ("Old town", "Food", "Ocean views"), and three small practical tips with tiny icons. Soft colors, small watercolor illustrations of tiled facades, a yellow tram and the river, clean typography, editorial magazine feel, not overloaded with text, crisp readable spelling. Square 1:1 composition.
+```
+
+- 原作者: [@tisch_eins](https://x.com/tisch_eins)
+- 原帖: https://x.com/tisch_eins/status/2052026781566132280
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/three-day-city-travel-itinerary-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 早期互联网风个人简历主页
+
+<a href="https://cinel.ai/zh/prompts/p/early-internet-personal-resume-homepage?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/early-internet-personal-resume-homepage.webp" alt="早期互联网风个人简历主页" width="480"></a>
+
+> 根据 @Emmma___0 于 2026-06-14 的提示词+图片帖改写（记录时 102 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Minimal early-internet personal profile webpage / digital portfolio landing page on a large white canvas with generous negative space and a thin pastel pink browser-style frame. In the center, a black-and-white editorial portrait of a fictional young designer with a short bob, soft film grain and subtle scanner texture. Around the portrait, scattered profile labels with small star bullets like a playful résumé: "✦ designer", "✦ illustrator", "✦ DJ", "✦ collector", "✦ dreamer". Top-left: a colorful hand-drawn original name mark "mika.page" with a tiny timestamp beneath. Top-right: irregular sticker-like navigation tabs in pink, cyan, purple, yellow and green: HOME, ABOUT, WORK, DIARY, LINKS. Handwritten marker notes: "currently making things online", "welcome to my homepage", "updated today". Anti-grid playful placement, portrait fully monochrome, color only on the mark, tabs and small accents, crisp readable text. Square 1:1 composition.
+```
+
+- 原作者: [@Emmma___0](https://x.com/Emmma___0)
+- 原帖: https://x.com/Emmma___0/status/2065992579502747850
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/early-internet-personal-resume-homepage?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 贝果咖啡馆菜单与点单系统页
+
+<a href="https://cinel.ai/zh/prompts/p/bagel-cafe-menu-ordering-system-page?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/bagel-cafe-menu-ordering-system-page.webp" alt="贝果咖啡馆菜单与点单系统页" width="480"></a>
+
+> 根据 @MrLarus 于 2026-06-08 的提示词+图片帖改写（记录时 150 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+One brand proposal page showing the menu and ordering system for a fictional bagel & coffee brand "ROUND MORNING" (urban breakfast brand, slogan "Good mornings come round"). Palette: cream white, sky blue, bakery yellow and latte brown. Show a realistic mobile ordering UI screen, a menu board, product categories (Bagel / Coffee / Light Meal / Set), product cards with realistic bagel and coffee photos and prices, recommendation tags ("Bestseller", "New", "Fresh Today", "Morning Set"), a combo set section and small icons. Same simple original round logo throughout. Clean modular grid, clear hierarchy, professional Behance-style brand case study, commercially realistic, mostly readable text, no real brands or app-store logos. Square 1:1 composition.
+```
+
+- 原作者: [@MrLarus](https://x.com/MrLarus)
+- 原帖: https://x.com/MrLarus/status/2063889572308631775
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/bagel-cafe-menu-ordering-system-page?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

@@ -1,6 +1,6 @@
 # 美食饮品 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 117 · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 124 · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 食材悬浮爆炸式美食信息图提示词
 
@@ -2252,3 +2252,101 @@ Ultra-realistic luxury dessert photography, square 1:1: a premium café interior
 - 原作者: [@Nokiardnv](https://x.com/Nokiardnv)
 - 原帖: https://x.com/Nokiardnv/status/2110446334918758652
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/rainy-cafe-chocolate-lava-cake-dessert?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 超大字体快餐托盘海报
+
+<a href="https://cinel.ai/zh/prompts/p/oversized-type-fast-food-tray-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/oversized-type-fast-food-tray-poster.webp" alt="超大字体快餐托盘海报" width="480"></a>
+
+> 根据 @oggii_0 于 2026-05-22 的提示词+图片帖改写（记录时 316 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Premium fast-food advertising poster for crispy chicken tenders from a fictional brand "CRUNCHLAB". Two paper trays of golden crispy tenders placed diagonally: one in the upper left, one in the lower right, with dynamic zig-zag eye movement. Oversized extra-bold geometric sans-serif letters "CRUNCH" run behind and between the trays, mixing solid fill and outline type, cropped by the frame edges. Small simple wordmark CRUNCHLAB centered at the top. Clean light-grey studio background, strong negative space, soft realistic shadows, high-detail crispy texture, warm food tones with one bold tomato-red brand color. Minimal wording, high-end FMCG campaign look, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- 原作者: [@oggii_0](https://x.com/oggii_0)
+- 原帖: https://x.com/oggii_0/status/2057758702812500383
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/oversized-type-fast-food-tray-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 可爱风咖啡馆小食菜单海报
+
+<a href="https://cinel.ai/zh/prompts/p/kawaii-cafe-snack-menu-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/kawaii-cafe-snack-menu-poster.webp" alt="可爱风咖啡馆小食菜单海报" width="480"></a>
+
+> 根据 @Taaruk_ 于 2026-05-18 的提示词+图片帖改写（记录时 166 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Cute kawaii-style food menu advertisement poster for a fictional Korean café "BUNBUN CAFÉ". Vibrant overhead food photography of crispy fried chicken bites, a cheese toast, and two pastel iced drinks on a cream table, mixed with playful doodle graphics: pastel cartoon stickers, hand-drawn sparkles, hearts, arrows and stars, an adorable original bear mascot and bunny mascot. Bold rounded headline "SNACK TIME!" with white outlines, cute handwritten captions "crispy!", "so cheesy", "new". Vibrant orange, pink, green and cream palette, glossy textures, warm lighting, dreamy soft glow, kawaii scrapbook layout, cheerful social media design, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- 原作者: [@Taaruk_](https://x.com/Taaruk_)
+- 原帖: https://x.com/Taaruk_/status/2056324712435986847
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/kawaii-cafe-snack-menu-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 街头小吃涂鸦快拍帖
+
+<a href="https://cinel.ai/zh/prompts/p/street-food-doodle-story-post?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/street-food-doodle-story-post.webp" alt="街头小吃涂鸦快拍帖" width="480"></a>
+
+> 根据 @Sairah_0 于 2026-05-07 的提示词+图片帖改写（记录时 184 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Aesthetic close-up food photography of a crispy Korean-style corn dog on a wooden stick, heavily drizzled with creamy white and yellow sauces and sprinkled with red chili seasoning, served on a plain paper tray over a dark wooden table. Warm cozy café lighting, shallow depth of field, soft shadows, golden-brown crunchy texture, comfort-food vibe. Cute handwritten doodles and pastel annotations around the food: "good morning", "comfort food", "little bites, big happiness", with hearts, arrows, stars and dashed lines. Social story style layout with a few sticker accents, cozy warm tones, realistic texture, trendy food-blogger look, no app interface, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@Sairah_0](https://x.com/Sairah_0)
+- 原帖: https://x.com/Sairah_0/status/2052361133617823865
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/street-food-doodle-story-post?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 超大字体烘焙早午餐海报
+
+<a href="https://cinel.ai/zh/prompts/p/oversized-type-bakery-brunch-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/oversized-type-bakery-brunch-poster.webp" alt="超大字体烘焙早午餐海报" width="480"></a>
+
+> 根据 @MrLarus 于 2026-08-30 的提示词+图片帖改写（记录时 137 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Editorial food poster for a fictional bakery "BUTTER & BLOOM". Product: a caramel waffle stacked with banana slices and a glossy caramel drizzle. Poster theme: weekend brunch launch. Headline "Sunday tastes golden", supporting text "Caramel Waffle · $9 · Sat–Sun 9–14". Butter-yellow background, one dominant caramel-brown accent. Layout direction: oversized vertical side type — the word "WAFFLE" runs huge and vertical along the left edge, cropped by the canvas, with the waffle overlapping and breaking through the letters. Realistic appetizing textures, crumbs and glaze highlights, a few thin lines and small circles, lively asymmetric hierarchy, playful but professional, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- 原作者: [@MrLarus](https://x.com/MrLarus)
+- 原帖: https://x.com/MrLarus/status/2094071843850223978
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/oversized-type-bakery-brunch-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 暗黑霓虹汉堡促销帖
+
+<a href="https://cinel.ai/zh/prompts/p/dark-neon-burger-promo-post?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/dark-neon-burger-promo-post.webp" alt="暗黑霓虹汉堡促销帖" width="480"></a>
+
+> 根据 @RizwanAly07 于 2026-05-09 的提示词+图片帖改写（记录时 112 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Bold modern fast-food advertising post for "Double Smash Burger" from a fictional brand "GRILLHOUND". Large hero burger composition with aggressive modern marketing energy: two smashed beef patties, melted cheese, pickles, glossy brioche bun. Dark luxury charcoal background with neon green and orange accents, smooth abstract shapes, glowing overlays, dynamic curves, subtle floating sesame seeds and lettuce, premium shadows. Dramatic cinematic commercial lighting, glossy highlights, crispy texture. Oversized distressed headline "SMASH IT" mixed with an elegant handwritten subtitle "premium taste", small badges "Limited Time Offer", "Up To 50% OFF", "Order Now". Product large and dominant, strong hierarchy, uncluttered, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- 原作者: [@RizwanAly07](https://x.com/RizwanAly07)
+- 原帖: https://x.com/RizwanAly07/status/2053158966625259554
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/dark-neon-burger-promo-post?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 蓝莓薰衣草苏打手账拼贴海报
+
+<a href="https://cinel.ai/zh/prompts/p/blueberry-lavender-soda-scrapbook-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/blueberry-lavender-soda-scrapbook-poster.webp" alt="蓝莓薰衣草苏打手账拼贴海报" width="480"></a>
+
+> 根据 @john_my07 于 2026-05-21 的提示词+图片帖改写（记录时 98 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Vintage-inspired blueberry lavender soda scrapbook poster for a fictional café "MOONJAR", dreamy artisanal café ad aesthetic. A tall glass of sparkling layered blueberry soda with lavender cream foam and translucent ice cubes, fizzy bubbles visible, glossy condensation, purple-to-blue gradient drink tones. Ultra-realistic beverage photography blended with playful hand-drawn doodles and pastel marker sketches: lavender sprigs, bows, stars, tiny moons, blueberries, sparkles and little ingredient arrows. Sticker-book collage layout with torn notebook paper, washi tape, a polaroid snapshot and a small recipe card; handwritten notes "fizzy!", "new flavor", "MOONJAR soda bar". Warm window light, soft lavender, dusty blue, cream and silver palette, nostalgic Gen Z café mood, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- 原作者: [@john_my07](https://x.com/john_my07)
+- 原帖: https://x.com/john_my07/status/2057417084259487783
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/blueberry-lavender-soda-scrapbook-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 辣味套餐分割背景海报
+
+<a href="https://cinel.ai/zh/prompts/p/spicy-combo-split-background-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/spicy-combo-split-background-poster.webp" alt="辣味套餐分割背景海报" width="480"></a>
+
+> 根据 @Ziha_ai 于 2026-05-24 的提示词+图片帖改写（记录时 76 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Bold modern fast-food advertising poster for a spicy Korean crispy chicken burger paired with a sparkling lemon soda combo. Background split: left side warm cream white, right side vibrant spicy red blending into lemon yellow. Burger slightly left of center, plain metallic lemon soda can slightly right of center, both overlapping the split. Burger: golden crispy fried chicken, dripping spicy sauce, lettuce, cheese, glossy brioche bun. Can: condensation droplets, cold reflections, fizz. Giant lemon slices and chili textures behind, floating chips, soda splashes, spice powder and crumbs, dynamic wave shapes. Large vertical white typography "SPICY COMBO" cropped by the edges, top-left placeholder wordmark "ZESTA × CRUNCHA" (fictional), headline "Crunch Meets Refreshment". Cinematic food lighting, energetic youthful design, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- 原作者: [@Ziha_ai](https://x.com/Ziha_ai)
+- 原帖: https://x.com/Ziha_ai/status/2058382524997681287
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/spicy-combo-split-background-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

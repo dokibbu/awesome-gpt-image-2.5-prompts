@@ -1,6 +1,6 @@
 # Creative Scenes · GPT Image 2.5
 
-[← README](../README.md) · 91 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 92 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 
@@ -1385,3 +1385,17 @@ Cinematic surreal action-comedy video keyframe, widescreen 16:9, photoreal: an a
 - Author: [@umesh_ai](https://x.com/umesh_ai)
 - Original post: https://x.com/umesh_ai/status/2112397267017810346
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/jam-lid-twisting-pastry-world-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Sunrise Desk Doodle Planner Flat Lay
+
+<a href="https://cinel.ai/prompts/p/sunrise-desk-doodle-planner-flatlay?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/sunrise-desk-doodle-planner-flatlay.webp" alt="Sunrise Desk Doodle Planner Flat Lay" width="480"></a>
+
+> Adapted from a prompt + image post by @Taaruk_ on 2026-05-07 (281 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Top-down cozy desk flat lay near a sunrise window: a wooden table with a coffee cup, an open weekly planner notebook with a few handwritten to-dos, a film camera, headphones, a small fruit bowl, a cassette player, glasses and a phone. Warm sunrise reflections, nostalgic morning atmosphere. Handwritten doodle annotations around every object with pastel sketch overlays, cute arrows, stars and short motivational phrases ("slow morning", "plan the week", "you got this"). Realistic lifestyle photography mixed with diary aesthetics, soft golden light, vintage indie mood, warm creamy tones, highly detailed textures, no logos. Square 1:1 composition.
+```
+
+- Author: [@Taaruk_](https://x.com/Taaruk_)
+- Original post: https://x.com/Taaruk_/status/2052422212423196925
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/sunrise-desk-doodle-planner-flatlay?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

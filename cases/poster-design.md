@@ -1,6 +1,6 @@
 # Posters, Logos & Graphic Design · GPT Image 2.5
 
-[← README](../README.md) · 42 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 53 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sports Tribute Double-Exposure Collage Poster Prompt
 
@@ -1271,3 +1271,157 @@ Ultra-detailed 3D render, square 1:1: a large capital letter W made of thick tra
 - Author: [@Bmohreal](https://x.com/Bmohreal)
 - Original post: https://x.com/Bmohreal/status/2111495150354526624
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/glass-letter-jungle-terrarium-render?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Fictional Brand Identity System Board
+
+<a href="https://cinel.ai/prompts/p/fictional-brand-identity-system-board?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/fictional-brand-identity-system-board.webp" alt="Fictional Brand Identity System Board" width="480"></a>
+
+> Adapted from a prompt + image post by @itxabdullaa on 2026-05-04 (3310 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Agency-grade brand identity system board for a fictional specialty tea brand called "MOSSLEAF". Dense but clean multi-column grid on an off-white background. Top-left: a simple original leaf-and-circle monogram logo with the wordmark MOSSLEAF and a short statement "Slow tea for fast cities". Below: a color system of five wide swatch blocks (moss green, cream, clay, charcoal, soft mint) with short hex codes; a typography panel showing a bold headline sample, a subheading line and a small body paragraph; three art-directed mood tiles (steam over a cup, leaves on linen, morning window light). Right column: realistic mockups of a tea tin, a paper cup, a business card, a phone screen with a minimal shop page and three small social post tiles, all using the same logo, colors and graphic motifs. Thin divider lines, small section numbers 01–06, consistent line icons. Premium Behance-style presentation, soft studio shadows, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- Author: [@itxabdullaa](https://x.com/itxabdullaa)
+- Original post: https://x.com/itxabdullaa/status/2051161464229286326
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/fictional-brand-identity-system-board?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Asymmetric Editorial Fashion Poster Layout
+
+<a href="https://cinel.ai/prompts/p/asymmetric-editorial-fashion-poster-layout?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/asymmetric-editorial-fashion-poster-layout.webp" alt="Asymmetric Editorial Fashion Poster Layout" width="480"></a>
+
+> Adapted from a prompt + image post by @CaliraVal on 2026-05-08 (458 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Designer-grade modern fashion poster layout with strong visual hierarchy, asymmetric composition and intentional imbalance, luxury magazine aesthetics. A cinematic close-up crop of a fictional model in a sculptural rust-red coat fills the right two thirds, cropped at the edge of the frame. Oversized headline "NORTH LIGHT" set in a huge condensed serif, partly hidden behind the model's shoulder; a rotated vertical line of ultra-small metadata along the left edge ("AW COLLECTION — ISSUE 07 — STUDIO MAREN"); aggressive negative space in warm stone grey; a modular grid with one small supporting detail photo of fabric texture in the lower left. Strong size contrast between headline and tiny text, edge-aligned placement, broken-grid overlap, controlled tension. Avoid generic centered layouts and template feel. Crisp readable text, no real brands or logos. Square 1:1 composition.
+```
+
+- Author: [@CaliraVal](https://x.com/CaliraVal)
+- Original post: https://x.com/CaliraVal/status/2052716058822504832
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/asymmetric-editorial-fashion-poster-layout?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Food-Shape-Driven Typography Poster
+
+<a href="https://cinel.ai/prompts/p/food-shape-driven-typography-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/food-shape-driven-typography-poster.webp" alt="Food-Shape-Driven Typography Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @MrLarus on 2026-08-31 (167 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Editorial food poster for a fictional pizzeria "SLICE CLUB". Hero product: one hot honey pepperoni pizza slice, highly realistic food photography with melted cheese pull, glossy honey drizzle and crisp charred crust. Let the slice shape drive the layout: a strong diagonal composition. The oversized word "HOT" is very large, rotated along the same diagonal, cropped by the canvas and partly covered by the slice so photography and type interlock. Clear hierarchy: display word, hero slice, headline "Sweet heat, every slice", small info "Hot Honey Pepperoni · $5 · Open till late". Light cream background, realistic food colors, tomato-red and honey-gold accents, a few thin lines and small dots. Energetic asymmetric layout, retro-modern branding, clean spacing, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- Author: [@MrLarus](https://x.com/MrLarus)
+- Original post: https://x.com/MrLarus/status/2094306922744742150
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/food-shape-driven-typography-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Type-Framed Urban Crossing Poster
+
+<a href="https://cinel.ai/prompts/p/type-framed-urban-crossing-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/type-framed-urban-crossing-poster.webp" alt="Type-Framed Urban Crossing Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @MrLarus on 2026-06-23 (165 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+High-end type-framed poster where oversized typography becomes the main visual structure. Direction: urban crossing poster. Project name "CITY WALKS", main title "PASSAGE", subtitle "A festival of slow streets". A single fictional person in a long grey coat walks through a concrete underpass at dusk; huge cropped black letters of PASSAGE form vertical pillars and windows that frame the walker, creating a strong city-grid structure. Realistic photography, paper grain, black-white-blue palette, strong negative space, clean information hierarchy with small date line "09.14 — 09.21". Clean, structured and editorial; no messy collage, no logos, crisp readable text. Square 1:1 composition.
+```
+
+- Author: [@MrLarus](https://x.com/MrLarus)
+- Original post: https://x.com/MrLarus/status/2069366773518835720
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/type-framed-urban-crossing-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Swiss Underground Music Event Poster
+
+<a href="https://cinel.ai/prompts/p/swiss-underground-music-event-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/swiss-underground-music-event-poster.webp" alt="Swiss Underground Music Event Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @harboriis on 2026-07-20 (121 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Premium underground music event poster with a bold Swiss-inspired editorial layout and modern streetwear aesthetic. Off-white textured paper background with subtle grain and halftone noise. A gigantic condensed black sans-serif word "BASSLINE" dominates the center as a typographic backdrop. A fictional young woman sits on the floor in the foreground in an oversized black hoodie, baggy cargo pants and plain solid-white canvas high-top sneakers with no stripes, no swoosh, no side logos, one knee raised, confident gaze; ultra-wide angle makes the nearest sneaker look oversized. Thin perspective grid lines on the floor, blurred flyer sheets floating at the edges. Structured info blocks in condensed sans-serif: "SAT 11.08", "WAREHOUSE 9", "DOORS 22:00", "TICKETS AT THE DOOR", thin divider lines, a gold handwritten script "night shift" crossing the headline. Black, white, light grey, warm beige and metallic gold palette. Crisp readable text, no logos. Square 1:1 composition.
+```
+
+- Author: [@harboriis](https://x.com/harboriis)
+- Original post: https://x.com/harboriis/status/2079041065336893721
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/swiss-underground-music-event-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Minimal Fashion Sale Poster
+
+<a href="https://cinel.ai/prompts/p/minimal-fashion-sale-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/minimal-fashion-sale-poster.webp" alt="Minimal Fashion Sale Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @auqibhabib on 2026-04-29 (113 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Luxury fashion sale poster, minimalist premium design, soft beige textured fabric background with gentle folds and light shadows. Center: a confident fictional modest-fashion model in a sage-green geometric patterned kimono-style outer with waist tie, light inner top, pleated skirt and beige hijab, black sunglasses, one hand near the collar. Behind her: huge bold uppercase "SALE" in warm brown (#A66A4C), partly covered by the model for depth. Top center: elegant serif wordmark "MAREN & CO" for a fictional boutique. Left: "UP TO 35%"; right: "FROM $21"; bottom-left small rounded box with a calendar icon "NOV 8–10"; bottom-right small text "Online & in store". Bold sans-serif for SALE, clean sans-serif for details, soft diffused studio light, ultra clean editorial layout, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- Author: [@auqibhabib](https://x.com/auqibhabib)
+- Original post: https://x.com/auqibhabib/status/2049332066433859765
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/minimal-fashion-sale-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Graffiti Quote Streetwear Poster
+
+<a href="https://cinel.ai/prompts/p/graffiti-quote-streetwear-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/graffiti-quote-streetwear-poster.webp" alt="Graffiti Quote Streetwear Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @harboriis on 2026-06-08 (105 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Ultra clean streetwear graphic poster on a minimalist light grey background. Massive bold black typography "SOCIAL" dominates the upper composition; in front of it, oversized neon green graffiti bubble lettering spells "INTROVERT" with thick black outlines, glossy highlights and soft inflated shapes. Centered, a realistic fictional streetwear model photographed from the back in a relaxed pose: plain oversized black t-shirt, ultra baggy cargo pants with heavy folds, chunky unbranded sneakers, hands in pockets. The model is in high-contrast monochrome while the graffiti stays neon green; the figure overlaps the typography for depth. Bottom headline "COMFORT ZONE" with a short quote beneath: "Not anti-social. Just selective." Small corner crop marks, tiny editorial symbols, signature text "DREAMLAB" with a small production code. Crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- Author: [@harboriis](https://x.com/harboriis)
+- Original post: https://x.com/harboriis/status/2063813658254413914
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/graffiti-quote-streetwear-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 3D Good Vibes Quote Poster
+
+<a href="https://cinel.ai/prompts/p/3d-good-vibes-quote-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/3d-good-vibes-quote-poster.webp" alt="3D Good Vibes Quote Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @mon010_de on 2026-06-29 (70 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Ultra-realistic cinematic 3D motivational quote poster: a cheerful fictional young man sits casually on top of oversized soft rounded 3D letters spelling "GOOD VIBES". Short black hair, friendly smile, light-grey oversized sweatshirt, cream trousers, clean white unbranded sneakers, legs crossed, holding a large white ceramic mug with both hands. From the top right, a hand enters the frame pouring a stream of black coffee from a brushed steel kettle into the mug — a playful surreal touch. On the right, elegant serif quote: "Keep learning, whatever your age." Smooth warm beige monochrome background, soft studio light, subtle shadows, pastel palette, highly detailed 3D render, clean centered composition, crisp readable text, no logos. Square 1:1 composition.
+```
+
+- Author: [@mon010_de](https://x.com/mon010_de)
+- Original post: https://x.com/mon010_de/status/2071495718523851203
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/3d-good-vibes-quote-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Geometric Cubist Couscous Food Poster
+
+<a href="https://cinel.ai/prompts/p/geometric-cubist-couscous-food-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/geometric-cubist-couscous-food-poster.webp" alt="Geometric Cubist Couscous Food Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @MaAyyoub on 2026-05-29 (58 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Stylized geometric cubist food poster featuring an iconic Algerian dish composition inspired by luxury culinary editorials. Modern abstract vector illustration style: couscous with vegetables and lamb in a traditional clay pot, a glass of mint tea being poured, olives and olive oil, steam rising from the couscous as one cinematic serving moment. Fragmented geometric shapes, sharp angular planes, layered depth and dynamic shadows. Sophisticated gold, terracotta, cream, black and olive green palette with warm desert tones. Clean luxury background, highly detailed vector textures, symmetrical balance, a refined title "COUSCOUS" and a small subtitle "Friday table" in modern typography. No logos. Square 1:1 composition.
+```
+
+- Author: [@MaAyyoub](https://x.com/MaAyyoub)
+- Original post: https://x.com/MaAyyoub/status/2060300262963609758
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/geometric-cubist-couscous-food-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### October Old-Town Autumn Poster
+
+<a href="https://cinel.ai/prompts/p/october-old-town-autumn-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/october-old-town-autumn-poster.webp" alt="October Old-Town Autumn Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @Naiknelofar788 on 2026-10-04 (54 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Highly aesthetic cinematic poster of a cobblestone old-town square with a stone clock tower, transformed into an unmistakable October atmosphere: rich burnt orange, deep rust, muted amber and warm brown tones, crisp autumn air, swirling maple leaves naturally framing the tower, soft golden-hour sunlight, subtle mist, cozy glowing street lamps, wet stones reflecting warm light, a few pumpkins and a harvest market stall with apples integrated tastefully. Feels like a frame from a premium autumn film: subtle film grain, paper texture, atmospheric depth, slightly nostalgic 35mm feel. No Halloween clichés, no cartoon look. Minimal refined typography: "OCTOBER" with a small line "Harvest week · Old Town" underneath, premium travel-editorial aesthetic, crisp readable text. Square 1:1 composition.
+```
+
+- Author: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- Original post: https://x.com/Naiknelofar788/status/2106626094011228655
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/october-old-town-autumn-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Charity Bingo Night Event Flyer
+
+<a href="https://cinel.ai/prompts/p/charity-bingo-night-event-flyer?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/charity-bingo-night-event-flyer.webp" alt="Charity Bingo Night Event Flyer" width="480"></a>
+
+> Adapted from a prompt + image post by @abs_crea8or on 2026-10-03 (23 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Professional charity bingo event flyer for "Paws & Prizes Bingo Night", a fictional fundraiser for a local animal shelter. Polished community-event design with glossy bingo balls, a bingo card, small paw-print accents and subtle confetti, strong visual hierarchy with the headline immediately noticeable. Clearly separated info sections: "Date: Sat, Nov 22", "Time: 6 PM", "Venue: Maple Hall", "Entry: $10", "Prize: Grand basket", "For: Elm Street Animal Shelter", and a call-to-action button "BOOK YOUR PLACE". Teal, warm orange and cream palette, modern typography, balanced spacing, clean and easy to read, suitable for social media and print. No clutter, no random text, correct spelling, no logos. Square 1:1 composition.
+```
+
+- Author: [@abs_crea8or](https://x.com/abs_crea8or)
+- Original post: https://x.com/abs_crea8or/status/2106432140455911768
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/charity-bingo-night-event-flyer?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

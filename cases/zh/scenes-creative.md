@@ -1,6 +1,6 @@
 # 创意场景 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 91 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 92 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 巨型钢笔写出书中世界的魔幻场景提示词
 
@@ -1385,3 +1385,17 @@ Cinematic surreal action-comedy video keyframe, widescreen 16:9, photoreal: an a
 - 原作者: [@umesh_ai](https://x.com/umesh_ai)
 - 原帖: https://x.com/umesh_ai/status/2112397267017810346
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/jam-lid-twisting-pastry-world-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 晨光书桌涂鸦手账平铺
+
+<a href="https://cinel.ai/zh/prompts/p/sunrise-desk-doodle-planner-flatlay?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/sunrise-desk-doodle-planner-flatlay.webp" alt="晨光书桌涂鸦手账平铺" width="480"></a>
+
+> 根据 @Taaruk_ 于 2026-05-07 的提示词+图片帖改写（记录时 281 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Top-down cozy desk flat lay near a sunrise window: a wooden table with a coffee cup, an open weekly planner notebook with a few handwritten to-dos, a film camera, headphones, a small fruit bowl, a cassette player, glasses and a phone. Warm sunrise reflections, nostalgic morning atmosphere. Handwritten doodle annotations around every object with pastel sketch overlays, cute arrows, stars and short motivational phrases ("slow morning", "plan the week", "you got this"). Realistic lifestyle photography mixed with diary aesthetics, soft golden light, vintage indie mood, warm creamy tones, highly detailed textures, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@Taaruk_](https://x.com/Taaruk_)
+- 原帖: https://x.com/Taaruk_/status/2052422212423196925
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/sunrise-desk-doodle-planner-flatlay?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

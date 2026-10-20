@@ -1,6 +1,6 @@
 # Product & E-commerce · GPT Image 2.5
 
-[← README](../README.md) · 41 · [Category on cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 46 · [Category on cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -1234,3 +1234,73 @@ Premium commercial product poster for a fictional juice brand "VELVABERRY", squa
 - Author: [@ou_zhen599](https://x.com/ou_zhen599)
 - Original post: https://x.com/ou_zhen599/status/2111034381150339446
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/inflating-juice-bottle-typography-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Luxury Product Hero Commercial Poster
+
+<a href="https://cinel.ai/prompts/p/luxury-product-hero-commercial-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/luxury-product-hero-commercial-poster.webp" alt="Luxury Product Hero Commercial Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @Goodmanprotocol on 2026-07-21 (84 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Premium luxury commercial advertising poster featuring a snow-white owl centered in the frame, facing the camera with perfect symmetry. The owl gently holds a slim frosted-glass perfume bottle in its talons without deforming it; calm, confident expression. Soft pale-blue gradient studio background with abundant negative space. Soft diffused cinematic studio light, subtle rim light, realistic feathers and premium reflections on the glass. A large uppercase low-opacity headline "NOCTURNE" behind the owl in a bold condensed sans-serif; in front, a thin sans-serif product title "Nocturne Eau de Parfum" with a small subtitle "by Halden" for a fictional house. Perfect center alignment, generous negative space, high-end campaign look, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- Original post: https://x.com/Goodmanprotocol/status/2079490788795531724
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/luxury-product-hero-commercial-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Freshness-Splash Iced Tea Poster
+
+<a href="https://cinel.ai/prompts/p/freshness-splash-iced-tea-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/freshness-splash-iced-tea-poster.webp" alt="Freshness-Splash Iced Tea Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @Ziha_ai on 2026-06-22 (41 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Premium beverage advertising poster built around "freshness in motion": one tall glass of peach iced tea becomes the center of a dynamic splash moment frozen in time. Floating ice cubes, peach slices, mint leaves, bubbles, condensation droplets and cold mist arc diagonally around the glass. Bold oversized typography "FRESH" runs across the middle with the glass overlapping and cutting through the letters. Small simple wordmark "PEACHWAVE" for a fictional drink brand in the top corner, a short tagline "Cold. Bright. Peachy." near the bottom. Warm energetic peach-to-coral gradient background, glossy realistic glass, commercial lighting, clean social-media-ready layout, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- Author: [@Ziha_ai](https://x.com/Ziha_ai)
+- Original post: https://x.com/Ziha_ai/status/2068929219133112758
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/freshness-splash-iced-tea-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Retro Cola Bottle Product Poster
+
+<a href="https://cinel.ai/prompts/p/retro-cola-bottle-product-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/retro-cola-bottle-product-poster.webp" alt="Retro Cola Bottle Product Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @Diplomeme on 2026-05-01 (201 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Retro product mockup poster fusing 1950s advertising language with ultra-premium product rendering for a fictional cola brand "FIZZWELL". A curvy glass bottle of cola at a 3/4 angle, slightly tilted, resting on a glossy wet reflective surface with ice cubes, melt water and a frozen splash arc behind it. Deep cola liquid with amber highlights, dense condensation droplets, micro bubbles, slightly aged label printed with FIZZWELL. Deep red gradient background with faded vintage sunburst rays, paper grain, halftone noise and dark vignette. Typography: massive condensed cream headline "REFRESH", a warm-yellow script "Enjoy", an italic serif tagline "Ice cold since 1953", a vintage starburst badge "ICE COLD", and a bottom strip "CLASSIC • ORIGINAL TASTE • SERVE COLD". Warm key light, cool rim light, backlight glow through the liquid, film grain, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- Author: [@Diplomeme](https://x.com/Diplomeme)
+- Original post: https://x.com/Diplomeme/status/2050273417321177226
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/retro-cola-bottle-product-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Perfume Commercial Storyboard Sheet
+
+<a href="https://cinel.ai/prompts/p/perfume-commercial-storyboard-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/perfume-commercial-storyboard-sheet.webp" alt="Perfume Commercial Storyboard Sheet" width="480"></a>
+
+> Adapted from a prompt + image post by @Strength04_X on 2026-09-10 (196 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Single-page premium storyboard sheet for a luxury rose perfume commercial for a fictional fragrance "ROSALIE BLOOM". Clean editorial grid of 9 cinematic product panels with thin borders and small numbered tabs, plus a compact header with bold elegant title and small info cards: "Duration 20s", "Style: Soft Luxury", "Audio: glass tap + soft spray". Panels: bottle alone on glossy white surface; macro of crystal glass and cap; soft pink light sweep; cap lifting with a sparkle; liquid swirling; fine mist spray; rose petals floating; bottle rotating; final hero shot with petals and pink glow. The bottle is a rounded pebble-shaped pink glass flacon with a domed rose-gold cap; same bottle shape, cap and label in every frame, white-pink gradient environment, champagne highlights, ultra-realistic beauty advertising, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2097919290980921451
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/perfume-commercial-storyboard-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Home-Care Product Promo Layout
+
+<a href="https://cinel.ai/prompts/p/home-care-product-promo-layout?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/home-care-product-promo-layout.webp" alt="Home-Care Product Promo Layout" width="480"></a>
+
+> Adapted from a prompt + image post by @PixuryAI on 2026-06-02 (84 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Premium daily-necessities social media marketing poster for a fictional laundry detergent "CLOUDWASH" in a soft blue bottle. Warm, bright modern home scene with soft natural daylight: a folded stack of fresh white towels and a linen basket on a light wood shelf in the background. The product stands prominently in the foreground, slightly tilted toward camera, with a smaller refill pouch at lower middle, surrounded by a dynamic circular geometric layout, gentle water splash, floating soap bubbles and fine particles with a soft halo. Small UI-style efficacy labels with icons: "Deep clean", "Gentle on skin", "Fresh 72h", one data badge "99% stain removal" and a pill button "Shop now". Extra-bold headline "Soft. Clean. Home." in clear space at the upper left. Clean high-end hierarchy, glossy realistic packaging, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- Author: [@PixuryAI](https://x.com/PixuryAI)
+- Original post: https://x.com/PixuryAI/status/2061657972145635434
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/home-care-product-promo-layout?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

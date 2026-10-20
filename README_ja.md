@@ -13,26 +13,26 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-厳選した **492** 件の GPT Image 2.5 プロンプト集です。各項目に作例画像、プロンプト全文、元の作者と元投稿へのリンクを掲載しています。データは [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) のプロンプトライブラリから自動で同期されます。
+厳選した **522** 件の GPT Image 2.5 プロンプト集です。各項目に作例画像、プロンプト全文、元の作者と元投稿へのリンクを掲載しています。データは [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) のプロンプトライブラリから自動で同期されます。
 
 👉 [cinel.ai ですべて見る・オンラインで生成](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ## 目次
 
-- [ポートレート・顔写真](#portrait) (78) · [すべて](cases/portrait.md)
-- [商品・EC](#product-photography) (41) · [すべて](cases/product-photography.md)
-- [ポスター・ロゴ・グラフィック](#poster-design) (42) · [すべて](cases/poster-design.md)
-- [インフォグラフィック・UI](#infographic-ui) (26) · [すべて](cases/infographic-ui.md)
+- [ポートレート・顔写真](#portrait) (79) · [すべて](cases/portrait.md)
+- [商品・EC](#product-photography) (46) · [すべて](cases/product-photography.md)
+- [ポスター・ロゴ・グラフィック](#poster-design) (53) · [すべて](cases/poster-design.md)
+- [インフォグラフィック・UI](#infographic-ui) (31) · [すべて](cases/infographic-ui.md)
 - [3D キャラクター・フィギュア](#3d-figurines) (54) · [すべて](cases/3d-figurines.md)
-- [フード・ドリンク](#food-drink) (117) · [すべて](cases/food-drink.md)
+- [フード・ドリンク](#food-drink) (124) · [すべて](cases/food-drink.md)
 - [イラスト・アニメ](#illustration-anime) (43) · [すべて](cases/illustration-anime.md)
-- [クリエイティブシーン](#scenes-creative) (91) · [すべて](cases/scenes-creative.md)
+- [クリエイティブシーン](#scenes-creative) (92) · [すべて](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
 ## ポートレート・顔写真
 
-厳選 6 件 · [全 78 件を見る](cases/portrait.md) · [cinel のカテゴリ](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+厳選 6 件 · [全 79 件を見る](cases/portrait.md) · [cinel のカテゴリ](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Olive Velvet Saree High-Fashion Studio Portrait
 
@@ -307,7 +307,7 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 ## 商品・EC
 
-厳選 6 件 · [全 41 件を見る](cases/product-photography.md) · [cinel のカテゴリ](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+厳選 6 件 · [全 46 件を見る](cases/product-photography.md) · [cinel のカテゴリ](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -522,7 +522,7 @@ A high-end editorial photo of a amber glass face-oil bottle with a dropper place
 
 ## ポスター・ロゴ・グラフィック
 
-厳選 6 件 · [全 42 件を見る](cases/poster-design.md) · [cinel のカテゴリ](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+厳選 6 件 · [全 53 件を見る](cases/poster-design.md) · [cinel のカテゴリ](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sports Tribute Double-Exposure Collage Poster Prompt
 
@@ -783,7 +783,7 @@ Make the aspect ratio 9:16
 
 ## インフォグラフィック・UI
 
-厳選 6 件 · [全 26 件を見る](cases/infographic-ui.md) · [cinel のカテゴリ](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+厳選 6 件 · [全 31 件を見る](cases/infographic-ui.md) · [cinel のカテゴリ](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -1105,7 +1105,7 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## フード・ドリンク
 
-厳選 6 件 · [全 117 件を見る](cases/food-drink.md) · [cinel のカテゴリ](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+厳選 6 件 · [全 124 件を見る](cases/food-drink.md) · [cinel のカテゴリ](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
@@ -1526,7 +1526,7 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 ## クリエイティブシーン
 
-厳選 6 件 · [全 91 件を見る](cases/scenes-creative.md) · [cinel のカテゴリ](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+厳選 6 件 · [全 92 件を見る](cases/scenes-creative.md) · [cinel のカテゴリ](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 

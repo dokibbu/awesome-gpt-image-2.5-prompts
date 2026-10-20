@@ -1,6 +1,6 @@
 # Portrait & Headshot · GPT Image 2.5
 
-[← README](../README.md) · 78 · [Category on cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 79 · [Category on cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Olive Velvet Saree High-Fashion Studio Portrait
 
@@ -2048,3 +2048,17 @@ Photorealistic character turnaround reference sheet, square 1:1, on a seamless m
 - Author: [@DavoCreates](https://x.com/DavoCreates)
 - Original post: https://x.com/DavoCreates/status/2111490754665239032
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/photoreal-character-turnaround-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Doodle Blue-Sky Nine-Grid Photo Collage
+
+<a href="https://cinel.ai/prompts/p/doodle-blue-sky-nine-grid-collage?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/doodle-blue-sky-nine-grid-collage.webp" alt="Doodle Blue-Sky Nine-Grid Photo Collage" width="480"></a>
+
+> Adapted from a prompt + image post by @MissDelulu9 on 2026-06-02 (527 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Trendy aesthetic 3×3 photo collage of nine photos of the same fictional young adult woman posing outdoors against a deep, vivid blue sky. All photos taken from very low angles with a wide-angle lens for a dramatic, playful perspective. She wears black sunglasses, large white headphones, a white long-sleeve zip-up sweater, high-waisted black shorts, light blue socks and chunky blue-grey unbranded sporty shoes. Dynamic poses: jumping, raising her arms, bringing her shoe close to the lens, holding headphones toward the camera, stretching her arms like flying. Cute hand-drawn doodles across the collage: curved white lines, dotted arrows, pink and yellow flowers, tiny hearts, motion streaks, handwritten "Hi~" and a smiley face on a shoe sole. Bright sunlight, cheerful summer vibe, photo-dump style, vibrant colors, no logos. Square 1:1 composition.
+```
+
+- Author: [@MissDelulu9](https://x.com/MissDelulu9)
+- Original post: https://x.com/MissDelulu9/status/2061724922435760244
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/doodle-blue-sky-nine-grid-collage?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

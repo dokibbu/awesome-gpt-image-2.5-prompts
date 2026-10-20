@@ -1,6 +1,6 @@
 # 人像写真 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 78 · [cinel 分类页](https://cinel.ai/zh/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 79 · [cinel 分类页](https://cinel.ai/zh/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 橄榄绿丝绒纱丽高级时装棚拍人像提示词
 
@@ -2048,3 +2048,17 @@ Photorealistic character turnaround reference sheet, square 1:1, on a seamless m
 - 原作者: [@DavoCreates](https://x.com/DavoCreates)
 - 原帖: https://x.com/DavoCreates/status/2111490754665239032
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/photoreal-character-turnaround-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 涂鸦蓝天九宫格照片拼贴
+
+<a href="https://cinel.ai/zh/prompts/p/doodle-blue-sky-nine-grid-collage?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/doodle-blue-sky-nine-grid-collage.webp" alt="涂鸦蓝天九宫格照片拼贴" width="480"></a>
+
+> 根据 @MissDelulu9 于 2026-06-02 的提示词+图片帖改写（记录时 527 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Trendy aesthetic 3×3 photo collage of nine photos of the same fictional young adult woman posing outdoors against a deep, vivid blue sky. All photos taken from very low angles with a wide-angle lens for a dramatic, playful perspective. She wears black sunglasses, large white headphones, a white long-sleeve zip-up sweater, high-waisted black shorts, light blue socks and chunky blue-grey unbranded sporty shoes. Dynamic poses: jumping, raising her arms, bringing her shoe close to the lens, holding headphones toward the camera, stretching her arms like flying. Cute hand-drawn doodles across the collage: curved white lines, dotted arrows, pink and yellow flowers, tiny hearts, motion streaks, handwritten "Hi~" and a smiley face on a shoe sole. Bright sunlight, cheerful summer vibe, photo-dump style, vibrant colors, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@MissDelulu9](https://x.com/MissDelulu9)
+- 原帖: https://x.com/MissDelulu9/status/2061724922435760244
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/doodle-blue-sky-nine-grid-collage?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

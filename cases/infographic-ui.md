@@ -1,6 +1,6 @@
 # Infographics & UI · GPT Image 2.5
 
-[← README](../README.md) · 26 · [Category on cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 31 · [Category on cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -977,3 +977,73 @@ High-fidelity mobile app UI mockup, square 1:1 canvas: one modern unbranded smar
 - Author: [@Tegadesigns](https://x.com/Tegadesigns)
 - Original post: https://x.com/Tegadesigns/status/2110415342489211208
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/rental-app-explore-home-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Café Dessert Social Post Pack
+
+<a href="https://cinel.ai/prompts/p/cafe-dessert-social-post-pack?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/cafe-dessert-social-post-pack.webp" alt="Café Dessert Social Post Pack" width="480"></a>
+
+> Adapted from a prompt + image post by @Zyrellix on 2026-05-10 (234 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+A stylish social media post collection for "Mango Sago Cup" from a fictional café "SUNNY SPOON", shown as a 2×2 grid of four square promotional post designs. Each post uses a mango-yellow and coral background with smooth gradients, circular highlights behind the cup, flowing wave shapes, floating mango cubes and sago pearls, decorative arrows and playful accents. Soft commercial studio lighting, glossy realistic dessert rendering, macro detail, slight tilted product angles. Bold rounded headline type with a handwritten subtitle; short promo lines across the four posts: "Fresh & Delicious", "Limited Time Offer", "Order Now", "Only $4.00". Clean spacing, trendy Gen Z café marketing style, crisp readable text, no real brands or app logos. Square 1:1 composition.
+```
+
+- Author: [@Zyrellix](https://x.com/Zyrellix)
+- Original post: https://x.com/Zyrellix/status/2053309842727833959
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/cafe-dessert-social-post-pack?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Vintage Dog Breed Encyclopedia Poster
+
+<a href="https://cinel.ai/prompts/p/vintage-dog-breed-encyclopedia-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/vintage-dog-breed-encyclopedia-poster.webp" alt="Vintage Dog Breed Encyclopedia Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @Naiknelofar788 on 2026-05-07 (151 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Highly detailed vintage encyclopedia-style dog breed poster for the Border Collie. Style: old natural history chart, Victorian encyclopedia plate, museum wall poster. Aged parchment texture, ornate vintage border, elegant serif typography, a realistic detailed Border Collie standing in the center in front of a soft painted mountain background. Earthy palette of muted forest green, navy, faded gold and warm brown. Small infographic sections around it with short readable labels: "Breed Profile", "Temperament", "Health & Care", "Diet", "Fun Facts", "Coat Patterns", plus a paw print diagram, engraved icons and botanical sketch details. Balanced symmetrical layout, collectible printable look, realistic fur. No QR code, no modern UI. Square 1:1 composition.
+```
+
+- Author: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- Original post: https://x.com/Naiknelofar788/status/2052209599210799325
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/vintage-dog-breed-encyclopedia-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Three-Day City Travel Itinerary Poster
+
+<a href="https://cinel.ai/prompts/p/three-day-city-travel-itinerary-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/three-day-city-travel-itinerary-poster.webp" alt="Three-Day City Travel Itinerary Poster" width="480"></a>
+
+> Adapted from a prompt + image post by @tisch_eins on 2026-05-06 (107 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Beautiful 3-day travel itinerary visual for a first-time trip to Lisbon. Premium travel-guide layout with three clear columns: Day 1, Day 2, Day 3, each split into Morning, Afternoon and Evening with one short activity line each (for example "Tram ride up the hill", "Custard tarts by the river", "Sunset viewpoint"). A simple map-inspired strip with dotted routes and small pins along the bottom, a short "best for" label per day ("Old town", "Food", "Ocean views"), and three small practical tips with tiny icons. Soft colors, small watercolor illustrations of tiled facades, a yellow tram and the river, clean typography, editorial magazine feel, not overloaded with text, crisp readable spelling. Square 1:1 composition.
+```
+
+- Author: [@tisch_eins](https://x.com/tisch_eins)
+- Original post: https://x.com/tisch_eins/status/2052026781566132280
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/three-day-city-travel-itinerary-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Early-Internet Personal Résumé Homepage
+
+<a href="https://cinel.ai/prompts/p/early-internet-personal-resume-homepage?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/early-internet-personal-resume-homepage.webp" alt="Early-Internet Personal Résumé Homepage" width="480"></a>
+
+> Adapted from a prompt + image post by @Emmma___0 on 2026-06-14 (102 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+Minimal early-internet personal profile webpage / digital portfolio landing page on a large white canvas with generous negative space and a thin pastel pink browser-style frame. In the center, a black-and-white editorial portrait of a fictional young designer with a short bob, soft film grain and subtle scanner texture. Around the portrait, scattered profile labels with small star bullets like a playful résumé: "✦ designer", "✦ illustrator", "✦ DJ", "✦ collector", "✦ dreamer". Top-left: a colorful hand-drawn original name mark "mika.page" with a tiny timestamp beneath. Top-right: irregular sticker-like navigation tabs in pink, cyan, purple, yellow and green: HOME, ABOUT, WORK, DIARY, LINKS. Handwritten marker notes: "currently making things online", "welcome to my homepage", "updated today". Anti-grid playful placement, portrait fully monochrome, color only on the mark, tabs and small accents, crisp readable text. Square 1:1 composition.
+```
+
+- Author: [@Emmma___0](https://x.com/Emmma___0)
+- Original post: https://x.com/Emmma___0/status/2065992579502747850
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/early-internet-personal-resume-homepage?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Bagel Café Menu & Ordering System Page
+
+<a href="https://cinel.ai/prompts/p/bagel-cafe-menu-ordering-system-page?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/bagel-cafe-menu-ordering-system-page.webp" alt="Bagel Café Menu & Ordering System Page" width="480"></a>
+
+> Adapted from a prompt + image post by @MrLarus on 2026-06-08 (150 likes at capture). We rewrote it as one clean square 1:1 design with fictional brand names, so there are no real logos and no need to upload your own photo or logo. Change one variable at a time.
+
+```text
+One brand proposal page showing the menu and ordering system for a fictional bagel & coffee brand "ROUND MORNING" (urban breakfast brand, slogan "Good mornings come round"). Palette: cream white, sky blue, bakery yellow and latte brown. Show a realistic mobile ordering UI screen, a menu board, product categories (Bagel / Coffee / Light Meal / Set), product cards with realistic bagel and coffee photos and prices, recommendation tags ("Bestseller", "New", "Fresh Today", "Morning Set"), a combo set section and small icons. Same simple original round logo throughout. Clean modular grid, clear hierarchy, professional Behance-style brand case study, commercially realistic, mostly readable text, no real brands or app-store logos. Square 1:1 composition.
+```
+
+- Author: [@MrLarus](https://x.com/MrLarus)
+- Original post: https://x.com/MrLarus/status/2063889572308631775
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/bagel-cafe-menu-ordering-system-page?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

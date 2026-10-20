@@ -1,6 +1,6 @@
 # 产品与电商 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 41 · [cinel 分类页](https://cinel.ai/zh/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 46 · [cinel 分类页](https://cinel.ai/zh/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 九宫格产品样机分镜提示词
 
@@ -1234,3 +1234,73 @@ Premium commercial product poster for a fictional juice brand "VELVABERRY", squa
 - 原作者: [@ou_zhen599](https://x.com/ou_zhen599)
 - 原帖: https://x.com/ou_zhen599/status/2111034381150339446
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/inflating-juice-bottle-typography-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 奢华产品主视觉商业海报
+
+<a href="https://cinel.ai/zh/prompts/p/luxury-product-hero-commercial-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/luxury-product-hero-commercial-poster.webp" alt="奢华产品主视觉商业海报" width="480"></a>
+
+> 根据 @Goodmanprotocol 于 2026-07-21 的提示词+图片帖改写（记录时 84 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Premium luxury commercial advertising poster featuring a snow-white owl centered in the frame, facing the camera with perfect symmetry. The owl gently holds a slim frosted-glass perfume bottle in its talons without deforming it; calm, confident expression. Soft pale-blue gradient studio background with abundant negative space. Soft diffused cinematic studio light, subtle rim light, realistic feathers and premium reflections on the glass. A large uppercase low-opacity headline "NOCTURNE" behind the owl in a bold condensed sans-serif; in front, a thin sans-serif product title "Nocturne Eau de Parfum" with a small subtitle "by Halden" for a fictional house. Perfect center alignment, generous negative space, high-end campaign look, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- 原帖: https://x.com/Goodmanprotocol/status/2079490788795531724
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/luxury-product-hero-commercial-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 清爽飞溅冰茶海报
+
+<a href="https://cinel.ai/zh/prompts/p/freshness-splash-iced-tea-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/freshness-splash-iced-tea-poster.webp" alt="清爽飞溅冰茶海报" width="480"></a>
+
+> 根据 @Ziha_ai 于 2026-06-22 的提示词+图片帖改写（记录时 41 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Premium beverage advertising poster built around "freshness in motion": one tall glass of peach iced tea becomes the center of a dynamic splash moment frozen in time. Floating ice cubes, peach slices, mint leaves, bubbles, condensation droplets and cold mist arc diagonally around the glass. Bold oversized typography "FRESH" runs across the middle with the glass overlapping and cutting through the letters. Small simple wordmark "PEACHWAVE" for a fictional drink brand in the top corner, a short tagline "Cold. Bright. Peachy." near the bottom. Warm energetic peach-to-coral gradient background, glossy realistic glass, commercial lighting, clean social-media-ready layout, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- 原作者: [@Ziha_ai](https://x.com/Ziha_ai)
+- 原帖: https://x.com/Ziha_ai/status/2068929219133112758
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/freshness-splash-iced-tea-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 复古可乐瓶产品海报
+
+<a href="https://cinel.ai/zh/prompts/p/retro-cola-bottle-product-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/retro-cola-bottle-product-poster.webp" alt="复古可乐瓶产品海报" width="480"></a>
+
+> 根据 @Diplomeme 于 2026-05-01 的提示词+图片帖改写（记录时 201 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Retro product mockup poster fusing 1950s advertising language with ultra-premium product rendering for a fictional cola brand "FIZZWELL". A curvy glass bottle of cola at a 3/4 angle, slightly tilted, resting on a glossy wet reflective surface with ice cubes, melt water and a frozen splash arc behind it. Deep cola liquid with amber highlights, dense condensation droplets, micro bubbles, slightly aged label printed with FIZZWELL. Deep red gradient background with faded vintage sunburst rays, paper grain, halftone noise and dark vignette. Typography: massive condensed cream headline "REFRESH", a warm-yellow script "Enjoy", an italic serif tagline "Ice cold since 1953", a vintage starburst badge "ICE COLD", and a bottom strip "CLASSIC • ORIGINAL TASTE • SERVE COLD". Warm key light, cool rim light, backlight glow through the liquid, film grain, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- 原作者: [@Diplomeme](https://x.com/Diplomeme)
+- 原帖: https://x.com/Diplomeme/status/2050273417321177226
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/retro-cola-bottle-product-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 香水广告分镜表
+
+<a href="https://cinel.ai/zh/prompts/p/perfume-commercial-storyboard-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/perfume-commercial-storyboard-sheet.webp" alt="香水广告分镜表" width="480"></a>
+
+> 根据 @Strength04_X 于 2026-09-10 的提示词+图片帖改写（记录时 196 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Single-page premium storyboard sheet for a luxury rose perfume commercial for a fictional fragrance "ROSALIE BLOOM". Clean editorial grid of 9 cinematic product panels with thin borders and small numbered tabs, plus a compact header with bold elegant title and small info cards: "Duration 20s", "Style: Soft Luxury", "Audio: glass tap + soft spray". Panels: bottle alone on glossy white surface; macro of crystal glass and cap; soft pink light sweep; cap lifting with a sparkle; liquid swirling; fine mist spray; rose petals floating; bottle rotating; final hero shot with petals and pink glow. The bottle is a rounded pebble-shaped pink glass flacon with a domed rose-gold cap; same bottle shape, cap and label in every frame, white-pink gradient environment, champagne highlights, ultra-realistic beauty advertising, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- 原作者: [@Strength04_X](https://x.com/Strength04_X)
+- 原帖: https://x.com/Strength04_X/status/2097919290980921451
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/perfume-commercial-storyboard-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 家居日用品促销版式
+
+<a href="https://cinel.ai/zh/prompts/p/home-care-product-promo-layout?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/home-care-product-promo-layout.webp" alt="家居日用品促销版式" width="480"></a>
+
+> 根据 @PixuryAI 于 2026-06-02 的提示词+图片帖改写（记录时 84 赞）。我们改成一张干净的1:1方形设计，品牌名均为虚构，不含真实Logo，也不需要上传你的照片或Logo。一次只改一个变量。
+
+```text
+Premium daily-necessities social media marketing poster for a fictional laundry detergent "CLOUDWASH" in a soft blue bottle. Warm, bright modern home scene with soft natural daylight: a folded stack of fresh white towels and a linen basket on a light wood shelf in the background. The product stands prominently in the foreground, slightly tilted toward camera, with a smaller refill pouch at lower middle, surrounded by a dynamic circular geometric layout, gentle water splash, floating soap bubbles and fine particles with a soft halo. Small UI-style efficacy labels with icons: "Deep clean", "Gentle on skin", "Fresh 72h", one data badge "99% stain removal" and a pill button "Shop now". Extra-bold headline "Soft. Clean. Home." in clear space at the upper left. Clean high-end hierarchy, glossy realistic packaging, crisp readable text, no real brands. Square 1:1 composition.
+```
+
+- 原作者: [@PixuryAI](https://x.com/PixuryAI)
+- 原帖: https://x.com/PixuryAI/status/2061657972145635434
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/home-care-product-promo-layout?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

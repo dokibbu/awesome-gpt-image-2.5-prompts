@@ -13,26 +13,26 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Eine kuratierte Liste mit **492** GPT Image 2.5-Prompts. Jeder Eintrag enthält ein Beispielbild, den vollständigen Prompt und die Nennung des Originalautors mit Link zum Originalbeitrag. Die Daten stammen aus der Prompt-Bibliothek von [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) und werden automatisch synchronisiert.
+Eine kuratierte Liste mit **522** GPT Image 2.5-Prompts. Jeder Eintrag enthält ein Beispielbild, den vollständigen Prompt und die Nennung des Originalautors mit Link zum Originalbeitrag. Die Daten stammen aus der Prompt-Bibliothek von [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) und werden automatisch synchronisiert.
 
 👉 [Alle ansehen und online generieren auf cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ## Inhalt
 
-- [Porträt & Headshot](#portrait) (78) · [alle](cases/portrait.md)
-- [Produkt & E-Commerce](#product-photography) (41) · [alle](cases/product-photography.md)
-- [Poster, Logos & Grafikdesign](#poster-design) (42) · [alle](cases/poster-design.md)
-- [Infografiken & UI](#infographic-ui) (26) · [alle](cases/infographic-ui.md)
+- [Porträt & Headshot](#portrait) (79) · [alle](cases/portrait.md)
+- [Produkt & E-Commerce](#product-photography) (46) · [alle](cases/product-photography.md)
+- [Poster, Logos & Grafikdesign](#poster-design) (53) · [alle](cases/poster-design.md)
+- [Infografiken & UI](#infographic-ui) (31) · [alle](cases/infographic-ui.md)
 - [3D-Figuren & Charaktere](#3d-figurines) (54) · [alle](cases/3d-figurines.md)
-- [Essen & Trinken](#food-drink) (117) · [alle](cases/food-drink.md)
+- [Essen & Trinken](#food-drink) (124) · [alle](cases/food-drink.md)
 - [Illustration & Anime](#illustration-anime) (43) · [alle](cases/illustration-anime.md)
-- [Kreative Szenen](#scenes-creative) (91) · [alle](cases/scenes-creative.md)
+- [Kreative Szenen](#scenes-creative) (92) · [alle](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
 ## Porträt & Headshot
 
-6 ausgewählt · [Alle 78 ansehen](cases/portrait.md) · [Kategorie auf cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 ausgewählt · [Alle 79 ansehen](cases/portrait.md) · [Kategorie auf cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Olive Velvet Saree High-Fashion Studio Portrait
 
@@ -307,7 +307,7 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 ## Produkt & E-Commerce
 
-6 ausgewählt · [Alle 41 ansehen](cases/product-photography.md) · [Kategorie auf cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 ausgewählt · [Alle 46 ansehen](cases/product-photography.md) · [Kategorie auf cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -522,7 +522,7 @@ A high-end editorial photo of a amber glass face-oil bottle with a dropper place
 
 ## Poster, Logos & Grafikdesign
 
-6 ausgewählt · [Alle 42 ansehen](cases/poster-design.md) · [Kategorie auf cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 ausgewählt · [Alle 53 ansehen](cases/poster-design.md) · [Kategorie auf cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sports Tribute Double-Exposure Collage Poster Prompt
 
@@ -783,7 +783,7 @@ Make the aspect ratio 9:16
 
 ## Infografiken & UI
 
-6 ausgewählt · [Alle 26 ansehen](cases/infographic-ui.md) · [Kategorie auf cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 ausgewählt · [Alle 31 ansehen](cases/infographic-ui.md) · [Kategorie auf cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -1105,7 +1105,7 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## Essen & Trinken
 
-6 ausgewählt · [Alle 117 ansehen](cases/food-drink.md) · [Kategorie auf cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 ausgewählt · [Alle 124 ansehen](cases/food-drink.md) · [Kategorie auf cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
@@ -1526,7 +1526,7 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 ## Kreative Szenen
 
-6 ausgewählt · [Alle 91 ansehen](cases/scenes-creative.md) · [Kategorie auf cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 ausgewählt · [Alle 92 ansehen](cases/scenes-creative.md) · [Kategorie auf cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 

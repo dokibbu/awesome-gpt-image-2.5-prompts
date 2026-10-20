@@ -13,26 +13,26 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-精選 **492** 條 GPT Image 2.5 提示詞，每條都附示例圖、完整提示詞、原作者和原帖連結。資料來自 [cinel.ai](https://cinel.ai/zh-hant/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示詞庫，自動同步更新。
+精選 **522** 條 GPT Image 2.5 提示詞，每條都附示例圖、完整提示詞、原作者和原帖連結。資料來自 [cinel.ai](https://cinel.ai/zh-hant/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示詞庫，自動同步更新。
 
 👉 [在 cinel.ai 瀏覽全部並線上生成](https://cinel.ai/zh-hant/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ## 目錄
 
-- [人像寫真](#portrait) (78) · [全部](cases/portrait.md)
-- [產品與電商](#product-photography) (41) · [全部](cases/product-photography.md)
-- [海報與平面設計](#poster-design) (42) · [全部](cases/poster-design.md)
-- [資訊圖與 UI](#infographic-ui) (26) · [全部](cases/infographic-ui.md)
+- [人像寫真](#portrait) (79) · [全部](cases/portrait.md)
+- [產品與電商](#product-photography) (46) · [全部](cases/product-photography.md)
+- [海報與平面設計](#poster-design) (53) · [全部](cases/poster-design.md)
+- [資訊圖與 UI](#infographic-ui) (31) · [全部](cases/infographic-ui.md)
 - [3D 角色與公仔](#3d-figurines) (54) · [全部](cases/3d-figurines.md)
-- [美食飲品](#food-drink) (117) · [全部](cases/food-drink.md)
+- [美食飲品](#food-drink) (124) · [全部](cases/food-drink.md)
 - [插畫與動漫](#illustration-anime) (43) · [全部](cases/illustration-anime.md)
-- [創意場景](#scenes-creative) (91) · [全部](cases/scenes-creative.md)
+- [創意場景](#scenes-creative) (92) · [全部](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
 ## 人像寫真
 
-精選 6 條 · [查看本類全部 78 條](cases/portrait.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精選 6 條 · [查看本類全部 79 條](cases/portrait.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Olive Velvet Saree High-Fashion Studio Portrait
 
@@ -307,7 +307,7 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 ## 產品與電商
 
-精選 6 條 · [查看本類全部 41 條](cases/product-photography.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精選 6 條 · [查看本類全部 46 條](cases/product-photography.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -522,7 +522,7 @@ A high-end editorial photo of a amber glass face-oil bottle with a dropper place
 
 ## 海報與平面設計
 
-精選 6 條 · [查看本類全部 42 條](cases/poster-design.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精選 6 條 · [查看本類全部 53 條](cases/poster-design.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sports Tribute Double-Exposure Collage Poster Prompt
 
@@ -783,7 +783,7 @@ Make the aspect ratio 9:16
 
 ## 資訊圖與 UI
 
-精選 6 條 · [查看本類全部 26 條](cases/infographic-ui.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精選 6 條 · [查看本類全部 31 條](cases/infographic-ui.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -1105,7 +1105,7 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## 美食飲品
 
-精選 6 條 · [查看本類全部 117 條](cases/food-drink.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精選 6 條 · [查看本類全部 124 條](cases/food-drink.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
@@ -1526,7 +1526,7 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 ## 創意場景
 
-精選 6 條 · [查看本類全部 91 條](cases/scenes-creative.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精選 6 條 · [查看本類全部 92 條](cases/scenes-creative.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 
