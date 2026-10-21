@@ -1,6 +1,6 @@
 # 3D Characters & Figurines · GPT Image 2.5
 
-[← README](../README.md) · 54 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 60 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1070,3 +1070,152 @@ Handcrafted paper sculpture diorama, square 1:1: a tall witch figure folded and 
 - Author: [@minuitIA](https://x.com/minuitIA)
 - Original post: https://x.com/minuitIA/status/2111510286805131671
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/papercraft-halloween-witch-cottage-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### City Diorama With Soil Cross-Section
+
+<a href="https://cinel.ai/prompts/p/city-soil-cross-section-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/city-soil-cross-section-diorama.webp" alt="City Diorama With Soil Cross-Section" width="480"></a>
+
+> A popular city template from @kaanakz that many creators reused for their own hometowns: the city sits on a square block lifted out of the earth, with an exposed cross-section of soil, rocks and roots underneath and a whimsical cityscape of iconic landmarks and cultural details on top, plus a clean white city label. We filled it with Kyoto. Great for geography lessons, travel content and city series.
+
+```text
+Hyper-realistic 3D square diorama of Kyoto, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of Kyoto. Modern white “Kyoto” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. square 1:1 composition
+```
+
+- Author: [@kaanakz](https://x.com/kaanakz)
+- Original post: https://x.com/kaanakz/status/1997303209111535773
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/city-soil-cross-section-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Isometric Building Cutaway Slice
+
+<a href="https://cinel.ai/prompts/p/commercial-building-cutaway-slice?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/commercial-building-cutaway-slice.webp" alt="Isometric Building Cutaway Slice" width="480"></a>
+
+> A six-slot template from @aleenaamiir for showing how a building works inside: a clean isometric section with a cutaway wall, simple structural frame, subtle informational signage, smooth finishes, soft studio light and a miniature architectural-model look on a neutral background. We filled it with a neighborhood bakery café with ovens, counters and a rooftop herb garden. Great for architecture explainers, floor-plan teasers and icon series.
+
+```text
+A clean, minimal 3D isometric diorama of a neighborhood bakery and café section, featuring ovens, display counters, seating and a rooftop herb garden visible in a front-wall cutaway style, simple white steel frame, subtle small floor labels, smooth matte plaster and warm wood finish, soft studio lighting, realistic materials, rounded edges, miniature architectural model style, high detail, neutral background.
+```
+
+- Author: [@aleenaamiir](https://x.com/aleenaamiir)
+- Original post: https://x.com/aleenaamiir/status/2012072821439283400
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/commercial-building-cutaway-slice?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Product Assembly Clay Island Diorama
+
+<a href="https://cinel.ai/prompts/p/product-assembly-clay-island-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/product-assembly-clay-island-diorama.webp" alt="Product Assembly Clay Island Diorama" width="480"></a>
+
+> A playful explainer template from @0x00_Krypt: the product is oversized and exploded into its key layers above a multi-tier floating island, linked by glowing dashed lines and scaffolding, while tiny clay-style workers carry screws, wave wrenches and run a crane. Soft Blender/C4D materials, a bold rounded title with a function subtitle and three background options. We filled it with a generic instant film camera on soft peach. Great for how-it's-made posts and product education.
+
+```text
+Create a playful and educational 3D isometric miniature diorama explaining the assembly of Instant Film Camera.
+
+Style & Material:Use a "3D illustration" style typical of Blender 3D or C4D. Materials should look like matte clay, soft resin, and smooth plastic. Avoid harsh photorealism; aim for a tactile, toy-like aesthetic with soft, warm global illumination and rounded edges.
+
+The Scene (The "Exploded" View):Instead of a technical blueprint, create a multi-tiered floating island. The Instant Film Camera is oversized and "exploded" into key layers (shell, battery, circuit board, lens, etc.) that are floating slightly apart, connected by glowing dashed energy lines or miniature scaffolding.
+
+Characters (The "Soul"):Populate the scene with tiny stylized 3D figures (cute proportions, minimal features). They are actively building the product:
+
+Some are carrying oversized screws or components.
+
+Some are holding giant wrenches or clipboards.
+
+Maybe one is sliding down a cable or directing a crane.
+
+(Make them look busy and purposeful, like a construction crew).
+
+Background & Color:Use a clean solid background color that is soft peach pastel (Option A). The base of the island should have a subtle texture (like wood, concrete, or tech-grid) but with a thick, satisfying cross-section.
+
+Text:At the top-center, display Instant Film Camera in bold, rounded 3D typography, with a subtitle below explaining the core function.
+
+Background Logic (Option A chosen):
+
+Option A (Pop): Soft pastel color contrasting with the product.
+
+Option B (Tech): Deep matte navy or charcoal for glowing elements to pop.
+
+Option C (Studio): Clean soft grey or off-white for a museum feel.
+```
+
+- Author: [@0x00_Krypt](https://x.com/0x00_Krypt)
+- Original post: https://x.com/0x00_Krypt/status/2014297677773828368
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/product-assembly-clay-island-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Building Exploded-View Model Diorama
+
+<a href="https://cinel.ai/prompts/p/building-exploded-view-model-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/building-exploded-view-model-diorama.webp" alt="Building Exploded-View Model Diorama" width="480"></a>
+
+> A structured architecture prompt from @Gdgtify: the building is exploded into three systems (facade skin, steel structure, foundation and utilities) stacked vertically on a drafting table, with section lines showing load paths, while 1:87-scale model makers cut foam core, glue balsa and place floor plates with tiny cranes. Basswood, acrylic and brass textures under studio track lights. We filled it with a generic Gothic stone cathedral. Great for architecture classes and building explainers.
+
+```text
+Input Variable: a classic Gothic stone cathedral
+System Instruction:
+Generate a hyper-realistic, isometric 3D "Exploded View" diorama showing the Input Building deconstructed into its structural systems with an architectural model-making crew assembling a scale version.
+1. Semantic Engineering Analysis:
+
+Layer 1 (The Skin): Exterior facade panels, windows, cladding, roofing, entrance canopy
+Layer 2 (The Structure): Steel framework, floor plates, columns, beams, elevator shafts, stairwells, mechanical systems
+Layer 3 (The Foundation): Basement levels, support pillars, utility conduits, HVAC units, individual rivets/bolts, rebar cages
+
+2.   Container:
+
+Surface: Architect's drafting table with cutting mats and T-squares
+Layout: Building layers stacked vertically showing ground-up construction sequence
+Connections: White architectural section lines showing structural load paths and circulation
+Additional Elements: Blueprint sheets, scale rulers, material samples, elevation drawings
+
+3.  Micro-Narrative:
+
+CRITICAL: This is meta - tiny workers building a model that's being built by tiny workers. Recursive scale concept.
+Workers: 1:87 scale model makers in black turtlenecks (architect stereotype)
+Equipment: Laser cutters, 3D printers, basswood cutting stations, acrylic gluing rigs, miniature cranes positioning floor plates
+Interaction: Architects cutting foam core, assembling balsa wood frames, installing tiny windows, spray painting facades, arranging scale furniture
+
+4. Visual Syntax & Material Physics:
+
+Materials: Basswood grain, clear acrylic sheets, white foam core, brass rod framework, museum board textures
+Lighting: Architecture studio track lighting creating dramatic model shadows
+Special Effects: Glue strands, wood shavings, spray paint mist, laser cutter burn marks
+Output: Elevated three-quarter view, architectural presentation, 1:1 ratio, 8K, architecture model photography aesthetic
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2018906863266345105
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/building-exploded-view-model-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Monument Isometric Cross-Section
+
+<a href="https://cinel.ai/prompts/p/monument-isometric-cross-section?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/monument-isometric-cross-section.webp" alt="Monument Isometric Cross-Section" width="480"></a>
+
+> A compact prompt from @CharaspowerAI: an isometric cross-section of an iconic monument together with landscape elements of its country, rendered as a hyper-realistic 3D diorama. The cut reveals what is inside and below. We filled it with an ancient Egyptian pyramid beside the Nile, palm groves and dunes, showing its inner chambers and passages. Great for history lessons and travel explainers.
+
+```text
+isometric cross-section of an ancient Egyptian pyramid with the Nile river, palm groves and desert dunes, revealing its inner burial chambers and passages, in isometric perspective, a diorama, hyper-realistic, detailed, 3d render, high-resolution photography.
+```
+
+- Author: [@CharaspowerAI](https://x.com/CharaspowerAI)
+- Original post: https://x.com/CharaspowerAI/status/2034683852480745799
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/monument-isometric-cross-section?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Inside the Machine Cutaway Diorama
+
+<a href="https://cinel.ai/prompts/p/inside-the-machine-cutaway-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/inside-the-machine-cutaway-diorama.webp" alt="Inside the Machine Cutaway Diorama" width="480"></a>
+
+> An educational template from @aleenaamiir's isometric diorama series: a 45° top-down miniature cutaway of a machine or device on a raised base, with internal components, wiring, gears and energy-flow paths visible, tiny faceless technicians at work, a solid background and a bold title, technical subtitle and engineering icon that auto-contrast. We filled it with a hydroelectric power plant on deep teal. Great for STEM explainers and science posts.
+
+```text
+Create a clear, 45° top-down isometric miniature 3D cutaway diorama showing the inside of a hydroelectric power plant.
+
+Use soft refined textures, realistic PBR materials, and clean technical lighting.
+
+Design a raised base with visible internal components, wiring, gears, or energy flow paths.
+Include tiny stylized technicians interacting with the machinery (no facial details).
+
+Use a clean solid deep teal background.
+
+At the top-center, display HYDROELECTRIC PLANT in large bold text, beneath it show a short technical subtitle, and place a minimal engineering icon below.
+
+All text must automatically match the background contrast (white or black).
+```
+
+- Author: [@aleenaamiir](https://x.com/aleenaamiir)
+- Original post: https://x.com/aleenaamiir/status/2018147539992862866
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/inside-the-machine-cutaway-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

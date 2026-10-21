@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-精选 **522** 条 GPT Image 2.5 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示词库，自动同步更新。
+精选 **532** 条 GPT Image 2.5 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示词库，自动同步更新。
 
 👉 [在 cinel.ai 浏览全部并在线生成](https://cinel.ai/zh/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -22,11 +22,11 @@
 - [人像写真](#portrait) (79) · [全部](cases/zh/portrait.md)
 - [产品与电商](#product-photography) (46) · [全部](cases/zh/product-photography.md)
 - [海报与平面设计](#poster-design) (53) · [全部](cases/zh/poster-design.md)
-- [信息图与 UI](#infographic-ui) (31) · [全部](cases/zh/infographic-ui.md)
-- [3D 角色与手办](#3d-figurines) (54) · [全部](cases/zh/3d-figurines.md)
+- [信息图与 UI](#infographic-ui) (34) · [全部](cases/zh/infographic-ui.md)
+- [3D 角色与手办](#3d-figurines) (60) · [全部](cases/zh/3d-figurines.md)
 - [美食饮品](#food-drink) (124) · [全部](cases/zh/food-drink.md)
 - [插画与动漫](#illustration-anime) (43) · [全部](cases/zh/illustration-anime.md)
-- [创意场景](#scenes-creative) (92) · [全部](cases/zh/scenes-creative.md)
+- [创意场景](#scenes-creative) (93) · [全部](cases/zh/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -783,7 +783,7 @@ Make the aspect ratio 9:16
 
 ## 信息图与 UI
 
-精选 6 条 · [查看本类全部 31 条](cases/zh/infographic-ui.md) · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 34 条](cases/zh/infographic-ui.md) · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D 国家旅行指南地图信息图提示词
 
@@ -916,7 +916,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## 3D 角色与手办
 
-精选 6 条 · [查看本类全部 54 条](cases/zh/3d-figurines.md) · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 60 条](cases/zh/3d-figurines.md) · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 照片转极简 3D 玩具角色风格提示词
 
@@ -1526,7 +1526,7 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 ## 创意场景
 
-精选 6 条 · [查看本类全部 92 条](cases/zh/scenes-creative.md) · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 93 条](cases/zh/scenes-creative.md) · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 巨型钢笔写出书中世界的魔幻场景提示词
 

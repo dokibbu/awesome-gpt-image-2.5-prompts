@@ -1,6 +1,6 @@
 # 3D 角色与手办 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 54 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 60 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 照片转极简 3D 玩具角色风格提示词
 
@@ -1070,3 +1070,152 @@ Handcrafted paper sculpture diorama, square 1:1: a tall witch figure folded and 
 - 原作者: [@minuitIA](https://x.com/minuitIA)
 - 原帖: https://x.com/minuitIA/status/2111510286805131671
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/papercraft-halloween-witch-cottage-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 带土层剖面的城市立体模型
+
+<a href="https://cinel.ai/zh/prompts/p/city-soil-cross-section-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/city-soil-cross-section-diorama.webp" alt="带土层剖面的城市立体模型" width="480"></a>
+
+> 来自 @kaanakz 的热门城市模板，很多创作者拿它做自己的家乡：城市坐落在一块从大地中切出的方形土块上，下方露出土壤、岩石和树根的剖面，上方是充满童话感的标志性地标与文化细节，并配一个简洁的白色城市名标签。我们填入了京都。适合地理课、旅行内容和城市系列图。
+
+```text
+Hyper-realistic 3D square diorama of Kyoto, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of Kyoto. Modern white “Kyoto” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. square 1:1 composition
+```
+
+- 原作者: [@kaanakz](https://x.com/kaanakz)
+- 原帖: https://x.com/kaanakz/status/1997303209111535773
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/city-soil-cross-section-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 等距建筑剖切立体模型
+
+<a href="https://cinel.ai/zh/prompts/p/commercial-building-cutaway-slice?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/commercial-building-cutaway-slice.webp" alt="等距建筑剖切立体模型" width="480"></a>
+
+> 来自 @aleenaamiir 的六变量模板，用来展示建筑内部如何运转：干净的等距剖切，前墙打开露出内部，简洁结构框架，低调的信息标识，光滑材质，柔和棚灯，中性背景上的建筑微缩模型质感。我们填入了街角面包咖啡馆，有烤炉、柜台、座位和屋顶香草园。适合建筑科普、平面图预告和图标系列。
+
+```text
+A clean, minimal 3D isometric diorama of a neighborhood bakery and café section, featuring ovens, display counters, seating and a rooftop herb garden visible in a front-wall cutaway style, simple white steel frame, subtle small floor labels, smooth matte plaster and warm wood finish, soft studio lighting, realistic materials, rounded edges, miniature architectural model style, high detail, neutral background.
+```
+
+- 原作者: [@aleenaamiir](https://x.com/aleenaamiir)
+- 原帖: https://x.com/aleenaamiir/status/2012072821439283400
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/commercial-building-cutaway-slice?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 产品组装黏土浮岛模型
+
+<a href="https://cinel.ai/zh/prompts/p/product-assembly-clay-island-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/product-assembly-clay-island-diorama.webp" alt="产品组装黏土浮岛模型" width="480"></a>
+
+> 来自 @0x00_Krypt 的趣味拆解模板：产品被放大并在多层浮岛上方拆成关键层（外壳、电池、电路板、镜头等），用发光虚线和小脚手架相连，黏土风小人搬螺丝、扛扳手、开吊车。Blender/C4D 式柔和材质，顶部是圆润粗体标题和功能副标题，还有三种背景方案。我们填入了通用款拍立得相机，配柔和蜜桃色背景。适合“产品是怎么做出来的”科普和产品教育。
+
+```text
+Create a playful and educational 3D isometric miniature diorama explaining the assembly of Instant Film Camera.
+
+Style & Material:Use a "3D illustration" style typical of Blender 3D or C4D. Materials should look like matte clay, soft resin, and smooth plastic. Avoid harsh photorealism; aim for a tactile, toy-like aesthetic with soft, warm global illumination and rounded edges.
+
+The Scene (The "Exploded" View):Instead of a technical blueprint, create a multi-tiered floating island. The Instant Film Camera is oversized and "exploded" into key layers (shell, battery, circuit board, lens, etc.) that are floating slightly apart, connected by glowing dashed energy lines or miniature scaffolding.
+
+Characters (The "Soul"):Populate the scene with tiny stylized 3D figures (cute proportions, minimal features). They are actively building the product:
+
+Some are carrying oversized screws or components.
+
+Some are holding giant wrenches or clipboards.
+
+Maybe one is sliding down a cable or directing a crane.
+
+(Make them look busy and purposeful, like a construction crew).
+
+Background & Color:Use a clean solid background color that is soft peach pastel (Option A). The base of the island should have a subtle texture (like wood, concrete, or tech-grid) but with a thick, satisfying cross-section.
+
+Text:At the top-center, display Instant Film Camera in bold, rounded 3D typography, with a subtitle below explaining the core function.
+
+Background Logic (Option A chosen):
+
+Option A (Pop): Soft pastel color contrasting with the product.
+
+Option B (Tech): Deep matte navy or charcoal for glowing elements to pop.
+
+Option C (Studio): Clean soft grey or off-white for a museum feel.
+```
+
+- 原作者: [@0x00_Krypt](https://x.com/0x00_Krypt)
+- 原帖: https://x.com/0x00_Krypt/status/2014297677773828368
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/product-assembly-clay-island-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 建筑爆炸视图模型立体场景
+
+<a href="https://cinel.ai/zh/prompts/p/building-exploded-view-model-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/building-exploded-view-model-diorama.webp" alt="建筑爆炸视图模型立体场景" width="480"></a>
+
+> 来自 @Gdgtify 的结构化建筑提示词：建筑被拆成三套系统（外立面、钢结构、基础与设备），在绘图桌上自下而上叠放，白色剖面线标出受力路径；1:87 比例的模型师们切泡沫板、粘轻木、用小吊车安放楼板。椴木、亚克力和黄铜质感，工作室轨道灯照明。我们填入了通用的哥特式石砌大教堂。适合建筑课和建筑结构讲解。
+
+```text
+Input Variable: a classic Gothic stone cathedral
+System Instruction:
+Generate a hyper-realistic, isometric 3D "Exploded View" diorama showing the Input Building deconstructed into its structural systems with an architectural model-making crew assembling a scale version.
+1. Semantic Engineering Analysis:
+
+Layer 1 (The Skin): Exterior facade panels, windows, cladding, roofing, entrance canopy
+Layer 2 (The Structure): Steel framework, floor plates, columns, beams, elevator shafts, stairwells, mechanical systems
+Layer 3 (The Foundation): Basement levels, support pillars, utility conduits, HVAC units, individual rivets/bolts, rebar cages
+
+2.   Container:
+
+Surface: Architect's drafting table with cutting mats and T-squares
+Layout: Building layers stacked vertically showing ground-up construction sequence
+Connections: White architectural section lines showing structural load paths and circulation
+Additional Elements: Blueprint sheets, scale rulers, material samples, elevation drawings
+
+3.  Micro-Narrative:
+
+CRITICAL: This is meta - tiny workers building a model that's being built by tiny workers. Recursive scale concept.
+Workers: 1:87 scale model makers in black turtlenecks (architect stereotype)
+Equipment: Laser cutters, 3D printers, basswood cutting stations, acrylic gluing rigs, miniature cranes positioning floor plates
+Interaction: Architects cutting foam core, assembling balsa wood frames, installing tiny windows, spray painting facades, arranging scale furniture
+
+4. Visual Syntax & Material Physics:
+
+Materials: Basswood grain, clear acrylic sheets, white foam core, brass rod framework, museum board textures
+Lighting: Architecture studio track lighting creating dramatic model shadows
+Special Effects: Glue strands, wood shavings, spray paint mist, laser cutter burn marks
+Output: Elevated three-quarter view, architectural presentation, 1:1 ratio, 8K, architecture model photography aesthetic
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2018906863266345105
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/building-exploded-view-model-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 古迹等距剖面立体模型
+
+<a href="https://cinel.ai/zh/prompts/p/monument-isometric-cross-section?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/monument-isometric-cross-section.webp" alt="古迹等距剖面立体模型" width="480"></a>
+
+> 来自 @CharaspowerAI 的精简提示词：标志性古迹连同所在国家的地貌元素，做成等距剖面的超写实 3D 立体模型，剖开后能看到内部和地下结构。我们填入了尼罗河畔的古埃及金字塔，周围是棕榈林和沙丘，露出内部墓室与通道。适合历史课和旅行科普。
+
+```text
+isometric cross-section of an ancient Egyptian pyramid with the Nile river, palm groves and desert dunes, revealing its inner burial chambers and passages, in isometric perspective, a diorama, hyper-realistic, detailed, 3d render, high-resolution photography.
+```
+
+- 原作者: [@CharaspowerAI](https://x.com/CharaspowerAI)
+- 原帖: https://x.com/CharaspowerAI/status/2034683852480745799
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/monument-isometric-cross-section?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 机器内部剖面立体模型
+
+<a href="https://cinel.ai/zh/prompts/p/inside-the-machine-cutaway-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/inside-the-machine-cutaway-diorama.webp" alt="机器内部剖面立体模型" width="480"></a>
+
+> 来自 @aleenaamiir 等距模型系列的教育向模板：45° 俯视的微缩机器剖面模型，放在抬高的底座上，内部零件、线路、齿轮和能量流线清晰可见，小小的无脸技术员在工作；纯色背景，顶部是粗体标题、技术副标题和工程图标，文字自动适配背景对比度。我们填入了深青色背景上的水力发电站。适合 STEM 科普和科学帖子。
+
+```text
+Create a clear, 45° top-down isometric miniature 3D cutaway diorama showing the inside of a hydroelectric power plant.
+
+Use soft refined textures, realistic PBR materials, and clean technical lighting.
+
+Design a raised base with visible internal components, wiring, gears, or energy flow paths.
+Include tiny stylized technicians interacting with the machinery (no facial details).
+
+Use a clean solid deep teal background.
+
+At the top-center, display HYDROELECTRIC PLANT in large bold text, beneath it show a short technical subtitle, and place a minimal engineering icon below.
+
+All text must automatically match the background contrast (white or black).
+```
+
+- 原作者: [@aleenaamiir](https://x.com/aleenaamiir)
+- 原帖: https://x.com/aleenaamiir/status/2018147539992862866
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/inside-the-machine-cutaway-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

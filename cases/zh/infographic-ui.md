@@ -1,6 +1,6 @@
 # 信息图与 UI · GPT Image 2.5
 
-[← README](../../README_zh.md) · 31 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 34 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D 国家旅行指南地图信息图提示词
 
@@ -1047,3 +1047,130 @@ One brand proposal page showing the menu and ordering system for a fictional bag
 - 原作者: [@MrLarus](https://x.com/MrLarus)
 - 原帖: https://x.com/MrLarus/status/2063889572308631775
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/bagel-cafe-menu-ordering-system-page?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 工程手册式交通工具信息图
+
+<a href="https://cinel.ai/zh/prompts/p/engineering-handbook-transport-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/engineering-handbook-transport-infographic.webp" alt="工程手册式交通工具信息图" width="480"></a>
+
+> 来自 @john_my07、被大量转用的 GPT Image 2 提示词：围绕一种交通工具生成博物馆级参考页。中央是超精细的四分之三视角渲染，细标注线指向动力、空气动力学和安全系统，周围是圆角模块卡片，展示参数、发展时间线、趣味事实和剖面图，背景是柔和的蓝图纹理。我们填入了通用款高速电动列车。适合科普帖子、课堂讲义和交通爱好者主页。
+
+```text
+Create a premium square “reference-style transportation infographic” centered around fictional generic high-speed electric train (original design, all labels in English), designed as a beautifully curated engineering handbook page rather than a commercial poster.
+The composition should feel like a modern visual encyclopedia mixed with a high-end industrial design manual and elite editorial infographic system.
+Visual Direction:
+• 1:1 square composition
+• Soft light-toned technical background with subtle blueprint textures and schematic overlays
+• Elegant muted palette using graphite gray, titanium silver, deep navy, steel blue, and soft white accents
+• Refined editorial typography hierarchy
+• Rounded modular information cards with clean spacing
+• Gentle realistic shadows and premium UI-style dividers
+• Minimal technical iconography
+• Extremely detailed central vehicle render viewed in dramatic three-quarter perspective
+• Thin precision annotation lines pointing toward engineering systems and structural details
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+Main Subject Presentation:
+A stunning ultra-detailed realistic render of the high-speed electric train placed at the center, featuring highly accurate materials, reflections, panel lines, aerodynamic shaping, lighting systems, mechanical detailing, and premium industrial realism.
+Surround the vehicle with scientific callouts and magnified detail circles explaining features such as:
+• propulsion system
+• aerodynamic engineering
+• chassis/body structure
+• cockpit or driver controls
+• suspension systems
+• safety technology
+• thermal/cooling systems
+• fuel or energy management
+• passenger or operational systems
+• structural engineering innovations
+Include modular infographic sections such as:
+• Vehicle Overview
+• Technical Specifications
+• Performance statistics
+• Engine / powertrain system
+• Structural engineering breakdown
+• Safety systems
+• Aerodynamics and airflow
+• Operating conditions
+• Advantages vs limitations
+• Development timeline
+• Engineering innovations
+• Mission / usage profile
+• Environmental efficiency
+• Route or operational map
+• Interior design highlights
+• “Top 5 Incredible Facts” section
+• Legacy and influence on modern engineering
+Add small premium visualization modules like:
+• performance charts
+• speed or power gauges
+• thermal visualization diagrams
+• airflow breakdown graphics
+• cutaway engineering diagrams
+• miniature blueprint side views
+• comparison charts
+• system flow diagrams
+• operational workflow graphics
+Style Keywords:
+“premium engineering encyclopedia”
+“editorial transportation handbook”
+“high-end industrial infographic”
+“museum-quality reference page”
+“scientific transportation poster”
+“modular technical knowledge system”
+“clean editorial infographic design”
+“ultra-detailed engineering visualization”
+Avoid:
+• action movie poster aesthetics
+• dramatic explosions or cinematic destruction
+• heavy grunge textures
+• cluttered layouts
+• propaganda styling
+• generic advertising poster composition
+The final result should resemble a professionally published engineering reference-book page created for enthusiasts, collectors, designers, and educational archives.
+```
+
+- 原作者: [@john_my07](https://x.com/john_my07)
+- 原帖: https://x.com/john_my07/status/2052697683916419169
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/engineering-handbook-transport-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 杂志风 3D 剖面信息图
+
+<a href="https://cinel.ai/zh/prompts/p/magazine-cutaway-infographic-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/magazine-cutaway-infographic-zh.webp" alt="杂志风 3D 剖面信息图" width="480"></a>
+
+> 来自 @ZeroZ_JQ 的一句话中文提示词，说明短咒语也能出专业效果：要求 3D cutaway 剖面信息图 / 等距插画风格，像杂志里那种带大量标注的剖面图，再给一个主题即可。我们用的是“蜂巢内部如何运作”。适合科普讲解、儿童内容和快速概念图。
+
+```text
+我要一张 3D cutaway infographic / isometric illustration，像杂志里那种带大量标注的剖面信息图。内容关蜂巢内部如何运作
+```
+
+- 原作者: [@ZeroZ_JQ](https://x.com/ZeroZ_JQ)
+- 原帖: https://x.com/ZeroZ_JQ/status/1997841693765480494
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/magazine-cutaway-infographic-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 等距城市天气卡片
+
+<a href="https://cinel.ai/zh/prompts/p/isometric-city-weather-card-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/isometric-city-weather-card-zh.webp" alt="等距城市天气卡片" width="480"></a>
+
+> 由 @ttmouse 分享的中文版本，原型是流传很广的 45° 俯视等距城市天气模板，像一款天气 App 的界面：城市最具标志性的地标做成卡通微缩模型，PBR 材质柔和细腻，当前天气融入场景，上方居中放粗体城市名、天气图标、日期和温度，纯色柔光背景。我们填入了小雨中的杭州。适合每日天气帖、旅行账号和地理内容。
+
+```text
+城市名称：杭州
+呈现一幅清晰、呈45°俯视角的等距迷你3D卡通场景，展现杭州最具标志性的地标与建筑元素。采用细腻柔和的纹理搭配真实物理渲染(PBR)材质，配合自然柔和的光影效果。将当前天气（小雨）无缝融入城市环境，营造身临其境的氛围。
+
+构图简洁留白，使用纯色柔光背景。
+
+在画面上方居中位置放置粗体大标题"杭州"，其下方配显眼的天气图标，接着以小号文字显示日期「10月21日」，中号文字标注温度「18°C」。所有文本需保持居中排版与统一间距，可轻微叠盖建筑顶部。
+
+正方形画布尺寸1080×1080像素。
+
+（关键要素说明：）
+
+等距透视：采用45°斜俯视角呈现立体城市微缩景观
+风格处理：卡通化建模配合PBR材质实现细腻质感
+动态天气：渲染小雨天气特效
+信息层级：标题>天气图标>日期温度的三段式排版
+视觉平衡：建筑群与文字形成有机叠加又不喧宾夺主
+```
+
+- 原作者: [@ttmouse](https://x.com/ttmouse)
+- 原帖: https://x.com/ttmouse/status/1995243880326029556
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/isometric-city-weather-card-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

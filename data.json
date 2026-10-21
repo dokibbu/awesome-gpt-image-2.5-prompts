@@ -1,15 +1,15 @@
 {
   "model": "gpt-image-2.5",
-  "count": 522,
+  "count": 532,
   "categories": {
     "portrait": 79,
     "product-photography": 46,
     "poster-design": 53,
-    "infographic-ui": 31,
-    "3d-figurines": 54,
+    "infographic-ui": 34,
+    "3d-figurines": 60,
     "food-drink": 124,
     "illustration-anime": 43,
-    "scenes-creative": 92
+    "scenes-creative": 93
   },
   "slugs": [
     "product-mockup-storyboard-grid",
@@ -533,6 +533,16 @@
     "3d-good-vibes-quote-poster",
     "geometric-cubist-couscous-food-poster",
     "october-old-town-autumn-poster",
-    "charity-bingo-night-event-flyer"
+    "charity-bingo-night-event-flyer",
+    "engineering-handbook-transport-infographic",
+    "city-soil-cross-section-diorama",
+    "magazine-cutaway-infographic-zh",
+    "isometric-micro-world-archive-zh",
+    "isometric-city-weather-card-zh",
+    "commercial-building-cutaway-slice",
+    "product-assembly-clay-island-diorama",
+    "building-exploded-view-model-diorama",
+    "monument-isometric-cross-section",
+    "inside-the-machine-cutaway-diorama"
   ]
 }

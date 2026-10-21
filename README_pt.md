@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Uma lista selecionada de **522** prompts para GPT Image 2.5. Cada um traz uma imagem de exemplo, o prompt completo e o crédito ao autor original com link para a publicação original. Os dados vêm da biblioteca de prompts do [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) e são sincronizados automaticamente.
+Uma lista selecionada de **532** prompts para GPT Image 2.5. Cada um traz uma imagem de exemplo, o prompt completo e o crédito ao autor original com link para a publicação original. Os dados vêm da biblioteca de prompts do [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) e são sincronizados automaticamente.
 
 👉 [Ver tudo e gerar online no cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -22,11 +22,11 @@ Uma lista selecionada de **522** prompts para GPT Image 2.5. Cada um traz uma im
 - [Retrato e headshot](#portrait) (79) · [todos](cases/portrait.md)
 - [Produto e e-commerce](#product-photography) (46) · [todos](cases/product-photography.md)
 - [Pôsteres, logos e design gráfico](#poster-design) (53) · [todos](cases/poster-design.md)
-- [Infográficos e UI](#infographic-ui) (31) · [todos](cases/infographic-ui.md)
-- [Personagens e figuras 3D](#3d-figurines) (54) · [todos](cases/3d-figurines.md)
+- [Infográficos e UI](#infographic-ui) (34) · [todos](cases/infographic-ui.md)
+- [Personagens e figuras 3D](#3d-figurines) (60) · [todos](cases/3d-figurines.md)
 - [Comida e bebida](#food-drink) (124) · [todos](cases/food-drink.md)
 - [Ilustração e anime](#illustration-anime) (43) · [todos](cases/illustration-anime.md)
-- [Cenas criativas](#scenes-creative) (92) · [todos](cases/scenes-creative.md)
+- [Cenas criativas](#scenes-creative) (93) · [todos](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -783,7 +783,7 @@ Make the aspect ratio 9:16
 
 ## Infográficos e UI
 
-6 em destaque · [Ver todos os 31](cases/infographic-ui.md) · [Categoria no cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 em destaque · [Ver todos os 34](cases/infographic-ui.md) · [Categoria no cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -916,7 +916,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## Personagens e figuras 3D
 
-6 em destaque · [Ver todos os 54](cases/3d-figurines.md) · [Categoria no cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 em destaque · [Ver todos os 60](cases/3d-figurines.md) · [Categoria no cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1526,7 +1526,7 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 ## Cenas criativas
 
-6 em destaque · [Ver todos os 92](cases/scenes-creative.md) · [Categoria no cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 em destaque · [Ver todos os 93](cases/scenes-creative.md) · [Categoria no cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 

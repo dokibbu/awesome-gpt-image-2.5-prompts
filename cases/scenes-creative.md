@@ -1,6 +1,6 @@
 # Creative Scenes · GPT Image 2.5
 
-[← README](../README.md) · 92 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 93 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 
@@ -1399,3 +1399,95 @@ Top-down cozy desk flat lay near a sunrise window: a wooden table with a coffee 
 - Author: [@Taaruk_](https://x.com/Taaruk_)
 - Original post: https://x.com/Taaruk_/status/2052422212423196925
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/sunrise-desk-doodle-planner-flatlay?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Isometric Micro-World Archive Cutaway
+
+<a href="https://cinel.ai/prompts/p/isometric-micro-world-archive-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/isometric-micro-world-archive-zh.webp" alt="Isometric Micro-World Archive Cutaway" width="480"></a>
+
+> A long structured Chinese template from @MrLarus for “micro-world cutaway halls”: an isometric, sliced-open multi-level building where every room has a job (research, storage, display, energy, living), linked by stairs, pipes and walkways and packed with readable game-asset props. It feels like a management sim, a dollhouse and a kids' science book at once. We filled it with an insect research institute in mint and cream. Great for worldbuilding, science covers and series art.
+
+```text
+请根据昆虫研究所创作一张高完成度、高信息密度、适合系列化发布的「微缩世界剖面馆 / Isometric Micro-World Archive」视觉图。
+
+这不是普通房间插画，也不是单纯的建筑图，而是一张结合“等距轴测视角 + 建筑剖面结构 + 多层功能空间 + 高密度主题道具 + 微缩模型感 + 游戏场景设定集感”的主题空间总览图。画面需要像一个被剖开的微缩世界、经营模拟游戏场景、玩具屋模型或世界观设定图，让观者可以一眼看懂整体结构，又能反复观察其中的小细节。
+
+【基础设定】
+主题：昆虫研究所
+空间名称 / 品牌名：（空）
+世界观方向：自然生态 / 实验室
+建筑类型：多层实验室
+核心功能：研究、饲养与展示昆虫
+主色调：薄荷绿
+辅助色：奶油黄
+点缀色：珊瑚橙
+画幅比例：1:1
+信息密度：高密度
+整体气质：治愈、精密、科普、探索感
+
+如果某些字段没有填写，请根据昆虫研究所自动合理推导，不要让画面留空。所有内容都要围绕主题统一生成，避免加入无关元素。
+
+【画面结构】
+采用清晰的等距轴测视角 / isometric view / axonometric view，主体是一个被剖开的多层主题建筑或功能基地。观者可以同时看到建筑的正面、侧面、顶面和内部空间。整体建筑位于画面中心，占据画面主要面积，背景环境适度淡化，用来衬托主体。
+
+建筑内部需要分成多个功能区域，每个区域都要有明确用途，而不是随机堆放装饰。可以包含：
+1. 主工作区 / 核心操作区
+2. 展示区 / 收藏区 / 标本区
+3. 研究区 / 实验区 / 控制区
+4. 储藏区 / 货架区 / 物资区
+5. 生活区 / 休息区 / 小型居住区
+6. 能源区 / 机器区 / 管道区
+7. 种植区 / 培养区 / 生态区
+8. 入口区 / 运输区 / 维修区
+9. 楼梯、平台、走廊、栏杆、梯子等空间连接结构
+
+各个区域之间要通过楼梯、走廊、平台、管道、桥架或电缆形成清晰的空间关系，让画面像一个真实可以运转的小型系统。
+
+【道具与细节】
+根据昆虫研究所生成大量相关道具，并让它们分布在不同功能区中。道具需要具体、可识别、有主题关联，不能只是泛泛的装饰。每个小物件都应像游戏资产一样清晰可读，具有可点击、可互动、可收集的感觉。
+
+道具类型可以包括：
+- 主题设备：机器、仪器、工具、控制台、容器、屏幕、工作台
+- 生活物件：桌椅、书架、床铺、杯子、箱子、柜子、灯具
+- 展示物件：标本、模型、海报、说明牌、玻璃柜、陈列架
+- 连接结构：管道、电线、梯子、楼梯、输送带、滑轨、平台
+- 生态元素：植物、水箱、培养箱、土壤、树枝、岩石、标本
+- 角色元素：少量小人物、小动物、机器人或主题生物，用来提供尺度感和故事感
+
+道具数量要丰富，但要保持秩序。所有道具都应服务于空间功能和主题世界观。
+
+【风格要求】
+整体风格为清晰、可爱、精密的手绘卡通等距插画。线条干净，边缘略圆润，色彩明亮柔和，整体具有轻松、治愈、探索感。画面应有经营模拟游戏、儿童科普绘本、微缩模型、设定集页面的感觉。
+
+避免过度写实，避免强烈暗黑光影，避免厚重油画感，避免复杂噪点。重点是清楚、精致、有层次、可读性强。
+
+【颜色与光影】
+使用高明度、低到中等饱和度的柔和配色。主色调统一，辅助色用于区分不同空间，点缀色用于突出关键设备和小道具。线稿颜色不要使用死黑，可使用深灰、蓝灰、棕灰等柔和描边。
+
+光影保持轻量，不需要强烈真实投影。通过色块、结构、线条和局部高亮来建立层次。背景使用浅色、低对比度处理，使主体建筑更加突出。
+
+【构图与阅读路径】
+画面主体居中或略微偏上，建筑呈多层剖面结构。视觉阅读路径应从整体建筑轮廓开始，再进入各楼层功能区，最后观察细节道具。可以通过楼梯、平台、走廊、管线、轨道等元素引导视线。
+
+整体画面要饱满但不拥挤，丰富但不混乱。每个房间、平台和角落都应该有内容，但仍然保持清晰的空间边界。
+
+【背景环境】
+背景可以根据主题加入弱化的外部环境，例如森林、城市、街道、地下岩层、实验园区、海底、太空、校园、工厂外墙等。背景不要抢主体，建议使用淡色、低透明度、低对比度处理，形成“主体清晰、背景退后”的效果。
+
+【最终效果】
+最终画面应像一张完整的主题空间设定图，既有建筑剖面图的结构感，又有游戏场景资产图的细节感，还带有微缩玩具屋的可爱探索感。它应该适合用于系列化视觉创作、IP世界观展示、游戏场景设定、品牌空间概念图、科普内容封面或小红书/Pinterest风格视觉发布。
+
+请确保画面：
+1. 等距轴测视角明确
+2. 建筑剖面结构清楚
+3. 多层功能区完整
+4. 道具丰富且主题统一
+5. 色彩柔和明亮
+6. 线稿清晰干净
+7. 背景弱化、主体突出
+8. 信息密度高但不混乱
+9. 具有可探索、可运营、可反复观察的微缩世界感
+```
+
+- Author: [@MrLarus](https://x.com/MrLarus)
+- Original post: https://x.com/MrLarus/status/2047709029804155226
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/isometric-micro-world-archive-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
