@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Özenle seçilmiş **532** GPT Image 2.5 prompt'u. Her birinde örnek görsel, tam prompt ve orijinal gönderi bağlantısıyla birlikte orijinal yazarın adı yer alır. Veriler [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) prompt kütüphanesinden gelir ve otomatik olarak senkronize edilir.
+Özenle seçilmiş **562** GPT Image 2.5 prompt'u. Her birinde örnek görsel, tam prompt ve orijinal gönderi bağlantısıyla birlikte orijinal yazarın adı yer alır. Veriler [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) prompt kütüphanesinden gelir ve otomatik olarak senkronize edilir.
 
 👉 [Tümüne cinel.ai'de göz at ve çevrimiçi üret](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -24,7 +24,7 @@
 - [Afiş, logo ve grafik tasarım](#poster-design) (53) · [tümü](cases/poster-design.md)
 - [İnfografik ve UI](#infographic-ui) (34) · [tümü](cases/infographic-ui.md)
 - [3D karakter ve figürler](#3d-figurines) (60) · [tümü](cases/3d-figurines.md)
-- [Yemek ve içecek](#food-drink) (124) · [tümü](cases/food-drink.md)
+- [Yemek ve içecek](#food-drink) (154) · [tümü](cases/food-drink.md)
 - [İllüstrasyon ve anime](#illustration-anime) (43) · [tümü](cases/illustration-anime.md)
 - [Yaratıcı sahneler](#scenes-creative) (93) · [tümü](cases/scenes-creative.md)
 
@@ -1105,7 +1105,7 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## Yemek ve içecek
 
-Öne çıkan 6 · [124 öğenin tümü](cases/food-drink.md) · [cinel'de kategori](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [154 öğenin tümü](cases/food-drink.md) · [cinel'de kategori](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 

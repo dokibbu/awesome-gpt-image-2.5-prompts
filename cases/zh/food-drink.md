@@ -1,6 +1,6 @@
 # 美食饮品 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 124 · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 154 · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 食材悬浮爆炸式美食信息图提示词
 
@@ -2350,3 +2350,423 @@ Bold modern fast-food advertising poster for a spicy Korean crispy chicken burge
 - 原作者: [@Ziha_ai](https://x.com/Ziha_ai)
 - 原帖: https://x.com/Ziha_ai/status/2058382524997681287
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/spicy-combo-split-background-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 流沙包爆浆切面悬浮
+
+<a href="https://cinel.ai/zh/prompts/p/salted-egg-custard-bun-exploding-core?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/salted-egg-custard-bun-exploding-core.webp" alt="流沙包爆浆切面悬浮" width="480"></a>
+
+> 本批最新、互动最高的模板之一：@azed_ai 的六变量「爆浆内馅」提示词。它把一份有馅的食物定格在裂开的瞬间，馅料、面芯和外皮一张图看清。我们填入了库里还没有的广式流沙包，保留原有变量顺序，换成任何带馅食物都能用。
+
+```text
+Exploding steamed salted-egg custard bun (liu sha bao) filled with molten salted-egg yolk custard, split into two pieces as the golden custard bursts and stretches between the halves, soft, matte, pillowy steamed-dough exterior, exposed fluffy white bun crumb and a glossy custard core, crumbs and particles frozen mid-air, clean warm beige studio background, professional studio lighting, realistic food textures, sharp focus, high-end commercial food photography, premium advertising aesthetic. No text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@azed_ai](https://x.com/azed_ai)
+- 原帖: https://x.com/azed_ai/status/2107788046167105839
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/salted-egg-custard-bun-exploding-core?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 重庆小面食材飞舞定格
+
+<a href="https://cinel.ai/zh/prompts/p/chongqing-spicy-noodles-flying-veg-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/chongqing-spicy-noodles-flying-veg-keyframe.webp" alt="重庆小面食材飞舞定格" width="480"></a>
+
+> @aynellex 发布了一条 13 秒的 Seedance 2.5 广告：泡面下锅、翻锅时蔬菜飞舞、最后煎蛋流黄。库里已经有泡面关键帧，所以我们只保留最有冲击力的一拍（第 3 幕翻锅），改写成一张重庆小面静帧，并把第 6 幕的煎蛋放在画面底部压住构图。
+
+```text
+Ultra-realistic cinematic food-commercial keyframe, square 1:1: a single frozen moment above a black wok — a tangle of glossy chili-oil coated Chongqing wheat noodles tossed high in mid-air, with bok choy leaves, sliced scallions, crushed roasted peanuts, Sichuan peppercorns, dried red chilies, minced pickled mustard greens and a few drops of red chili oil flying around the noodles in slow motion, thick steam backlit in warm amber, a dark bowl below topped with a fried egg whose golden yolk is just breaking. Dark dramatic kitchen background, strong backlight through the steam, warm golden highlights, macro detail on the noodle strands, shallow depth of field, premium food-advertising cinematography. No people, no hands, no text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@aynellex](https://x.com/aynellex)
+- 原帖: https://x.com/aynellex/status/2108792014695535051
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/chongqing-spicy-noodles-flying-veg-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 古巴三明治悬浮旋转广告照
+
+<a href="https://cinel.ai/zh/prompts/p/cuban-sandwich-floating-spin-commercial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/cuban-sandwich-floating-spin-commercial.webp" alt="古巴三明治悬浮旋转广告照" width="480"></a>
+
+> @1H77k 这条“悬浮缓慢旋转的芝士汉堡”提示词（同时配了图和视频）拿到 110 赞。库里汉堡已经很多，所以我们逐句保留结构（主体、环绕的单件食材、蒸汽、金色轮廓光、长负面词），把主体换成切面有五层的压制古巴三明治。
+
+```text
+A whole, mouthwatering pressed Cuban sandwich floating and slowly spinning in mid-air, featuring a crisp golden flattened loaf with a glossy pressed crust, thick layers of slow-roasted mojo pork, thin-sliced ham, melted Swiss cheese, crunchy dill pickle slices and a bright stripe of yellow mustard visible at the cut edge. Surrounding the sandwich, individual pickle slices, folds of ham, curls of roast pork, a cheese slice and tiny mustard droplets gracefully float and rotate, creating a dynamic suspended-motion food commercial scene. Subtle steam rises from the warm pork. Ultra-realistic food photography, premium deli commercial aesthetic, cinematic golden lighting, warm highlights, dramatic rim lighting, glistening melted cheese, juicy meat fibers, shallow depth of field, soft creamy bokeh background, high-speed commercial photography, photorealistic, crisp focus on the sandwich, frozen flying ingredients with subtle motion trails. No text, no logo, no watermark, no hands, no people. Square 1:1 composition.
+```
+
+- 原作者: [@1H77k](https://x.com/1H77k)
+- 原帖: https://x.com/1H77k/status/2091732378355962144
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/cuban-sandwich-floating-spin-commercial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 椰子冰咖啡悬浮食材定格
+
+<a href="https://cinel.ai/zh/prompts/p/iced-coconut-coffee-floating-crystal-tumbler-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/iced-coconut-coffee-floating-crystal-tumbler-keyframe.webp" alt="椰子冰咖啡悬浮食材定格" width="480"></a>
+
+> @DuaFatimaAi 10 月 1 日的 Seedance 2.5 咖啡广告，开场就是水晶杯上方悬浮冰块、咖啡豆和奶油，然后才倒咖啡。我们定格这个开场画面，去掉片尾戴手套的手，并改成椰子冰咖啡，避免和库里的焦糖冰咖啡重复。任何分层饮品都能套用。
+
+```text
+Ultra-realistic luxury beverage keyframe on a pure black studio background, square 1:1: a premium crystal tumbler with intricate faceted glass texture sits centered, filled with layered iced coffee — dark espresso swirling into creamy coconut milk, crystal-clear ice cubes and fresh condensation on the glass. Above the glass, floating ingredients are frozen in mid-air: a transparent ice cube, roasted coffee beans, a curl of toasted coconut flakes, a half coconut shell with white flesh, a soft cloud of coconut cream foam and one glossy falling drop of cream about to touch the surface. Dramatic high-contrast studio lighting, strong rim light on the crystal edges, realistic reflections and refractions, cinematic macro product photography, centered composition, shallow depth of field. No hands, no text, no logos, no extra objects. Square 1:1 composition.
+```
+
+- 原作者: [@DuaFatimaAi](https://x.com/DuaFatimaAi)
+- 原帖: https://x.com/DuaFatimaAi/status/2105612605046034677
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/iced-coconut-coffee-floating-crystal-tumbler-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 草莓巧克力挞半空漩涡定格
+
+<a href="https://cinel.ai/zh/prompts/p/strawberry-chocolate-tart-midair-vortex-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/strawberry-chocolate-tart-midair-vortex-keyframe.webp" alt="草莓巧克力挞半空漩涡定格" width="480"></a>
+
+> @yourPlugAI 用 GPT Image 2.5 Flare + Seedance 2.0 Mini 做的：一颗草莓旋转、炸成水果、巧克力和糖粉的漩涡，再瞬间合成一个精致的挞。我们把第 3–6 秒的“变身”一拍做成静帧，去掉了甜点师和片尾品牌图形，现在一条提示词就出一张干净主图。
+
+```text
+Ultra-realistic macro food keyframe, square 1:1: the transformation moment in mid-air above a white marble slab — a swirling vortex of vibrant red strawberry pieces, liquid chocolate ribbons and fine powdered-sugar clouds spirals inward and condenses into a multi-layered glossy strawberry chocolate tart hovering at the center, its dark chocolate shell half-formed, strawberry halves settling on top, golden spun-sugar threads spiraling around it, droplets of chocolate and fruit particles frozen in motion. Bright clean studio lighting, glossy glaze highlights, crisp detail, shallow depth of field, premium dessert commercial aesthetic. No people, no hands, no text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@yourPlugAI](https://x.com/yourPlugAI)
+- 原帖: https://x.com/yourPlugAI/status/2098049745885225020
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/strawberry-chocolate-tart-midair-vortex-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 烟熏三文鱼贝果白底悬浮
+
+<a href="https://cinel.ai/zh/prompts/p/smoked-salmon-bagel-suspended-white-studio?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/smoked-salmon-bagel-suspended-white-studio.webp" alt="烟熏三文鱼贝果白底悬浮" width="480"></a>
+
+> @meAsifAi 让 Grok 总结出“一条通用提示词”来批量生成白底悬浮美食，得到这个两变量模板。这是本批最简单的模板。我们填入烟熏三文鱼贝果，只加了一句“上半个贝果抬起”，让层次一眼可见。
+
+```text
+A halved everything bagel layered with silky smoked salmon and whipped cream cheese, topped with capers, thin red onion rings, dill sprigs and cracked black pepper, suspended in midair against a clean white isolated background, the top half of the bagel and a few capers and onion rings floating just above, premium food photography, rich natural surface texture, appetizing detail, realistic fibers and moisture, subtle seasoning, soft studio lighting, crisp natural shadow, dynamic floating composition, commercial advertising aesthetic, sharp focus, high detail. No text, no logos, no hands. Square 1:1 composition.
+```
+
+- 原作者: [@meAsifAi](https://x.com/meAsifAi)
+- 原帖: https://x.com/meAsifAi/status/2101967169286197750
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/smoked-salmon-bagel-suspended-white-studio?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 鹰嘴豆咖喱香料漩涡定格
+
+<a href="https://cinel.ai/zh/prompts/p/chana-masala-spice-vortex-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/chana-masala-spice-vortex-keyframe.webp" alt="鹰嘴豆咖喱香料漩涡定格" width="480"></a>
+
+> @JuliaClarky 这条 8 秒 Seedance 2.0 Fast 广告（157 赞）按镜头精确分秒：豆蔻落下、八种香料旋转、全部炸开成漩涡，最后停在虚构的“SpiceMix”包装盒上。我们保留第 1.6–4.2 秒“爆发→漩涡”这一拍，把包装换成一碗鹰嘴豆咖喱，让香料落到菜上，并去掉所有文字。
+
+```text
+Ultra-realistic luxury food-commercial keyframe, square 1:1: the "ingredients explosion" moment frozen in mid-air above a matte black ceramic bowl of glossy chana masala on a dark reflective surface — green cardamom pods, cinnamon sticks, cloves, black peppercorns, cumin seeds, coriander seeds, star anise, dried red chilies and bay leaves burst upward and spiral into an elegant vortex, the outer ring dissolving into shimmering clouds of turmeric-gold and chili-red spice powder, fresh cilantro leaves and a few chickpeas suspended among them, warm golden backlight catching fine spice dust. Macro cinematography, shallow depth of field, rich warm color grading, premium CGI-level detail with photorealistic textures. No people, no hands, no utensils, no packaging, no text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@JuliaClarky](https://x.com/JuliaClarky)
+- 原帖: https://x.com/JuliaClarky/status/2072868373382550000
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/chana-masala-spice-vortex-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 早餐卷饼美食蓝图剖面图
+
+<a href="https://cinel.ai/zh/prompts/p/breakfast-burrito-culinary-blueprint-cutaway?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/breakfast-burrito-culinary-blueprint-cutaway.webp" alt="早餐卷饼美食蓝图剖面图" width="480"></a>
+
+> @Gdgtify 把一条原本给包装食品用的“美食蓝图”提示词拿来做德州四款午餐，用 GPT Image 2.5 生成。它用类 XML 的分段（透明层、剖切逻辑、渲染）让模型把食物当机械装配件处理。我们改成单个早餐卷饼、1:1，并把标注固定为七个确切单词，保证文字干净。
+
+```text
+Culinary Blueprint engineering exploded view of a Texas breakfast burrito. A "Perfect Slice" cross-section cuts the burrito in half; the outer flour tortilla is rendered as a distinct material layer, and the inner components — fluffy scrambled eggs, crispy diced potatoes, crumbled chorizo, melted cheddar, pico de gallo and a red salsa layer — separate outward from the cut face as distinct floating components with clear even spacing, mimicking a mechanical exploded view. Neutral white background, high-key lighting that emphasizes texture and moisture, thin dark-gray leader lines with small clean sans-serif labels reading exactly: TORTILLA, EGGS, POTATO, CHORIZO, CHEDDAR, PICO, SALSA. Photorealistic food textures, crisp technical composition, generous white space. No other text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2102330563600244770
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/breakfast-burrito-culinary-blueprint-cutaway?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 炸猪排三明治解剖展台信息图
+
+<a href="https://cinel.ai/zh/prompts/p/katsu-sando-anatomy-pedestal-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/katsu-sando-anatomy-pedestal-infographic.webp" alt="炸猪排三明治解剖展台信息图" width="480"></a>
+
+> @Gdgtify 把这条写成了一个 Python 类（Premium_Anatomy_Infographic）：左侧是带金色引线的爆炸分层，右侧是放在大理石展台上的成品。GPT Image 2.5 能很好地执行这种左右双栏结构。我们把它展开成直白英文，主体换成炸猪排三明治，并固定标签文字，保证金色字体清晰。
+
+```text
+Premium anatomy infographic of a Japanese katsu sando. High-end commercial photography, dark cinematic background, warm spotlighting, elegant gold and white typography. Left side: a levitating exploded view of its core layers stacked vertically with perfect spacing — crustless white milk bread top, tonkatsu sauce layer, golden panko-crusted pork cutlet, finely shredded cabbage, a thin swipe of Japanese mustard mayo and the bottom milk bread — with thin gold lines pointing from small gold labels to each floating component. Right side: the fully assembled photorealistic katsu sando cut in half to show the thick cross-section, resting on a sleek minimalist black marble display pedestal. A small elegant gold title at the top reads exactly "KATSU SANDO". Labels read exactly: Milk Bread, Tonkatsu Sauce, Pork Cutlet, Cabbage, Mustard Mayo. No other text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2106039251561267367
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/katsu-sando-anatomy-pedestal-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 夏威夷米饭汉堡爆炸标注图
+
+<a href="https://cinel.ai/zh/prompts/p/loco-moco-exploded-labeled-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/loco-moco-exploded-labeled-infographic.webp" alt="夏威夷米饭汉堡爆炸标注图" width="480"></a>
+
+> @Strength04_X（M-studioAi）发了一组给 Kling 3.0 + GPT Image 2 用的芝士汉堡双图提示词，第二条（“IMAGE 2”）是带确切指引标签的垂直爆炸信息图。我们逐句保留第二条，把汉堡换成夏威夷米饭汉堡，它同样能整齐叠成：煎蛋、肉汁、蘑菇、肉饼、米饭、碗。
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of a Hawaiian loco moco. At the top, a sunny-side-up fried egg with a glossy golden yolk. Below it, a ribbon of rich brown gravy, sautéed sliced mushrooms, a juicy seared beef patty, sliced green onion, a scoop of steamed white rice, and a shallow white bowl at the base. All ingredients are evenly spaced and perfectly aligned vertically. Warm yellow seamless studio background, soft commercial food lighting, subtle realistic shadows under each floating element, ultra-sharp focus, DSLR macro food photography, premium diner ad aesthetic. Add clean infographic text labels with thin pointer lines pointing to each element using these exact labels: "Fried Egg" "Gravy" "Mushrooms" "Beef Patty" "Green Onion" "Rice" "Bowl". No other text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@Strength04_X](https://x.com/Strength04_X)
+- 原帖: https://x.com/Strength04_X/status/2046851786297037305
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/loco-moco-exploded-labeled-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 北京烤鸭爆炸拆解海报
+
+<a href="https://cinel.ai/zh/prompts/p/peking-duck-exploded-disassembly-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/peking-duck-exploded-disassembly-poster.webp" alt="北京烤鸭爆炸拆解海报" width="480"></a>
+
+> @LucyChenSpeaker 分享了一条给 ChatGPT 用的中文“爆炸拆解图”提示词，会根据主体自动匹配风格：机械类用工业海报光，古建器物用古风图鉴，菜品用暖金色美食广告光。她的示例是火锅，我们用美食分支做了部件清晰可分的北京烤鸭，并固定了六个中文标签。
+
+```text
+An ultra-detailed exploded-view disassembly diagram of Peking duck, composed like a high-end poster fused with a structural breakdown infographic. Break the dish into its real components and layers so the frame is "full of parts yet still orderly": a whole glossy mahogany roast duck at the center, with thin slices of crisp lacquered skin, sliced duck meat, a stack of thin steamed pancakes, a small dish of sweet bean sauce, cucumber batons and fine scallion threads floating outward in clean radial order. Food styling: high-end food-advertising look with warm golden light on a dark background. Thin white leader lines with small clear Chinese labels reading exactly: 鸭皮, 鸭肉, 荷叶饼, 甜面酱, 黄瓜条, 葱丝. No other text, no logos, no wrong structures, no disorder. Square 1:1 composition.
+```
+
+- 原作者: [@LucyChenSpeaker](https://x.com/LucyChenSpeaker)
+- 原帖: https://x.com/LucyChenSpeaker/status/2105834981931266263
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/peking-duck-exploded-disassembly-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 海鲜丼冷雾升腾海报
+
+<a href="https://cinel.ai/zh/prompts/p/kaisendon-cold-mist-rising-seafood-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/kaisendon-cold-mist-rising-seafood-poster.webp" alt="海鲜丼冷雾升腾海报" width="480"></a>
+
+> 出自 @ou_zhen599 的“日料进化”系列（GPT Image 2）。它不用热气，而是用冷雾和逆光构建画面，让生鲜看起来是冰镇的而不是熟的。原帖是为一家虚构餐厅（“Oulaolao”）做海报，我们去掉所有品牌和文字，把升腾的主体落在库里还没有的海鲜丼上。
+
+```text
+Create an ultra-premium cinematic food advertising poster for a Japanese kaisendon seafood rice bowl with a cold blue-black luxury atmosphere, extreme ingredient realism and master-level backlit mist. In the lower center, one elegant matte charcoal Japanese bowl of vinegared rice is the visual anchor; from it, thick-cut salmon sashimi, tuna slices, delicate white fish, sweet shrimp, glistening ikura, shiso leaves, daikon threads, a nori strip, microgreens and a small yuzu wedge rise upward in a controlled, graceful cold burst, surrounded by translucent cold vapor, condensation haze and suspended micro particles. Strong cinematic backlight through the mist gives a luminous halo around floating ingredients and translucent edges on the sashimi. Clear spatial layering: softly blurred foreground edge, sharp midground hero bowl, luminous misty background receding into deep navy darkness. Palette: blue-black, deep navy, cool silver highlights, mist white, salmon orange, tuna crimson, emerald microgreens. Hyper-realistic commercial food photography, 8k. No text, no logos, no brand names. Square 1:1 composition.
+```
+
+- 原作者: [@ou_zhen599](https://x.com/ou_zhen599)
+- 原帖: https://x.com/ou_zhen599/status/2074912308313325819
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/kaisendon-cold-mist-rising-seafood-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 咖喱叻沙香料漩涡手写标注
+
+<a href="https://cinel.ai/zh/prompts/p/curry-laksa-spice-vortex-handwritten-callouts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/curry-laksa-spice-vortex-handwritten-callouts.webp" alt="咖喱叻沙香料漩涡手写标注" width="480"></a>
+
+> @ou_zhen599 这条的观点是：想让复杂菜品显得“真材实料”，别把原料平铺在碗边，要让它们顺着汤汁和热气从成品里升起，再逐一标注。帖子的要点里写的就是虾、香茅、南姜、柠檬叶、豆腐泡的咖喱，而完整提示词是过桥米线。我们按要点做了咖喱叻沙版本。
+
+```text
+Create an ultra-premium commercial food poster for Malaysian curry laksa. One real hero bowl of curry laksa sits in the lower center, photographed from a slightly elevated front angle: rich orange coconut-curry broth with a red chili-oil sheen, rice vermicelli and yellow noodles, prawns, tofu puffs, fish cake slices, bean sprouts, half a boiled egg and fresh mint. Above the bowl, key ingredients rise upward in a controlled aromatic spice vortex carried by broth and steam — prawns, tofu puffs, lemongrass stalks, galangal slices, kaffir lime leaves and a spoonful of sambal — with thick curry droplets, glossy suspended arcs and spice-infused mist. Elegant handwritten English callouts in warm ivory, connected to each hero ingredient with delicate thin lines, reading exactly: Prawns, Tofu Puffs, Lemongrass, Galangal, Lime Leaf, Sambal. Rich dark restaurant background with warm shadow depth and subtle amber bokeh, soft high-end cinematic food lighting, steam catching the light. Ultra-premium photorealistic food advertising, 8k. No other text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@ou_zhen599](https://x.com/ou_zhen599)
+- 原帖: https://x.com/ou_zhen599/status/2081782016224465182
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/curry-laksa-spice-vortex-handwritten-callouts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 肉丸意面螺旋悬浮定格
+
+<a href="https://cinel.ai/zh/prompts/p/spaghetti-meatball-spiral-levitation-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/spaghetti-meatball-spiral-levitation-keyframe.webp" alt="肉丸意面螺旋悬浮定格" width="480"></a>
+
+> @MayaAiCreator 发了完整的“图+视频”工作流：一条动态提示词、两条关键帧提示词和一句给视频工具的运动描述。意面在半空旋成螺旋，下落时自己缠上肉丸，最后落到盘里。我们把关键帧 1 和 2 合并成一张 1:1 静帧，定格螺旋刚落盘的瞬间。
+
+```text
+Commercial food photography keyframe, dark studio background, high-speed macro action shot, square 1:1: a dynamic swirling vertical spiral of cooked spaghetti levitating in mid-air, with juicy browned meatballs each partly wrapped in a nest of spaghetti strands, vibrant red tomato sauce droplets and splashes, fresh basil leaves, red chili slices, garlic cloves, oregano flakes and salt crystals floating and swirling together; the bottom of the spiral is just settling onto a clean white plate with rising steam and a basil garnish. Dramatic rim lighting, cinematic contrast, ultra-realistic food commercial quality, highly detailed textures. No people, no hands, no text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@MayaAiCreator](https://x.com/MayaAiCreator)
+- 原帖: https://x.com/MayaAiCreator/status/2105219279951897079
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/spaghetti-meatball-spiral-levitation-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 泰式船面汤螺旋爆发
+
+<a href="https://cinel.ai/zh/prompts/p/thai-boat-noodle-soup-spiral-explosion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/thai-boat-noodle-soup-spiral-explosion.webp" alt="泰式船面汤螺旋爆发" width="480"></a>
+
+> @Web3_Deey 深夜发的 JSON 提示词，主体是“浓郁的亚洲汤”：汤汁卷成螺旋丝带和液体皇冠，八种食材向上爆发。它的字段结构（主体、动作、食材、光线、相机）很好改。我们保留 JSON 格式，把主体定为泰式船面并换上对应食材，补上方形构图和无文字限制。
+
+```text
+{"image_prompt": {"subject": "Thai boat noodle soup in a small dark ceramic bowl", "action": "Ingredients exploding upward in mid-air, swirling spiral splash of dark rich broth forming a dynamic ribbon shape, liquid splash crown", "ingredients": ["Floating thin beef slices", "Beef meatballs", "Thin rice noodles", "Morning glory greens", "Bean sprouts", "Fried pork crackling", "Thai basil", "Bird's eye chili"], "environment": "Dramatic dark textured background", "lighting": "Studio lighting, strong rim light, glossy broth reflections, cinematic contrast", "photography_style": "Ultra-realistic food photography, high-speed photography, frozen motion, hyper realistic", "camera_settings": {"lens": "85mm", "aperture": "f/4", "focus": "Sharp focus, macro clarity"}, "constraints": "No text, no logos, no people", "aspect_ratio": "1:1 square composition"}}
+```
+
+- 原作者: [@Web3_Deey](https://x.com/Web3_Deey)
+- 原帖: https://x.com/Web3_Deey/status/2079301739048792540
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/thai-boat-noodle-soup-spiral-explosion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 草莓爆浆麻薯撕裂瞬间
+
+<a href="https://cinel.ai/zh/prompts/p/strawberry-lava-mochi-torn-explosion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/strawberry-lava-mochi-torn-explosion.webp" alt="草莓爆浆麻薯撕裂瞬间" width="480"></a>
+
+> @iamrealsnow 的“草莓爆浆麻薯”（ChatGPT 里的 GPT Image 2）好用在于写的是“撕开”而不是“切开”：弹性奶油丝带、半透明麻薯皮、莓果与米粉组成的碎屑场。几乎原样可用，我们只去掉了“16K”分辨率词，补上方形和无文字两句。
+
+```text
+An ultra premium Japanese strawberry mochi suspended in mid air, violently torn into two halves at the exact moment of impact, molten strawberry cream stretching between both pieces in long elastic ribbons, fresh strawberry chunks bursting outward, delicate rice flour particles floating through the air, microscopic sugar crystals sparkling under cinematic studio lights, ultra soft mochi skin revealing translucent texture, hyper realistic filling layers exposed, dynamic debris field of berry fragments and powdered sugar, frozen motion photography, luxury dessert advertising campaign, pure white seamless background, dramatic rim lighting, macro food photography, ultra sharp focus, photorealistic textures, award winning commercial food photography. No text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@iamrealsnow](https://x.com/iamrealsnow)
+- 原帖: https://x.com/iamrealsnow/status/2065796399695069424
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/strawberry-lava-mochi-torn-explosion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 北非蛋从铸铁锅中腾空
+
+<a href="https://cinel.ai/zh/prompts/p/shakshuka-levitating-cast-iron-skillet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/shakshuka-levitating-cast-iron-skillet.webp" alt="北非蛋从铸铁锅中腾空" width="480"></a>
+
+> @aiwithlumi 的披萨提示词（Gemini Flash）场景很有辨识度：火焰上的铸铁锅、深色砖墙框着的明亮白色灯板、一块被拉起并连着长丝。我们把这个场景换成北非蛋；被拉起的披萨变成一勺酱汁托着的水波蛋，“拉起”的动作依然有一缕酱汁连回锅里。
+
+```text
+Dynamic commercial food advertisement of hot shakshuka levitating out of a black cast iron skillet on a rustic wooden table. Dramatic flames glow along the bottom edge. One soft-poached egg is lifted upward on a spoonful of spiced tomato-pepper sauce, its runny yolk just breaking, with a strand of sauce connecting it to the skillet. Crumbled feta, fresh parsley and cilantro leaves, sliced red peppers, onion slivers and cumin seeds float in mid-air against a bright glowing white rectangular backdrop framed by dark brick walls. Steam rising. Cinematic lighting, intense warmth, action shot, ultra-realistic food styling, high detail. No people, no hands, no text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@aiwithlumi](https://x.com/aiwithlumi)
+- 原帖: https://x.com/aiwithlumi/status/2063235297148891527
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/shakshuka-levitating-cast-iron-skillet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 墨西哥玉米片莎莎爱心环绕
+
+<a href="https://cinel.ai/zh/prompts/p/chilaquiles-salsa-heart-ingredient-orbit?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/chilaquiles-salsa-heart-ingredient-orbit.webp" alt="墨西哥玉米片莎莎爱心环绕" width="480"></a>
+
+> @ou_zhen599 的思路是：爱心之所以成立，是因为它来自菜本身（酱汁从碗里升起变成符号），再用一圈克制的食材环绕，飞溅就不会乱。原帖是为虚构品牌做埃及 koshari。我们换成红酱墨西哥玉米片，莎莎酱自然就能凝成爱心，并去掉了品牌、Logo 和标题文案。
+
+```text
+Create a Cannes-level flagship food advertising poster featuring a signature bowl of red chilaquiles. Use a fully saturated premium crimson-red seamless background with soft tonal gradients. In the lower center, one large ultra-realistic white ceramic bowl floats slightly above a warm wooden tabletop, with a neatly arranged yellow-and-white gingham cloth corner beneath it. Fill the bowl generously with crisp tortilla chips simmered in glossy red salsa, a sunny-side-up egg, crumbled queso fresco, Mexican crema drizzle, sliced avocado, pickled red onion and cilantro. From the bowl, a bold rising splash of thick glossy red salsa arcs upward and resolves into a suspended heart shape. Around the heart, a controlled circular orbit of tortilla chip shards, cilantro leaves, crumbled cheese, avocado slices, red onion rings and tiny chili slices. Warm premium studio lighting, gentle shadows beneath the floating bowl, ultra-realistic commercial food photography, strong negative space, no clutter. No text, no logos, no brand names. Square 1:1 composition.
+```
+
+- 原作者: [@ou_zhen599](https://x.com/ou_zhen599)
+- 原帖: https://x.com/ou_zhen599/status/2096532359680299351
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/chilaquiles-salsa-heart-ingredient-orbit?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 匈牙利炖牛肉包豪斯食谱爆炸海报
+
+<a href="https://cinel.ai/zh/prompts/p/hungarian-goulash-bauhaus-recipe-exploded-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/hungarian-goulash-bauhaus-recipe-exploded-poster.webp" alt="匈牙利炖牛肉包豪斯食谱爆炸海报" width="480"></a>
+
+> @Gdgtify 把这条写成“海报风格 DNA”：两种父风格（爆炸视图产品广告 + 复古食谱卡）加一个包豪斯网格“突变”，按 40/35/25 混合，效果介于广告和菜谱页之间。我们把它展开成直白英文，主体是一份匈牙利炖牛肉，三个文字位都用了短词。
+
+```text
+Vertical-feel culinary poster in a square 1:1 frame, mixing 40% ultra-premium exploded-view product advertisement (floating layers, studio lighting, precise material separation), 35% vintage recipe-card illustration and European café menu design (warm paper, culinary nostalgia, elegant food diagrams) and 25% Bauhaus culinary grid system (geometric plates, measurement marks, flavor icons, modular typography). Hungarian goulash is presented as a floating luxury object, partially assembled from its ingredients: beef chuck cubes, potato chunks, a scoop of sweet paprika powder, caraway seeds, sliced onions and carrot, a sprig of parsley, and a matte red enamel pot, all suspended in precise alignment around a steaming bowl of deep red stew. Small recipe annotations and ingredient swatches on warm archival paper texture, restrained steam, premium shadows, matte ceramics. Typography reads exactly: "GOULASH" large at the top, "HUNGARY" small beneath it, and "slow paprika comfort" as a short tagline. No other text, no watermark, no messy table scene. Square 1:1 composition.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2076704959903470016
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/hungarian-goulash-bauhaus-recipe-exploded-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 吉事果焦糖甜点大爆发
+
+<a href="https://cinel.ai/zh/prompts/p/churro-caramel-dessert-explosion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/churro-caramel-dessert-explosion.webp" alt="吉事果焦糖甜点大爆发" width="480"></a>
+
+> @nxnusratul 这条“甜点超载”JSON 按区域分配画面（中心、上部、左下、右下、中景、流体），所以再满的爆发也有条理。原帖中心是巧克力曲奇球，我们换成一束吉事果配两杯蘸酱，并精简了几个区域，让主体在 1:1 画面里依然清楚。
+
+```text
+{"scene_description": "A dynamic, high-velocity explosion of churros, chocolate and caramel elements captured in an ultra-detailed studio shot against a warm, swirling caramel and cream background.", "composition": {"style": "Dynamic action splash, hyper-realistic macro photography", "lighting": "Volumetric cinematic lighting, warm golden hour glow, glossy reflections on liquid surfaces", "framing": "Centric, multi-layered explosion with a sense of floating and zero-gravity motion, square 1:1", "color_palette": ["Rich chocolate brown", "Golden amber caramel", "Creamy off-white", "Vibrant raspberry pink"]}, "visual_elements": {"centerpiece": {"item": "A crossed bundle of three ridged, cinnamon-sugar-dusted golden churros", "topping": "Glossy dulce de leche ribbon wrapping around them", "texture": "Crisp fried ridges with sparkling sugar crystals"}, "upper_section": {"waffle_cones": "Two crispy golden waffle cones pointing downwards, bursting with liquid caramel splashes"}, "lower_left_section": {"chocolate": "A swirling vortex of dark melted chocolate with solid chocolate squares and whole hazelnuts flying"}, "lower_right_section": {"dip_cups": "One small cup of thick hot chocolate and one small cup of golden sea-salt caramel"}, "mid_ground_floating_elements": {"fruit": ["Fresh red raspberries"], "accent_details": "Delicate flakes of edible gold leaf and cinnamon sugar crumbs"}, "fluid_dynamics": {"caramel_splashes": "High-speed crown splashes and fluid ribbons wrapping around the churros", "cream_swirls": "Smooth satin cream streams snaking through the center"}}, "technical_specifications": {"camera_settings": "1/8000s shutter to freeze motion, sharp focus on the central churros, soft bokeh on outer debris", "rendering_hints": "photorealistic textures, subsurface scattering on cream and caramel"}, "constraints": "No text, no logos, no people"}
+```
+
+- 原作者: [@nxnusratul](https://x.com/nxnusratul)
+- 原帖: https://x.com/nxnusratul/status/2060546986299007016
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/churro-caramel-dessert-explosion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 韩式嫩豆腐汤砂锅提勺海报
+
+<a href="https://cinel.ai/zh/prompts/p/sundubu-jjigae-claypot-spoon-lift-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/sundubu-jjigae-claypot-spoon-lift-poster.webp" alt="韩式嫩豆腐汤砂锅提勺海报" width="480"></a>
+
+> 本批最新的一条（10 月 20 日，Nano Banana 2.1）。@ou_zhen599 的原则是：蒸汽和那一勺不是装饰砂锅，而是把它的热度向上延伸，让人一眼从锅读到勺。原帖是为虚构韩国品牌做的金色豆腐砂锅，有韩文标题和握勺的手。我们保留垂直的“热气路径”，改成红色嫩豆腐汤，并去掉手、品牌和所有文字。
+
+```text
+Create a premium commercial food poster centered on a hyper-real hero: a steaming black earthen claypot (ttukbaegi) of bubbling red sundubu jjigae — soft silken tofu, a cracked egg, clams, scallions and a glossy chili-oil broth — sitting frontally in the lower half on a clean wooden stand over a warm wood tabletop. A long pale wooden ladle enters from the upper right with no hand visible, angled diagonally toward center, lifting one spoonful of large tender tofu pieces in glossy red broth above the pot, one small drip falling back. The spoonful is suspended in the upper-middle zone, aligned with layered rising steam that forms a visual bridge. The pot feels authentic, weighty, kiln-fired, with matte charcoal glaze and rim wear. Background: deep near-black brown negative space, no kitchen, no extra props. Dramatic chiaroscuro: glowing warm highlights on the broth, bright tofu planes, soft amber specular accents, controlled side light on the pot texture. Palette: roasted brown, charcoal black, chili red, tofu cream, warm wood. Ultra-real premium food photography. No people, no hands, no text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@ou_zhen599](https://x.com/ou_zhen599)
+- 原帖: https://x.com/ou_zhen599/status/2112582876068028750
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/sundubu-jjigae-claypot-spoon-lift-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 螺蛳粉45度悬空分层标注图
+
+<a href="https://cinel.ai/zh/prompts/p/luosifen-45-degree-exploded-labels?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/luosifen-45-degree-exploded-labels.webp" alt="螺蛳粉45度悬空分层标注图" width="480"></a>
+
+> @xiaojianjian567（Polo）发了这条简短中文模板，建议直接发给 AI 存成“skill”：碗倾斜 45 度、所有食材沿中心轴悬空、红汤飞溅串联各层、每样食材旁一条白色细线加中文标注。我们补全了螺蛳粉的食材清单，并固定了标注文字。
+
+```text
+Ultra-realistic exploded view of a bowl of Liuzhou luosifen (river snail rice noodle soup), tilted 45 degrees and suspended in mid-air, with all ingredients separated into floating layers along the bowl's vertical center axis, from top to bottom: pickled bamboo shoots and sour long beans, fried peanuts, wood ear fungus strips, leafy greens, chopped scallions, river snails, thick rice noodles, red chili-oil broth, and a white porcelain bowl at the base. The glossy red broth splashes upward and connects each layer. Pure black background, professional studio side-backlight with softbox fill emphasizing the broth's sheen and layered texture, natural refined colors, not oversaturated. Beside each ingredient a thin white line with a clean, neat Chinese label reading exactly: 酸笋, 酸豆角, 炸花生, 木耳丝, 青菜, 葱花, 螺蛳, 米粉, 红汤 — labels clear and not covering the food. Ultra-realistic 8K food photography, maximum detail, a futuristic-tech floating-disassembly feel. No other text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@xiaojianjian567](https://x.com/xiaojianjian567)
+- 原帖: https://x.com/xiaojianjian567/status/2073317121015365782
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/luosifen-45-degree-exploded-labels?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 开心果库纳法杯悬浮广告
+
+<a href="https://cinel.ai/zh/prompts/p/pistachio-kunafa-cup-floating-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pistachio-kunafa-cup-floating-ad.webp" alt="开心果库纳法杯悬浮广告" width="480"></a>
+
+> @SPEEDAI07 发了一条完整的方括号甜品广告模板（GPT Image 2），并附上每个变量的候选值速查表（产品类型、质感、悬浮食材、动态效果、配色、文字）。我们为开心果库纳法杯填满了所有变量，文字设为不加，杯装、雪糕、甜筒类甜品都能以它为起点。
+
+```text
+Create a hyper-realistic commercial food photography poster for a premium pistachio kunafa dessert, designed in a refined luxury advertisement style, square 1:1 composition. Place a clear dessert cup of pistachio kunafa as the central hero subject, positioned centered vertical at a slightly low angle, with premium realistic details such as crisp golden shredded kataifi pastry and chopped pistachios, a creamy pistachio swirl, and layers of kataifi, pistachio cream and white cream visible through the cup. Surround the product with whole pistachios, shards of kataifi, rose petals and a piece of pistachio chocolate, arranged dynamically but cleanly to create movement, depth and visual balance. Add a slow drip of pistachio cream and a fine burst of pistachio powder interacting with the product in a natural high-speed freeze-frame style, showing realistic viscosity, droplets, suspended particles, soft shadows and crisp highlights. Use a soft gradient studio backdrop with a cohesive palette of pistachio sage, golden kataifi, cream white and blush pink, keeping the composition clean, appetizing and premium. Lighting is soft high-key studio light with gentle rim light, emphasizing gloss, creaminess, texture and material contrast. Ultra-detailed textures, photorealistic rendering, high-end dessert advertisement aesthetic, sharp focus on the hero product, slight depth falloff on outer elements. No text, no logos, no packaging labels. Square 1:1 composition.
+```
+
+- 原作者: [@SPEEDAI07](https://x.com/SPEEDAI07)
+- 原帖: https://x.com/SPEEDAI07/status/2050470348454551902
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pistachio-kunafa-cup-floating-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 奶油芝士丝带托起卷饼海报
+
+<a href="https://cinel.ai/zh/prompts/p/labneh-ribbon-flatbread-lift-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/labneh-ribbon-flatbread-lift-poster.webp" alt="奶油芝士丝带托起卷饼海报" width="480"></a>
+
+> 10 月 13 日发布，GPT Image 2.5 提示词。@ou_zhen599 的关键一句：“奶油不是飞溅，而是托起那一口的手。”丝带在罐口收紧、转弯处放松、顶端保持柔软尖峰，看起来是“被托起”而不是“炸开”。原帖是为虚构乳品品牌做的产品广告，带印刷标签和标题。我们把罐子改成无标签，并去掉所有文字。
+
+```text
+Create a premium food poster ad, square 1:1. The hero is a plain, unlabeled glass jar of whipped labneh, centered in the lower third on a sunlit carved limestone pedestal. A dense ribbon of whipped labneh rises directly from the open jar, twists upward in a refined continuous S-curve with soft peaks and tensile flow, and lifts a freshly folded flatbread wrap at the crest as if the cream itself carries the bite into the air. The folded bread shows one clean bite revealing whipped labneh, tomato slices and green herbs inside; warm-toned, lightly blistered, believable crumb. Around the cream ribbon, a restrained orbit of small basil leaves, cherry tomato halves and a few suspended olive-oil droplets, precisely spaced. Background: a sun-drenched Mediterranean hillside with olive trees, terraced stone walls, distant sea glow and a soft late-afternoon sky, softened for product clarity. Warm directional sunlight from the upper left, elegant reflected fill on the glass and cream. Palette: warm dairy white, beige stone, toasted flatbread, sky blue, olive green, tomato red and olive-oil gold. No text, no labels, no logos, no brand names. Square 1:1 composition.
+```
+
+- 原作者: [@ou_zhen599](https://x.com/ou_zhen599)
+- 原帖: https://x.com/ou_zhen599/status/2110063975635583190
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/labneh-ribbon-flatbread-lift-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 红烧牛肉面科技感悬空分解
+
+<a href="https://cinel.ai/zh/prompts/p/taiwanese-braised-beef-noodle-exploded-axis?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/taiwanese-braised-beef-noodle-exploded-axis.webp" alt="红烧牛肉面科技感悬空分解" width="480"></a>
+
+> 纯文字提示词：@Sukiea1008 分享了原文，并推测原图出自 Seedance 2.0。它和螺蛳粉那条是同一套 45 度中心轴拆解，但写的是红烧牛肉面，从上到下的食材顺序很精确。我们做了无标注版本，和带标注的螺蛳粉成对使用，并把酸豆角换成牛肉面经典配料酸菜。
+
+```text
+Tech-visualization exploded diagram of a bowl of Taiwanese braised beef noodle soup, tilted 45 degrees and suspended in mid-air, ingredients separated into floating layers along the bowl's vertical center axis and precisely aligned with their positions in the bowl. From top to bottom: pickled mustard greens, fried soybeans, bird's eye chili rings, kelp knots, cilantro, chopped scallions, chunks of braised beef shank, thin wheat noodles, glossy red braised broth, and a white porcelain bowl. The red broth splashes glossily and connects each layer. Pure black background, professional studio side-backlight with softbox fill, emphasizing the broth's rich sheen and the real texture of each ingredient; natural refined colors, not oversaturated. Ultra-realistic 8K food photography, maximum detail, a futuristic floating-disassembly effect. No text, no labels, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@Sukiea1008](https://x.com/Sukiea1008)
+- 原帖: https://x.com/Sukiea1008/status/2072818133040349304
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/taiwanese-braised-beef-noodle-exploded-axis?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 冬日水果茶香气曲线海报
+
+<a href="https://cinel.ai/zh/prompts/p/winter-fruit-tea-aromatic-curve-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/winter-fruit-tea-aromatic-curve-poster.webp" alt="冬日水果茶香气曲线海报" width="480"></a>
+
+> @ou_zhen599 这条的观点是：悬浮食材不是越多越香，真正有广告感的，是让它们像一笔气味轨迹，最后落回杯子：少量食材、充分留白、只从杯口冒出的一个紧凑水花。它正好平衡本组里那些更热闹的爆发类提示词，也无需换菜。
+
+```text
+Create an ultra-premium dark beverage poster: one transparent glass mug with a clear handle and thick premium glass walls, filled with glowing ruby-amber winter fruit infusion, sits at the lower-middle center of a dark tabletop on a small dark serving slab, while a refined, highly controlled aromatic curve of floating ingredients rises above it: 2 small mandarin-like citrus fruits, 1 to 2 citrus wedges, a few red berries, 1 cinnamon stick, 2 dried leaves and a very restrained number of glowing droplets, rising in a single fragrant gesture like a line of fragrance drawn in light. One compact sculptural splash crown emerges from the mug, with a few connected droplets rising into the curve. On the lower right of the table, a small organized flavor-release display: a small glass spice jar, two cinnamon sticks, a few berries, one citrus fragment and one star anise. Warm main light from the upper front-left, a cooler atmospheric side light from a soft vertical window-like panel on the right, a subtle hint of warm vapor near the mug opening. Exquisite material realism. Palette: black, deep charcoal blue, ruby amber, blood orange, citrus gold, cinnamon brown. No title, no logo, no watermark, no text. Square 1:1 composition.
+```
+
+- 原作者: [@ou_zhen599](https://x.com/ou_zhen599)
+- 原帖: https://x.com/ou_zhen599/status/2087830451893477453
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/winter-fruit-tea-aromatic-curve-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 泰式青木瓜沙拉半空翻拌
+
+<a href="https://cinel.ai/zh/prompts/p/som-tam-papaya-salad-midair-toss?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/som-tam-papaya-salad-midair-toss.webp" alt="泰式青木瓜沙拉半空翻拌" width="480"></a>
+
+> @ZephyraLeigh 的一句话纯文字模板，只有两个变量：沙拉和配料。虽然短，但“被抛起翻拌”加“酱汁液滴悬停”已经足够做出腾空翻拌。我们填入泰式青木瓜沙拉，并加上捣它用的陶臼作为画面锚点。
+
+```text
+A Thai green papaya salad (som tam) being tossed in mid-air above a clay mortar, ingredients like shredded green papaya, cherry tomato halves, cut long beans, roasted peanuts, dried shrimp, bird's eye chilies and lime wedges floating dynamically, tamarind-lime dressing droplets suspended, vibrant colors, clean light background, crisp lighting, high-end commercial food photography. No people, no hands, no text, no logos. Square 1:1 composition.
+```
+
+- 原作者: [@ZephyraLeigh](https://x.com/ZephyraLeigh)
+- 原帖: https://x.com/ZephyraLeigh/status/2065715250146787470
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/som-tam-papaya-salad-midair-toss?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 满料热狗黑底悬浮
+
+<a href="https://cinel.ai/zh/prompts/p/loaded-hot-dog-floating-black-studio?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/loaded-hot-dog-floating-black-studio.webp" alt="满料热狗黑底悬浮" width="480"></a>
+
+> @iamrealsnow 的一条精简纯文字提示词：一句话列出配料、写上“悬浮食材”、黑色背景。原文要求“高级快餐品牌感”，容易生成虚构 Logo，所以我们改成“高级街头美食造型”，写明悬浮的具体部件，并加上无 Logo。
+
+```text
+Gourmet loaded hot dog with a snappy grilled sausage in a toasted split-top bun, a zigzag mustard drizzle, a ketchup splash, crispy fried onions, diced pickles and sliced jalapeños, with floating ingredients — a few crispy onion strands, pickle cubes, jalapeño rings and droplets of mustard and ketchup — suspended around it, dramatic black background, commercial food photography, ultra-realistic textures, premium street-food styling, cinematic lighting with a warm rim light. No text, no logos, no packaging, no hands. Square 1:1 composition.
+```
+
+- 原作者: [@iamrealsnow](https://x.com/iamrealsnow)
+- 原帖: https://x.com/iamrealsnow/status/2068901441297858693
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/loaded-hot-dog-floating-black-studio?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 法式洋葱汤脏粉色悬浮
+
+<a href="https://cinel.ai/zh/prompts/p/french-onion-soup-dusty-pink-levitation?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/french-onion-soup-dusty-pink-levitation.webp" alt="法式洋葱汤脏粉色悬浮" width="480"></a>
+
+> @iamaiistudio（PromptLab）分享了一条 GPT Image 2 系列提示词：在无缝脏粉色背景上高速悬浮的解构菜品，原文一次列了三道（提拉米苏、罗宋汤、牛油果吐司）。柔和的粉色布景是它的辨识点。我们收窄成库里还没有的一道菜——法式洋葱汤，一条提示词出一张干净的图。
+
+```text
+A professional studio food photograph of a deconstructed French onion soup captured mid-air in dramatic high-speed levitation. Set against a seamless dusty pink backdrop with soft, even studio lighting, the components burst and float in a dynamic formation above a white ceramic crock resting on a wooden board: ribbons of deeply caramelized onions, a toasted baguette slice, a slab of melted gruyère with long cheese strands, a sprig of thyme, a bay leaf and droplets of rich brown broth hovering in the air. Fine details like flying crumbs, thyme leaves and broth droplets are razor-sharp with a shallow depth of field. Soft shadows fall beneath the main suspended elements. No text, no logos, no people. Square 1:1 composition.
+```
+
+- 原作者: [@iamaiistudio](https://x.com/iamaiistudio)
+- 原帖: https://x.com/iamaiistudio/status/2067851560168931394
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/french-onion-soup-dusty-pink-levitation?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 草莓奶油酥饼粉底爆炸分层
+
+<a href="https://cinel.ai/zh/prompts/p/strawberry-shortcake-exploded-pink-studio?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/strawberry-shortcake-exploded-pink-studio.webp" alt="草莓奶油酥饼粉底爆炸分层" width="480"></a>
+
+> @fabiyamada_art 展示了 Nano Banana 2 生成的四张爆炸视图（汉堡、总汇三明治、草莓奶昔、草莓奶油酥饼），说只需替换两个词，但提示词本身放在链接里，帖子没有给出。所以本条属于“仅有图片”：我们根据草莓酥饼那张图反写了提示词（垂直叠层、等距、粉彩无缝背景、碎屑定格）。原始提示词未提供。
+
+```text
+Luxury campaign exploded-view photo of a classic strawberry shortcake: the layers separated vertically and floating in mid-air with even spacing — fresh whole and halved strawberries with a dusting of powdered sugar at the top, a cloud of whipped cream, a golden flaky buttermilk biscuit top, glossy macerated strawberry slices dripping red syrup, a second layer of whipped cream, and the biscuit base at the bottom. Biscuit crumbs, strawberry pieces, syrup droplets and a few mint leaves are frozen mid-air around the stack. Seamless soft pastel pink background, soft diffused studio light with gentle shadows, crisp focus, photorealistic textures, high-end food advertising. No text, no logos, no hands. Square 1:1 composition.
+```
+
+- 原作者: [@fabiyamada_art](https://x.com/fabiyamada_art)
+- 原帖: https://x.com/fabiyamada_art/status/2079255543496183899
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/strawberry-shortcake-exploded-pink-studio?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
