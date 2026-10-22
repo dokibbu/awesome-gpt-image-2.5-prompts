@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-精選 **562** 條 GPT Image 2.5 提示詞，每條都附示例圖、完整提示詞、原作者和原帖連結。資料來自 [cinel.ai](https://cinel.ai/zh-hant/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示詞庫，自動同步更新。
+精選 **592** 條 GPT Image 2.5 提示詞，每條都附示例圖、完整提示詞、原作者和原帖連結。資料來自 [cinel.ai](https://cinel.ai/zh-hant/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示詞庫，自動同步更新。
 
 👉 [在 cinel.ai 瀏覽全部並線上生成](https://cinel.ai/zh-hant/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -24,7 +24,7 @@
 - [海報與平面設計](#poster-design) (53) · [全部](cases/poster-design.md)
 - [資訊圖與 UI](#infographic-ui) (34) · [全部](cases/infographic-ui.md)
 - [3D 角色與公仔](#3d-figurines) (60) · [全部](cases/3d-figurines.md)
-- [美食飲品](#food-drink) (154) · [全部](cases/food-drink.md)
+- [美食飲品](#food-drink) (184) · [全部](cases/food-drink.md)
 - [插畫與動漫](#illustration-anime) (43) · [全部](cases/illustration-anime.md)
 - [創意場景](#scenes-creative) (93) · [全部](cases/scenes-creative.md)
 
@@ -1105,7 +1105,7 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## 美食飲品
 
-精選 6 條 · [查看本類全部 154 條](cases/food-drink.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精選 6 條 · [查看本類全部 184 條](cases/food-drink.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 

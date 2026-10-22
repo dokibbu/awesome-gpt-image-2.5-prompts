@@ -1,6 +1,6 @@
 # Food & Drink · GPT Image 2.5
 
-[← README](../README.md) · 154 · [Category on cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 184 · [Category on cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
@@ -2770,3 +2770,423 @@ Luxury campaign exploded-view photo of a classic strawberry shortcake: the layer
 - Author: [@fabiyamada_art](https://x.com/fabiyamada_art)
 - Original post: https://x.com/fabiyamada_art/status/2079255543496183899
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/strawberry-shortcake-exploded-pink-studio?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Picanha Sandwich Exploded Layers Ad Keyframe
+
+<a href="https://cinel.ai/prompts/p/picanha-sandwich-exploded-layers-ad-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/picanha-sandwich-exploded-layers-ad-keyframe.webp" alt="Picanha Sandwich Exploded Layers Ad Keyframe" width="480"></a>
+
+> The hottest fresh post in this batch: @condzxyz's 25-second, 60 fps motion-design ad brief for a fictional fire-kitchen restaurant (256 bookmarks in two weeks). Its centrepiece, Scene 4, drops an exploded sandwich into frame one layer per beat. We froze that beat as a single still, kept the charcoal-and-ember palette from the brief, and built it as a Brazilian picanha sandwich instead of the smash burger the library already has.
+
+```text
+Ultra-realistic fire-kitchen advertising keyframe, square 1:1: a Brazilian picanha steak sandwich exploded vertically into six separate floating layers, one stacked above the other with even gaps, frozen at the moment of impact — from bottom to top: a toasted bottom bun, crisp pickle slices, charred red onion rings, a thick slab of sliced medium-rare picanha with a glistening fat cap, a melting slice of provolone draping over a second layer of picanha, and a glossy toasted top bun. Below, a bed of glowing charcoal embers; above and around the stack, ballistic sparks and rising embers, tiny droplets of meat juice and crumbs suspended in the air. Deep charcoal background (#120D0A, never pure black) with a warm radial glow, ember-orange and gold highlights on the meat and bread, subtle film grain and vignette. Dramatic rim light, macro food detail, shallow depth of field, premium restaurant commercial look. No people, no hands, no text, no logos. Square 1:1 composition.
+```
+
+- Author: [@condzxyz](https://x.com/condzxyz)
+- Original post: https://x.com/condzxyz/status/2107661805447184673
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/picanha-sandwich-exploded-layers-ad-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Dragon Fruit Sorbet Zero-Gravity Vortex Keyframe
+
+<a href="https://cinel.ai/prompts/p/dragon-fruit-sorbet-zero-gravity-vortex-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/dragon-fruit-sorbet-zero-gravity-vortex-keyframe.webp" alt="Dragon Fruit Sorbet Zero-Gravity Vortex Keyframe" width="480"></a>
+
+> @Fujimoto_hina's Veo 3.1 JSON prompt (16.6K views) runs from a pitaya being split, through a zero-gravity vortex of juice, basil and finger lime, to a frosty sorbet scoop. We merged the split and the vortex into one still and put the finished scoop at its centre, so a single image tells the whole "fruit to sorbet" story.
+
+```text
+Ultra-realistic cinematic food-commercial keyframe, square 1:1: a dew-beaded deep magenta red dragon fruit cleaved cleanly in half, the two halves floating apart above a matte black slate and revealing glistening magenta flesh studded with glossy black micro-seeds; between them a zero-gravity vortex of cold-pressed fuchsia pitaya nectar, translucent agave ribbons, tiny Thai basil micro-leaves and pearls of finger lime caviar swirls in mid-air, and at the center of the vortex a perfect ridged sphere of velvety magenta sorbet sparkling with microscopic frost crystals, a thin drizzle of hibiscus reduction arcing around it. Cool cryogenic vapor curls at the edges. Crisp backlit rim light catching every airborne droplet, electric magenta and jade green accents against charcoal slate, extreme macro, ultra-shallow depth of field. No text, no logos, no people, no hands. Square 1:1 composition.
+```
+
+- Author: [@Fujimoto_hina](https://x.com/Fujimoto_hina)
+- Original post: https://x.com/Fujimoto_hina/status/2104102096882802907
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/dragon-fruit-sorbet-zero-gravity-vortex-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Alphonso Mango Saffron Gelato Zero-Gravity Keyframe
+
+<a href="https://cinel.ai/prompts/p/alphonso-mango-saffron-gelato-zero-gravity-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/alphonso-mango-saffron-gelato-zero-gravity-keyframe.webp" alt="Alphonso Mango Saffron Gelato Zero-Gravity Keyframe" width="480"></a>
+
+> @Fujimoto_hina's Veo 3.1 "Golden Churn" prompt (129 likes, 76 bookmarks) follows the fruit-to-gelato arc: a mango is sliced, cream, cardamom and saffron swirl in zero gravity, the mix is churned and a scoop curls up. We put the floating fruit, the vortex and the finished scoop into one still, an Indian-inspired mango gelato that sits alongside the dragon fruit sorbet from the same creator.
+
+```text
+Ultra-realistic cinematic food-commercial keyframe, square 1:1: a sun-ripened Alphonso mango sliced into a hedgehog-cut cheek and thick golden slices floating above a chilled dark slate, releasing golden nectar droplets and a fine fibrous fruit mist; around them a zero-gravity vortex of velvety sweet cream, crushed green cardamom pods, saffron threads and rich saffron-gold mango pulp collides and swirls in mid-air ribbons; below, resting in a frosted brass coupe on the slate, a perfect textured scoop of dense, glossy mango gelato with visible ripe mango chunks, delicate frost crystals and glistening condensation, a single thread of thick mango reduction cascading onto it, faint frost vapor curling around the coupe. Extreme macro, ultra-shallow depth of field, deep saffron-gold and rich ivory palette against dark slate, warm golden-hour rim light balanced by cool frosty blue fill. No text, no logos, no people, no hands. Square 1:1 composition.
+```
+
+- Author: [@Fujimoto_hina](https://x.com/Fujimoto_hina)
+- Original post: https://x.com/Fujimoto_hina/status/2102063087251853337
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/alphonso-mango-saffron-gelato-zero-gravity-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Cream-Filled Croissant Exploding Split
+
+<a href="https://cinel.ai/prompts/p/cream-filled-croissant-exploding-split?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/cream-filled-croissant-exploding-split.webp" alt="Cream-Filled Croissant Exploding Split" width="480"></a>
+
+> The most-engaged post in the whole pool: @azed_ai's original "Exploding food" template (846 likes, 697 bookmarks), the one that started the split-food trend. Its six slots — food, filling, action, crust, interior, background — work for any stuffed food. We filled it with a cream-filled croissant, which the library did not have yet.
+
+```text
+Exploding croissant with vanilla bean pastry cream, broken into two pieces with cream bursting and stretching outward between the halves. Flaky, shattering golden-brown laminated crust, airy honeycomb layers and buttery crumb visible, crumbs and pastry flakes suspended mid-air. Clean pastel beige studio background, studio lighting, high-end commercial food photography, ultra-detailed, sharp focus. No text, no logos. Square 1:1 composition.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2049806236556964092
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/cream-filled-croissant-exploding-split?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Arancini Cheese Pull Explosion Ad
+
+<a href="https://cinel.ai/prompts/p/arancini-cheese-pull-explosion-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/arancini-cheese-pull-explosion-ad.webp" alt="Arancini Cheese Pull Explosion Ad" width="480"></a>
+
+> @azed_ai's June follow-up, "Food Explosion Advertising" (325 likes, 251 bookmarks), tightens the original template with "exposed" interiors and a premium-ad finish. We used it for Sicilian arancini, whose saffron rice, ragù and cheese pull show three textures in one break.
+
+```text
+Exploding Sicilian arancino rice ball with molten mozzarella and ragù, broken into two pieces with mozzarella stretching in long strands while ragù spills out. Crunchy golden breadcrumb shell, saffron risotto and slow-cooked meat ragù exposed, crumbs, rice grains and particles suspended mid-air. Clean dark slate-grey background, professional studio lighting, high-end commercial food photography, ultra-detailed textures, sharp focus, premium advertising aesthetic. No text, no logos. Square 1:1 composition.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2065752075682844685
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/arancini-cheese-pull-explosion-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Macarons Bursting From a Pastry Box
+
+<a href="https://cinel.ai/prompts/p/macarons-bursting-from-pastry-box?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/macarons-bursting-from-pastry-box.webp" alt="Macarons Bursting From a Pastry Box" width="480"></a>
+
+> @AiwithLariab's Nano Banana prompt (120 likes, 53 bookmarks) has three bilingual slots (what explodes, the container it bursts out of, and the debris) and works for any product. Burgers and fruit are already in the library, so we filled it with macarons bursting from a pastry box. The slot names stay in the original Indonesian.
+
+```text
+A high-speed commercial photograph capturing a dynamic explosion of about twelve assorted French macarons in pistachio, raspberry, lemon, lavender and chocolate bursting upwards out of an open pale-pink pastry box. Freeze motion effect shows cookie shell crumbs, ganache flecks, freeze-dried raspberry pieces and powdered sugar suspended in mid-air surrounding the main subjects. Some macarons are breaking apart or deconstructing, revealing ganache fillings. Hyper-realistic textures, dramatic studio lighting highlighting details against a dark, moody textured background, vibrant colors, energetic atmosphere. Plain box with no printing. No text, no logos. Square 1:1 composition.
+```
+
+- Author: [@AiwithLariab](https://x.com/AiwithLariab)
+- Original post: https://x.com/AiwithLariab/status/2080633180277879240
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/macarons-bursting-from-pastry-box?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Tres Leches Cake Exploded Flavor Profile Infographic
+
+<a href="https://cinel.ai/prompts/p/tres-leches-cake-exploded-flavor-profile-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/tres-leches-cake-exploded-flavor-profile-infographic.webp" alt="Tres Leches Cake Exploded Flavor Profile Infographic" width="480"></a>
+
+> @TechieBySA's "Exploded Food Views" post (157 likes, 104 bookmarks) shows four exploded-view sheets (a burger, a cappuccino, ramen and a strawberry cake), each with labeled floating layers and a flavor-profile, origin and key-spice sidebar. The prompt is only behind a link, so we wrote our own from the image and applied it to a tres leches cake, a dish not yet in the library.
+
+```text
+Hyper-realistic exploded food view infographic on a pure white background, square 1:1. On the left two-thirds, a Mexican tres leches cake is separated into floating horizontal layers stacked vertically with even gaps and soft shadows beneath each one, from top to bottom: a dusting of ground cinnamon, a pillowy layer of whipped cream, fresh strawberry slices, a milk-soaked vanilla sponge glistening with the three-milk mixture, a pool of sweetened condensed and evaporated milk, a second soaked sponge layer, and a white ceramic cake plate at the bottom. Thin grey leader lines connect each layer to a clean black label on the left: "Cinnamon", "Whipped Cream", "Strawberries", "Soaked Sponge", "Three Milks", "Sponge Base", "Cake Plate". On the right, a slim sidebar with the heading "FLAVOR PROFILE" and five small bar meters labeled SWEET, CREAMY, SOUR, RICH, SPICE; below it "ORIGIN: Mexico" and a "KEY INGREDIENTS" list with tiny realistic icons of vanilla pod, cinnamon stick, evaporated milk and strawberries. Bottom left, three small minimalist line badges. Premium food-magazine infographic layout, soft studio light, ultra-sharp macro detail, correctly spelled English text. No logos, no flags, no people. Square 1:1 composition.
+```
+
+- Author: [@TechieBySA](https://x.com/TechieBySA)
+- Original post: https://x.com/TechieBySA/status/2061448694034018637
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/tres-leches-cake-exploded-flavor-profile-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Vietnamese Egg Coffee Exploded Layers Infographic
+
+<a href="https://cinel.ai/prompts/p/vietnamese-egg-coffee-exploded-layers-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/vietnamese-egg-coffee-exploded-layers-infographic.webp" alt="Vietnamese Egg Coffee Exploded Layers Infographic" width="480"></a>
+
+> @iamaiistudio posted a JSON prompt that breaks a chocolate coffee drink into seven floating layers, from cocoa dust down to an empty glass, over a graphite gradient. The library already has a layered chocolate drink, so we kept the JSON structure (layer list, background, lighting, labels on the right) and rebuilt it as Vietnamese egg coffee, adding the hot-water bath it is traditionally served in.
+
+```text
+A hyper-realistic vertical exploded-view breakdown of a Vietnamese egg coffee (cà phê trứng), square 1:1. Centered vertical alignment, with every ingredient floating as its own separate layer and clearly spaced apart, from top to bottom: a fine dusting of cocoa powder particles; a thick, glossy cloud of whipped egg-yolk and condensed-milk custard foam with soft peaks; a thin ribbon of sweetened condensed milk with dripping edges; a dark, silky layer of strong Robusta phin-filter coffee; a handful of roasted coffee beans; and at the bottom an empty small transparent textured glass cup with a weighted base, standing in a shallow bowl of hot water. Premium dark background: a clean studio backdrop with a smooth near-black graphite-to-charcoal gradient. Soft, controlled studio lighting with distinct layered shadows beneath each floating ingredient. Ultra-sharp macro realism, minimal thin guide lines and English labels on the right side reading "Cocoa", "Egg Cream", "Condensed Milk", "Phin Coffee", "Coffee Beans", "Glass & Water Bath". High-end product infographic. No logos, no people. Square 1:1 composition.
+```
+
+- Author: [@iamaiistudio](https://x.com/iamaiistudio)
+- Original post: https://x.com/iamaiistudio/status/2072148184932192581
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/vietnamese-egg-coffee-exploded-layers-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Salted Caramel Pretzel Milkshake Ingredient Explosion Poster
+
+<a href="https://cinel.ai/prompts/p/salted-caramel-pretzel-milkshake-ingredient-explosion-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/salted-caramel-pretzel-milkshake-ingredient-explosion-poster.webp" alt="Salted Caramel Pretzel Milkshake Ingredient Explosion Poster" width="480"></a>
+
+> @ou_zhen599 (Loriel.AI) explains why this layout works: the cup on the left anchors the ad, so the ingredient explosion on the right reads as proof of flavour rather than a random dessert collage. The original advertises a fictional "Mocha Cloud Shake" with sandwich cookies. We dropped the brand and headline, kept the two-zone "Orbit" layout, and made it a salted caramel pretzel milkshake, whose ingredients carry no trademark look.
+
+```text
+Ultra-real premium dessert-beverage advertising poster, square 1:1. On the left, a clean unbranded clear takeaway cup of salted caramel milkshake with caramel streaks down the inside wall and a tall whipped cream swirl rising from the domed lid, topped with a mini pretzel twist; on the right, a surreal enlarged ingredient spectacle where vanilla milkshake, whipped cream, golden-brown pretzel twists and broken pretzel pieces, flakes of sea salt and glossy amber caramel sauce explode and swirl together in midair around a central whipped cream spiral. Glossy caramel splash arcs wrap around the spiral and loop back toward the cup. Clean cool mint background with a subtle tabletop plane along the bottom, generous negative space, sculptural and reduced, high-key studio light with crisp highlights on cream and caramel. No brand names, no logo on the cup, no text, no people, no hands. Square 1:1 composition.
+```
+
+- Author: [@ou_zhen599](https://x.com/ou_zhen599)
+- Original post: https://x.com/ou_zhen599/status/2095457767058505935
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/salted-caramel-pretzel-milkshake-ingredient-explosion-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Japanese Fruit Sando Exploded Labeled Infographic
+
+<a href="https://cinel.ai/prompts/p/japanese-fruit-sando-exploded-labeled-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/japanese-fruit-sando-exploded-labeled-infographic.webp" alt="Japanese Fruit Sando Exploded Labeled Infographic" width="480"></a>
+
+> @Strength04_X's café-ad pair (95 likes): a Nano Banana Pro still of a club sandwich, then an "exploded vertical infographic" prompt with a strict top-to-bottom layer list and exact pointer labels, animated in Kling 3.0. Club sandwiches are already in the library, so we kept the layer-list format and labels and rebuilt it as a Japanese fruit sando.
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of a Japanese fruit sando, square 1:1. Top to bottom structure: Milk Bread Layer (crustless fluffy white shokupan slice) → Whipped Cream Layer (smooth thick Chantilly cream) → Strawberry Layer (whole halved strawberries, glossy red) → Kiwi Layer (bright green kiwi slices with black seeds) → Mango Layer (juicy golden mango cubes) → Cream Base (second smooth cream layer) → Bread Base (soft milk bread slice). Everything centered with even spacing, warm café lighting on a soft warm wood-toned seamless studio background, subtle shadows beneath every layer, premium commercial infographic design. Add clean infographic text labels with thin pointer lines using these exact labels: "Milk Bread", "Whipped Cream", "Strawberry", "Kiwi", "Mango", "Cream", "Bread Base". Hyper-realistic café food photography, premium commercial quality. No logos, no people. Square 1:1 composition.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2071072079412392337
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/japanese-fruit-sando-exploded-labeled-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Korean Naengmyeon Cold Noodles Exploded Infographic
+
+<a href="https://cinel.ai/prompts/p/korean-naengmyeon-exploded-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/korean-naengmyeon-exploded-infographic.webp" alt="Korean Naengmyeon Cold Noodles Exploded Infographic" width="480"></a>
+
+> @Strength04_X's ramen version of the exploded-infographic format (93 likes, 49 bookmarks) stacks steam, herbs, egg and meat, noodles, broth and bowl, then spins it in Kling 3.0. Ramen is well covered in the library, so we kept the six-layer stack and label list and turned it into icy Korean naengmyeon, with ice in place of steam.
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of Korean mul-naengmyeon cold noodles, square 1:1. Top to bottom structure: Ice Layer (crystal clear ice shards and frost) → Garnish Layer (julienned cucumber, Korean pear slices and toasted sesame) → Egg & Beef Layer (half a boiled egg and thin slices of cold brisket) → Noodles (chewy thin buckwheat noodles twisted into a neat nest) → Broth Layer (icy clear beef-and-dongchimi broth with a few slushy crystals) → Bowl Base (minimal brass bowl). All elements aligned vertically with clean spacing. Cool dark slate background, crisp cinematic lighting, realistic shadows, a faint cold mist. Add clean infographic labels with thin pointer lines using these exact labels: "Ice", "Garnish", "Egg & Beef", "Noodles", "Broth", "Bowl". Ultra-realistic liquid and ice detail, premium food photography. No logos, no people. Square 1:1 composition.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2057050369247875459
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/korean-naengmyeon-exploded-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Venezuelan Arepa Exploded Labeled Infographic
+
+<a href="https://cinel.ai/prompts/p/venezuelan-arepa-exploded-labeled-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/venezuelan-arepa-exploded-labeled-infographic.webp" alt="Venezuelan Arepa Exploded Labeled Infographic" width="480"></a>
+
+> @Strength04_X's taco version of this format (92 likes, 51 bookmarks) stacks lettuce, salsa, cheese, meat and shell with five pointer labels, animated in Kling 3.0. Tacos already appear three times in the library, so we kept the five-to-six layer list and rebuilt it as a Venezuelan arepa reina pepiada, which splits naturally into a top and a bottom half.
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of a Venezuelan arepa reina pepiada, square 1:1. Top to bottom structure: Top Arepa Half (golden griddled corn cake with charred spots) → Cilantro (fresh green leaves) → Avocado Chicken Salad (creamy shredded chicken mixed with mashed avocado and lime) → Avocado Slices (glossy green fans) → Shredded Cheese (white queso blanco shreds) → Bottom Arepa Half (soft steaming corn interior facing up). Perfect vertical alignment, warm rustic terracotta background, soft studio lighting, realistic shadows beneath each floating element. Add clean infographic text labels with thin pointer lines using these exact labels: "Arepa", "Cilantro", "Chicken Salad", "Avocado", "Queso", "Arepa Base". Ultra-detailed food textures, premium commercial aesthetic. No logos, no people. Square 1:1 composition.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2056018963084226866
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/venezuelan-arepa-exploded-labeled-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Lemonade Five-Layer Exploded Structure Poster
+
+<a href="https://cinel.ai/prompts/p/lemonade-five-layer-exploded-structure-poster-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/lemonade-five-layer-exploded-structure-poster-zh.webp" alt="Lemonade Five-Layer Exploded Structure Poster" width="480"></a>
+
+> The freshest post in this batch (Oct 15). @superfang119 ran one Chinese prompt through four models and compared how each counted the ice cubes and spelled the labels. The prompt itself is a model of precision: exact counts, a single axis, six fixed text strings and an explicit "do not add" list. We kept it word for word and only changed 3:4 to square.
+
+```text
+A square 1:1 photorealistic lemonade exploded-structure concept poster on a pure white background, macro commercial photography, transparent materials, frozen water droplets, soft studio light. Five elements float strictly along one vertical center axis, separated and not overlapping, from top to bottom: a clear splash of lemonade, three transparent ice cubes, one round lemon slice, three green mint leaves, and one empty clear cylindrical glass. The glass is complete, with its rim, base and wall thickness clearly visible; no horizon line in the background. On the right, five thin leader lines point precisely to the five layers, with English labels from top to bottom reading only "LEMON WATER", "ICE", "LEMON", "MINT", "GLASS". At the top, the exact title "INSIDE LEMONADE". Use only these six pieces of text; do not add sugar, a straw, a second glass or any other ingredient. It should feel like a creative deconstruction ad for a drinks brand; the floating is a visual concept, not a mechanical assembly. Keep the vertical layering, moderate negative space, clear glass and sharp fruit-flesh detail. No logos. Square 1:1 composition.
+```
+
+- Author: [@superfang119](https://x.com/superfang119)
+- Original post: https://x.com/superfang119/status/2110611628958114239
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/lemonade-five-layer-exploded-structure-poster-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Linguine Vongole Fork-Lift Floating Burst
+
+<a href="https://cinel.ai/prompts/p/linguine-vongole-fork-lift-floating-burst?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/linguine-vongole-fork-lift-floating-burst.webp" alt="Linguine Vongole Fork-Lift Floating Burst" width="480"></a>
+
+> @ou_zhen599's "I love to eat" poster prompt (41 likes) builds the whole image on one idea: the fork is the structural axis, and every floating strand continues its lifting motion, so the burst looks sculptural rather than messy. The original uses spaghetti in tomato sauce, which overlaps the library's spaghetti entries, so we made it linguine with clams.
+
+```text
+Create an ultra-premium gourmet poster, square 1:1, focused on the microsecond when a fork lifts linguine alle vongole upward and the ingredients burst into a suspended floating composition. One refined vintage silver fork stands vertically at the center, twirling a glossy nest of linguine slick with white wine, garlic and olive oil; around the forked pasta core, long strands stretch upward and arc downward in elegant curves, while open littleneck clams in their shells, flecks of chopped parsley, thin garlic slices, red chili flakes, a curl of lemon zest and tiny droplets of buttery sauce hover in a controlled, weightless floating burst. A shallow white bowl sits below, slightly out of focus. Minimalist warm off-white background with strong negative space, elegant directional light, glossy sauce highlights, physically believable pasta tension, luxury editorial food-explosion aesthetic. No text, no logos, no hands, no people. Square 1:1 composition.
+```
+
+- Author: [@ou_zhen599](https://x.com/ou_zhen599)
+- Original post: https://x.com/ou_zhen599/status/2075266659422715961
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/linguine-vongole-fork-lift-floating-burst?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Poutine Exploded Labeled Infographic
+
+<a href="https://cinel.ai/prompts/p/poutine-exploded-labeled-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/poutine-exploded-labeled-infographic.webp" alt="Poutine Exploded Labeled Infographic" width="480"></a>
+
+> @Strength04_X's French fries prompt (71 likes) shows how far the exploded-infographic format can go even with a one-ingredient food: fries, salt, oil, raw potato and box each get a layer and a label. We kept the idea of separating a "simple" dish into its process layers and applied it to Canadian poutine, replacing the branded red box with a plain paper boat.
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of Canadian poutine, square 1:1. Top to bottom structure: Gravy Layer (glossy rich brown gravy pouring in a thick ribbon) → Cheese Curds (squeaky white cheese curds, slightly melting) → Fries Layer (thick-cut golden fries with crisp edges) → Salt Crystals (fine flaky salt particles floating lightly) → Potato Core (raw russet potato slices showing inner texture) → Paper Boat Base (plain white cardboard serving boat). Perfect vertical alignment, even spacing, bold warm mustard-yellow seamless background, soft shadows, premium diner ad aesthetic. Add labels with thin pointer lines: "Gravy", "Cheese Curds", "Fries", "Salt", "Potato", "Paper Boat". Ultra-sharp detail, realistic textures. No logos, no brand packaging, no people. Square 1:1 composition.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2055121275979509899
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/poutine-exploded-labeled-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Butter Popcorn Exploded Labeled Infographic
+
+<a href="https://cinel.ai/prompts/p/butter-popcorn-exploded-labeled-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/butter-popcorn-exploded-labeled-infographic.webp" alt="Butter Popcorn Exploded Labeled Infographic" width="480"></a>
+
+> @Strength04_X's cinema-snack pair (July) starts from a striped popcorn bucket product shot and ends with a five-layer exploded infographic animated in Kling 3.0. Popcorn was not in the library yet, so we kept the dish and the exact label list and only made it square and logo-free.
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of butter popcorn, square 1:1. Top to bottom structure: Melted Butter Layer (golden glossy butter droplets and a thin pour) → Fresh Popcorn Layer (crispy fluffy popcorn pieces) → Salt Crystal Layer (fine floating sea salt crystals) → Corn Kernel Layer (golden unpopped kernels) → Popcorn Bucket Base (plain red-and-white striped paper bucket). Everything perfectly centered with equal spacing and realistic shadows beneath every floating layer. Rich red seamless studio background, warm cinema lighting, clean commercial composition, premium snack advertisement style. Add clean infographic text labels with thin pointer lines using these exact labels: "Butter", "Popcorn", "Salt", "Kernels", "Bucket". Hyper-realistic commercial snack photography, premium infographic layout. No logos, no people. Square 1:1 composition.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2072317174551806235
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/butter-popcorn-exploded-labeled-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Reuben Sandwich Levitating Layers Keyframe
+
+<a href="https://cinel.ai/prompts/p/reuben-sandwich-levitating-layers-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/reuben-sandwich-levitating-layers-keyframe.webp" alt="Reuben Sandwich Levitating Layers Keyframe" width="480"></a>
+
+> @Rosey_watson's 20-shot speed-ramp video prompt (15K views) separates a Wagyu burger layer by layer, orbits it, then rebuilds it. Burgers are well covered in the library, so we froze Shot 3, the "full ingredient explosion", and built it as a deli Reuben, keeping the wooden board, warm gastropub light and the hanging juice droplets.
+
+```text
+Ultra-realistic cinematic food keyframe, square 1:1: a colossal Reuben sandwich on a rustic wooden serving board in a dimly lit, high-end delicatessen with warm ambient lighting, frozen at the "full ingredient explosion" moment — every layer smoothly separated vertically and perfectly aligned in mid-air: the top slice of toasted marble rye rises highest, then a slice of melting Swiss cheese with glossy edges, a tangle of sauerkraut, a thick stack of pink corned beef with visible grain, a ribbon of Russian dressing, and the bottom slice of rye just above the board. Tiny droplets of meat juice and rye crumbs hang motionless between the layers. Low hero angle looking slightly up through the gaps, warm amber bokeh behind, shallow depth of field, luxury food-advertising look. No people, no hands, no text, no logos. Square 1:1 composition.
+```
+
+- Author: [@Rosey_watson](https://x.com/Rosey_watson)
+- Original post: https://x.com/Rosey_watson/status/2073782092790706220
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/reuben-sandwich-levitating-layers-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Brioche French Toast "Defy Gravity" Poster
+
+<a href="https://cinel.ai/prompts/p/brioche-french-toast-defy-gravity-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/brioche-french-toast-defy-gravity-poster.webp" alt="Brioche French Toast &quot;Defy Gravity&quot; Poster" width="480"></a>
+
+> @ShamsAmin56's fast-food poster prompt (117 likes, 52 bookmarks) uses a neat WHAT / FEEL / SHOW / TYPOGRAPHY / TECHNICAL brief. Its SHOW line, a "deconstructed gravity" moment with the top bun hovering, is the exploded idea in its subtlest form. The original is a burger, so we kept the five-part brief and the "DEFY GRAVITY" type and made it a brioche French toast stack.
+
+```text
+A cinematic square 1:1 composition featuring a gourmet "Golden Hour" brioche French toast stack. WHAT: three thick slices of custard-soaked brioche French toast with caramelized crackling edges, a slab of melting salted butter, warm maple syrup, fresh blueberries and raspberries, and a dusting of powdered sugar. FEEL: an atmosphere of "Sunday Indulgence" — dark, moody lighting with a single warm amber spotlight; wisps of steam curl around the stack; hyper-real texture, you can see sugar crystals on the crust and syrup beading on the berries. SHOW: the stack is captured in a "deconstructed gravity" moment — the top slice and the butter pat hover slightly above the stack, a ribbon of maple syrup hangs frozen in mid-air between them, and a few berries float beside it, revealing the soft custardy interior layers. TYPOGRAPHY: ultra-bold, distressed sans-serif type overlapping the bottom third of the frame, reading exactly "DEFY GRAVITY" in a raw concrete-texture finish. TECHNICAL: macro photography style, shallow depth of field, neon-noir color grading (deep blacks, warm ambers, subtle teal highlights). No other text, no logos, no people. Square 1:1 composition.
+```
+
+- Author: [@ShamsAmin56](https://x.com/ShamsAmin56)
+- Original post: https://x.com/ShamsAmin56/status/2054238324198625780
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/brioche-french-toast-defy-gravity-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Golden Toffee Molten Caramel Explosion
+
+<a href="https://cinel.ai/prompts/p/golden-toffee-molten-caramel-explosion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/golden-toffee-molten-caramel-explosion.webp" alt="Golden Toffee Molten Caramel Explosion" width="480"></a>
+
+> @iamrealsnow's Nano Banana Pro prompt (71 likes) is a single dense paragraph: one confection, one impact moment, liquid gold and sugar crystals "like diamonds" over a black mirror. Toffee was not in the library, so we kept it almost word for word, adding toffee shards and sea salt so the explosion shows what the candy is made of.
+
+```text
+A premium square golden butter toffee suspended in mid-air above a mirror-polished black surface, the moment of impact creating an enormous explosion of molten caramel, liquid gold splashing outward in slow motion, broken toffee shards with glassy amber edges flying outward, thousands of sparkling sugar crystals and a few flakes of sea salt floating through the air like diamonds, dramatic studio lighting, ultra-realistic textures, luxury confectionery advertisement, cinematic depth of field, macro photography, hyper-detailed reflections in the black surface. No text, no logos, no wrapper. Square 1:1 composition.
+```
+
+- Author: [@iamrealsnow](https://x.com/iamrealsnow)
+- Original post: https://x.com/iamrealsnow/status/2066462510103056548
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/golden-toffee-molten-caramel-explosion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Dark Chocolate Bar Shattering Mid-Air Over a Cocoa Landscape
+
+<a href="https://cinel.ai/prompts/p/dark-chocolate-bar-shattering-midair-cocoa-landscape?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/dark-chocolate-bar-shattering-midair-cocoa-landscape.webp" alt="Dark Chocolate Bar Shattering Mid-Air Over a Cocoa Landscape" width="480"></a>
+
+> @iamrealsnow's companion GPT Image 2 prompt (65 likes) pushes chocolate to epic scale, with marble landscapes, caramel rivers and a bar exploding under spotlights. We removed the luxury-brand reference and the packaging line so it stays brand-free, and added whole cocoa beans and nibs so the explosion shows where the chocolate comes from.
+
+```text
+Luxury chocolate advertising masterpiece, square 1:1: an enormous unbranded artisan dark chocolate bar with a satin snap surface suspended in mid-air above a black marble landscape, a dramatic slow-motion explosion of chocolate fragments breaking off its edges, molten liquid chocolate flowing like a waterfall through the scene, rich caramel rivers weaving between giant chocolate mountains, whole cocoa beans and cracked cocoa nibs floating alongside, thousands of cocoa particles illuminated by cinematic spotlight beams, golden cocoa dust sparkling throughout the air, hyper-realistic textures revealing every microscopic detail of the chocolate surface, dark elegant environment with deep contrast, dramatic reflections on polished marble, macro photography merged with epic cinematic scale. No packaging, no brand names, no text, no logos. Square 1:1 composition.
+```
+
+- Author: [@iamrealsnow](https://x.com/iamrealsnow)
+- Original post: https://x.com/iamrealsnow/status/2065359538744922187
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/dark-chocolate-bar-shattering-midair-cocoa-landscape?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Jam Doughnut Exploding Split
+
+<a href="https://cinel.ai/prompts/p/jam-doughnut-exploding-split?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/jam-doughnut-exploding-split.webp" alt="Jam Doughnut Exploding Split" width="480"></a>
+
+> @SPEEDAI07 posted eight ready-made fills of @azed_ai's exploding-food structure the same day it went viral (27 bookmarks): cheeseburger, lava cake, croissant, doughnut, pizza, dumpling, cookie and cake. Several of those dishes are already in the library, so we used the jam doughnut example word for word and only made it square.
+
+```text
+Exploding glazed doughnut with strawberry jam filling, broken into two pieces with jam splashing outward. Glossy sugar glaze texture, fluffy golden dough layers visible, sugar crystals and jam droplets suspended mid-air. Clean pink background, bright studio lighting, high-end commercial food photography, ultra-detailed, sharp focus. No text, no logos. Square 1:1 composition.
+```
+
+- Author: [@SPEEDAI07](https://x.com/SPEEDAI07)
+- Original post: https://x.com/SPEEDAI07/status/2049809743431229465
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/jam-doughnut-exploding-split?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Nachos Supreme Exploded Labeled Infographic
+
+<a href="https://cinel.ai/prompts/p/nachos-supreme-exploded-labeled-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/nachos-supreme-exploded-labeled-infographic.webp" alt="Nachos Supreme Exploded Labeled Infographic" width="480"></a>
+
+> @Strength04_X's nachos ad (May) uses the same five-layer exploded format with a motion prompt that spins the stack in Hailuo. Nachos were not in the library, so we kept the dish and label style, added a guacamole and sour cream layer so it matches real nachos supreme, and set it on a teal background so the cheese stands out.
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of nachos supreme, square 1:1. Top to bottom structure: Cheese Sauce Layer (smooth melted cheddar sauce in a glossy ribbon) → Jalapeño & Tomato Layer (fresh sliced jalapeños, diced tomato and scallions) → Sour Cream & Guacamole Layer (dollops of sour cream and chunky guacamole) → Salsa Layer (rich chunky red salsa) → Tortilla Chips Layer (crispy golden triangular chips) → Serving Tray Base (minimal black enamel tray). Perfect vertical alignment, bold teal seamless background, realistic shadows beneath each layer. Add clean infographic text labels with thin pointer lines using these exact labels: "Cheese", "Toppings", "Guac & Cream", "Salsa", "Chips", "Tray". Ultra-realistic food detail, premium commercial aesthetic. No logos, no people. Square 1:1 composition.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2060807489822876133
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/nachos-supreme-exploded-labeled-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Grilled Cheese Floating Halves Cheese Pull
+
+<a href="https://cinel.ai/prompts/p/grilled-cheese-floating-halves-cheese-pull?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/grilled-cheese-floating-halves-cheese-pull.webp" alt="Grilled Cheese Floating Halves Cheese Pull" width="480"></a>
+
+> @iamaiistudio's grilled cheese "food drama" prompt (12 likes, 10 bookmarks) relies on a pair of hands pulling the sandwich apart. Our rules exclude hands, so we let the two halves float apart by themselves. That turns the cheese pull into a levitation shot and keeps the falling crumbs and warm, cosy light from the original.
+
+```text
+A cinematic food action photograph, square 1:1: the two halves of a grilled cheese sandwich floating apart in mid-air on their own, with no hands, long melted cheddar and mozzarella strands stretching dramatically between them. The toasted sourdough has crisp golden buttery edges, crumbs and tiny flakes of crust are falling and suspended in mid-air, a faint wisp of steam rises from the melted center, and a small bowl of tomato soup sits softly out of focus below. Warm cozy light from the side, dark warm-brown background, appetizing close-up, high-detail food photography, shallow depth of field. No hands, no people, no text, no logos. Square 1:1 composition.
+```
+
+- Author: [@iamaiistudio](https://x.com/iamaiistudio)
+- Original post: https://x.com/iamaiistudio/status/2072781965108064381
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/grilled-cheese-floating-halves-cheese-pull?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Kathi Roll Deconstructed Floating Ingredients
+
+<a href="https://cinel.ai/prompts/p/kathi-roll-deconstructed-floating-ingredients?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/kathi-roll-deconstructed-floating-ingredients.webp" alt="Kathi Roll Deconstructed Floating Ingredients" width="480"></a>
+
+> @iamaiistudio's döner kebab prompt is a six-scene set (slice explosion, floating wrap, sauce pour, deconstructed composition, spit close-up, overhead burst), each on its own colored background. Shawarma is already in the library, so we took Scene 4 (deconstructed composition, sage green) together with the floating-wrap idea from Scene 2 and applied them to a Kolkata kathi roll.
+
+```text
+Hyper-realistic commercial food photography, square 1:1, deconstructed composition: a Kolkata chicken kathi roll cut in half and floating vertically, its cross-section revealing an egg-coated flaky paratha wrapped around charred chicken tikka, sliced red onion, green chili and coriander; around it, toasted paratha pieces, chicken tikka chunks, onion rings, lime wedges and coriander leaves are all suspended separately at varying heights, glossy ribbons of green mint chutney and creamy yogurt sauce connecting the elements artistically, ultra-fine chaat masala and chili powder dust in the air. Muted sage green background with soft tonal gradient, controlled studio lighting emphasizing char marks and flaky layers, warm savory tones, natural shine, appetizing color grading. No text, no logos, no people, no hands. Square 1:1 composition.
+```
+
+- Author: [@iamaiistudio](https://x.com/iamaiistudio)
+- Original post: https://x.com/iamaiistudio/status/2063094917774086510
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/kathi-roll-deconstructed-floating-ingredients?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Matcha Mille Crêpe Geological Layers Poster
+
+<a href="https://cinel.ai/prompts/p/matcha-mille-crepe-geological-layers-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/matcha-mille-crepe-geological-layers-poster.webp" alt="Matcha Mille Crêpe Geological Layers Poster" width="480"></a>
+
+> @hellsing00fl's "Geological Layers" poster brief turns a burger's layers into sedimentary rock strata — "layers of flavor = layers of earth". The metaphor fits a mille crêpe even better than a burger: twenty thin strata you can count. We kept the concept, style block and headline and swapped the subject, a dessert not yet in the library.
+
+```text
+Create one complete high-end advertising poster for a matcha mille crêpe cake, square 1:1. SELECTED STYLE: Geological Layers — stratified composition inspired by geological cross-sections, sedimentary rock formations, topographic diagrams and contemporary editorial graphic design; this is NOT a conventional dessert advertisement. CORE CREATIVE CONCEPT: "LAYERS OF FLAVOR." A tall wedge of matcha mille crêpe cake is presented like a geological formation that has been cut open to reveal millions of years of flavor: twenty paper-thin pale-green crêpes alternating with fine white cream strata, a dusting of matcha powder on top like topsoil, and the slice lifted slightly away from the whole cake so its layered face is fully exposed, a few crêpe flakes and matcha particles drifting in the gap. Thin contour lines and small stratigraphy tick marks run beside the slice like a survey diagram. Every layer must remain physically believable and genuinely edible, not plastic CGI. Dark warm stone-grey background, soft directional light, premium typography: a large serif headline reading exactly "LAYERS OF FLAVOR" at the top. No other text, no logos, no people. Square 1:1 composition.
+```
+
+- Author: [@hellsing00fl](https://x.com/hellsing00fl)
+- Original post: https://x.com/hellsing00fl/status/2096545758610858101
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/matcha-mille-crepe-geological-layers-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Buddha Jumps Over the Wall Deconstructed Luxury Poster
+
+<a href="https://cinel.ai/prompts/p/buddha-jumps-over-the-wall-deconstructed-luxury-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/buddha-jumps-over-the-wall-deconstructed-luxury-poster.webp" alt="Buddha Jumps Over the Wall Deconstructed Luxury Poster" width="480"></a>
+
+> @ou_zhen599's poster prompt for 佛跳墙 offers three ways to lay out the ingredients ("vertical ascending", "floating frontal" or "segmented around the pot"). We chose the vertical ascending option, which makes this famous Fujian banquet soup a calm, museum-style exploded view. It is the first entry in the library for this dish.
+
+```text
+Create a premium luxury food advertising poster for Buddha Jumps Over the Wall (佛跳墙), square 1:1, ultra-realistic commercial food photography fused with refined Oriental editorial design, elegant, restrained and culturally rich like a museum-grade gourmet campaign. Calm centered composition with generous negative space on a warm ivory rice-paper background. At the bottom center, an exquisite lidded celadon clay tureen holds the rich golden-amber soup, lightly steaming; its lid floats just above. Above the vessel, the premium ingredients rise in a carefully spaced vertical ascending arrangement, as if the dish has been poetically unfolded for appreciation: a whole glossy abalone, a sea cucumber, a piece of fish maw, dried scallops, a shiitake mushroom, a quail egg, a slice of ham, bamboo shoot and a few goji berries, each distinct, silky, gelatinous and mouthwatering, with fine droplets of broth suspended between them. Soft warm side light, delicate reflections on the glaze, subtle shadows. No text, no logos, no people, no hands. Square 1:1 composition.
+```
+
+- Author: [@ou_zhen599](https://x.com/ou_zhen599)
+- Original post: https://x.com/ou_zhen599/status/2073121129603146033
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/buddha-jumps-over-the-wall-deconstructed-luxury-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Chicken Biryani Radial Exploded View
+
+<a href="https://cinel.ai/prompts/p/chicken-biryani-radial-exploded-view?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/chicken-biryani-radial-exploded-view.webp" alt="Chicken Biryani Radial Exploded View" width="480"></a>
+
+> @SPEEDAI07's compact two-slot template, "an exploded view of [dish], ingredients like [ingredient list] flying outward in a controlled radial composition", is the radial alternative to the vertical stack. A one-pot rice dish suits it because the pot is a natural centre. We filled it with Hyderabadi chicken biryani and its whole spices.
+
+```text
+An exploded view of Hyderabadi chicken biryani in a copper handi, ingredients like saffron-tinted basmati grains, spiced chicken pieces, crispy fried onions, mint and coriander leaves, green cardamom, star anise, cinnamon sticks, cloves, a boiled egg half and a drizzle of ghee flying outward in a controlled radial composition from the open pot at the center, vibrant colors, suspended motion, clean pale saffron-cream background, ultra-sharp macro detail, premium commercial food styling, balanced composition. No text, no logos, no people. Square 1:1 composition.
+```
+
+- Author: [@SPEEDAI07](https://x.com/SPEEDAI07)
+- Original post: https://x.com/SPEEDAI07/status/2053085398356914561
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/chicken-biryani-radial-exploded-view?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Polish Pierogi Deconstructed Flour Burst
+
+<a href="https://cinel.ai/prompts/p/polish-pierogi-deconstructed-flour-burst?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/polish-pierogi-deconstructed-flour-burst.webp" alt="Polish Pierogi Deconstructed Flour Burst" width="480"></a>
+
+> @iamaiistudio's momo prompt splits the frame into the finished dumplings on a board and a "deconstructed view" of wrappers, filling and herbs floating with flour dust. Chinese and Himalayan dumplings are already in the library, so we used the same structure for Polish pierogi ruskie, which adds caramelised onion, sour cream and dill.
+
+```text
+Cinematic food photography, square 1:1, of freshly pan-fried Polish pierogi ruskie piled on a rustic weathered wooden board, golden crisp edges with crimped half-moon pleats, topped with caramelized onions and a dollop of sour cream. Split scene showing a deconstructed view: floating round dough wrappers, balls of potato-and-farmer's-cheese filling, crispy onion pieces, chopped dill and chives suspended in the air above the board. Frozen-in-time effect with flour particles mid-air, motion-frozen cracked black pepper, wisps of swirling steam and falling dill sprigs. Dark moody rustic kitchen setting, weathered wooden board with visible grain and cracks, cinematic warm studio lighting, high contrast and deep shadows, macro detail, shallow depth of field with crisp focus on the ingredients. No text, no logos, no people, no hands. Square 1:1 composition.
+```
+
+- Author: [@iamaiistudio](https://x.com/iamaiistudio)
+- Original post: https://x.com/iamaiistudio/status/2068984482603147590
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/polish-pierogi-deconstructed-flour-burst?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Indonesian Bakso Floating Ingredient Stack Infographic
+
+<a href="https://cinel.ai/prompts/p/indonesian-bakso-floating-ingredient-stack-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/indonesian-bakso-floating-ingredient-stack-infographic.webp" alt="Indonesian Bakso Floating Ingredient Stack Infographic" width="480"></a>
+
+> @iamaiistudio's Indonesian food-infographic prompt leaves the dish open ("an Indonesian dish") but fixes the format: a bowl at the base, ingredients rising in a stack, and Indonesian labels with thin white leader lines. Several Indonesian dishes are already in the library, so we used it for bakso, Indonesia's favourite meatball soup, and wrote out the native labels.
+
+```text
+Square 1:1 hyper-realistic editorial food infographic of Indonesian bakso. A traditional bowl of steaming hot bakso meatball soup sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: bouncy beef meatballs, yellow egg noodles, clear rice vermicelli, fried tofu, bok choy, a ladle-splash of clear beef broth, fried shallots, celery leaves, red chilies and a lime wedge. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Add tasteful infographic overlays with clear Indonesian text labels and thin white pointing lines: "Bakso Sapi", "Mie Kuning", "Bihun", "Tahu Goreng", "Sawi", "Kuah Kaldu", "Bawang Goreng", "Seledri", "Cabai", "Jeruk Nipis". Professional food-magazine layout, warm cinematic studio lighting, dramatic steam, motion-frozen ingredients, shallow depth of field, sharp focus, ultra-detailed textures, premium editorial realism. No watermark, no logo, no people. Square 1:1 composition.
+```
+
+- Author: [@iamaiistudio](https://x.com/iamaiistudio)
+- Original post: https://x.com/iamaiistudio/status/2053819797214019996
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/indonesian-bakso-floating-ingredient-stack-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Roujiamo Exploded Ingredient Menu Infographic
+
+<a href="https://cinel.ai/prompts/p/roujiamo-ingredient-exploded-menu-infographic-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/roujiamo-ingredient-exploded-menu-infographic-zh.webp" alt="Roujiamo Exploded Ingredient Menu Infographic" width="480"></a>
+
+> @HioPepper's Chinese template, the only prompt-only post in this batch, is a complete design spec for a restaurant "dish deconstruction guide": five fill-in fields, a light background, an exploded 3/4 view with offset layers, blue leader-line labels and a four-module selling-point bar. We filled it with Xi'an roujiamo, often called the Chinese burger.
+
+```text
+Generate a square 1:1 "restaurant dish deconstruction guide / ingredient explosion information board" image for roujiamo (腊汁肉夹馍), the Shaanxi street-food classic. Premium restaurant brand visual, Michelin-menu design style, Apple-style infographic layout, modern food advertising photography. Background in light warm grey-white and cream white, clean, generous negative space, no dark background, no restaurant scene, no people. The dish sits in the center in 3/4 perspective as a realistic 3D ingredient explosion, all ingredients floating apart in true serving logic with clear gaps, each layer slightly offset for natural dynamism, from top to bottom: cilantro leaves → chopped green pepper → the top half of a golden baiji flatbread with its iron-ring pattern → a mound of finely chopped braised pork belly glistening with juice → a few drops of rich braising gravy → star anise, cinnamon bark and black cardamom → the bottom half of the flatbread → a plain white plate → soft shadow. No machine parts, screws or industrial structures; every layer is real food. Ultra-realistic textures: crisp-outside soft-inside flatbread, tender fatty pork, glossy gravy. Top-left small title "餐品解构图鉴", large title "肉夹馍", subtitle "陕西小吃 · 风味解析". Around the dish, 6 Chinese labels joined by thin blue leader lines: "① 白吉馍 外酥里软", "② 腊汁肉 肥而不腻", "③ 老汤肉汁 百年传承", "④ 青椒 清爽解腻", "⑤ 香菜 点睛提香", "⑥ 八角桂皮 卤香浓郁". At the bottom, a rounded white info bar with 4 selling-point modules (minimal line icon + title + one short line): "外酥里软", "肥而不腻", "肉汁饱满", "百年老汤". Soft shadows, real spatial relationships, blue detail annotations, high-end menu design. No logos. Square 1:1 composition.
+```
+
+- Author: [@HioPepper](https://x.com/HioPepper)
+- Original post: https://x.com/HioPepper/status/2061678578346184976
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/roujiamo-ingredient-exploded-menu-infographic-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

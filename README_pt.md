@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Uma lista selecionada de **562** prompts para GPT Image 2.5. Cada um traz uma imagem de exemplo, o prompt completo e o crédito ao autor original com link para a publicação original. Os dados vêm da biblioteca de prompts do [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) e são sincronizados automaticamente.
+Uma lista selecionada de **592** prompts para GPT Image 2.5. Cada um traz uma imagem de exemplo, o prompt completo e o crédito ao autor original com link para a publicação original. Os dados vêm da biblioteca de prompts do [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) e são sincronizados automaticamente.
 
 👉 [Ver tudo e gerar online no cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -24,7 +24,7 @@ Uma lista selecionada de **562** prompts para GPT Image 2.5. Cada um traz uma im
 - [Pôsteres, logos e design gráfico](#poster-design) (53) · [todos](cases/poster-design.md)
 - [Infográficos e UI](#infographic-ui) (34) · [todos](cases/infographic-ui.md)
 - [Personagens e figuras 3D](#3d-figurines) (60) · [todos](cases/3d-figurines.md)
-- [Comida e bebida](#food-drink) (154) · [todos](cases/food-drink.md)
+- [Comida e bebida](#food-drink) (184) · [todos](cases/food-drink.md)
 - [Ilustração e anime](#illustration-anime) (43) · [todos](cases/illustration-anime.md)
 - [Cenas criativas](#scenes-creative) (93) · [todos](cases/scenes-creative.md)
 
@@ -1105,7 +1105,7 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## Comida e bebida
 
-6 em destaque · [Ver todos os 154](cases/food-drink.md) · [Categoria no cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 em destaque · [Ver todos os 184](cases/food-drink.md) · [Categoria no cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
