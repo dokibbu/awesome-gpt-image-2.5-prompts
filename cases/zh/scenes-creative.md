@@ -1,6 +1,6 @@
 # 创意场景 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 100 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 101 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 巨型钢笔写出书中世界的魔幻场景提示词
 
@@ -1591,3 +1591,17 @@ Physical open-book diorama where TOPIC = photosynthesis becomes a tactile educat
 - 原作者: [@Gdgtify](https://x.com/Gdgtify)
 - 原帖: https://x.com/Gdgtify/status/2095469605829382530
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/photosynthesis-knowledge-popup-book?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 绘本寻路机械师 Tova 概念设定表
+
+<a href="https://cinel.ai/zh/prompts/p/storybook-wayfinder-mechanic-tova-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/storybook-wayfinder-mechanic-tova-sheet.webp" alt="绘本寻路机械师 Tova 概念设定表" width="480"></a>
+
+> @itsPixieVerse 绘本柔和3D角色设定表（21 赞）。填入虚构寻路机械师 Tova；去掉上传参考要求；1:1。
+
+```text
+Create a premium character concept art sheet, square 1:1, soft plain warm background. Style: soft hand-painted storybook 3D, simplified rounded forms, smooth painted surfaces, soft gradient shading, NO outlines, matte finish, gentle ambient occlusion, warm naturalistic digitized-watercolor game texture. Subject: TOVA — adult woman late 20s, wayfinder mechanic, warm curiosity mood, sun-bleached toolbelt as visual signature, sun-browned skin, practical short wind-tossed hair, soft work gloves, patched canvas jacket. Include hero portrait, full-body turnaround, hand/tool callouts, and two expression studies. No photo upload, no brands, no real celebrities.
+```
+
+- 原作者: [@itsPixieVerse](https://x.com/itsPixieVerse)
+- 原帖: https://x.com/itsPixieVerse/status/2105949472983568738
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/storybook-wayfinder-mechanic-tova-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

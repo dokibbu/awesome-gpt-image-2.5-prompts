@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-精選 **622** 條 GPT Image 2.5 提示詞，每條都附示例圖、完整提示詞、原作者和原帖連結。資料來自 [cinel.ai](https://cinel.ai/zh-hant/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示詞庫，自動同步更新。
+精選 **652** 條 GPT Image 2.5 提示詞，每條都附示例圖、完整提示詞、原作者和原帖連結。資料來自 [cinel.ai](https://cinel.ai/zh-hant/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示詞庫，自動同步更新。
 
 👉 [在 cinel.ai 瀏覽全部並線上生成](https://cinel.ai/zh-hant/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -23,10 +23,10 @@
 - [產品與電商](#product-photography) (46) · [全部](cases/product-photography.md)
 - [海報與平面設計](#poster-design) (53) · [全部](cases/poster-design.md)
 - [資訊圖與 UI](#infographic-ui) (36) · [全部](cases/infographic-ui.md)
-- [3D 角色與公仔](#3d-figurines) (65) · [全部](cases/3d-figurines.md)
+- [3D 角色與公仔](#3d-figurines) (80) · [全部](cases/3d-figurines.md)
 - [美食飲品](#food-drink) (199) · [全部](cases/food-drink.md)
-- [插畫與動漫](#illustration-anime) (44) · [全部](cases/illustration-anime.md)
-- [創意場景](#scenes-creative) (100) · [全部](cases/scenes-creative.md)
+- [插畫與動漫](#illustration-anime) (58) · [全部](cases/illustration-anime.md)
+- [創意場景](#scenes-creative) (101) · [全部](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -916,7 +916,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## 3D 角色與公仔
 
-精選 6 條 · [查看本類全部 65 條](cases/3d-figurines.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精選 6 條 · [查看本類全部 80 條](cases/3d-figurines.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1432,7 +1432,7 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 ## 插畫與動漫
 
-精選 6 條 · [查看本類全部 44 條](cases/illustration-anime.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精選 6 條 · [查看本類全部 58 條](cases/illustration-anime.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -1526,7 +1526,7 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 ## 創意場景
 
-精選 6 條 · [查看本類全部 100 條](cases/scenes-creative.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精選 6 條 · [查看本類全部 101 條](cases/scenes-creative.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 

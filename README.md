@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-A curated list of **622** GPT Image 2.5 prompts. Each one has an example image, the full prompt, and credit to the original author with a link to the original post. Data comes from the [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) prompt library and syncs automatically.
+A curated list of **652** GPT Image 2.5 prompts. Each one has an example image, the full prompt, and credit to the original author with a link to the original post. Data comes from the [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) prompt library and syncs automatically.
 
 👉 [Browse all and generate online at cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -23,10 +23,10 @@ A curated list of **622** GPT Image 2.5 prompts. Each one has an example image, 
 - [Product & E-commerce](#product-photography) (46) · [all](cases/product-photography.md)
 - [Posters, Logos & Graphic Design](#poster-design) (53) · [all](cases/poster-design.md)
 - [Infographics & UI](#infographic-ui) (36) · [all](cases/infographic-ui.md)
-- [3D Characters & Figurines](#3d-figurines) (65) · [all](cases/3d-figurines.md)
+- [3D Characters & Figurines](#3d-figurines) (80) · [all](cases/3d-figurines.md)
 - [Food & Drink](#food-drink) (199) · [all](cases/food-drink.md)
-- [Illustration & Anime](#illustration-anime) (44) · [all](cases/illustration-anime.md)
-- [Creative Scenes](#scenes-creative) (100) · [all](cases/scenes-creative.md)
+- [Illustration & Anime](#illustration-anime) (58) · [all](cases/illustration-anime.md)
+- [Creative Scenes](#scenes-creative) (101) · [all](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -916,7 +916,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## 3D Characters & Figurines
 
-Featured 6 · [See all 65](cases/3d-figurines.md) · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Featured 6 · [See all 80](cases/3d-figurines.md) · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1432,7 +1432,7 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 ## Illustration & Anime
 
-Featured 6 · [See all 44](cases/illustration-anime.md) · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Featured 6 · [See all 58](cases/illustration-anime.md) · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -1526,7 +1526,7 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 ## Creative Scenes
 
-Featured 6 · [See all 100](cases/scenes-creative.md) · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Featured 6 · [See all 101](cases/scenes-creative.md) · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 

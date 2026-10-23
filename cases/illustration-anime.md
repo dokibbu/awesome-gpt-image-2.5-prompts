@@ -1,6 +1,6 @@
 # Illustration & Anime · GPT Image 2.5
 
-[← README](../README.md) · 44 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 58 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -706,3 +706,199 @@ Mixed-media educational illustration, isometric claymation, square 1:1. Subject:
 - Author: [@Gdgtify](https://x.com/Gdgtify)
 - Original post: https://x.com/Gdgtify/status/2111223411112353853
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pi-claymation-math-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### French Watercolor Fox Florist Character Sheet
+
+<a href="https://cinel.ai/prompts/p/french-wc-fox-florist-camille?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/french-wc-fox-florist-camille.webp" alt="French Watercolor Fox Florist Character Sheet" width="480"></a>
+
+> @azed_ai French Watercolor Character Sheet (294 likes). Filled fox florist Camille; square 1:1.
+
+```text
+Children’s picture book character sheet of an anthropomorphic red fox florist named “Camille”, wearing a linen apron over a soft mustard cardigan with a wicker flower basket and garden shears, featuring fluffy cheek fur and a tiny freckled snout, French picture book illustration style, delicate watercolor washes, soft colored pencil textures, charming hand-painted details, light cream background, large full-body character portrait, front, side, back turnaround views, five facial expressions showing joy, focus, surprise, gentle smile, sleepy, four action poses depicting arranging tulips, watering pots, riding a bicycle with flowers, sketching blooms, handwritten French labels, coordinated color palette swatches, separate clothing and accessory studies, consistent character proportions, expressive personality, whimsical editorial layout, professional character design sheet. Square 1:1. No brand logos, no real people, no photo upload.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2113223607539368049
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/french-wc-fox-florist-camille?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### French Watercolor Iguana Artist Gus Sheet
+
+<a href="https://cinel.ai/prompts/p/french-wc-iguana-artist-gus?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/french-wc-iguana-artist-gus.webp" alt="French Watercolor Iguana Artist Gus Sheet" width="480"></a>
+
+> @francistanajura image reply to @azed_ai French WC sheet (iguana artista). Reverse-wrote Gus sheet; square 1:1; removed phone brand text.
+
+```text
+Children’s picture book character sheet of an anthropomorphic green iguana DIY artist named “Gus”, wearing a white t-shirt and cuffed blue jeans with round black sunglasses and a brown leather backpack, featuring long patterned orange-green tail and calm cool demeanor, French picture book illustration style, delicate watercolor washes, soft colored pencil textures, charming hand-painted details, light cream background, large full-body character portrait, front, side, back turnaround views, five facial expressions showing smile, surprise, affectionate, attentive, curious, four action poses depicting drawing on a tablet, climbing a ladder, hammering a nail, sweeping, handwritten French labels, coordinated color palette swatches, separate clothing and accessory studies, consistent character proportions, expressive personality, whimsical editorial layout, professional character design sheet. Square 1:1. No brand logos, no real people, no photo upload.
+```
+
+- Author: [@francistanajura](https://x.com/francistanajura)
+- Original post: https://x.com/francistanajura/status/2113571880125006311
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/french-wc-iguana-artist-gus?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### French Watercolor Melancholy Cat Finch Sheet
+
+<a href="https://cinel.ai/prompts/p/french-wc-melancholy-cat-finch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/french-wc-melancholy-cat-finch.webp" alt="French Watercolor Melancholy Cat Finch Sheet" width="480"></a>
+
+> @dmitriygorin image reply to French WC sheet (tired/melancholy cat). Reverse-wrote Finch; square 1:1.
+
+```text
+Children’s picture book character sheet of an anthropomorphic plump calico cat pilgrim named “Finch”, wearing a tattered red cloak with a tall conical red tower hat with tiny bells and a drawstring pouch, featuring wistful eyes and a large blue fish held to the chest, French picture book illustration style, delicate watercolor washes, soft colored pencil textures, charming hand-painted details, light cream background, large full-body character portrait, front, side, back turnaround views, five facial expressions showing sad, discouraged, pensive, tired, discontent, four action poses depicting sleeping on a cushion, cooking stew, kneeling in prayer, stalking a mouse, handwritten French labels, coordinated color palette swatches, separate clothing and accessory studies, consistent character proportions, expressive personality, whimsical editorial layout, professional character design sheet. Square 1:1. No brand logos, no real people, no photo upload.
+```
+
+- Author: [@dmitriygorin](https://x.com/dmitriygorin)
+- Original post: https://x.com/dmitriygorin/status/2113299398062936575
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/french-wc-melancholy-cat-finch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### French Watercolor Bee Designer Overalls Sheet
+
+<a href="https://cinel.ai/prompts/p/french-wc-bee-designer-overalls?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/french-wc-bee-designer-overalls.webp" alt="French Watercolor Bee Designer Overalls Sheet" width="480"></a>
+
+> @Sigilify image reply to French WC sheet (bee in overalls). Reverse-wrote; square 1:1; no brand wordmarks.
+
+```text
+Children’s picture book character sheet of an anthropomorphic round bumblebee print designer named “Le Petit Créatif”, wearing blue denim overalls and white sneakers with black wayfarer sunglasses, wooden clipboard, pencil and ruler, featuring fuzzy yellow-black stripes and translucent blue wings, French picture book illustration style, delicate watercolor washes, soft colored pencil textures, charming hand-painted details, light cream background, large full-body character portrait, front, side, back turnaround views, five facial expressions showing joy, surprise, concentration, pride, questioning, four action poses depicting drawing a project, measuring with a ruler, calculating a quote, waving with clipboard, handwritten French labels, coordinated color palette swatches, separate clothing and accessory studies, consistent character proportions, expressive personality, whimsical editorial layout, professional character design sheet. Square 1:1. No brand logos, no real people, no photo upload.
+```
+
+- Author: [@Sigilify](https://x.com/Sigilify)
+- Original post: https://x.com/Sigilify/status/2113286895308529849
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/french-wc-bee-designer-overalls?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### French Watercolor Giraffe Hiker Boryi Sheet
+
+<a href="https://cinel.ai/prompts/p/french-wc-giraffe-hiker-boryi?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/french-wc-giraffe-hiker-boryi.webp" alt="French Watercolor Giraffe Hiker Boryi Sheet" width="480"></a>
+
+> @PBoryi39644 image reply (Boryi la girafe voyageuse). Reverse-wrote; square 1:1.
+
+```text
+Children’s picture book character sheet of an anthropomorphic traveling giraffe hiker named “Boryi”, wearing a green cable-knit sweater, orange neckerchief and brown cargo trousers with a leather backpack, wooden walking stick and light-blue flask, featuring voluminous curly reddish-brown afro and soft giraffe spots, French picture book illustration style, delicate watercolor washes, soft colored pencil textures, charming hand-painted details, light cream background, large full-body character portrait, front, side, back turnaround views, five facial expressions showing laughing, smiling, serene, surprised, mischievous, four action poses depicting hiking uphill, pointing to a path, reading a map on a rock, waving while walking, handwritten French labels, coordinated color palette swatches, separate clothing and accessory studies, consistent character proportions, expressive personality, whimsical editorial layout, professional character design sheet. Square 1:1. No brand logos, no real people, no photo upload.
+```
+
+- Author: [@PBoryi39644](https://x.com/PBoryi39644)
+- Original post: https://x.com/PBoryi39644/status/2113282681631096928
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/french-wc-giraffe-hiker-boryi?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### French Watercolor Badger Painter Marcel Sheet
+
+<a href="https://cinel.ai/prompts/p/french-wc-badger-painter-marcel?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/french-wc-badger-painter-marcel.webp" alt="French Watercolor Badger Painter Marcel Sheet" width="480"></a>
+
+> @asifbipu Gemini reply to French WC sheet (badger painter). Reverse-wrote Marcel; square 1:1.
+
+```text
+Children’s picture book character sheet of an anthropomorphic badger painter named “Marcel”, wearing a red-and-white striped marinière under a blue double-breasted pea coat and brown corduroy trousers with a green beret with a paintbrush tucked in and leather sketchbooks, featuring classic black-and-white badger face markings, French picture book illustration style, delicate watercolor washes, soft colored pencil textures, charming hand-painted details, light cream background, large full-body character portrait, front, side, back turnaround views, five facial expressions showing joyful, pensive, surprised, gentle smile, focused, four action poses depicting painting at an easel, reading a book, holding a teacup, walking with sketchbooks, handwritten French labels, coordinated color palette swatches, separate clothing and accessory studies, consistent character proportions, expressive personality, whimsical editorial layout, professional character design sheet. Square 1:1. No brand logos, no real people, no photo upload.
+```
+
+- Author: [@asifbipu](https://x.com/asifbipu)
+- Original post: https://x.com/asifbipu/status/2113331953219014868
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/french-wc-badger-painter-marcel?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### French Watercolor Gnome Woodcutter Lumper Sheet
+
+<a href="https://cinel.ai/prompts/p/french-wc-gnome-woodcutter-lumper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/french-wc-gnome-woodcutter-lumper.webp" alt="French Watercolor Gnome Woodcutter Lumper Sheet" width="480"></a>
+
+> @deebeeeff reply fill of French WC sheet with original gnome Lumper (4 likes). Square 1:1; fictional only.
+
+```text
+Children’s picture book character sheet of an anthropomorphic stout forest gnome woodcutter named “Lumper”, wearing an orange patched tunic, brown patched trousers and heavy work boots with a green floppy pointed hat with an L patch, leather belt, axe and tea mug, featuring messy brown hair, round nose and cheerful folk demeanor, French picture book illustration style, delicate watercolor washes, soft colored pencil textures, charming hand-painted details, light cream background, large full-body character portrait, front, side, back turnaround views, five facial expressions showing happy, sad, angry, confused, sleepy, four action poses depicting chopping wood, reading by the fireplace, eating breakfast, holding a butterfly, handwritten French labels, coordinated color palette swatches, separate clothing and accessory studies, consistent character proportions, expressive personality, whimsical editorial layout, professional character design sheet. Square 1:1. No brand logos, no real people, no photo upload.
+```
+
+- Author: [@deebeeeff](https://x.com/deebeeeff)
+- Original post: https://x.com/deebeeeff/status/2113264222318772633
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/french-wc-gnome-woodcutter-lumper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### French Watercolor Pear Creature Louis Sheet
+
+<a href="https://cinel.ai/prompts/p/french-wc-pear-creature-louis?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/french-wc-pear-creature-louis.webp" alt="French Watercolor Pear Creature Louis Sheet" width="480"></a>
+
+> @deebeeeff image reply “his friend Louis”. Reverse-wrote pear-green creature Louis; square 1:1.
+
+```text
+Children’s picture book character sheet of an anthropomorphic lime-green pear-shaped creature named “Louis”, wearing blue denim overalls and brown lace-up work boots with an orange baseball cap with a white L, featuring round cheerful face and soft speckled green skin, French picture book illustration style, delicate watercolor washes, soft colored pencil textures, charming hand-painted details, light cream background, large full-body character portrait, front, side, back turnaround views, five facial expressions showing happy, sad, angry, perplexed, sleepy, four action poses depicting painting a cottage, sitting by the fire, eating breakfast, drying dishes, handwritten French labels, coordinated color palette swatches, separate clothing and accessory studies, consistent character proportions, expressive personality, whimsical editorial layout, professional character design sheet. Square 1:1. No brand logos, no real people, no photo upload.
+```
+
+- Author: [@deebeeeff](https://x.com/deebeeeff)
+- Original post: https://x.com/deebeeeff/status/2113266071474180490
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/french-wc-pear-creature-louis?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### French Watercolor Owl Baker Hibou Sheet
+
+<a href="https://cinel.ai/prompts/p/french-wc-owl-baker-hibou?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/french-wc-owl-baker-hibou.webp" alt="French Watercolor Owl Baker Hibou Sheet" width="480"></a>
+
+> @_armar_ image reply (night baker owl + harbour captain). Used night baker owl sheet; square 1:1.
+
+```text
+Children’s picture book character sheet of an anthropomorphic barn owl baker named “Monsieur Hibou”, wearing a cream flour-dusted apron with blue striped hem and tiny denim trousers with a white chef toque and wooden spoon, featuring heart-shaped white face and speckled taupe feathers, French picture book illustration style, delicate watercolor washes, soft colored pencil textures, charming hand-painted details, light cream background, large full-body character portrait, front, side, back turnaround views, five facial expressions showing sleepy yawn, concentrated, proud warm, mischievous, surprised hoot, four action poses depicting tasting jam, carrying a giant baguette, napping by the oven, kneading dough, handwritten French labels, coordinated color palette swatches, separate clothing and accessory studies, consistent character proportions, expressive personality, whimsical editorial layout, professional character design sheet. Square 1:1. No brand logos, no real people, no photo upload.
+```
+
+- Author: [@_armar_](https://x.com/_armar_)
+- Original post: https://x.com/_armar_/status/2113232613184000171
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/french-wc-owl-baker-hibou?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### French Watercolor Otter Captain Loutre Sheet
+
+<a href="https://cinel.ai/prompts/p/french-wc-otter-captain-loutre?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/french-wc-otter-captain-loutre.webp" alt="French Watercolor Otter Captain Loutre Sheet" width="480"></a>
+
+> @AlexCodeRx children’s-book character-sheet creator (7 likes). Filled fictional otter Capitaine Loutre in French WC grammar; square 1:1.
+
+```text
+Children’s picture book character sheet of an anthropomorphic harbour otter child captain named “Capitaine Loutre”, wearing a red-and-white Breton striped shirt under a navy peacoat with brass buttons with a red knit beanie and brass telescope, featuring brown fur, cream belly and long white whiskers, French picture book illustration style, delicate watercolor washes, soft colored pencil textures, charming hand-painted details, light cream background, large full-body character portrait, front, side, back turnaround views, five facial expressions showing brave determination, windy joy, perplexed, cozy sleep, warm laughter, four action poses depicting steering a paper boat, fishing with a rod, netting on a dock, drinking hot chocolate, handwritten French labels, coordinated color palette swatches, separate clothing and accessory studies, consistent character proportions, expressive personality, whimsical editorial layout, professional character design sheet. Square 1:1. No brand logos, no real people, no photo upload.
+```
+
+- Author: [@AlexCodeRx](https://x.com/AlexCodeRx)
+- Original post: https://x.com/AlexCodeRx/status/2095305549487509742
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/french-wc-otter-captain-loutre?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### French Watercolor Cozy Dragon Draco Sheet
+
+<a href="https://cinel.ai/prompts/p/french-wc-cozy-dragon-draco?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/french-wc-cozy-dragon-draco.webp" alt="French Watercolor Cozy Dragon Draco Sheet" width="480"></a>
+
+> @Elena38373578 image reply to French WC sheet (cozy dragon). Reverse-wrote Draco; square 1:1; fictional only.
+
+```text
+Children’s picture book character sheet of an anthropomorphic chubby orange dragon named “Draco”, wearing a thick green turtleneck sweater with a blue flat cap and a single gold hoop earring, featuring tiny horns, small wings, spiky tail and warm yellow belly, French picture book illustration style, delicate watercolor washes, soft colored pencil textures, charming hand-painted details, light cream background, large full-body character portrait, front, side, back turnaround views, five facial expressions showing sad, angry, shy, happy, silly, four action poses depicting jumping for joy, running, standing casually, breathing a small flame, handwritten French labels, coordinated color palette swatches, separate clothing and accessory studies, consistent character proportions, expressive personality, whimsical editorial layout, professional character design sheet. Square 1:1. No brand logos, no real people, no photo upload.
+```
+
+- Author: [@Elena38373578](https://x.com/Elena38373578)
+- Original post: https://x.com/Elena38373578/status/2113260145904083066
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/french-wc-cozy-dragon-draco?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Whimsical Watercolor Rabbit With Balloon
+
+<a href="https://cinel.ai/prompts/p/whimsical-wc-rabbit-balloon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/whimsical-wc-rabbit-balloon.webp" alt="Whimsical Watercolor Rabbit With Balloon" width="480"></a>
+
+> @azed_ai Whimsical Watercolor Characters (148 likes). Filled rabbit + balloon; square 1:1.
+
+```text
+Cute childlike watercolor clip art of a fluffy white rabbit holding a bright red balloon string, playful proportions, soft watercolor washes, loose hand-painted edges, cheerful expression, gentle colorful palette, charming picture-book illustration, light cream background, square 1:1. No text, no logos, no real people.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2101989836676911273
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/whimsical-wc-rabbit-balloon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Picture-Book Crow Knight Animal Translation
+
+<a href="https://cinel.ai/prompts/p/picturebook-crow-knight-animal-translate?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/picturebook-crow-knight-animal-translate.webp" alt="Picture-Book Crow Knight Animal Translation" width="480"></a>
+
+> @VoxcatAI animalization→picture-book method (40 likes). Filled fictional crow knight OC (no IP); square 1:1.
+
+```text
+Original fictional crow knight, translated into contemporary picture-book / editorial animal character design / naïve expressionist animal illustration. Keep identity anchors: sharp beak silhouette, matte indigo cape, tiny brass shield, vigilant calm mood. Big head, minimal limbs, exaggerated circular eyes with tiny pupils, clumsy stance, full-body centered on cream ground. Gouache-like opaque paint, dry acrylic texture, wax-crayon feel, broken dry-brush edges, 4–6 color limited palette, shadowless flat illumination, pristine contemporary finish. Square 1:1. No brands, no real people, no copyrighted IP.
+```
+
+- Author: [@VoxcatAI](https://x.com/VoxcatAI)
+- Original post: https://x.com/VoxcatAI/status/2106432340633235956
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/picturebook-crow-knight-animal-translate?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Anime Botanical Mage Character Design Sheet
+
+<a href="https://cinel.ai/prompts/p/anime-botanical-mage-design-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/anime-botanical-mage-design-sheet.webp" alt="Anime Botanical Mage Character Design Sheet" width="480"></a>
+
+> @Mayz1169 clean anime botanical mage sheet (7 likes). Original fantasy OC; square 1:1 white ground.
+
+```text
+Create a clean professional anime character design sheet on pure white background, square 1:1, presenting ONE original fantasy botanical mage consistently across multiple views. Dusty rose-pink hair with straight bangs and an extremely long soft braid nearly to the ankles; teal-green eyes; calm gentle expression. Fog-blue leaf-shaped sleeveless overdress over warm apricot bishop-sleeve blouse; layered taupe skirt; apricot ankle boots; botanical camellia-and-leaf hair ornament; wooden staff topped with pale camellia blossoms. Front, side, back, three-quarter, and expression close-ups. No brands, no real people, no photo reference upload.
+```
+
+- Author: [@Mayz1169](https://x.com/Mayz1169)
+- Original post: https://x.com/Mayz1169/status/2101305814447431701
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/anime-botanical-mage-design-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

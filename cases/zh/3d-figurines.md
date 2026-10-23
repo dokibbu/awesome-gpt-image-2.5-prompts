@@ -1,6 +1,6 @@
 # 3D 角色与手办 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 65 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 80 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 照片转极简 3D 玩具角色风格提示词
 
@@ -1307,3 +1307,213 @@ U-shaped cardboard drafting station (two walls + floor). Walls: B&W blueprint li
 - 原作者: [@Gdgtify](https://x.com/Gdgtify)
 - 原帖: https://x.com/Gdgtify/status/2089551609466683653
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/robie-house-blueprint-desk-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Y2K Pixel Pop 故障风潮玩手办
+
+<a href="https://cinel.ai/zh/prompts/p/y2k-pixel-pop-glitch-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/y2k-pixel-pop-glitch-figurine.webp" alt="Y2K Pixel Pop 故障风潮玩手办" width="480"></a>
+
+> @asifbipu 用 @azed_ai Y2K 潮玩提示做的 Pixel Pop Glitch（1 赞）。虚构角色；1:1；无品牌IP。
+
+```text
+High-detail 3D render of a trendy fictional young woman named Pixel Pop Glitch, half-body portrait, designer toy blind box style, C4D/Blender aesthetic, exaggerated chibi proportions, oversized head, large glossy eyes with star reflections, winged liner, freckle stars on cheeks, purple glossy lips, high space buns with pastel blue and pink chunky highlights and a butterfly clip, playful confident smirk, realistic vinyl skin texture, silver ear stacks and a lip ring, wearing a rhinestone baby tee, baggy holographic cargo pants and chunky platform sneakers, chunky silver chain necklace, rings and a tiny metallic crossbody, cute decorative patches, Y2K fashion aesthetic, soft studio lighting, clean white background, premium collectible toy design. Square 1:1. Original fictional character only — no brand logos, no trademarked IP, no real people, no photo upload.
+```
+
+- 原作者: [@asifbipu](https://x.com/asifbipu)
+- 原帖: https://x.com/asifbipu/status/2112115004652900683
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/y2k-pixel-pop-glitch-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 东京目的地乙烯基狐狸潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/destination-vinyl-tokyo-fox-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/destination-vinyl-tokyo-fox-figurine.webp" alt="东京目的地乙烯基狐狸潮玩" width="480"></a>
+
+> @Goodmanprotocol 目的地潮玩模板（17 赞）。填入东京虚构狐狸吉祥物；1:1；无品牌 Logo。
+
+```text
+Create a premium square 1:1 3D designer-toy collectible inspired by Tokyo. Transform Tokyo into a cute stylized glossy vinyl fox figurine with playful pose, expressive face, smooth finish, and a soft neon-city signature effect (generic skyline glow, no brand neon). Place on a polished circular base with tiny generic landmark miniatures (tower silhouette, crossing, lanterns) and the word TOKYO in clean white lettering. Soft studio product lighting, clean white/light-gray backdrop (no outdoor people). High-end designer-toy photography. No brand logos, no trademarked characters, no real people.
+```
+
+- 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- 原帖: https://x.com/Goodmanprotocol/status/2112560854759879032
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/destination-vinyl-tokyo-fox-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 软质3D暗黑幻想飞蛾吉祥物潮玩海报
+
+<a href="https://cinel.ai/zh/prompts/p/soft3d-dark-fantasy-moth-mascot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/soft3d-dark-fantasy-moth-mascot.webp" alt="软质3D暗黑幻想飞蛾吉祥物潮玩海报" width="480"></a>
+
+> @VoxcatAI 软质3D暗黑幻想吉祥物海报方法（78 赞）。填入原创飞蛾骑士；1:1；无IP。
+
+```text
+Original fictional moth knight, neo-kawaii mascot design × dark fantasy fashion character × soft 3D sculpture aesthetic × premium surreal advertising poster. Keep identity: feathery antennae silhouette, dusty mauve-and-ink palette, glass-wing cloak, moonphase pauldron, cold half-lidded eyes with tiny mouth. Big head, shortened limbs, rounded soft-vinyl surfaces, single large hero on minimal cool-gray ground with tiny geometric accents. Cute + distant + fashionable collectible look. Square 1:1. No brands, no real people, no copyrighted IP. Tiny signature text omitted.
+```
+
+- 原作者: [@VoxcatAI](https://x.com/VoxcatAI)
+- 原帖: https://x.com/VoxcatAI/status/2108407502769680393
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/soft3d-dark-fantasy-moth-mascot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 毛绒潮玩：开学第一天
+
+<a href="https://cinel.ai/zh/prompts/p/fuzzy-designer-toy-first-day-school?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/fuzzy-designer-toy-first-day-school.webp" alt="毛绒潮玩：开学第一天" width="480"></a>
+
+> @Gdgtify 软萌叛逆潮玩微缩语法（29 赞）。填入虚构“开学第一天”（无真人）；1:1。
+
+```text
+Render SUBJECT = first day of school as a soft but rebellious designer-toy diorama, square 1:1. Stylized 3D chibi kid with oversized eyes and confident pose, fuzzy flocking + matte clay + vinyl surfaces, sticker-covered backpack, tiny thermos and name-tag prop (generic, no brand). Minimal gallery-like muted gray background, bright accent only on hair clip and stickers. Soft studio product lighting. Fictional character only — no real people, no logos.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2107781229164556402
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/fuzzy-designer-toy-first-day-school?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 雷克雅未克极光海豹乙烯基伴手礼手办
+
+<a href="https://cinel.ai/zh/prompts/p/vinyl-souvenir-reykjavik-seal-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/vinyl-souvenir-reykjavik-seal-figurine.webp" alt="雷克雅未克极光海豹乙烯基伴手礼手办" width="480"></a>
+
+> @Gdgtify 城市乙烯基伴手礼提示词（13 赞）。填入雷克雅未克海豹吉祥物；1:1。
+
+```text
+Designer vinyl souvenir figurine for LOCATION=Reykjavik, square 1:1. Glossy ABS / smooth vinyl seal mascot with soft aurora translucent swirl accent, cute stylized face, polished circular base with tiny colorful harbor houses (generic). Soft studio lighting, clean white backdrop, premium collectible product shot. No brand logos, no real people.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2100881263804473836
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/vinyl-souvenir-reykjavik-seal-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 大阪章鱼烧 Chibi 乙烯基美食城市潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/foodie-city-osaka-takoyaki-chibi-vinyl?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/foodie-city-osaka-takoyaki-chibi-vinyl.webp" alt="大阪章鱼烧 Chibi 乙烯基美食城市潮玩" width="480"></a>
+
+> @Gdgtify 美食城市 chibi 乙烯基海报（11 赞）。填入大阪章鱼烧吉祥物；1:1；无餐厅品牌。
+
+```text
+Generate CITY=Osaka as a square 1:1 collectible chibi food-culture poster. One large cute chibi vinyl takoyaki mascot (smiling round batter ball with tiny legs, green onion hair tuft, katsuobushi flakes as soft flocking), infer Osaka street-food DNA without any restaurant logos. Clean pastel poster ground, soft product lighting, premium designer-toy finish. No brands, no real people.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2099517778948747523
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/foodie-city-osaka-takoyaki-chibi-vinyl?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Chibi 霹雳舞团字母块潮玩微缩
+
+<a href="https://cinel.ai/zh/prompts/p/chibi-breakdance-crew-toy-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/chibi-breakdance-crew-toy-diorama.webp" alt="Chibi 霹雳舞团字母块潮玩微缩" width="480"></a>
+
+> @Gdgtify chibi 字母块舞蹈微缩（6 赞）。填入霹雳舞虚构舞团；1:1。
+
+```text
+Create a photorealistic collectible toy diorama, square 1:1, where TOPIC=breakdance is represented as oversized physical block letters spelling BREAK, surrounded by a small crew of fictional chibi breakdancers (freeze, windmill hint, beanie, baggy pants). Soft vinyl + flocking, clean studio backdrop. No brand sneaker logos, no real people.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2094787864017944664
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/chibi-breakdance-crew-toy-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 高级赛博图书管理员桌面手办
+
+<a href="https://cinel.ai/zh/prompts/p/premium-cyber-librarian-desk-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/premium-cyber-librarian-desk-figurine.webp" alt="高级赛博图书管理员桌面手办" width="480"></a>
+
+> @AiwithBloodline 高级3D收藏手办模板（4 赞）。填入虚构赛博图书管理员；去掉上传照片槽；1:1。
+
+```text
+Create a premium 3D collectible figurine of a fictional cyber librarian in a stylized semi-realistic designer toy aesthetic with a slightly oversized head, expressive face, and highly detailed sculpting. Posed reading a floating hologram page on a circular display base, softbox studio lighting, clean backdrop. Square 1:1. No photo upload, no real people, no brand logos.
+```
+
+- 原作者: [@AiwithBloodline](https://x.com/AiwithBloodline)
+- 原帖: https://x.com/AiwithBloodline/status/2107441149866852833
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/premium-cyber-librarian-desk-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### GHOST.exe 万圣节设计师潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/ghost-exe-halloween-designer-art-toy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/ghost-exe-halloween-designer-art-toy.webp" alt="GHOST.exe 万圣节设计师潮玩" width="480"></a>
+
+> @gewuerleo GHOST.exe 万圣节潮玩提示词（1 赞）。原创角色；1:1；无品牌IP。
+
+```text
+Original Halloween designer art toy GHOST.exe, square 1:1. Distinctive collectible vinyl figure combining Halloween ghost silhouette with future-tech CRT face panel, pixel cape, and limited four-color palette (bone white, void black, toxic green, warm orange). Smooth printable volumes, soft studio light, clean white backdrop. No reference photo upload, no brand IP, no real people.
+```
+
+- 原作者: [@gewuerleo](https://x.com/gewuerleo)
+- 原帖: https://x.com/gewuerleo/status/2112919466761752755
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/ghost-exe-halloween-designer-art-toy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 万圣节民俗南瓜精手办插画
+
+<a href="https://cinel.ai/zh/prompts/p/halloween-folklore-jack-spirit-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/halloween-folklore-jack-spirit-figurine.webp" alt="万圣节民俗南瓜精手办插画" width="480"></a>
+
+> @Gremsworkshopv2 万圣节民俗手办社区提示（4 赞）。填入虚构南瓜精；单手办非设定表；1:1。
+
+```text
+Create one complete Halloween collectible figurine illustration, square 1:1, NOT a character sheet or multi-panel. Fictional Jack-spirit folklore being: carved pumpkin head with friendly mischievous glow, corn-husk cloak, twig limbs, tiny candle belly, standing on a mossy stump base. Premium collectible illustration, soft autumn palette, clean backdrop. No photo reference upload, no brands, no real people.
+```
+
+- 原作者: [@Gremsworkshopv2](https://x.com/Gremsworkshopv2)
+- 原帖: https://x.com/Gremsworkshopv2/status/2108678202067689499
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/halloween-folklore-jack-spirit-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Y2K 美洲豹街头风潮玩手办
+
+<a href="https://cinel.ai/zh/prompts/p/y2k-meso-streetwear-jaguar-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/y2k-meso-streetwear-jaguar-figurine.webp" alt="Y2K 美洲豹街头风潮玩手办" width="480"></a>
+
+> @RiqueCzar 回复 Y2K 潮玩图。反写虚构美洲文明灵感街头角色（无真人名/品牌）；1:1。
+
+```text
+High-detail 3D render of a trendy fictional streetwear young man with Mesoamerican motif accents, half-body portrait, designer toy blind box style, C4D/Blender aesthetic, exaggerated chibi proportions, oversized head, serious hooded eyes, slight side glance, smooth matte vinyl skin, sharp black fade with textured slicked pompadour, cool skeptical smirk, realistic vinyl skin texture, gold eyebrow and ear stacks with emerald accents, wearing a black leather biker jacket with green lining and embroidered jaguar circular patch (no text logos), layered chains, chunky gold chain with stepped-pyramid pendant and emerald eye motif, cute decorative patches, Y2K fashion aesthetic, soft studio lighting, clean white background, premium collectible toy design. Square 1:1. Original fictional character only — no brand logos, no trademarked IP, no real people, no photo upload.
+```
+
+- 原作者: [@RiqueCzar](https://x.com/RiqueCzar)
+- 原帖: https://x.com/RiqueCzar/status/2112788286737653783
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/y2k-meso-streetwear-jaguar-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 迷你 Chibi 宇航员指尖手办
+
+<a href="https://cinel.ai/zh/prompts/p/tiny-chibi-astronaut-finger-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/tiny-chibi-astronaut-finger-figurine.webp" alt="迷你 Chibi 宇航员指尖手办" width="480"></a>
+
+> @antrospike 迷你收藏手办提示（53 赞）。改写为虚构宇航员（无照片/头像上传）；1:1。
+
+```text
+Transform a fictional astronaut into a tiny collectible 3D mini figurine in a cute chibi style, square 1:1. Oversized helmet with mirrored gold visor, white suit with soft panels, tiny gloved hands, standing pose small enough to imagine between two fingers. Smooth vinyl/resin look, soft studio lighting, plain white backdrop, subtle contact shadow. No photo upload, no real people, no brand logos.
+```
+
+- 原作者: [@antrospike](https://x.com/antrospike)
+- 原帖: https://x.com/antrospike/status/2107838010578579907
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/tiny-chibi-astronaut-finger-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Y2K 护目镜头套臭脸女孩手办
+
+<a href="https://cinel.ai/zh/prompts/p/y2k-goggle-beanie-grumpy-girl-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/y2k-goggle-beanie-grumpy-girl-figurine.webp" alt="Y2K 护目镜头套臭脸女孩手办" width="480"></a>
+
+> @guan5guan 回复 Y2K 潮玩图。反写虚构护目镜头套臭脸女孩；1:1。
+
+```text
+High-detail 3D render of a trendy fictional moody young woman, half-body portrait, designer toy blind box style, C4D/Blender aesthetic, exaggerated chibi proportions, oversized head, large dark almond eyes with winged liner, beauty mark above brow, small closed pink mouth, chin-length dark brown wavy hair under a thick black beanie, grumpy cool stare, realistic vinyl skin texture, small gold hoop earrings, wearing a black ribbed turtleneck with leather backpack straps and silver buckles, aviator goggles on the beanie brim, one lens crossed with red tape X, cute decorative patches, Y2K fashion aesthetic, soft studio lighting, clean white background, premium collectible toy design. Square 1:1. Original fictional character only — no brand logos, no trademarked IP, no real people, no photo upload.
+```
+
+- 原作者: [@guan5guan](https://x.com/guan5guan)
+- 原帖: https://x.com/guan5guan/status/2112048330624942456
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/y2k-goggle-beanie-grumpy-girl-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Y2K 双丸子头垃圾摇滚兔子潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/y2k-star-bun-grunge-rabbit-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/y2k-star-bun-grunge-rabbit-figurine.webp" alt="Y2K 双丸子头垃圾摇滚兔子潮玩" width="480"></a>
+
+> @xiaoya2026 回复 Y2K 潮玩图。反写虚构双丸子头垃圾摇滚角色+兔子同伴；1:1。
+
+```text
+High-detail 3D render of a trendy fictional blonde grunge girl with space buns, half-body portrait, designer toy blind box style, C4D/Blender aesthetic, exaggerated chibi proportions, oversized head, large eyes with pink shadow and star beauty marks, small pout, messy blonde hair in two high buns with star clips and white-rim sunglasses on top, confident peace-sign attitude, realistic vinyl skin texture, cross and star dangling earrings, wearing white cropped star tank, oversized black zip hoodie with cat-skull graphic, distressed denim micro-shorts, platform sneakers and star leg warmers, heart choker, layered cross chains, chain crossbody with rabbit plush charm; include a tiny matching white rabbit buddy with black star eye patches at her feet, cute decorative patches, Y2K fashion aesthetic, soft studio lighting, clean white background, premium collectible toy design. Square 1:1. Original fictional character only — no brand logos, no trademarked IP, no real people, no photo upload.
+```
+
+- 原作者: [@xiaoya2026](https://x.com/xiaoya2026)
+- 原帖: https://x.com/xiaoya2026/status/2112005447838502922
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/y2k-star-bun-grunge-rabbit-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Y2K 赛博黑客护目男孩手办
+
+<a href="https://cinel.ai/zh/prompts/p/y2k-cyber-hacker-visor-boy-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/y2k-cyber-hacker-visor-boy-figurine.webp" alt="Y2K 赛博黑客护目男孩手办" width="480"></a>
+
+> @_armar_ 回复 Y2K 潮玩图。反写虚构赛博黑客护目男孩；1:1；贴章仅通用。
+
+```text
+High-detail 3D render of a trendy fictional cyber hacker teenage boy, half-body portrait, designer toy blind box style, C4D/Blender aesthetic, exaggerated chibi proportions, oversized head, pale skin with dark under-eye circles, one icy blue eye and one glowing green cybernetic eye, confident smirk, messy voluminous black hair with electric blue highlights, tired rebellious smirk, realistic vinyl skin texture, multiple silver lip and ear piercings, wearing an oversized black tactical hoodie covered in generic pixel-skull and glitch patches (no brand names), black chains and dog tags; forehead scouting HUD visor with green waveform readout and coiled cable, cute decorative patches, Y2K fashion aesthetic, soft studio lighting, clean white background, premium collectible toy design. Square 1:1. Original fictional character only — no brand logos, no trademarked IP, no real people, no photo upload.
+```
+
+- 原作者: [@_armar_](https://x.com/_armar_)
+- 原帖: https://x.com/_armar_/status/2111777994666610814
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/y2k-cyber-hacker-visor-boy-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

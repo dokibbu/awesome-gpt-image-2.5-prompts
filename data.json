@@ -1,15 +1,15 @@
 {
   "model": "gpt-image-2.5",
-  "count": 622,
+  "count": 652,
   "categories": {
     "portrait": 79,
     "product-photography": 46,
     "poster-design": 53,
     "infographic-ui": 36,
-    "3d-figurines": 65,
+    "3d-figurines": 80,
     "food-drink": 199,
-    "illustration-anime": 44,
-    "scenes-creative": 100
+    "illustration-anime": 58,
+    "scenes-creative": 101
   },
   "slugs": [
     "product-mockup-storyboard-grid",
@@ -633,6 +633,36 @@
     "decade-1920s-cutaway-diorama",
     "robie-house-blueprint-desk-diorama",
     "photosynthesis-knowledge-popup-book",
-    "bicycle-l-evolution-infographic"
+    "bicycle-l-evolution-infographic",
+    "french-wc-fox-florist-camille",
+    "french-wc-iguana-artist-gus",
+    "french-wc-melancholy-cat-finch",
+    "french-wc-bee-designer-overalls",
+    "french-wc-giraffe-hiker-boryi",
+    "french-wc-badger-painter-marcel",
+    "french-wc-gnome-woodcutter-lumper",
+    "french-wc-pear-creature-louis",
+    "french-wc-owl-baker-hibou",
+    "french-wc-otter-captain-loutre",
+    "french-wc-cozy-dragon-draco",
+    "whimsical-wc-rabbit-balloon",
+    "picturebook-crow-knight-animal-translate",
+    "anime-botanical-mage-design-sheet",
+    "storybook-wayfinder-mechanic-tova-sheet",
+    "y2k-pixel-pop-glitch-figurine",
+    "destination-vinyl-tokyo-fox-figurine",
+    "soft3d-dark-fantasy-moth-mascot",
+    "fuzzy-designer-toy-first-day-school",
+    "vinyl-souvenir-reykjavik-seal-figurine",
+    "foodie-city-osaka-takoyaki-chibi-vinyl",
+    "chibi-breakdance-crew-toy-diorama",
+    "premium-cyber-librarian-desk-figurine",
+    "ghost-exe-halloween-designer-art-toy",
+    "halloween-folklore-jack-spirit-figurine",
+    "y2k-meso-streetwear-jaguar-figurine",
+    "tiny-chibi-astronaut-finger-figurine",
+    "y2k-goggle-beanie-grumpy-girl-figurine",
+    "y2k-star-bun-grunge-rabbit-figurine",
+    "y2k-cyber-hacker-visor-boy-figurine"
   ]
 }

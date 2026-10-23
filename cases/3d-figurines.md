@@ -1,6 +1,6 @@
 # 3D Characters & Figurines · GPT Image 2.5
 
-[← README](../README.md) · 65 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 80 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1307,3 +1307,213 @@ U-shaped cardboard drafting station (two walls + floor). Walls: B&W blueprint li
 - Author: [@Gdgtify](https://x.com/Gdgtify)
 - Original post: https://x.com/Gdgtify/status/2089551609466683653
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/robie-house-blueprint-desk-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Y2K Pixel Pop Glitch Designer Toy
+
+<a href="https://cinel.ai/prompts/p/y2k-pixel-pop-glitch-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/y2k-pixel-pop-glitch-figurine.webp" alt="Y2K Pixel Pop Glitch Designer Toy" width="480"></a>
+
+> @asifbipu fill of @azed_ai Y2K Designer Toy as “Pixel Pop Glitch” (1 like). Fictional OC; square 1:1; no brand IP.
+
+```text
+High-detail 3D render of a trendy fictional young woman named Pixel Pop Glitch, half-body portrait, designer toy blind box style, C4D/Blender aesthetic, exaggerated chibi proportions, oversized head, large glossy eyes with star reflections, winged liner, freckle stars on cheeks, purple glossy lips, high space buns with pastel blue and pink chunky highlights and a butterfly clip, playful confident smirk, realistic vinyl skin texture, silver ear stacks and a lip ring, wearing a rhinestone baby tee, baggy holographic cargo pants and chunky platform sneakers, chunky silver chain necklace, rings and a tiny metallic crossbody, cute decorative patches, Y2K fashion aesthetic, soft studio lighting, clean white background, premium collectible toy design. Square 1:1. Original fictional character only — no brand logos, no trademarked IP, no real people, no photo upload.
+```
+
+- Author: [@asifbipu](https://x.com/asifbipu)
+- Original post: https://x.com/asifbipu/status/2112115004652900683
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/y2k-pixel-pop-glitch-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Tokyo Destination Vinyl Fox Designer Toy
+
+<a href="https://cinel.ai/prompts/p/destination-vinyl-tokyo-fox-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/destination-vinyl-tokyo-fox-figurine.webp" alt="Tokyo Destination Vinyl Fox Designer Toy" width="480"></a>
+
+> @Goodmanprotocol destination designer-toy template (17 likes). Filled Tokyo as fictional fox mascot; square 1:1; no brand logos.
+
+```text
+Create a premium square 1:1 3D designer-toy collectible inspired by Tokyo. Transform Tokyo into a cute stylized glossy vinyl fox figurine with playful pose, expressive face, smooth finish, and a soft neon-city signature effect (generic skyline glow, no brand neon). Place on a polished circular base with tiny generic landmark miniatures (tower silhouette, crossing, lanterns) and the word TOKYO in clean white lettering. Soft studio product lighting, clean white/light-gray backdrop (no outdoor people). High-end designer-toy photography. No brand logos, no trademarked characters, no real people.
+```
+
+- Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- Original post: https://x.com/Goodmanprotocol/status/2112560854759879032
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/destination-vinyl-tokyo-fox-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Soft-3D Dark Fantasy Moth Mascot Poster Toy
+
+<a href="https://cinel.ai/prompts/p/soft3d-dark-fantasy-moth-mascot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/soft3d-dark-fantasy-moth-mascot.webp" alt="Soft-3D Dark Fantasy Moth Mascot Poster Toy" width="480"></a>
+
+> @VoxcatAI soft-3D dark-fantasy mascot poster method (78 likes). Filled fictional moth knight OC; square 1:1; no IP.
+
+```text
+Original fictional moth knight, neo-kawaii mascot design × dark fantasy fashion character × soft 3D sculpture aesthetic × premium surreal advertising poster. Keep identity: feathery antennae silhouette, dusty mauve-and-ink palette, glass-wing cloak, moonphase pauldron, cold half-lidded eyes with tiny mouth. Big head, shortened limbs, rounded soft-vinyl surfaces, single large hero on minimal cool-gray ground with tiny geometric accents. Cute + distant + fashionable collectible look. Square 1:1. No brands, no real people, no copyrighted IP. Tiny signature text omitted.
+```
+
+- Author: [@VoxcatAI](https://x.com/VoxcatAI)
+- Original post: https://x.com/VoxcatAI/status/2108407502769680393
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/soft3d-dark-fantasy-moth-mascot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Fuzzy Designer-Toy First Day of School
+
+<a href="https://cinel.ai/prompts/p/fuzzy-designer-toy-first-day-school?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/fuzzy-designer-toy-first-day-school.webp" alt="Fuzzy Designer-Toy First Day of School" width="480"></a>
+
+> @Gdgtify soft-rebellious designer-toy diorama grammar (29 likes). Filled fictional “first day of school” subject (no real people); square 1:1.
+
+```text
+Render SUBJECT = first day of school as a soft but rebellious designer-toy diorama, square 1:1. Stylized 3D chibi kid with oversized eyes and confident pose, fuzzy flocking + matte clay + vinyl surfaces, sticker-covered backpack, tiny thermos and name-tag prop (generic, no brand). Minimal gallery-like muted gray background, bright accent only on hair clip and stickers. Soft studio product lighting. Fictional character only — no real people, no logos.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2107781229164556402
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/fuzzy-designer-toy-first-day-school?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Reykjavik Aurora Seal Vinyl Souvenir Figurine
+
+<a href="https://cinel.ai/prompts/p/vinyl-souvenir-reykjavik-seal-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/vinyl-souvenir-reykjavik-seal-figurine.webp" alt="Reykjavik Aurora Seal Vinyl Souvenir Figurine" width="480"></a>
+
+> @Gdgtify Designer_Vinyl_Souvenir cities prompt (13 likes). Filled Reykjavik seal mascot; square 1:1.
+
+```text
+Designer vinyl souvenir figurine for LOCATION=Reykjavik, square 1:1. Glossy ABS / smooth vinyl seal mascot with soft aurora translucent swirl accent, cute stylized face, polished circular base with tiny colorful harbor houses (generic). Soft studio lighting, clean white backdrop, premium collectible product shot. No brand logos, no real people.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2100881263804473836
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/vinyl-souvenir-reykjavik-seal-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Osaka Takoyaki Chibi Vinyl Foodie Poster Toy
+
+<a href="https://cinel.ai/prompts/p/foodie-city-osaka-takoyaki-chibi-vinyl?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/foodie-city-osaka-takoyaki-chibi-vinyl.webp" alt="Osaka Takoyaki Chibi Vinyl Foodie Poster Toy" width="480"></a>
+
+> @Gdgtify foodie-city chibi vinyl poster (11 likes). Filled Osaka takoyaki mascot; square 1:1; no restaurant brands.
+
+```text
+Generate CITY=Osaka as a square 1:1 collectible chibi food-culture poster. One large cute chibi vinyl takoyaki mascot (smiling round batter ball with tiny legs, green onion hair tuft, katsuobushi flakes as soft flocking), infer Osaka street-food DNA without any restaurant logos. Clean pastel poster ground, soft product lighting, premium designer-toy finish. No brands, no real people.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2099517778948747523
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/foodie-city-osaka-takoyaki-chibi-vinyl?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Chibi Breakdance Crew Block-Letter Toy Diorama
+
+<a href="https://cinel.ai/prompts/p/chibi-breakdance-crew-toy-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/chibi-breakdance-crew-toy-diorama.webp" alt="Chibi Breakdance Crew Block-Letter Toy Diorama" width="480"></a>
+
+> @Gdgtify chibi block-letter dance diorama (6 likes). Filled breakdance with fictional crew; square 1:1.
+
+```text
+Create a photorealistic collectible toy diorama, square 1:1, where TOPIC=breakdance is represented as oversized physical block letters spelling BREAK, surrounded by a small crew of fictional chibi breakdancers (freeze, windmill hint, beanie, baggy pants). Soft vinyl + flocking, clean studio backdrop. No brand sneaker logos, no real people.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2094787864017944664
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/chibi-breakdance-crew-toy-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Premium Cyber Librarian Desk Figurine
+
+<a href="https://cinel.ai/prompts/p/premium-cyber-librarian-desk-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/premium-cyber-librarian-desk-figurine.webp" alt="Premium Cyber Librarian Desk Figurine" width="480"></a>
+
+> @AiwithBloodline premium 3D collectible figurine template (4 likes). Filled fictional cyber librarian; removed photo-upload slot; square 1:1.
+
+```text
+Create a premium 3D collectible figurine of a fictional cyber librarian in a stylized semi-realistic designer toy aesthetic with a slightly oversized head, expressive face, and highly detailed sculpting. Posed reading a floating hologram page on a circular display base, softbox studio lighting, clean backdrop. Square 1:1. No photo upload, no real people, no brand logos.
+```
+
+- Author: [@AiwithBloodline](https://x.com/AiwithBloodline)
+- Original post: https://x.com/AiwithBloodline/status/2107441149866852833
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/premium-cyber-librarian-desk-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### GHOST.exe Halloween Designer Art Toy
+
+<a href="https://cinel.ai/prompts/p/ghost-exe-halloween-designer-art-toy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ghost-exe-halloween-designer-art-toy.webp" alt="GHOST.exe Halloween Designer Art Toy" width="480"></a>
+
+> @gewuerleo GHOST.exe Halloween designer-toy prompt (1 like). Original OC; square 1:1; no brand IP.
+
+```text
+Original Halloween designer art toy GHOST.exe, square 1:1. Distinctive collectible vinyl figure combining Halloween ghost silhouette with future-tech CRT face panel, pixel cape, and limited four-color palette (bone white, void black, toxic green, warm orange). Smooth printable volumes, soft studio light, clean white backdrop. No reference photo upload, no brand IP, no real people.
+```
+
+- Author: [@gewuerleo](https://x.com/gewuerleo)
+- Original post: https://x.com/gewuerleo/status/2112919466761752755
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ghost-exe-halloween-designer-art-toy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Halloween Folklore Jack-Spirit Figurine
+
+<a href="https://cinel.ai/prompts/p/halloween-folklore-jack-spirit-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/halloween-folklore-jack-spirit-figurine.webp" alt="Halloween Folklore Jack-Spirit Figurine" width="480"></a>
+
+> @Gremsworkshopv2 Halloween folklore figurine community prompt (4 likes). Filled fictional Jack-spirit; single figurine not a sheet; square 1:1.
+
+```text
+Create one complete Halloween collectible figurine illustration, square 1:1, NOT a character sheet or multi-panel. Fictional Jack-spirit folklore being: carved pumpkin head with friendly mischievous glow, corn-husk cloak, twig limbs, tiny candle belly, standing on a mossy stump base. Premium collectible illustration, soft autumn palette, clean backdrop. No photo reference upload, no brands, no real people.
+```
+
+- Author: [@Gremsworkshopv2](https://x.com/Gremsworkshopv2)
+- Original post: https://x.com/Gremsworkshopv2/status/2108678202067689499
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/halloween-folklore-jack-spirit-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Y2K Meso-Streetwear Jaguar Figurine
+
+<a href="https://cinel.ai/prompts/p/y2k-meso-streetwear-jaguar-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/y2k-meso-streetwear-jaguar-figurine.webp" alt="Y2K Meso-Streetwear Jaguar Figurine" width="480"></a>
+
+> @RiqueCzar image reply to Y2K Designer Toy. Reverse-wrote fictional Mesoamerican-inspired streetwear OC (no real-person name/brand); square 1:1.
+
+```text
+High-detail 3D render of a trendy fictional streetwear young man with Mesoamerican motif accents, half-body portrait, designer toy blind box style, C4D/Blender aesthetic, exaggerated chibi proportions, oversized head, serious hooded eyes, slight side glance, smooth matte vinyl skin, sharp black fade with textured slicked pompadour, cool skeptical smirk, realistic vinyl skin texture, gold eyebrow and ear stacks with emerald accents, wearing a black leather biker jacket with green lining and embroidered jaguar circular patch (no text logos), layered chains, chunky gold chain with stepped-pyramid pendant and emerald eye motif, cute decorative patches, Y2K fashion aesthetic, soft studio lighting, clean white background, premium collectible toy design. Square 1:1. Original fictional character only — no brand logos, no trademarked IP, no real people, no photo upload.
+```
+
+- Author: [@RiqueCzar](https://x.com/RiqueCzar)
+- Original post: https://x.com/RiqueCzar/status/2112788286737653783
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/y2k-meso-streetwear-jaguar-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Tiny Chibi Astronaut Finger Figurine
+
+<a href="https://cinel.ai/prompts/p/tiny-chibi-astronaut-finger-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/tiny-chibi-astronaut-finger-figurine.webp" alt="Tiny Chibi Astronaut Finger Figurine" width="480"></a>
+
+> @antrospike tiny collectible mini-figurine prompt (53 likes). Rewrote as fictional astronaut (no photo/PFP upload); square 1:1.
+
+```text
+Transform a fictional astronaut into a tiny collectible 3D mini figurine in a cute chibi style, square 1:1. Oversized helmet with mirrored gold visor, white suit with soft panels, tiny gloved hands, standing pose small enough to imagine between two fingers. Smooth vinyl/resin look, soft studio lighting, plain white backdrop, subtle contact shadow. No photo upload, no real people, no brand logos.
+```
+
+- Author: [@antrospike](https://x.com/antrospike)
+- Original post: https://x.com/antrospike/status/2107838010578579907
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/tiny-chibi-astronaut-finger-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Y2K Goggle Beanie Grumpy Girl Figurine
+
+<a href="https://cinel.ai/prompts/p/y2k-goggle-beanie-grumpy-girl-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/y2k-goggle-beanie-grumpy-girl-figurine.webp" alt="Y2K Goggle Beanie Grumpy Girl Figurine" width="480"></a>
+
+> @guan5guan image reply to Y2K Designer Toy. Reverse-wrote fictional grumpy goggle-beanie girl; square 1:1.
+
+```text
+High-detail 3D render of a trendy fictional moody young woman, half-body portrait, designer toy blind box style, C4D/Blender aesthetic, exaggerated chibi proportions, oversized head, large dark almond eyes with winged liner, beauty mark above brow, small closed pink mouth, chin-length dark brown wavy hair under a thick black beanie, grumpy cool stare, realistic vinyl skin texture, small gold hoop earrings, wearing a black ribbed turtleneck with leather backpack straps and silver buckles, aviator goggles on the beanie brim, one lens crossed with red tape X, cute decorative patches, Y2K fashion aesthetic, soft studio lighting, clean white background, premium collectible toy design. Square 1:1. Original fictional character only — no brand logos, no trademarked IP, no real people, no photo upload.
+```
+
+- Author: [@guan5guan](https://x.com/guan5guan)
+- Original post: https://x.com/guan5guan/status/2112048330624942456
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/y2k-goggle-beanie-grumpy-girl-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Y2K Star-Bun Grunge Rabbit Figurine
+
+<a href="https://cinel.ai/prompts/p/y2k-star-bun-grunge-rabbit-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/y2k-star-bun-grunge-rabbit-figurine.webp" alt="Y2K Star-Bun Grunge Rabbit Figurine" width="480"></a>
+
+> @xiaoya2026 image reply to Y2K Designer Toy. Reverse-wrote fictional star-bun grunge OC + rabbit buddy; square 1:1.
+
+```text
+High-detail 3D render of a trendy fictional blonde grunge girl with space buns, half-body portrait, designer toy blind box style, C4D/Blender aesthetic, exaggerated chibi proportions, oversized head, large eyes with pink shadow and star beauty marks, small pout, messy blonde hair in two high buns with star clips and white-rim sunglasses on top, confident peace-sign attitude, realistic vinyl skin texture, cross and star dangling earrings, wearing white cropped star tank, oversized black zip hoodie with cat-skull graphic, distressed denim micro-shorts, platform sneakers and star leg warmers, heart choker, layered cross chains, chain crossbody with rabbit plush charm; include a tiny matching white rabbit buddy with black star eye patches at her feet, cute decorative patches, Y2K fashion aesthetic, soft studio lighting, clean white background, premium collectible toy design. Square 1:1. Original fictional character only — no brand logos, no trademarked IP, no real people, no photo upload.
+```
+
+- Author: [@xiaoya2026](https://x.com/xiaoya2026)
+- Original post: https://x.com/xiaoya2026/status/2112005447838502922
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/y2k-star-bun-grunge-rabbit-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Y2K Cyber Hacker Visor Boy Figurine
+
+<a href="https://cinel.ai/prompts/p/y2k-cyber-hacker-visor-boy-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/y2k-cyber-hacker-visor-boy-figurine.webp" alt="Y2K Cyber Hacker Visor Boy Figurine" width="480"></a>
+
+> @_armar_ image reply to Y2K Designer Toy. Reverse-wrote fictional cyber-hacker visor boy; square 1:1; generic patches only.
+
+```text
+High-detail 3D render of a trendy fictional cyber hacker teenage boy, half-body portrait, designer toy blind box style, C4D/Blender aesthetic, exaggerated chibi proportions, oversized head, pale skin with dark under-eye circles, one icy blue eye and one glowing green cybernetic eye, confident smirk, messy voluminous black hair with electric blue highlights, tired rebellious smirk, realistic vinyl skin texture, multiple silver lip and ear piercings, wearing an oversized black tactical hoodie covered in generic pixel-skull and glitch patches (no brand names), black chains and dog tags; forehead scouting HUD visor with green waveform readout and coiled cable, cute decorative patches, Y2K fashion aesthetic, soft studio lighting, clean white background, premium collectible toy design. Square 1:1. Original fictional character only — no brand logos, no trademarked IP, no real people, no photo upload.
+```
+
+- Author: [@_armar_](https://x.com/_armar_)
+- Original post: https://x.com/_armar_/status/2111777994666610814
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/y2k-cyber-hacker-visor-boy-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

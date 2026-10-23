@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Özenle seçilmiş **622** GPT Image 2.5 prompt'u. Her birinde örnek görsel, tam prompt ve orijinal gönderi bağlantısıyla birlikte orijinal yazarın adı yer alır. Veriler [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) prompt kütüphanesinden gelir ve otomatik olarak senkronize edilir.
+Özenle seçilmiş **652** GPT Image 2.5 prompt'u. Her birinde örnek görsel, tam prompt ve orijinal gönderi bağlantısıyla birlikte orijinal yazarın adı yer alır. Veriler [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) prompt kütüphanesinden gelir ve otomatik olarak senkronize edilir.
 
 👉 [Tümüne cinel.ai'de göz at ve çevrimiçi üret](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -23,10 +23,10 @@
 - [Ürün ve e-ticaret](#product-photography) (46) · [tümü](cases/product-photography.md)
 - [Afiş, logo ve grafik tasarım](#poster-design) (53) · [tümü](cases/poster-design.md)
 - [İnfografik ve UI](#infographic-ui) (36) · [tümü](cases/infographic-ui.md)
-- [3D karakter ve figürler](#3d-figurines) (65) · [tümü](cases/3d-figurines.md)
+- [3D karakter ve figürler](#3d-figurines) (80) · [tümü](cases/3d-figurines.md)
 - [Yemek ve içecek](#food-drink) (199) · [tümü](cases/food-drink.md)
-- [İllüstrasyon ve anime](#illustration-anime) (44) · [tümü](cases/illustration-anime.md)
-- [Yaratıcı sahneler](#scenes-creative) (100) · [tümü](cases/scenes-creative.md)
+- [İllüstrasyon ve anime](#illustration-anime) (58) · [tümü](cases/illustration-anime.md)
+- [Yaratıcı sahneler](#scenes-creative) (101) · [tümü](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -916,7 +916,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## 3D karakter ve figürler
 
-Öne çıkan 6 · [65 öğenin tümü](cases/3d-figurines.md) · [cinel'de kategori](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [80 öğenin tümü](cases/3d-figurines.md) · [cinel'de kategori](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1432,7 +1432,7 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 ## İllüstrasyon ve anime
 
-Öne çıkan 6 · [44 öğenin tümü](cases/illustration-anime.md) · [cinel'de kategori](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [58 öğenin tümü](cases/illustration-anime.md) · [cinel'de kategori](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -1526,7 +1526,7 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 ## Yaratıcı sahneler
 
-Öne çıkan 6 · [100 öğenin tümü](cases/scenes-creative.md) · [cinel'de kategori](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [101 öğenin tümü](cases/scenes-creative.md) · [cinel'de kategori](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 
