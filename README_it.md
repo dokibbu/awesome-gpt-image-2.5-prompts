@@ -13,9 +13,9 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Una raccolta selezionata di **622** prompt per GPT Image 2.5. Ognuno include un'immagine di esempio, il prompt completo e il credito all'autore originale con il link al post originale. I dati provengono dalla libreria di prompt di [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) e si sincronizzano automaticamente.
+Una raccolta selezionata di **622** prompt per GPT Image 2.5. Ognuno include un'immagine di esempio, il prompt completo e il credito all'autore originale con il link al post originale. I dati provengono dalla libreria di prompt di [cinel.ai](https://cinel.ai/it/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) e si sincronizzano automaticamente.
 
-👉 [Sfoglia tutto e genera online su cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+👉 [Sfoglia tutto e genera online su cinel.ai](https://cinel.ai/it/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ## Indice
 
@@ -32,11 +32,11 @@ Una raccolta selezionata di **622** prompt per GPT Image 2.5. Ognuno include un'
 
 ## Ritratti e headshot
 
-6 in evidenza · [Vedi tutti i 79](cases/portrait.md) · [Categoria su cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 in evidenza · [Vedi tutti i 79](cases/portrait.md) · [Categoria su cinel](https://cinel.ai/it/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Olive Velvet Saree High-Fashion Studio Portrait
 
-<a href="https://cinel.ai/prompts/p/velvet-saree-fashion-studio-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/velvet-saree-fashion-studio-portrait.webp" alt="Olive Velvet Saree High-Fashion Studio Portrait" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/velvet-saree-fashion-studio-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/velvet-saree-fashion-studio-portrait.webp" alt="Olive Velvet Saree High-Fashion Studio Portrait" width="480"></a>
 
 > Proof that a portrait prompt does not need to be long. In about 90 words it fixes the garment (olive velvet, draped over one shoulder), the styling details that make it specific (embroidered sleeveless blouse, dark mehndi, gold earrings), the light (moody, dramatic, raking across velvet) and the expression (direct, confident gaze). Velvet is a smart choice of fabric: under low-key light its pile catches highlights, which is exactly what the model rendered in our example. To adapt it, keep the sentence about lighting and texture and swap the outfit: a silk lehenga, a brocade jacket or a satin gown work the same way. Change the colour of the velvet before anything else.
 
@@ -46,11 +46,11 @@ A detailed, high-fashion studio photograph of a woman posing gracefully, wearing
 
 - Autore: [@Flora_Janer8](https://x.com/Flora_Janer8)
 - Post originale: https://x.com/Flora_Janer8/status/2021300975248736723
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/velvet-saree-fashion-studio-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/velvet-saree-fashion-studio-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Luxury Wellness Lifestyle Four-Photo Series Prompt
 
-<a href="https://cinel.ai/prompts/p/luxury-wellness-lifestyle-photo-series?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/luxury-wellness-lifestyle-photo-series.webp" alt="Luxury Wellness Lifestyle Four-Photo Series Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/luxury-wellness-lifestyle-photo-series?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/luxury-wellness-lifestyle-photo-series.webp" alt="Luxury Wellness Lifestyle Four-Photo Series Prompt" width="480"></a>
 
 > Built for creators and wellness brands who need a consistent set rather than a single hero shot. The JSON separates the constants (one subject, her hair and makeup, a cream ribbed activewear set, warm window light, a beige-cream-marble palette with green and gold accents) from the variables, which are the four scenes. Because the constants are so tightly defined, our 2×2 result shows the same woman cooking in a marble kitchen, at a vanity, stretching and eating a salad without any jarring change of look. Swap the activewear colour or the four activities to fit another brand, but keep the colour-palette block; it is what makes the series feel art-directed.
 
@@ -135,11 +135,11 @@ A detailed, high-fashion studio photograph of a woman posing gracefully, wearing
 
 - Autore: [@xmliisu](https://x.com/xmliisu)
 - Post originale: https://x.com/xmliisu/status/2008486850378293427
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/luxury-wellness-lifestyle-photo-series?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/luxury-wellness-lifestyle-photo-series?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Chinese New Year Nine-Grid Greeting Portrait Prompt
 
-<a href="https://cinel.ai/prompts/p/new-year-greeting-portrait-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/new-year-greeting-portrait-grid.webp" alt="Chinese New Year Nine-Grid Greeting Portrait Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/new-year-greeting-portrait-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/new-year-greeting-portrait-grid.webp" alt="Chinese New Year Nine-Grid Greeting Portrait Prompt" width="480"></a>
 
 > This Chinese prompt is a neat example of numbered design. Each of the nine cells gets a pose and a four-character New Year blessing whose first character is the number of that cell: 一帆风顺 (smooth sailing), 双喜临门 (double happiness), 三阳开泰 and so on up to 九. The JSON separates subject consistency, pose list and text overlays, and it insists on restraint: a clean white wall, soft light, a 'sunny but not greasy' look and calm smiles. Our result keeps one young man in a red sweater across all nine cells, with red calligraphy and a navy year beneath. Swap the subject, outfit colour or year; the blessing list works for any Lunar New Year.
 
@@ -229,11 +229,11 @@ A detailed, high-fashion studio photograph of a woman posing gracefully, wearing
 
 - Autore: [@wanerfu](https://x.com/wanerfu)
 - Post originale: https://x.com/wanerfu/status/2008421241091154115
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/new-year-greeting-portrait-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/new-year-greeting-portrait-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Long-Exposure Crowd Street Portrait Prompt
 
-<a href="https://cinel.ai/prompts/p/long-exposure-crowd-street-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/long-exposure-crowd-street-portrait.webp" alt="Long-Exposure Crowd Street Portrait Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/long-exposure-crowd-street-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/long-exposure-crowd-street-portrait.webp" alt="Long-Exposure Crowd Street Portrait Prompt" width="480"></a>
 
 > The idea is a classic photographic trick, one sharp still figure inside a blurred, rushing crowd, and the prompt describes both halves explicitly so the model doesn't blur the subject too. 'Standing still', 'perfectly still' and 'sharp focus on her face' anchor her, while 'strong directional motion blur' and 'streaked crowd movement' set the background in motion. Small realism cues (subtle freckles, neutral makeup, a dark winter coat and scarf) keep the face from looking airbrushed. Our result nails the contrast: a calm, direct gaze framed by horizontal streaks of commuters. Change the city, season or outfit freely, but keep the stillness wording intact; it is doing the heavy lifting.
 
@@ -243,11 +243,11 @@ Ultra-realistic cinematic street portrait of a young woman standing still in a c
 
 - Autore: [@Taaruk_](https://x.com/Taaruk_)
 - Post originale: https://x.com/Taaruk_/status/2018685474131562751
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/long-exposure-crowd-street-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/long-exposure-crowd-street-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Candid Blurry Smartphone Night Snapshot Prompt
 
-<a href="https://cinel.ai/prompts/p/candid-smartphone-selfie-photo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/candid-smartphone-selfie-photo.webp" alt="Candid Blurry Smartphone Night Snapshot Prompt" width="360"></a>
+<a href="https://cinel.ai/it/prompts/p/candid-smartphone-selfie-photo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/candid-smartphone-selfie-photo.webp" alt="Candid Blurry Smartphone Night Snapshot Prompt" width="360"></a>
 
 > Everything here is designed to look unplanned, which is harder to prompt than perfection. The author lists combined reactions (head turned back, a hand rising to block the lens, a suppressed laugh), then deliberately degrades the capture with uncontrolled shake, smeared features, ghosting and a subject almost leaving the frame. It also tells the model to treat the reference only as loose inspiration so the face stays original. Our run, from a fictional reference, delivers a convincingly accidental frame: a blurred hand in front of white tiles and a half-hidden smile. Use it for social content that needs to feel real, and keep the blur instructions; without them it turns into a posed photo.
 
@@ -287,11 +287,11 @@ identity match, face copy, real person replication
 
 - Autore: [@HustleXR](https://x.com/HustleXR)
 - Post originale: https://x.com/HustleXR/status/2011675822076411914
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/candid-smartphone-selfie-photo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/candid-smartphone-selfie-photo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Monochrome Men's Fashion Editorial Triptych
 
-<a href="https://cinel.ai/prompts/p/monochrome-fashion-editorial-triptych?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/monochrome-fashion-editorial-triptych.webp" alt="Monochrome Men's Fashion Editorial Triptych" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/monochrome-fashion-editorial-triptych?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/monochrome-fashion-editorial-triptych.webp" alt="Monochrome Men's Fashion Editorial Triptych" width="480"></a>
 
 > Three frames, three emotional registers: introspective with a hand near the collarbone, a crisp upward profile and a direct frontal look. That is the structure of a magazine spread, and the prompt specifies each one's light and gaze. Continuity props (a white T-shirt and a gold necklace) tie the frames together. Rembrandt lighting in frame one adds sculpting. Our version, built from a fictional reference of a bearded man, keeps the face consistent across all three stacked panels, with visible pores and soft background falloff. Use it for actor headshot packs, personal branding or a lookbook cover, and swap the continuity props to suit, for example a black turtleneck and silver ring.
 
@@ -301,17 +301,17 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 - Autore: [@harboriis](https://x.com/harboriis)
 - Post originale: https://x.com/harboriis/status/2023230471061315992
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/monochrome-fashion-editorial-triptych?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/monochrome-fashion-editorial-triptych?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 <a id="product-photography"></a>
 
 ## Prodotti ed e-commerce
 
-6 in evidenza · [Vedi tutti i 46](cases/product-photography.md) · [Categoria su cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 in evidenza · [Vedi tutti i 46](cases/product-photography.md) · [Categoria su cinel](https://cinel.ai/it/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
-<a href="https://cinel.ai/prompts/p/product-mockup-storyboard-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/product-mockup-storyboard-grid.webp" alt="Nine-Panel Product Mockup Storyboard Prompt" width="360"></a>
+<a href="https://cinel.ai/it/prompts/p/product-mockup-storyboard-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/product-mockup-storyboard-grid.webp" alt="Nine-Panel Product Mockup Storyboard Prompt" width="360"></a>
 
 > This prompt does the job of a whole branding-portfolio shoot in one image. Its strength is the frame-by-frame brief: every panel has a defined purpose (hero, macro texture, brand environment, hands in use, isometric arrangement), so the model never repeats itself. The repeated instruction to keep the label, logo and proportions identical is what holds the set together. In our example, a sage-green pump bottle stays recognisable across all nine frames while the props shift from stone to leaves. To adapt it, upload a clean, front-on photo of your product and edit only the frame descriptions; keep the 3×3 structure and the curated, editorial tone.
 
@@ -361,11 +361,11 @@ A clean 3×3 grid with no borders, no text, no captions and no watermarks.
 
 - Autore: [@Dari_Designs](https://x.com/Dari_Designs)
 - Post originale: https://x.com/Dari_Designs/status/2013268963266904438
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/product-mockup-storyboard-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/product-mockup-storyboard-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Protein Drink and Iced Coffee Splash Ad Diptych Prompt
 
-<a href="https://cinel.ai/prompts/p/protein-drink-bottle-splash-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/protein-drink-bottle-splash-product-shot.webp" alt="Protein Drink and Iced Coffee Splash Ad Diptych Prompt" width="360"></a>
+<a href="https://cinel.ai/it/prompts/p/protein-drink-bottle-splash-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/protein-drink-bottle-splash-product-shot.webp" alt="Protein Drink and Iced Coffee Splash Ad Diptych Prompt" width="360"></a>
 
 > Written as a 'master prompt' with global settings followed by one module per image, this is a reusable system rather than a one-off. The global block fixes resolution, high-speed motion freeze and cinematic studio light for every module; each module then defines its own bottle, label text, tilt angle, liquid and floating ingredients. That split is why our 3:4 output reads as a matching pair: a matte-blue protein bottle leaning into a milk-and-blueberry splash, and a gold latte can surrounded by beans and steam. The original named a real coffee brand on the can; we swapped in an invented one, KAFELO. Reuse it by editing one module at a time, keeping the global settings untouched.
 
@@ -460,11 +460,11 @@ A clean 3×3 grid with no borders, no text, no captions and no watermarks.
 
 - Autore: [@mehvishs25](https://x.com/mehvishs25)
 - Post originale: https://x.com/mehvishs25/status/2017420332458774791
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/protein-drink-bottle-splash-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/protein-drink-bottle-splash-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Low-Angle Fashion Campaign with Oversized Product
 
-<a href="https://cinel.ai/prompts/p/low-angle-fashion-campaign-product-in-hand?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/low-angle-fashion-campaign-product-in-hand.webp" alt="Low-Angle Fashion Campaign with Oversized Product" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/low-angle-fashion-campaign-product-in-hand?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/low-angle-fashion-campaign-product-in-hand.webp" alt="Low-Angle Fashion Campaign with Oversized Product" width="480"></a>
 
 > This prompt turns a basic product-in-hand shot into a campaign image with one device: forced perspective. A low camera, the product held right at the lens and a full-body pose behind it make the pack look monumental while still showing the person and outfit. The supporting details are sensible: high-key white, sharp focus on the product, slight softness on the model. Our lipstick example shows the effect clearly, with a glossy red tube filling a third of the frame and a wide-stance model in black leather behind it. We specified an unbranded case to avoid inventing a logo. Works for perfume, sneakers, phones or drinks; choose a product with a strong colour.
 
@@ -474,11 +474,11 @@ Low-angle fashion campaign photograph of a confident model holding a large gloss
 
 - Autore: [@azed_ai](https://x.com/azed_ai)
 - Post originale: https://x.com/azed_ai/status/2048748266293190833
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/low-angle-fashion-campaign-product-in-hand?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/low-angle-fashion-campaign-product-in-hand?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Industrial Packaging Design Presentation Sheet
 
-<a href="https://cinel.ai/prompts/p/industrial-packaging-design-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/industrial-packaging-design-sheet.webp" alt="Industrial Packaging Design Presentation Sheet" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/industrial-packaging-design-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/industrial-packaging-design-sheet.webp" alt="Industrial Packaging Design Presentation Sheet" width="480"></a>
 
 > Designers present packaging this way, with a hero render surrounded by orthographic views, construction sketches and material notes, and the prompt asks for all of it in one sketchbook-style sheet. The mix of 'realistic rendering + pencil sketch' is what gives it a portfolio feel. Starting from our AI-generated reference of a kraft tea box with a leaf illustration, the model produced front, side, top and bottom views, a flat dieline with millimetre arrows, crease details, paper and finish swatches, and a little scene with loose tea and a cup. Dimensions are invented, so set real ones if you will print from it. It suits pitches, school projects and early concept reviews.
 
@@ -488,11 +488,11 @@ Using the attached image, create an illustration sheet of professional industria
 
 - Autore: [@noorwithwifi](https://x.com/noorwithwifi)
 - Post originale: https://x.com/noorwithwifi/status/2039679180775063573
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/industrial-packaging-design-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/industrial-packaging-design-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Top-Down Product Flat Lay with Ingredients and Splash
 
-<a href="https://cinel.ai/prompts/p/top-down-flat-lay-ingredients-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/top-down-flat-lay-ingredients-product-shot.webp" alt="Top-Down Product Flat Lay with Ingredients and Splash" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/top-down-flat-lay-ingredients-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/top-down-flat-lay-ingredients-product-shot.webp" alt="Top-Down Product Flat Lay with Ingredients and Splash" width="480"></a>
 
 > Two blanks, product and ingredients, make this one of the most reusable product prompts in the library. It combines a centred top-down flat lay with a frozen water splash, which is unusual: splashes are normally shot side-on, and seen from above they become a ring of liquid that frames the product. Dewy droplets on the label, warm beige background and directional sunlight add freshness. We used a cold-pressed orange juice with oranges and mint, and the result reads instantly as a juice ad. Note the prompt still says 'high end skincare advertising', so change that phrase to match your category (beverage, food, cosmetics) for more fitting styling.
 
@@ -502,11 +502,11 @@ A glass bottle of cold-pressed orange juice, centered top down flat lay, surroun
 
 - Autore: [@azed_ai](https://x.com/azed_ai)
 - Post originale: https://x.com/azed_ai/status/2015423674061643925
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/top-down-flat-lay-ingredients-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/top-down-flat-lay-ingredients-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Top-Down Luxury Product on Textured Surface Prompt
 
-<a href="https://cinel.ai/prompts/p/top-down-textured-surface-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/top-down-textured-surface-product-shot.webp" alt="Top-Down Luxury Product on Textured Surface Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/top-down-textured-surface-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/top-down-textured-surface-product-shot.webp" alt="Top-Down Luxury Product on Textured Surface Prompt" width="480"></a>
 
 > Quieter than the splash flat lay, this template relies on texture and light. The product lies flat on a material such as stone, sand, linen or salt; the surface is 'gently disturbed to suggest recent motion', a subtle cue that makes the scene feel touched by a person rather than staged by software. Sunlight from the upper left gives long, warm shadows, and the prompt leaves room for complementary props. With an amber face-oil bottle on travertine, dried flowers and a folded linen cloth, our result looks like a skincare brand's editorial shot. The model invented a label ('Radiant Face Oil'), so specify your own label text or ask for an unlabeled bottle.
 
@@ -516,17 +516,17 @@ A high-end editorial photo of a amber glass face-oil bottle with a dropper place
 
 - Autore: [@Kerroudjm](https://x.com/Kerroudjm)
 - Post originale: https://x.com/Kerroudjm/status/2008559850968473671
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/top-down-textured-surface-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/top-down-textured-surface-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 <a id="poster-design"></a>
 
 ## Poster, loghi e grafica
 
-6 in evidenza · [Vedi tutti i 53](cases/poster-design.md) · [Categoria su cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 in evidenza · [Vedi tutti i 53](cases/poster-design.md) · [Categoria su cinel](https://cinel.ai/it/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sports Tribute Double-Exposure Collage Poster Prompt
 
-<a href="https://cinel.ai/prompts/p/sports-tribute-double-exposure-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/sports-tribute-double-exposure-poster.webp" alt="Sports Tribute Double-Exposure Collage Poster Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/sports-tribute-double-exposure-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/sports-tribute-double-exposure-poster.webp" alt="Sports Tribute Double-Exposure Collage Poster Prompt" width="480"></a>
 
 > Most poster prompts ask for big, loud type. This one does the opposite, and that restraint is why it looks designed rather than generated. The silhouette acts as a container, the grid of action shots fills it, and the texture instructions (halftone dots, embroidery, film grain) stop the collage from looking like pasted stock photos. The strict micro-scaling rules keep the name and emblem small in the corners. We filled the name slot with a fictional athlete, Marcus Vale; please do the same or use your own team, because generating real athletes' likenesses raises rights issues. Change the sport and the accent colour to suit a club, a school team or a personal milestone.
 
@@ -556,11 +556,11 @@ Alignment: Center the figure perfectly. Maintain wide negative space around the 
 
 - Autore: [@AmirMushich](https://x.com/AmirMushich)
 - Post originale: https://x.com/AmirMushich/status/2008976966255337666
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/sports-tribute-double-exposure-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/sports-tribute-double-exposure-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Brand Logo Shaped Cloud Surreal Ad Prompt
 
-<a href="https://cinel.ai/prompts/p/brand-logo-cloud-surreal-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/brand-logo-cloud-surreal-poster.webp" alt="Brand Logo Shaped Cloud Surreal Ad Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/brand-logo-cloud-surreal-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/brand-logo-cloud-surreal-poster.webp" alt="Brand Logo Shaped Cloud Surreal Ad Prompt" width="480"></a>
 
 > One idea, executed with discipline. The prompt asks for a single surreal element, a cumulus cloud in the shape of a logo, and then spends its words making that cloud believable: side light on the edges, internal shadow for volume, and tiny distant clouds for scale. The small white wordmark at the bottom keeps it reading as an ad rather than a weather photo. We used an invented brand, NIMBORA, and the model designed a simple N-shaped mark to match the name; with a real brand it would try to recall the logo, which is risky. For your own brand, upload the logo as a reference, and favour bold, simple shapes, because thin strokes dissolve in cloud texture.
 
@@ -589,11 +589,11 @@ Goal: Generate a single, minimalist, and surreal image where a cloud is shaped l
 
 - Autore: [@AmirMushich](https://x.com/AmirMushich)
 - Post originale: https://x.com/AmirMushich/status/2032908105994961090
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/brand-logo-cloud-surreal-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/brand-logo-cloud-surreal-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Crystal Glass Logo Sculpture Ad Prompt
 
-<a href="https://cinel.ai/prompts/p/giant-3d-logo-sculpture-brand-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/giant-3d-logo-sculpture-brand-ad.webp" alt="Giant Crystal Glass Logo Sculpture Ad Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/giant-3d-logo-sculpture-brand-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/giant-3d-logo-sculpture-brand-ad.webp" alt="Giant Crystal Glass Logo Sculpture Ad Prompt" width="480"></a>
 
 > The material section is the reason to save this prompt. Instead of saying 'glass', it specifies optical-grade crystal, a high refractive index, fire-polished bevels and a few deliberate flaws (fine scratches, seed bubbles) so the render doesn't look like plastic. It also forbids land and trees, which keeps the frame pure sky and makes the caustics the second subject. In our run with an invented circular mark, the refraction of the clouds through the ring sells the weight of the object. The prompt asks the model to recall an 'official' logo from memory; for anything real, attach your logo file as a reference instead, and keep the shape simple enough to read through refraction.
 
@@ -614,11 +614,11 @@ Rendered with Arnold or Octane. Phase One XF, 120mm Macro lens. Aperture f/5.6 f
 
 - Autore: [@AmirMushich](https://x.com/AmirMushich)
 - Post originale: https://x.com/AmirMushich/status/2043027627640799569
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/giant-3d-logo-sculpture-brand-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/giant-3d-logo-sculpture-brand-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Layered Editorial Brand Collage Poster Prompt
 
-<a href="https://cinel.ai/prompts/p/layered-editorial-brand-collage-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/layered-editorial-brand-collage-poster.webp" alt="Layered Editorial Brand Collage Poster Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/layered-editorial-brand-collage-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/layered-editorial-brand-collage-poster.webp" alt="Layered Editorial Brand Collage Poster Prompt" width="480"></a>
 
 > The phrase worth stealing here is 'the sandwich effect': parts of the subject hide behind the geometric blocks while wheels, limbs or props overlap them, creating depth on a flat grid. The palette rule is equally useful. It tells the model to take a brand's colours and push them towards dusty, desaturated versions, which is why the result looks like a design-studio layout rather than an ad. With our invented cycling brand VELOTRA, the model split the grid into rider, bike frame, logo block and a floating bike light as the 'iconic prop'. Name your product category clearly so the model picks a sensible subject and prop.
 
@@ -664,11 +664,11 @@ PHASE 5: MINIMALIST BRANDING.
 
 - Autore: [@AmirMushich](https://x.com/AmirMushich)
 - Post originale: https://x.com/AmirMushich/status/2028115571724660920
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/layered-editorial-brand-collage-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/layered-editorial-brand-collage-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Y2K Inflated Spiky 3D Type Streetwear Logo Prompt
 
-<a href="https://cinel.ai/prompts/p/y2k-chrome-3d-type-streetwear-logo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/y2k-chrome-3d-type-streetwear-logo.webp" alt="Y2K Inflated Spiky 3D Type Streetwear Logo Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/y2k-chrome-3d-type-streetwear-logo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/y2k-chrome-3d-type-streetwear-logo.webp" alt="Y2K Inflated Spiky 3D Type Streetwear Logo Prompt" width="480"></a>
 
 > A long prompt, but every section earns its place. The concept paragraph mixes two references, wildstyle graffiti and inflatable balloons, and then gives concrete anatomy: pressurised bulbous bodies, blade-like spikes between letters, membranes stretched across negative space. The material phase insists on a single unified colour, which is what makes the result read as one sculpted object. Our run with the word KRANKO in acid lime is legible yet aggressive, the balance the prompt explicitly asks for ('readability fights with visual complexity'). We removed one sentence naming real artists before generating; it isn't needed. Five to seven letters is the sweet spot; longer words lose legibility.
 
@@ -704,11 +704,11 @@ Render engine: Octane Render or Redshift — physically accurate subsurface scat
 
 - Autore: [@AmirMushich](https://x.com/AmirMushich)
 - Post originale: https://x.com/AmirMushich/status/2043381172646920237
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/y2k-chrome-3d-type-streetwear-logo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/y2k-chrome-3d-type-streetwear-logo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Restaurant Brand Identity Mockup Board Prompt
 
-<a href="https://cinel.ai/prompts/p/restaurant-brand-identity-mockup-board?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/restaurant-brand-identity-mockup-board.webp" alt="Restaurant Brand Identity Mockup Board Prompt" width="360"></a>
+<a href="https://cinel.ai/it/prompts/p/restaurant-brand-identity-mockup-board?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/restaurant-brand-identity-mockup-board.webp" alt="Restaurant Brand Identity Mockup Board Prompt" width="360"></a>
 
 > This Chinese template behaves like a brief to a design agency. Only two inputs are required, the brand name and the food category. Optional fields (hero dish, slogan, style, colours, audience, price level, regional flavour) are inferred if left blank. It then specifies a hierarchy of materials: large bags and boxes as anchors, menus and posters for information, and stickers, napkins and cutlery for completeness. We filled it with a fictional hand-pulled noodle shop, 山野面馆, in warm off-white with tomato red and bamboo green, and got a coherent board with bowls, takeaway bags, cups, a menu and price tags. Prices and menu text are generated, so replace them with your own.
 
@@ -777,17 +777,17 @@ Make the aspect ratio 9:16
 
 - Autore: [@MrLarus](https://x.com/MrLarus)
 - Post originale: https://x.com/MrLarus/status/2048360321379701233
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/restaurant-brand-identity-mockup-board?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/restaurant-brand-identity-mockup-board?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 <a id="infographic-ui"></a>
 
 ## Infografiche e UI
 
-6 in evidenza · [Vedi tutti i 36](cases/infographic-ui.md) · [Categoria su cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 in evidenza · [Vedi tutti i 36](cases/infographic-ui.md) · [Categoria su cinel](https://cinel.ai/it/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
-<a href="https://cinel.ai/prompts/p/3d-country-travel-guide-map-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/3d-country-travel-guide-map-infographic.webp" alt="3D Country Travel Guide Map Infographic Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/3d-country-travel-guide-map-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/3d-country-travel-guide-map-infographic.webp" alt="3D Country Travel Guide Map Infographic Prompt" width="480"></a>
 
 > A one-variable template that produces a surprisingly complete travel poster. The prompt stacks layers in a logical order: terrain map, landmarks in their real locations, connecting routes, labelled cities, then attraction checklists beside the map, with props as a frame. Run with Iceland, the result put Reykjavík, Akureyri, Vík and Höfn in the right regions and listed real sights under each; only the glacier labels were loose. Two typos in the source text (COUNTRY without brackets) would print the literal word, so we corrected them in the version we generated. Swap in any country or region, and fact-check the checklist before you publish it.
 
@@ -797,11 +797,11 @@ A hyper-realistic 3D travel guide infographic poster for Iceland. The country sh
 
 - Autore: [@TechieBySA](https://x.com/TechieBySA)
 - Post originale: https://x.com/TechieBySA/status/2043047413770809708
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/3d-country-travel-guide-map-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/3d-country-travel-guide-map-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Isometric Technical Infographic of Any Object Prompt
 
-<a href="https://cinel.ai/prompts/p/isometric-technical-infographic-annotated-object?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/isometric-technical-infographic-annotated-object.webp" alt="Isometric Technical Infographic of Any Object Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/isometric-technical-infographic-annotated-object?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/isometric-technical-infographic-annotated-object.webp" alt="Isometric Technical Infographic of Any Object Prompt" width="480"></a>
 
 > This template blends two visual languages, a photoreal 3D render and black technical-pen annotation, and the contrast is what makes the result feel like a museum exhibit. The checklist of what to include (cutaways, dimensions, material quantities, colour-coded flow arrows) gives the model a full page to fill. Our coffee-grinder example came out with a cutaway grinding chamber, a cross-section sketch and a four-step grinding process, but the electronics-oriented arrow legend (power, data, sensors) made less sense for a hand tool. For mechanical objects, rewrite the colour legend to match, for example force, flow and heat, and expect the numbers to be illustrative.
 
@@ -824,11 +824,11 @@ Output: 1080×1080, ultra-crisp, social-feed optimized.
 
 - Autore: [@TechieBySA](https://x.com/TechieBySA)
 - Post originale: https://x.com/TechieBySA/status/2017928823497453789
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/isometric-technical-infographic-annotated-object?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/isometric-technical-infographic-annotated-object?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Tactile 3D Icon Set in a 3×3 Grid Prompt
 
-<a href="https://cinel.ai/prompts/p/tactile-3d-icon-set-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/tactile-3d-icon-set-grid.webp" alt="Tactile 3D Icon Set in a 3×3 Grid Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/tactile-3d-icon-set-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/tactile-3d-icon-set-grid.webp" alt="Tactile 3D Icon Set in a 3×3 Grid Prompt" width="480"></a>
 
 > At under 50 words this is one of the shortest prompts in the library, and it works because it fixes only what matters: one theme, a 3×3 grid, white background, a 'colourful and tactile 3D' finish and no text. The bullet list after it is the author's set of example themes, not part of the brief. We left it in for our camping run, and the model blended them: puppies with backpacks, a snowy calendar for January, bananas and a cat sit beside a tent and campfire. That is a useful lesson. Delete the list and write a single theme, and you'll get a coherent set ready for stickers, app empty-states or slides.
 
@@ -843,11 +843,11 @@ Create a collection of icons representing a cozy camping trip, they belong toget
 
 - Autore: [@NanoBanana](https://x.com/NanoBanana)
 - Post originale: https://x.com/NanoBanana/status/2009660363227152653
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/tactile-3d-icon-set-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/tactile-3d-icon-set-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo with Technical Sketch Annotations Infographic
 
-<a href="https://cinel.ai/prompts/p/photo-with-technical-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/photo-with-technical-annotation-infographic.webp" alt="Photo with Technical Sketch Annotations Infographic" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/photo-with-technical-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/photo-with-technical-annotation-infographic.webp" alt="Photo with Technical Sketch Annotations Infographic" width="480"></a>
 
 > A sister template to the isometric teardown, with one important difference: it is strictly black ink on white, with no accent colours. That restriction makes the result calmer and closer to an engineering notebook. The list of overlays (labels, exploded outlines, dimensions, material callouts, flow arrows) is broad enough to suit almost any object. With a ceramic teapot, the model produced a cross-section showing steam and water, an exploded lid–filter–body view and a material panel. It also printed a typo ('heat reistant') and a slightly pseudo-scientific flow diagram, so proofread small labels. Everyday objects with a clear function, like kettles, bikes or cameras, make the best subjects.
 
@@ -882,11 +882,11 @@ Output:
 
 - Autore: [@TechieBySA](https://x.com/TechieBySA)
 - Post originale: https://x.com/TechieBySA/status/2013316513701216688
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/photo-with-technical-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/photo-with-technical-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Landmark Photo with Blueprint Annotations Prompt
 
-<a href="https://cinel.ai/prompts/p/landmark-blueprint-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/landmark-blueprint-annotation-infographic.webp" alt="Landmark Photo with Blueprint Annotations Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/landmark-blueprint-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/landmark-blueprint-annotation-infographic.webp" alt="Landmark Photo with Blueprint Annotations Prompt" width="480"></a>
 
 > This one-paragraph template gets its look from a single inversion: instead of dark lines on white, it draws white chalk-style blueprint sketches over a real photograph, so the landmark and its sky stay visible behind the diagrams. The list of overlays (measurements, material quantities, internal diagrams, load-flow arrows, cross-sections and floor plans) fills the frame like an architect's presentation board. Our Dutch windmill result has a front elevation, sail detail, a 'how it works' sequence and floor plans around a photoreal mill at golden hour. The numbers are invented, and one unit was wrong (thatch in cubic metres), so treat the data as decoration unless you verify it.
 
@@ -896,11 +896,11 @@ Create an infographic image of a traditional Dutch windmill, combining a real ph
 
 - Autore: [@TechieBySA](https://x.com/TechieBySA)
 - Post originale: https://x.com/TechieBySA/status/2007523056822939698
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/landmark-blueprint-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/landmark-blueprint-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded View Product Ad with Inner Mechanics
 
-<a href="https://cinel.ai/prompts/p/exploded-product-inner-mechanics-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/exploded-product-inner-mechanics-ad.webp" alt="Exploded View Product Ad with Inner Mechanics" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/exploded-product-inner-mechanics-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/exploded-product-inner-mechanics-ad.webp" alt="Exploded View Product Ad with Inner Mechanics" width="480"></a>
 
 > Exploded views are expensive to produce in 3D software, and this short prompt gets surprisingly close. The key phrases are 'outer shell hovering above core', 'micro screws and components suspended' and 'perfect alignment guides implied'. Together they tell the model to separate layers vertically along one axis, which keeps the result orderly instead of chaotic. Camera language (100mm look, f/8) keeps everything sharp. Our mechanical keyboard example stacks keycaps, switches, plate, PCB, foam and case in perfect vertical alignment, with tiny screws floating at the corners. Products with clear layers, like keyboards, headphones, watches or speakers, work best. The bracket is inserted mid-sentence, so mind the grammar when filling it.
 
@@ -910,17 +910,17 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 - Autore: [@azed_ai](https://x.com/azed_ai)
 - Post originale: https://x.com/azed_ai/status/2010350005870276897
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/exploded-product-inner-mechanics-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/exploded-product-inner-mechanics-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 <a id="3d-figurines"></a>
 
 ## Personaggi e figure 3D
 
-6 in evidenza · [Vedi tutti i 65](cases/3d-figurines.md) · [Categoria su cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 in evidenza · [Vedi tutti i 65](cases/3d-figurines.md) · [Categoria su cinel](https://cinel.ai/it/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
-<a href="https://cinel.ai/prompts/p/photo-to-minimal-3d-toy-character?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/photo-to-minimal-3d-toy-character.webp" alt="Photo to Minimal 3D Toy Character Style Transfer" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/photo-to-minimal-3d-toy-character?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/photo-to-minimal-3d-toy-character.webp" alt="Photo to Minimal 3D Toy Character Style Transfer" width="480"></a>
 
 > The charm of this style-transfer prompt is its attitude. Instead of the usual wide-eyed cartoon, it specifies heavy eyelids, a flat mouth and an 'unimpressed, calm, bored' emotion, which gives the result personality. The JSON keeps identity, pose and composition locked while swapping the rendering to matte, softly scattering 'plastic' skin and logo-free streetwear. We ran it on an AI-generated reference of a curly-haired woman in a mustard sweater, and the output kept her hair, sweater and cap while simplifying the face. The original lists a famous studio as inspiration; 'minimal toy-figure render' alone gets you there. For best likeness, use a front-facing photo.
 
@@ -1002,11 +1002,11 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 - Autore: [@firatbilal](https://x.com/firatbilal)
 - Post originale: https://x.com/firatbilal/status/2020856678351065532
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/photo-to-minimal-3d-toy-character?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/photo-to-minimal-3d-toy-character?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exaggerated 3D Caricature Character from a Photo
 
-<a href="https://cinel.ai/prompts/p/exaggerated-3d-caricature-from-photo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/exaggerated-3d-caricature-from-photo.webp" alt="Exaggerated 3D Caricature Character from a Photo" width="360"></a>
+<a href="https://cinel.ai/it/prompts/p/exaggerated-3d-caricature-from-photo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/exaggerated-3d-caricature-from-photo.webp" alt="Exaggerated 3D Caricature Character from a Photo" width="360"></a>
 
 > The prompt aims for a specific, slightly strange collectible look: 'weird, fashion-forward, character-driven rather than cute'. It lists the deformations (elongated neck, oversized head, droopy lids, heavy lips, mild asymmetry) and the styling (round glasses, hoops, chains, bandana, street-luxury clothes), while banning noise and grain so surfaces stay clean. Our run on a fictional bald man in a polo kept his likeness and added a paisley bandana, tinted round glasses, gold hoops and chunky chains, but the deformation came out milder than the text implies. If you want a stronger caricature, move the exaggeration list to the very start and add numbers, e.g. 'head 1.5× normal size'.
 
@@ -1022,11 +1022,11 @@ Aspect ratio 4:5.
 
 - Autore: [@Naiknelofar788](https://x.com/Naiknelofar788)
 - Post originale: https://x.com/Naiknelofar788/status/2032256273782358153
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/exaggerated-3d-caricature-from-photo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/exaggerated-3d-caricature-from-photo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Isometric Educational 3D Diorama for Any Process
 
-<a href="https://cinel.ai/prompts/p/isometric-educational-3d-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/isometric-educational-3d-diorama.webp" alt="Isometric Educational 3D Diorama for Any Process" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/isometric-educational-3d-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/isometric-educational-3d-diorama.webp" alt="Isometric Educational 3D Diorama for Any Process" width="480"></a>
 
 > A smart template for teachers and explainer content. It asks for a stepped or layered base where each level shows one stage, connected by subtle arrows, with tiny faceless figures for scale, which keeps attention on the process rather than characters. Title, subtitle and icon sit at the top over a single background colour, and text contrast is set automatically. For 'how rain forms' on pale sky blue, our result has a cutaway terrain block with ocean, river, mountains and a rain cloud, four numbered stages (evaporation, condensation, precipitation, collection) and accurate captions. It works for photosynthesis, recycling, coffee production or how a bill becomes law.
 
@@ -1047,11 +1047,11 @@ All text must automatically match the background contrast (white or black).
 
 - Autore: [@aleenaamiir](https://x.com/aleenaamiir)
 - Post originale: https://x.com/aleenaamiir/status/2013493349156823287
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/isometric-educational-3d-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/isometric-educational-3d-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Selfie to 3D Cartoon Meme Sticker Set (3×3)
 
-<a href="https://cinel.ai/prompts/p/selfie-to-3d-cartoon-sticker-set?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/selfie-to-3d-cartoon-sticker-set.webp" alt="Selfie to 3D Cartoon Meme Sticker Set (3×3)" width="360"></a>
+<a href="https://cinel.ai/it/prompts/p/selfie-to-3d-cartoon-sticker-set?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/selfie-to-3d-cartoon-sticker-set.webp" alt="Selfie to 3D Cartoon Meme Sticker Set (3×3)" width="360"></a>
 
 > The emotion list is the heart of this prompt: nine specific, slightly negative states (surprised, annoyed, confused, frustrated, thoughtful, sarcastic, worried, bored, curious) that cover most chat reactions better than the usual happy-sad-angry set. It asks for overacted, readable expressions at small sizes and identical hair, clothing and proportions in every cell. From our fictional curly-haired reference, the model produced nine clear expressions, but rendered them closer to realistic photos than a stylised 3D cartoon, on white rather than true transparency. To push the cartoon look, describe the style in neutral terms ('stylised 3D animated character, big head, simplified features') and expect to remove backgrounds afterwards.
 
@@ -1065,11 +1065,11 @@ Clean, polished 3D sticker look. Emotions (one per sticker, 3×3 grid): Surprise
 
 - Autore: [@oggii_0](https://x.com/oggii_0)
 - Post originale: https://x.com/oggii_0/status/2034263750539411550
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/selfie-to-3d-cartoon-sticker-set?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/selfie-to-3d-cartoon-sticker-set?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Friendly 3D Cartoon Avatar Prompt
 
-<a href="https://cinel.ai/prompts/p/photo-to-3d-cartoon-avatar?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/photo-to-3d-cartoon-avatar.webp" alt="Photo to Friendly 3D Cartoon Avatar Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/photo-to-3d-cartoon-avatar?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/photo-to-3d-cartoon-avatar.webp" alt="Photo to Friendly 3D Cartoon Avatar Prompt" width="480"></a>
 
 > A reference-based prompt for profile pictures: upload a photo and ask for a cheerful 3D version with a warm smile, bright eyes, smooth textures and slightly exaggerated proportions, lit like a clean studio portrait. We tested it on a fictional reference of a woman in her thirties with a pixie cut. The result kept her hair, smile and grey sweater faithfully, but it sits closer to a polished semi-realistic render than a full cartoon: the proportions are only lightly stylised. If you want a stronger animated look, push the exaggeration explicitly ('large expressive eyes, rounded head, simplified nose') and mention a plain pastel background. For teams, run every member through it for matching avatars.
 
@@ -1079,11 +1079,11 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 
 - Autore: [@rovvmut_](https://x.com/rovvmut_)
 - Post originale: https://x.com/rovvmut_/status/2013295220440654142
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/photo-to-3d-cartoon-avatar?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/photo-to-3d-cartoon-avatar?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Isometric Evolution Timeline Diorama Prompt
 
-<a href="https://cinel.ai/prompts/p/isometric-evolution-timeline-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/isometric-evolution-timeline-diorama.webp" alt="Isometric Evolution Timeline Diorama Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/isometric-evolution-timeline-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/isometric-evolution-timeline-diorama.webp" alt="Isometric Evolution Timeline Diorama Prompt" width="480"></a>
 
 > A neat format for 'history of X' content. The prompt builds a horizontally stepped base split into time periods, fills each with era-appropriate objects and tiny figures, adds arrows for chronological flow, and puts a bold title with a 'From… to…' subtitle above it. We tried the evolution of the bicycle, from the early wooden running machine to today's e-bike. The labels and dates came out historically sensible (1817, 1860s, 1880s, 1970s, today) and the scene is charming, but two drawings don't match their labels: the 1817 machine looks more like a cart and the 1860s bike already has a chain drive. Always check that each era's object is right before publishing.
 
@@ -1099,17 +1099,17 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 - Autore: [@aleenaamiir](https://x.com/aleenaamiir)
 - Post originale: https://x.com/aleenaamiir/status/2022178815955636413
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/isometric-evolution-timeline-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/isometric-evolution-timeline-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 <a id="food-drink"></a>
 
 ## Cibo e bevande
 
-6 in evidenza · [Vedi tutti i 199](cases/food-drink.md) · [Categoria su cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 in evidenza · [Vedi tutti i 199](cases/food-drink.md) · [Categoria su cinel](https://cinel.ai/it/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
-<a href="https://cinel.ai/prompts/p/exploded-dish-food-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/exploded-dish-food-infographic.webp" alt="Exploded Dish Food Infographic with Floating Ingredients" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/exploded-dish-food-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/exploded-dish-food-infographic.webp" alt="Exploded Dish Food Infographic with Floating Ingredients" width="480"></a>
 
 > Structured as JSON, this prompt is easy to edit field by field: cuisine, the list of levitating ingredients, label language, background and lighting. The vertical hierarchy (bowl anchored at the bottom, ingredients rising) gives every food the same readable composition, and asking for labels in the cuisine's own language adds authenticity. Our Indonesian example labelled beef, crispy tofu, lime, garlic, chilli and fried shallots correctly in Bahasa Indonesia. One leader line pointed at the wrong item, a reminder to check pointers. To reuse it, change 'cuisine' and the ingredient list together; keep six to eight ingredients so each label has room.
 
@@ -1158,11 +1158,11 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 - Autore: [@Taaruk_](https://x.com/Taaruk_)
 - Post originale: https://x.com/Taaruk_/status/2017865644365255078
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/exploded-dish-food-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/exploded-dish-food-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Floating Dish Recipe Infographic Prompt
 
-<a href="https://cinel.ai/prompts/p/recipe-infographic-floating-dish?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/recipe-infographic-floating-dish.webp" alt="Floating Dish Recipe Infographic Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/recipe-infographic-floating-dish?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/recipe-infographic-floating-dish.webp" alt="Floating Dish Recipe Infographic Prompt" width="480"></a>
 
 > Most recipe-card prompts produce flat, top-down layouts. This one asks for the finished dish at an angle, slightly floating, with ingredients and steps flowing around it, and it sets a clear hierarchy (dish, then steps, then ingredients, then stats) so the eye knows where to go. Glassmorphism step panels and small cooking icons give it a modern app-like finish. Our biryani version came out as a complete, believable card with ingredient quantities, six numbered steps, timing badges and a tips box; the only slip was cook time not matching the step durations. Note that the dish is written into the prompt itself ('briyani', spelled that way), so replace it every time you reuse the template.
 
@@ -1172,11 +1172,11 @@ Ultra-clean modern recipe infographic. Showcase briyani in a visually appealing 
 
 - Autore: [@Strength04_X](https://x.com/Strength04_X)
 - Post originale: https://x.com/Strength04_X/status/2013186574390046844
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/recipe-infographic-floating-dish?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/recipe-infographic-floating-dish?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Pistachio Baklava Four-Module Dessert Ad Prompt
 
-<a href="https://cinel.ai/prompts/p/pistachio-baklava-dessert-commercial-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pistachio-baklava-dessert-commercial-shot.webp" alt="Pistachio Baklava Four-Module Dessert Ad Prompt" width="360"></a>
+<a href="https://cinel.ai/it/prompts/p/pistachio-baklava-dessert-commercial-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pistachio-baklava-dessert-commercial-shot.webp" alt="Pistachio Baklava Four-Module Dessert Ad Prompt" width="360"></a>
 
 > Like the drink 'master prompt', this one splits global settings from per-shot modules, here four baklava scenes with their own backgrounds. What makes it work for pastry is the texture vocabulary: ultra-thin phyllo layers 'clearly visible', diamond cuts, finely ground bright-green pistachio between sheets, syrup glistening on the edges and droplets frozen in mid-air. Our result shows exactly that across four tiles: a floating stack on deep green, a resting tray on cream, a syrup pour on dark brown and shattered layers on olive. The colour-per-module rule gives a cohesive set for a menu or social grid. Swap baklava for any layered dessert, such as mille-feuille or kunafa, and keep the texture lines.
 
@@ -1293,11 +1293,11 @@ Ultra-clean modern recipe infographic. Showcase briyani in a visually appealing 
 
 - Autore: [@kaanakz](https://x.com/kaanakz)
 - Post originale: https://x.com/kaanakz/status/2009204329236828239
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/pistachio-baklava-dessert-commercial-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/pistachio-baklava-dessert-commercial-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Floating Dessert Stack with Gold Ingredient Labels
 
-<a href="https://cinel.ai/prompts/p/cinematic-studio-food-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/cinematic-studio-food-photography.webp" alt="Floating Dessert Stack with Gold Ingredient Labels" width="360"></a>
+<a href="https://cinel.ai/it/prompts/p/cinematic-studio-food-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/cinematic-studio-food-photography.webp" alt="Floating Dessert Stack with Gold Ingredient Labels" width="360"></a>
 
 > What sets this modular prompt apart is its text design system, defined once in the global settings: metallic-gold ingredient names in a serif, pure-white descriptions in a sans-serif, and long, thin, rounded golden indicator lines. Every module inherits that system, so the labels look consistent across very different scenes. The 'no zoom, no crop, centre-weighted vertical' rules keep the floating stack fully in frame. Our two-panel result pairs a pink-gradient cake stack with a moody pastry scene, both labelled in the same gold style. The descriptions are generic marketing copy, so rewrite them for your real menu. Delete modules you don't need.
 
@@ -1398,11 +1398,11 @@ Ultra-clean modern recipe infographic. Showcase briyani in a visually appealing 
 
 - Autore: [@meng_dagg695](https://x.com/meng_dagg695)
 - Post originale: https://x.com/meng_dagg695/status/2011994819124752631
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/cinematic-studio-food-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/cinematic-studio-food-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Floating Stacked Food Ad on White Background
 
-<a href="https://cinel.ai/prompts/p/floating-stacked-food-ad-white-background?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/floating-stacked-food-ad-white-background.webp" alt="Floating Stacked Food Ad on White Background" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/floating-stacked-food-ad-white-background?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/floating-stacked-food-ad-white-background.webp" alt="Floating Stacked Food Ad on White Background" width="480"></a>
 
 > The fast-food 'exploded burger' look, reduced to two blanks. The prompt pulls the dish apart vertically ('floating stacked composition, levitating pieces'), scatters small ingredient bits around it and grounds everything with one crisp soft shadow on the white surface, the detail that makes levitation read as photographed rather than cut out. High-key light and a 100mm macro look keep textures appetising. Our double cheeseburger splits neatly into bun, lettuce, tomato, two patties with melted cheese and pickles, with lettuce shreds flying. It works for sandwiches, tacos, layered cakes, sushi stacks, anything with distinct layers. Choose ingredient bits that actually belong to the dish.
 
@@ -1412,11 +1412,11 @@ A stacked double cheeseburger, premium food advertising, white seamless backgrou
 
 - Autore: [@azed_ai](https://x.com/azed_ai)
 - Post originale: https://x.com/azed_ai/status/2009625733933736157
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/floating-stacked-food-ad-white-background?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/floating-stacked-food-ad-white-background?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Top-Down Dining Table Styled as a Social Post
 
-<a href="https://cinel.ai/prompts/p/top-down-dining-table-group-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/top-down-dining-table-group-shot.webp" alt="Top-Down Dining Table Styled as a Social Post" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/top-down-dining-table-group-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/top-down-dining-table-group-shot.webp" alt="Top-Down Dining Table Styled as a Social Post" width="480"></a>
 
 > A clever physical-meets-digital concept: the dining table itself is built as a giant social post, with a white profile strip at the top, like and share icons at the bottom, and a coloured centre that becomes the 'photo'. The camera is pulled far back for lots of empty floor, and the prompt strictly confines all food, drinks and hands to the coloured centre so the illusion holds. We set a summer brunch: lemon-yellow centre, sky-blue floor, four friends in linen pouring lemonade and passing berries, under the fictional handle sunday.table. It is perfect for restaurant launches or brand anniversaries. Specify each person's action; vague instructions make everyone do the same thing.
 
@@ -1426,17 +1426,17 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 - Autore: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
 - Post originale: https://x.com/Goodmanprotocol/status/2045009725218226475
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/top-down-dining-table-group-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/top-down-dining-table-group-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 <a id="illustration-anime"></a>
 
 ## Illustrazione e anime
 
-6 in evidenza · [Vedi tutti i 44](cases/illustration-anime.md) · [Categoria su cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 in evidenza · [Vedi tutti i 44](cases/illustration-anime.md) · [Categoria su cinel](https://cinel.ai/it/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
-<a href="https://cinel.ai/prompts/p/minimal-black-white-line-art-character?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/minimal-black-white-line-art-character.webp" alt="Minimal Black-and-White Line Art Character Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/minimal-black-white-line-art-character?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/minimal-black-white-line-art-character.webp" alt="Minimal Black-and-White Line Art Character Prompt" width="480"></a>
 
 > Four blanks (subject, outfit, action and expression) are all you edit, and the style block does the rest. The prompt asks for flat monochrome, simple shapes, a subtle hand-drawn wobble and an expressive posture, the visual language of productivity-app and newsletter illustrations. With 'a young woman in an oversized knit sweater watering a potted plant', our result is exactly that: solid black hair and plant leaves, a loose sweater outline and a small contented smile, with plenty of white space. Because the output is pure black on white, it converts cleanly to vector. Keep actions simple and visible, such as reading, carrying or stretching, because complex actions get muddled at this level of reduction.
 
@@ -1446,11 +1446,11 @@ A simple black-and-white illustration of a young woman in an oversized knit swea
 
 - Autore: [@azed_ai](https://x.com/azed_ai)
 - Post originale: https://x.com/azed_ai/status/2043284009116160473
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/minimal-black-white-line-art-character?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/minimal-black-white-line-art-character?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Four-Panel Fluffy Creatures Story Comic Prompt
 
-<a href="https://cinel.ai/prompts/p/four-panel-fluffy-creatures-story?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/four-panel-fluffy-creatures-story.webp" alt="Four-Panel Fluffy Creatures Story Comic Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/four-panel-fluffy-creatures-story?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/four-panel-fluffy-creatures-story.webp" alt="Four-Panel Fluffy Creatures Story Comic Prompt" width="480"></a>
 
 > Instead of describing images, this prompt describes a story arc (a goal, a setback, teamwork, a happy ending) and leaves the visuals to the model. The one technical instruction that matters is 'maintain consistent identity across the 3 characters'. The author intended four separate 16:9 images generated one at a time, in a chat-style session. Run as a single generation, as in our example, the model drew all four beats in one frame: a bear, a bunny and a raccoon planning, failing ('Oops… not so easy'), working at sunset and celebrating in the finished treehouse. Either way, it is a fast route to a picture-book or social carousel draft. Name your creatures for tighter consistency.
 
@@ -1460,11 +1460,11 @@ Create a funny 4-part story featuring 3 fluffy creatures building a treehouse. T
 
 - Autore: [@GoogleAI](https://x.com/GoogleAI)
 - Post originale: https://x.com/GoogleAI/status/2027094912357761319
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/four-panel-fluffy-creatures-story?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/four-panel-fluffy-creatures-story?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Futuristic Desert Civilization Worldbuilding Set
 
-<a href="https://cinel.ai/prompts/p/futuristic-desert-worldbuilding-concept-art?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/futuristic-desert-worldbuilding-concept-art.webp" alt="Futuristic Desert Civilization Worldbuilding Set" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/futuristic-desert-worldbuilding-concept-art?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/futuristic-desert-worldbuilding-concept-art.webp" alt="Futuristic Desert Civilization Worldbuilding Set" width="480"></a>
 
 > Remarkably short for what it produces. The prompt names one setting (a futuristic desert civilization powered by solar technology), lists the categories a concept artist would cover (architecture, characters, clothing, vehicles, maps) and asks for a cohesive design language. Run as a single image, our result became a full pitch board titled SOLARA, with a domed city, robed characters, costume details, hover vehicles, interiors, agriculture and a parchment map, all in one sand-and-sky palette. The phrase 'multiple images' assumes a chat-style session; in one generation you get a collage instead. Swap the environment and power source (arctic and geothermal, ocean and tidal) for new worlds.
 
@@ -1474,11 +1474,11 @@ Create a complete visual worldbuilding set for a futuristic desert civilization 
 
 - Autore: [@aleenaamiir](https://x.com/aleenaamiir)
 - Post originale: https://x.com/aleenaamiir/status/2046866168208916503
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/futuristic-desert-worldbuilding-concept-art?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/futuristic-desert-worldbuilding-concept-art?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Woodcut Engraving Portrait Illustration Prompt
 
-<a href="https://cinel.ai/prompts/p/woodcut-engraving-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/woodcut-engraving-portrait-illustration.webp" alt="Woodcut Engraving Portrait Illustration Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/woodcut-engraving-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/woodcut-engraving-portrait-illustration.webp" alt="Woodcut Engraving Portrait Illustration Prompt" width="480"></a>
 
 > Engraving style is hard for image models because they drift towards soft pencil shading. This prompt fights that from both sides: the positive part names the technique precisely (cross-hatching, line shading, bold ink under the chin and around the hair, strong contour lines), and a long negative list rules out watercolour, soft shading, 3D, anime and blurred lines. Our result is a striking head-and-shoulders of a woman with loose curls, rendered entirely in parallel and crossed lines on warm paper, the look of a vintage editorial or a banknote vignette. Use it for author portraits, newsletter headers, wine labels or merch. Attach your own photo if you want a specific likeness.
 
@@ -1492,11 +1492,11 @@ color, watercolor, soft shading, blurred lines, low contrast, realistic photogra
 
 - Autore: [@Naiknelofar788](https://x.com/Naiknelofar788)
 - Post originale: https://x.com/Naiknelofar788/status/2042785774245154868
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/woodcut-engraving-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/woodcut-engraving-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### High-Contrast Ink Noir Portrait Illustration
 
-<a href="https://cinel.ai/prompts/p/ink-noir-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/ink-noir-portrait-illustration.webp" alt="High-Contrast Ink Noir Portrait Illustration" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/ink-noir-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/ink-noir-portrait-illustration.webp" alt="High-Contrast Ink Noir Portrait Illustration" width="480"></a>
 
 > Short and atmospheric: the whole look comes from limiting the medium to black ink, using strokes and controlled splatter, and letting highlights appear only where the paper is left bare. 'Heavy shadows dominate' pushes the image towards near-silhouette, and 'a graphic novel frozen at its most dramatic panel' sets the mood. We cast a weary detective in a trench coat and fedora, and the result is a striking brush illustration: the hat brim casts the eyes into shadow, ink splashes break up the coat, and a street lamp and spires are suggested in the background. It suits book covers, posters, tattoo flash or podcast art. Swap the subject; keep the ink-only rule.
 
@@ -1506,11 +1506,11 @@ A high-contrast ink noir portrait of a weary detective in a trench coat and fedo
 
 - Autore: [@aleenaamiir](https://x.com/aleenaamiir)
 - Post originale: https://x.com/aleenaamiir/status/2008431391235862892
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/ink-noir-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/ink-noir-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Monochrome Ink Side-Profile Portrait from a Photo
 
-<a href="https://cinel.ai/prompts/p/monochrome-ink-side-profile-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/monochrome-ink-side-profile-portrait.webp" alt="Monochrome Ink Side-Profile Portrait from a Photo" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/monochrome-ink-side-profile-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/monochrome-ink-side-profile-portrait.webp" alt="Monochrome Ink Side-Profile Portrait from a Photo" width="480"></a>
 
 > A gentle, gallery-style conversion: the photo becomes a clean side profile facing left, rendered in soft charcoal-grey ink on pure white, with a little controlled splatter and watercolour bleed that dissolves into mist at the edges. The prompt asks for exact identity and proportions, so the result still looks like the person rather than a generic sketch. Our reference was a three-quarter photo of a fictional woman with a low bun; the model turned her fully into profile, keeping the nose and jawline, with loose ink strands for hair and grey speckles scattered around the bun. It makes a lovely author photo, wedding stationery or memorial portrait. Use a clear, well-lit reference.
 
@@ -1520,17 +1520,17 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 - Autore: [@Naiknelofar788](https://x.com/Naiknelofar788)
 - Post originale: https://x.com/Naiknelofar788/status/2024636606272229577
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/monochrome-ink-side-profile-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/monochrome-ink-side-profile-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 <a id="scenes-creative"></a>
 
 ## Scene creative
 
-6 in evidenza · [Vedi tutti i 100](cases/scenes-creative.md) · [Categoria su cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 in evidenza · [Vedi tutti i 100](cases/scenes-creative.md) · [Categoria su cinel](https://cinel.ai/it/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 
-<a href="https://cinel.ai/prompts/p/giant-fountain-pen-story-world-scene?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/giant-fountain-pen-story-world-scene.webp" alt="Giant Fountain Pen Writing a Book's World into Life" width="360"></a>
+<a href="https://cinel.ai/it/prompts/p/giant-fountain-pen-story-world-scene?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/giant-fountain-pen-story-world-scene.webp" alt="Giant Fountain Pen Writing a Book's World into Life" width="360"></a>
 
 > A lovely visual metaphor, the story literally emerging from the ink, made convincing by scale contrast. The hand and nib are shot as an extreme close-up with skin texture and ink bleeding into paper fibre, while the characters are specified as 'no larger than a fingernail', cascading down the page with wet ink at their edges. Warm, raking amber light ties the two scales together. The template's bracket asks the model to pick iconic elements itself; we wrote them out for a public-domain classic, Moby-Dick (a peg-legged captain, a white whale, harpoon boats, a whaling ship), and they all appear. Public-domain books are the safe choice, since modern franchises bring rights issues.
 
@@ -1540,11 +1540,11 @@ A colossal hand gripping an enormous vintage fountain pen, captured in vertical 
 
 - Autore: [@0x00_Krypt](https://x.com/0x00_Krypt)
 - Post originale: https://x.com/0x00_Krypt/status/2028390369902174550
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/giant-fountain-pen-story-world-scene?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/giant-fountain-pen-story-world-scene?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Ball-Shaped Cute Animal Photo Prompt
 
-<a href="https://cinel.ai/prompts/p/ball-shaped-cute-animal-photo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/ball-shaped-cute-animal-photo.webp" alt="Ball-Shaped Cute Animal Photo Prompt" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/ball-shaped-cute-animal-photo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/ball-shaped-cute-animal-photo.webp" alt="Ball-Shaped Cute Animal Photo Prompt" width="480"></a>
 
 > Simple and endlessly reusable: swap one word and you get a new character. The prompt's clever instruction is anatomical: the animal 'has no head, instead its face is part of the ball', which forces a single sphere rather than a round body with a head on top. Putting it in its usual habitat keeps it photographic, and the upward 'cheeky' eyes add personality. Our red panda came out as a fluffy russet sphere with white cheek markings and big glossy eyes on a mossy log, instantly sticker-worthy. Animals with distinctive markings (red pandas, penguins, tigers, owls) make the most recognisable balls. Try a series across species for a cohesive set.
 
@@ -1554,11 +1554,11 @@ Make a photo of a cute ball-shaped version of a red panda, with big adorable ove
 
 - Autore: [@NanoBanana](https://x.com/NanoBanana)
 - Post originale: https://x.com/NanoBanana/status/2027298143134478451
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/ball-shaped-cute-animal-photo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/ball-shaped-cute-animal-photo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Panning Motion-Blur Soccer Kick Prompt
 
-<a href="https://cinel.ai/prompts/p/panning-soccer-player-motion-blur?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/panning-soccer-player-motion-blur.webp" alt="Panning Motion-Blur Soccer Kick Prompt" width="360"></a>
+<a href="https://cinel.ai/it/prompts/p/panning-soccer-player-motion-blur?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/panning-soccer-player-motion-blur.webp" alt="Panning Motion-Blur Soccer Kick Prompt" width="360"></a>
 
 > A compact sports-poster prompt that relies on two things: 'panning shot' and 'streaking lights'. Together they keep the athlete fairly sharp while the background and edges smear into speed lines, the classic look of a camera tracking a fast subject. The light green gradient replaces a stadium, so the red kit pops and there is room for text. The original wording asks for a professional jersey; we added 'plain, unbranded kit and boots, no logos or crest' after our first render produced marks resembling real sportswear and federation badges. Keep that clause for anything you publish. Change the kit colour, the sport or the action (header, dive save) to build a series.
 
@@ -1569,11 +1569,11 @@ lights --ar 4:5 --raw --stylize 700
 
 - Autore: [@ChillaiKalan__](https://x.com/ChillaiKalan__)
 - Post originale: https://x.com/ChillaiKalan__/status/2019364350151234040
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/panning-soccer-player-motion-blur?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/panning-soccer-player-motion-blur?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Real Space with Floating Concept Sketch Lines
 
-<a href="https://cinel.ai/prompts/p/person-at-frame-edge-empty-environment?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/person-at-frame-edge-empty-environment.webp" alt="Real Space with Floating Concept Sketch Lines" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/person-at-frame-edge-empty-environment?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/person-at-frame-edge-empty-environment.webp" alt="Real Space with Floating Concept Sketch Lines" width="480"></a>
 
 > Photography and drawing meet to show potential. A person stands at the edge of the frame, seen from behind, looking into an unfinished, empty or damaged real space, and black ink sketch lines float inside it in correct perspective, drawing what is missing or what could be. The prompt insists the strokes be loose and slightly imperfect, like a real concept sketch, and lets some lines cross the person to merge imagination and reality. We set it in a half-demolished brick warehouse with broken skylights; the sketches draw a library with mezzanines, shelving and reading tables. It suits architects, interior designers, developers and urban-renewal stories, and works equally for 'what once stood here'.
 
@@ -1587,11 +1587,11 @@ The sketch lines are black, clean, and hand-drawn, resembling architectural and 
 
 - Autore: [@Arminn_Ai](https://x.com/Arminn_Ai)
 - Post originale: https://x.com/Arminn_Ai/status/2002826415939682584
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/person-at-frame-edge-empty-environment?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/person-at-frame-edge-empty-environment?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Room: Walls and Furniture Floating in 3D
 
-<a href="https://cinel.ai/prompts/p/exploded-room-3d-floating-objects?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/exploded-room-3d-floating-objects.webp" alt="Exploded Room: Walls and Furniture Floating in 3D" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/exploded-room-3d-floating-objects?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/exploded-room-3d-floating-objects.webp" alt="Exploded Room: Walls and Furniture Floating in 3D" width="480"></a>
 
 > An exploded-view diagram applied to an interior: the ceiling lifts, the four walls slide outward, the floor drops, and furniture and objects hover in their original positions, so you can still read the room. The poetic touch is that every light source keeps working, with window light crossing the gap and lamps throwing cones into empty space. Labels are restricted to architectural elements, which keeps the image uncluttered. We built an 1890s townhouse reading room: a coffered ceiling with chandelier floats above bookcases, a fireplace, armchairs and a green sofa, while the oak floor below is labelled with material and size. Great for interior designers, real-estate storytelling or museum period rooms.
 
@@ -1601,11 +1601,11 @@ A reading room pulled apart in 3D, every surface and object  floating at its exa
 
 - Autore: [@AllaAisling](https://x.com/AllaAisling)
 - Post originale: https://x.com/AllaAisling/status/2035390729527378146
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/exploded-room-3d-floating-objects?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/exploded-room-3d-floating-objects?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Fishermen on Istanbul's Galata Bridge at Sunset
 
-<a href="https://cinel.ai/prompts/p/fishermen-bridge-sunset-silhouette?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/fishermen-bridge-sunset-silhouette.webp" alt="Fishermen on Istanbul's Galata Bridge at Sunset" width="480"></a>
+<a href="https://cinel.ai/it/prompts/p/fishermen-bridge-sunset-silhouette?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/fishermen-bridge-sunset-silhouette.webp" alt="Fishermen on Istanbul's Galata Bridge at Sunset" width="480"></a>
 
 > A travel-photography prompt that tells a small human story in a famous place: anglers lining the Galata Bridge at sunset, one weary fisherman leaning on the railing in the foreground, the hazy silhouette of the Süleymaniye Mosque across the Golden Horn and gulls wheeling overhead, all in warm orange and deep blue. We generalised the original camera brand and lens to a generic full-frame 85mm f/1.4 description. Our result captures the mood beautifully: the sun dropping behind a domed, minaret-lined skyline, rods arcing over the water and figures in silhouette along the ornate rail. Place names like these steer the model well; treat the skyline as evocative, not architecturally exact.
 
@@ -1615,7 +1615,7 @@ A cinematic silhouette shot of local fishermen lining the Galata Bridge in Istan
 
 - Autore: [@ozan_sihay](https://x.com/ozan_sihay)
 - Post originale: https://x.com/ozan_sihay/status/2001003144566681621
-- [Vedi su cinel e genera con questo prompt](https://cinel.ai/prompts/p/fishermen-bridge-sunset-silhouette?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- [Vedi su cinel e genera con questo prompt](https://cinel.ai/it/prompts/p/fishermen-bridge-sunset-silhouette?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ## Licenza
 
