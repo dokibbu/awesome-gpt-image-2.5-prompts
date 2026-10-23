@@ -1,6 +1,6 @@
 # 插画与动漫 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 43 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 44 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 极简黑白线稿人物插画提示词
 
@@ -692,3 +692,17 @@ Cozy anime-style video keyframe, vertical 9:16: a cute fictional young woman in 
 - 原作者: [@JohnSmith5912](https://x.com/JohnSmith5912)
 - 原帖: https://x.com/JohnSmith5912/status/2111391726191681700
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/anime-rainy-balcony-coffee-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 圆周率黏土动画数学微缩
+
+<a href="https://cinel.ai/zh/prompts/p/pi-claymation-math-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pi-claymation-math-diorama.webp" alt="圆周率黏土动画数学微缩" width="480"></a>
+
+> @Gdgtify 等距黏土动画数学提示词（10 赞）。填入圆周率/圆；单帧 1:1。
+
+```text
+Mixed-media educational illustration, isometric claymation, square 1:1. Subject: Pi (π) and the circle. Background: solid warm pastel peach, zero depth. The_3D_Diorama: an isometric clay slice of earth with a circular pond and a clay wheel/compass. Tiny adorable clay figures measuring circumference with string. 2D Overlay: hand-drawn ink call-out boxes and scribbled notes explaining circumference = 2πr, no brand logos. Softbox studio lighting with soft drop-shadows from clay onto flat background.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2111223411112353853
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pi-claymation-math-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

@@ -1,6 +1,6 @@
 # 美食饮品 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 184 · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 199 · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 食材悬浮爆炸式美食信息图提示词
 
@@ -3190,3 +3190,279 @@ Generate a square 1:1 "restaurant dish deconstruction guide / ingredient explosi
 - 原作者: [@HioPepper](https://x.com/HioPepper)
 - 原帖: https://x.com/HioPepper/status/2061678578346184976
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/roujiamo-ingredient-exploded-menu-infographic-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 草莓奶昔爆炸分层标注信息图
+
+<a href="https://cinel.ai/zh/prompts/p/strawberry-milkshake-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/strawberry-milkshake-exploded-labeled.webp" alt="草莓奶昔爆炸分层标注信息图" width="480"></a>
+
+> @Strength04_X 发了 Nano Banana 2 × Kling 工作流，其中 Image 2 是草莓奶昔垂直爆炸分层信息图（140 赞）。我们保留 Image 2 作为可运行静帧，并固定 1:1。
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of a premium strawberry milkshake.
+Top → Bottom structure:
+Fresh Strawberry Garnish
+→ Whipped Cream
+→ Strawberry Syrup
+→ Creamy Strawberry Shake
+→ Crushed Ice
+→ Transparent Glass Base
+All elements must be perfectly centered, evenly spaced, and vertically aligned. Show realistic strawberry texture, fluffy whipped cream, glossy syrup, thick creamy milkshake consistency, translucent ice, and realistic glass reflections. Use a soft pastel pink seamless studio background with elegant café lighting and subtle realistic shadows beneath each floating element. Ultra-sharp DSLR macro beverage photography, premium dessert drink infographic aesthetic, clean professional composition, hyper realistic, 8K.
+Add clean minimalist infographic text labels with thin pointer lines using these exact labels:
+"Strawberry"
+"Whipped Cream"
+"Strawberry Syrup"
+"Milkshake"
+"Ice"
+"Glass"
+Square aspect ratio 1:1. No logos, no brands, no people, no hands.
+```
+
+- 原作者: [@Strength04_X](https://x.com/Strength04_X)
+- 原帖: https://x.com/Strength04_X/status/2090665058980462697
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/strawberry-milkshake-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 满料牛肉玉米卷爆炸分层标注信息图
+
+<a href="https://cinel.ai/zh/prompts/p/loaded-beef-taco-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/loaded-beef-taco-exploded-labeled.webp" alt="满料牛肉玉米卷爆炸分层标注信息图" width="480"></a>
+
+> @Strength04_X 的 Image 2 牛肉玉米卷爆炸信息图（40 赞）。保留垂直标注分层，1:1。
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of a premium loaded beef taco.
+Top → Bottom structure:
+Fresh Cilantro Garnish
+→ Lime Crema
+→ Jalapeño Slices
+→ Diced Tomato & Onion
+→ Shredded Lettuce
+→ Melted Cheddar Cheese
+→ Seasoned Grilled Beef
+→ Crispy Corn Shell
+Every element must be perfectly centered, evenly spaced, and aligned vertically. Show realistic grilled beef texture, melted cheese, crisp vegetables, fresh herbs, creamy sauce, and a detailed crunchy corn shell. Use a warm terracotta-orange seamless studio background, soft commercial lighting, subtle realistic shadows beneath every floating element, ultra-sharp DSLR macro food photography, premium fast-food infographic aesthetic, clean professional composition, hyper realistic, 8K.
+Add clean minimalist infographic text labels with thin pointer lines using these exact labels:
+"Cilantro"
+"Lime Crema"
+"Jalapeños"
+"Tomato & Onion"
+"Lettuce"
+"Cheddar Cheese"
+"Grilled Beef"
+"Corn Shell"
+Square aspect ratio 1:1. No logos, no brands, no people, no hands.
+```
+
+- 原作者: [@Strength04_X](https://x.com/Strength04_X)
+- 原帖: https://x.com/Strength04_X/status/2091192289385451787
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/loaded-beef-taco-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 炸鸡块爆炸分层标注信息图
+
+<a href="https://cinel.ai/zh/prompts/p/chicken-nuggets-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/chicken-nuggets-exploded-labeled.webp" alt="炸鸡块爆炸分层标注信息图" width="480"></a>
+
+> @Strength04_X 主帖（107 赞）的回复 Image 2 给出炸鸡块爆炸分层。filled 用 Image 2；点赞记主帖。
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of premium crispy chicken nuggets.
+Top → Bottom structure:
+Crispy Breading
+→ Seasoning
+→ Chicken Fillet
+→ Marinade Layer
+→ Dipping Sauce
+→ Serving Tray
+Each layer must remain perfectly centered, evenly spaced, and visually clean. Show realistic golden breading texture, juicy chicken fibers, fine seasoning particles, creamy sauce texture, and a minimal serving tray. Use a bright yellow seamless studio background with soft commercial lighting and subtle realistic shadows beneath each floating element. Ultra-sharp DSLR macro food photography, premium fast-food infographic aesthetic, clean professional composition, 8K.
+Add clean infographic text labels with thin pointer lines using these exact labels:
+"Crispy Breading"
+"Seasoning"
+"Chicken"
+"Marinade"
+"Dipping Sauce"
+"Tray"
+Square aspect ratio 1:1. No logos, no brands, no people, no hands.
+```
+
+- 原作者: [@Strength04_X](https://x.com/Strength04_X)
+- 原帖: https://x.com/Strength04_X/status/2089531966156857533
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/chicken-nuggets-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 土豆变金脆薯片英雄静帧
+
+<a href="https://cinel.ai/zh/prompts/p/potato-golden-crunch-chips-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/potato-golden-crunch-chips-hero.webp" alt="土豆变金脆薯片英雄静帧" width="480"></a>
+
+> @Strength04_X 的视频分镜（144 赞）。把第 07 英雄镜头改写成静帧；去掉品牌包装文案。
+
+```text
+Ultra-realistic premium snack-food commercial still, square 1:1. Hero keyframe from a potato-to-chips transformation: a generous pile of golden crispy thin potato chips landing into a premium matte ceramic bowl on a dark cinematic stone surface, warm golden rim light, crumbs falling naturally around the bowl, shallow depth of field, ultra-crispy blistered chip texture, rich shadows, no packaging branding, no logos, no text, no people, no hands. DSLR macro food photography, 8K.
+```
+
+- 原作者: [@Strength04_X](https://x.com/Strength04_X)
+- 原帖: https://x.com/Strength04_X/status/2091472894727712866
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/potato-golden-crunch-chips-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 土豆条掰碎碎屑静帧
+
+<a href="https://cinel.ai/zh/prompts/p/potato-sticks-crumb-break?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/potato-sticks-crumb-break.webp" alt="土豆条掰碎碎屑静帧" width="480"></a>
+
+> @Strength04_X 分镜（143 赞）。取掰断碎屑瞬间作静帧；去掉品牌筒包装。
+
+```text
+Ultra-realistic premium snack commercial still, square 1:1. Extreme macro of crunchy seasoned potato sticks snapping mid-air with tiny crumbs and seasoning particles suspended around them, glossy dark studio surface below, dramatic controlled lighting, golden yellow and cream palette, sharp crispy ridge texture, no branded packaging logos, no text overlays, no people, no hands. High-speed food photography, 8K.
+```
+
+- 原作者: [@Strength04_X](https://x.com/Strength04_X)
+- 原帖: https://x.com/Strength04_X/status/2095782580071411770
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/potato-sticks-crumb-break?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 牛油果吐司配抹茶拿铁咖啡馆俯拍
+
+<a href="https://cinel.ai/zh/prompts/p/avocado-toast-matcha-cafe-flatlay?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/avocado-toast-matcha-cafe-flatlay.webp" alt="牛油果吐司配抹茶拿铁咖啡馆俯拍" width="480"></a>
+
+> @azed_ai Fresh Café Flatlay 模板（119 赞）。填入牛油果吐司+抹茶拿铁，鼠尾草绿/奶油色。
+
+```text
+Photorealistic top-down shot of avocado toast with soft-boiled egg and chili flakes with a frothy matcha latte in a ceramic cup in a stylish café setting, cheerful fresh atmosphere, sage green and warm cream palette, elegant food styling, natural textures, soft daylight, subtle shadows, premium editorial food photography, ARRI Alexa look, crisp details, 8K realism. Square 1:1. No logos, no brand marks, no people, no hands.
+```
+
+- 原作者: [@azed_ai](https://x.com/azed_ai)
+- 原帖: https://x.com/azed_ai/status/2107063271648100604
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/avocado-toast-matcha-cafe-flatlay?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 意面叉子蒸汽英雄静帧
+
+<a href="https://cinel.ai/zh/prompts/p/spaghetti-fork-steam-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/spaghetti-fork-steam-hero.webp" alt="意面叉子蒸汽英雄静帧" width="480"></a>
+
+> @Strength04_X 意面分镜（296 赞）。取叉子卷面蒸汽作静帧；去掉品牌包装盒。
+
+```text
+Ultra-realistic Italian food advertising still, square 1:1. Long cooked spaghetti strands coated in glossy tomato sauce being twirled elegantly around a fork, steam rising softly, extreme macro silky pasta texture, warm cinematic cream and wheat-gold lighting, dark neutral background, no branded packaging, no logos, no text, no people, no hands. Premium gourmet presentation, 8K.
+```
+
+- 原作者: [@Strength04_X](https://x.com/Strength04_X)
+- 原帖: https://x.com/Strength04_X/status/2095411329461100949
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/spaghetti-fork-steam-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 气泡柑橘饮料飞溅静帧
+
+<a href="https://cinel.ai/zh/prompts/p/sparkling-citrus-drink-splash?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/sparkling-citrus-drink-splash.webp" alt="气泡柑橘饮料飞溅静帧" width="480"></a>
+
+> @Strength04_X 饮料分镜（242 赞）。英雄飞溅静帧；瓶子无品牌。
+
+```text
+Ultra-realistic luxury beverage advertising still, square 1:1. Final hero of a chilled unbranded clear sparkling fruit drink bottle and crystal glass surrounded by a frozen citrus splash, fresh orange and lemon slices, ice cubes, condensation droplets, silver-citrus-orange and deep blue studio palette, dramatic backlighting, no logos, no brand labels, no text, no people, no hands. High-speed liquid photography, 8K.
+```
+
+- 原作者: [@Strength04_X](https://x.com/Strength04_X)
+- 原帖: https://x.com/Strength04_X/status/2091388744599486491
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/sparkling-citrus-drink-splash?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 花生酱丝带吐司静帧
+
+<a href="https://cinel.ai/zh/prompts/p/peanut-butter-ribbon-toast?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/peanut-butter-ribbon-toast.webp" alt="花生酱丝带吐司静帧" width="480"></a>
+
+> @Strength04_X 花生酱分镜（314 赞）。丝带拉起静帧；罐子无品牌。
+
+```text
+Ultra-realistic gourmet breakfast advertising still, square 1:1. Thick creamy peanut butter lifting from a spoon in a long glossy ribbon above warm toasted bread, with an unbranded glass jar and roasted peanuts nearby on a premium stone surface, warm beige caramel brown palette, natural soft lighting, rich creamy texture with tiny peanut particles, no logos, no brand labels, no text, no people, no hands. Extreme macro food photography, 8K.
+```
+
+- 原作者: [@Strength04_X](https://x.com/Strength04_X)
+- 原帖: https://x.com/Strength04_X/status/2095104027667177825
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/peanut-butter-ribbon-toast?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 薯角掰开松软内心静帧
+
+<a href="https://cinel.ai/zh/prompts/p/potato-wedges-fluffy-break?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/potato-wedges-fluffy-break.webp" alt="薯角掰开松软内心静帧" width="480"></a>
+
+> @Strength04_X 薯角分镜（249 赞）。掰开微距静帧；去掉冷冻包装品牌。
+
+```text
+Ultra-realistic gourmet food commercial still, square 1:1. One golden crispy potato wedge breaking open to reveal a soft fluffy potato center, steam rising, crispy seasoned coating with bubbling texture detail, warm cream golden yellow and dark brown studio background, dramatic side light, no packaging brands, no logos, no text, no people, no hands. Extreme macro food photography, 8K.
+```
+
+- 原作者: [@Strength04_X](https://x.com/Strength04_X)
+- 原帖: https://x.com/Strength04_X/status/2091043191755878628
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/potato-wedges-fluffy-break?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 椰子水英雄飞溅静帧
+
+<a href="https://cinel.ai/zh/prompts/p/coconut-water-hero-splash?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/coconut-water-hero-splash.webp" alt="椰子水英雄飞溅静帧" width="480"></a>
+
+> 本批最高热度美食源：@Strength04_X 椰子水分镜（663 赞）。英雄飞溅静帧；瓶子无品牌。
+
+```text
+Ultra-realistic premium natural beverage advertising still, square 1:1. Final hero of an unbranded chilled coconut water bottle and a clear glass surrounded by fresh coconut pieces and a frozen water splash on wet natural stone, heavy condensation, crystal-clear liquid, white coconut-green beige palette, natural premium lighting, no logos, no brand labels, no text, no people, no hands. High-speed liquid photography, 8K.
+```
+
+- 原作者: [@Strength04_X](https://x.com/Strength04_X)
+- 原帖: https://x.com/Strength04_X/status/2094760813794111843
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/coconut-water-hero-splash?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 焦耳夫饭烹饪解剖信息板
+
+<a href="https://cinel.ai/zh/prompts/p/jollof-rice-culinary-anatomy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/jollof-rice-culinary-anatomy.webp" alt="焦耳夫饭烹饪解剖信息板" width="480"></a>
+
+> @Gdgtify 烹饪解剖板元提示词（11 赞）。填入尼日利亚焦耳夫饭；方形海报。
+
+```text
+Square 1:1 clean framed educational food anatomy poster for Nigerian jollof rice. Central high-quality rendered plate of fragrant red jollof rice with grilled plantain and chicken. Surrounding ingredient callout boxes with thin connectors: long-grain rice, tomatoes and peppers stew base, onions, curry and thyme spices, bay leaf, stock, grilled chicken, ripe plantain. Each box has component name, one short culinary-property notation, and a tiny simple chart (heat, aroma, or richness). Bold sans-serif title at top: "JOLLOF RICE ANATOMY". Bright soft studio lighting, white framed poster on clean wall, educational modern menu-lab aesthetic, appetizing food realism, no logos, no brands, no people, no hands.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2097241279071727902
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/jollof-rice-culinary-anatomy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 冷压橙汁飞溅静帧
+
+<a href="https://cinel.ai/zh/prompts/p/cold-pressed-orange-juice-splash?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/cold-pressed-orange-juice-splash.webp" alt="冷压橙汁飞溅静帧" width="480"></a>
+
+> @Strength04_X 冷压果汁分镜（143 赞）。飞溅英雄静帧；瓶子无品牌。
+
+```text
+Ultra-realistic fresh beverage commercial still, square 1:1. Unbranded cold-pressed orange juice bottle with condensation beside a glass, frozen mid-air juice splash and fresh orange pieces falling around, ice cubes, vibrant orange green cream palette, dramatic backlight, no logos, no brand labels, no text, no people, no hands. High-speed liquid photography, 8K.
+```
+
+- 原作者: [@Strength04_X](https://x.com/Strength04_X)
+- 原帖: https://x.com/Strength04_X/status/2090774232213131401
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/cold-pressed-orange-juice-splash?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 意式辣香肠披萨爆炸分层标注信息图
+
+<a href="https://cinel.ai/zh/prompts/p/pepperoni-pizza-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pepperoni-pizza-exploded-labeled.webp" alt="意式辣香肠披萨爆炸分层标注信息图" width="480"></a>
+
+> @Strength04_X 意式辣香肠披萨主帖（64 赞）公开了 Image 1；同串 Image 2 爆炸提示词未完整抓取。我们按 Strength04 固定垂直信息图模板 + Image 1 菜品反写爆炸分层。
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of a premium pepperoni pizza slice stack.
+Top → Bottom structure:
+Oregano Sprinkle
+→ Pepperoni Slices
+→ Melted Mozzarella
+→ Tomato Sauce
+→ Golden Thin Crust
+Each layer perfectly centered, evenly spaced, vertically aligned. Show stretchy melted cheese, crispy-edged pepperoni, rich sauce gloss, and detailed baked crust bubbles. Deep warm red seamless studio background, soft cinematic lighting, subtle shadows under each floating element. Ultra-sharp DSLR macro food photography, premium pizzeria infographic aesthetic, hyper realistic, 8K.
+Add clean minimalist labels with thin pointer lines:
+"Oregano"
+"Pepperoni"
+"Mozzarella"
+"Tomato Sauce"
+"Crust"
+Square 1:1. No logos, no brands, no people, no hands.
+```
+
+- 原作者: [@Strength04_X](https://x.com/Strength04_X)
+- 原帖: https://x.com/Strength04_X/status/2088559566418227273
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pepperoni-pizza-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 静奢牛肉汉堡画廊海报
+
+<a href="https://cinel.ai/zh/prompts/p/quiet-luxury-beef-burger-gallery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/quiet-luxury-beef-burger-gallery.webp" alt="静奢牛肉汉堡画廊海报" width="480"></a>
+
+> @hellsing00fl 静奢超现实汉堡海报（提示词分享；抓取时 0 赞，但风格可复用）。填成 1:1；可运行提示词去掉杂志品牌点名；原文原样保留。
+
+```text
+Create one complete high-end advertising still of a premium beef burger, square 1:1 aspect ratio. Surrealism × quiet luxury — minimalist luxury still life, soft cinematic lighting, premium editorial advertising aesthetic. One complete handcrafted burger floating slightly above a warm travertine stone pedestal inside a minimalist surreal gallery room of soft beige marble and limestone planes. Brioche bun with subtle sesame, crisp lettuce, ripe tomato, pickles, thin red onion, melted aged cheddar, thick flame-grilled beef patty with natural char, caramelized onion, dark sauce. Soft morning side light, gentle shadows, large empty architectural negative space. Tiny thin editorial marks only: "01 BEEF SELECTED" "02 HANDCRAFTED BUN" "03 AGED CHEDDAR". No fast-food red/yellow, no people, no hands, no logos, no brand names, no flames, no flying ingredients. Museum-quality quiet luxury food advertising, 8K.
+```
+
+- 原作者: [@hellsing00fl](https://x.com/hellsing00fl)
+- 原帖: https://x.com/hellsing00fl/status/2096552686678417851
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/quiet-luxury-beef-burger-gallery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

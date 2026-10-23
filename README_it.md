@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Una raccolta selezionata di **592** prompt per GPT Image 2.5. Ognuno include un'immagine di esempio, il prompt completo e il credito all'autore originale con il link al post originale. I dati provengono dalla libreria di prompt di [cinel.ai](https://cinel.ai/it/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) e si sincronizzano automaticamente.
+Una raccolta selezionata di **622** prompt per GPT Image 2.5. Ognuno include un'immagine di esempio, il prompt completo e il credito all'autore originale con il link al post originale. I dati provengono dalla libreria di prompt di [cinel.ai](https://cinel.ai/it/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) e si sincronizzano automaticamente.
 
 👉 [Sfoglia tutto e genera online su cinel.ai](https://cinel.ai/it/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -22,11 +22,11 @@ Una raccolta selezionata di **592** prompt per GPT Image 2.5. Ognuno include un'
 - [Ritratti e headshot](#portrait) (79) · [tutti](cases/portrait.md)
 - [Prodotti ed e-commerce](#product-photography) (46) · [tutti](cases/product-photography.md)
 - [Poster, loghi e grafica](#poster-design) (53) · [tutti](cases/poster-design.md)
-- [Infografiche e UI](#infographic-ui) (34) · [tutti](cases/infographic-ui.md)
-- [Personaggi e figure 3D](#3d-figurines) (60) · [tutti](cases/3d-figurines.md)
-- [Cibo e bevande](#food-drink) (184) · [tutti](cases/food-drink.md)
-- [Illustrazione e anime](#illustration-anime) (43) · [tutti](cases/illustration-anime.md)
-- [Scene creative](#scenes-creative) (93) · [tutti](cases/scenes-creative.md)
+- [Infografiche e UI](#infographic-ui) (36) · [tutti](cases/infographic-ui.md)
+- [Personaggi e figure 3D](#3d-figurines) (65) · [tutti](cases/3d-figurines.md)
+- [Cibo e bevande](#food-drink) (199) · [tutti](cases/food-drink.md)
+- [Illustrazione e anime](#illustration-anime) (44) · [tutti](cases/illustration-anime.md)
+- [Scene creative](#scenes-creative) (100) · [tutti](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -783,7 +783,7 @@ Make the aspect ratio 9:16
 
 ## Infografiche e UI
 
-6 in evidenza · [Vedi tutti i 34](cases/infographic-ui.md) · [Categoria su cinel](https://cinel.ai/it/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 in evidenza · [Vedi tutti i 36](cases/infographic-ui.md) · [Categoria su cinel](https://cinel.ai/it/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -916,7 +916,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## Personaggi e figure 3D
 
-6 in evidenza · [Vedi tutti i 60](cases/3d-figurines.md) · [Categoria su cinel](https://cinel.ai/it/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 in evidenza · [Vedi tutti i 65](cases/3d-figurines.md) · [Categoria su cinel](https://cinel.ai/it/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1105,7 +1105,7 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## Cibo e bevande
 
-6 in evidenza · [Vedi tutti i 184](cases/food-drink.md) · [Categoria su cinel](https://cinel.ai/it/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 in evidenza · [Vedi tutti i 199](cases/food-drink.md) · [Categoria su cinel](https://cinel.ai/it/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
@@ -1432,7 +1432,7 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 ## Illustrazione e anime
 
-6 in evidenza · [Vedi tutti i 43](cases/illustration-anime.md) · [Categoria su cinel](https://cinel.ai/it/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 in evidenza · [Vedi tutti i 44](cases/illustration-anime.md) · [Categoria su cinel](https://cinel.ai/it/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -1526,7 +1526,7 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 ## Scene creative
 
-6 in evidenza · [Vedi tutti i 93](cases/scenes-creative.md) · [Categoria su cinel](https://cinel.ai/it/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 in evidenza · [Vedi tutti i 100](cases/scenes-creative.md) · [Categoria su cinel](https://cinel.ai/it/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 

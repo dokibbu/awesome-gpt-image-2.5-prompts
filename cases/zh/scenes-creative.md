@@ -1,6 +1,6 @@
 # 创意场景 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 93 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 100 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 巨型钢笔写出书中世界的魔幻场景提示词
 
@@ -1491,3 +1491,103 @@ Top-down cozy desk flat lay near a sunrise window: a wooden table with a coffee 
 - 原作者: [@MrLarus](https://x.com/MrLarus)
 - 原帖: https://x.com/MrLarus/status/2047709029804155226
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/isometric-micro-world-archive-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 弗兰肯斯坦剖面书页微缩
+
+<a href="https://cinel.ai/zh/prompts/p/frankenstein-cutaway-book-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/frankenstein-cutaway-book-diorama.webp" alt="弗兰肯斯坦剖面书页微缩" width="480"></a>
+
+> @Gdgtify 等距剖面书微缩（6 赞）。公版《弗兰肯斯坦》填充；1:1 单英雄角度（非 2x2）。
+
+```text
+Clean isometric 3D render, 2.5D dollhouse cutaway, parallel projection, soft studio light, gentle ambient occlusion, pure white cyclorama. Muted architectural neutrals + one storm-teal accent.
+Single hero angle of an isometric cutaway diorama for the public-domain novel Frankenstein; or, The Modern Prometheus.
+Slice an Ingolstadt lab tower on a razor-clean vertical plane revealing stacked doll-sized rooms: base = charnel cellar with grave-robbing props; mid = galvanic laboratory with creature rising on a slab under lightning arcs; top = Victor's study with fleeing scholar silhouette. Tiny stylized figures mid-action, no readable faces. No logos. Square 1:1.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2095778389454143792
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/frankenstein-cutaway-book-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 拉面字母校园微缩
+
+<a href="https://cinel.ai/zh/prompts/p/ramen-letter-campus-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/ramen-letter-campus-diorama.webp" alt="拉面字母校园微缩" width="480"></a>
+
+> @Gdgtify 字母建筑校园提示词（12 赞），示例是街头食物。填入 RAMEN；深色棚景。
+
+```text
+Square 1:1. Create a premium isometric miniature campus where TOPIC = RAMEN becomes a walkable architectural ecosystem. DISPLAY_WORD = RAMEN as dominant central structure; each letter is a thick inhabitable building with doors, windows, interior cutaways, terraces, bowls of noodles displayed, steam vents. Surrounding ecosystem: tiny noodle stalls, broth cauldrons, chopstick workshops, chili oil garden, seating courtyards. Tiny people without facial detail. Dark studio background, soft product lighting, polished architectural model realism. Word must remain readable. No brand logos. No hardcoded celebrity or chain.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2096596530601906195
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/ramen-letter-campus-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 阿波罗11号字体文明历史微缩
+
+<a href="https://cinel.ai/zh/prompts/p/apollo11-typographic-history-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/apollo11-typographic-history-diorama.webp" alt="阿波罗11号字体文明历史微缩" width="480"></a>
+
+> @Gdgtify 字体文明历史提示词（11 赞）。填入 APOLLO 11；仅通用宇航员剪影。
+
+```text
+Square 1:1 legendary typographic civilization miniature for SUBJECT = APOLLO 11. Giant readable word architecture where letters become monuments and habitats; carved relief panels of launch and moonwalk; tiny workforce, lunar module, crawlerway, and mythic clouds; museum model lighting; materials of carved stone, plaster relief, matte clay, resin water, engraved plaques. No flat logo, no corporate building clutter. Soft studio shadows. No real-person likeness — use generic astronaut silhouettes only. Educational isometric miniature campus.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2099503183835828453
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/apollo11-typographic-history-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 相对论博物馆桌面微缩
+
+<a href="https://cinel.ai/zh/prompts/p/relativity-museum-tabletop-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/relativity-museum-tabletop-diorama.webp" alt="相对论博物馆桌面微缩" width="480"></a>
+
+> @Gdgtify 博物馆桌面概念微缩（11 赞）。填入广义相对论引力阱；玩具化专家，无真人肖像。
+
+```text
+Cinematic miniature museum tabletop diorama, square 1:1, explaining general relativity. Base artifact: open physics notebook as stage floor. Central physical 3D wire-grid rubber sheet warped by a heavy metal sphere (gravity well). Supporting props: pocket watch, light-beam token, eclipse newspaper clipping prop (generic), measuring calipers. One toyified miniature expert figurine measuring the curve of the grid — stylized, no real likeness. Warm cinematic still life, shallow depth of field, tactile wood/metal/paper, isometric macro high angle. No floating hologram text, no logos.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2088179568792436760
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/relativity-museum-tabletop-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 丝绸之路混合展览微缩
+
+<a href="https://cinel.ai/zh/prompts/p/silk-road-hybrid-exhibit-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/silk-road-hybrid-exhibit-diorama.webp" alt="丝绸之路混合展览微缩" width="480"></a>
+
+> @Gdgtify 混合剖面/档案/海报方程提示词（13 赞）。填入丝绸之路贸易网。
+
+```text
+Square 1:1 hybrid annotated miniature exhibit for SUBJECT = the Silk Road trade network. Part isometric cutaway dollhouse caravanserai, part open-book annotated dossier, part monochrome deco exhibit card, part pastel discovery diorama, part layered paper-cut travel poster. Labels, inset boxes, arrows, small study panels. Materials: paper, clay, plaster, cardstock, foam-board, miniature resin. Clear title "SILK ROAD", focal camel-caravan miniature scene, supporting notes on routes and goods. No photoreal full-scale environment, no generic corporate infographic, no logos. Collectible museum charm.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2089510086280671367
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/silk-road-hybrid-exhibit-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 1920年代剖面联排屋微缩
+
+<a href="https://cinel.ai/zh/prompts/p/decade-1920s-cutaway-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/decade-1920s-cutaway-diorama.webp" alt="1920年代剖面联排屋微缩" width="480"></a>
+
+> @Gdgtify 年代/作品剖面提示词（16 赞）——填入1920年代历史（非影视 IP）。仅风格化居民。
+
+```text
+Square 1:1 miniature isometric cutaway of an iconic 1920s multi-room townhouse block with two adjoining walls and roof cut away on a clean section line, floating in a plain neutral void. Rooms: jazz lounge with radio and records, kitchen with early electric appliances, study with newspapers, rooftop terrace with city lights. Tiny stylized residents mid-action without facial likeness of real people. Dense period props readable per room. Clean 3D render, soft GI, true isometric 45° camera, neutral seamless backdrop. No movie/game IP, no logos.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2108491912168567167
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/decade-1920s-cutaway-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 光合作用知识立体书
+
+<a href="https://cinel.ai/zh/prompts/p/photosynthesis-knowledge-popup-book?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/photosynthesis-knowledge-popup-book.webp" alt="光合作用知识立体书" width="480"></a>
+
+> @Gdgtify 知识立体书微缩（9 赞）。填入光合作用叶片剖面。
+
+```text
+Physical open-book diorama where TOPIC = photosynthesis becomes a tactile educational artifact, square 1:1. Open thick archival book; central 3D pop-up of a leaf cross-section with chloroplasts as glossy green chambers, sun rays as brass wires, CO2 and O2 molecule tokens, tiny water droplets. Diagrams and notes belong to photosynthesis only. Museum still-life lighting, tabletop product angle, paper age and ink wear. No hard-coded unrelated props, no logos, no real people.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2095469605829382530
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/photosynthesis-knowledge-popup-book?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

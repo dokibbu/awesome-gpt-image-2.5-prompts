@@ -1,6 +1,6 @@
 # 3D Characters & Figurines · GPT Image 2.5
 
-[← README](../README.md) · 60 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 65 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1219,3 +1219,91 @@ All text must automatically match the background contrast (white or black).
 - Author: [@aleenaamiir](https://x.com/aleenaamiir)
 - Original post: https://x.com/aleenaamiir/status/2018147539992862866
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/inside-the-machine-cutaway-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Kyoto Destination Isometric Diorama
+
+<a href="https://cinel.ai/prompts/p/kyoto-destination-isometric-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/kyoto-destination-isometric-diorama.webp" alt="Kyoto Destination Isometric Diorama" width="480"></a>
+
+> @AiwithLariab destination core-identity diorama meta-prompt (126 likes). Filled DESTINATION=Kyoto; square 1:1; accurate JP flag only.
+
+```text
+Create a premium square 1:1 3D isometric miniature diorama of Kyoto, focused on its most internationally recognizable geographic and cultural core.
+Use the smallest coherent area that best represents Kyoto: historic center with river corridor and temple district. Maintain iconic core 75% + supporting context 25%.
+Terrain footprint visible and uncropped. Include 1–2 hero landmarks (Kiyomizu-dera wooden stage silhouette, Fushimi Inari vermilion torii tunnel) and 3–5 secondary elements (Pagoda roof cluster, stone lantern path, cherry trees, Kamo river edge, traditional machiya street). Correct relative positions, connected by streets, bridges, parks, vegetation.
+High-angle three-quarter isometric view, orthographic-like perspective, sculpted terrain, realistic materials, soft contact shadows, warm off-white studio background, subtle ground shadow. Elegant museum-quality architectural miniature — not cartoonish or toy-like.
+Top center header exactly:
+KYOTO
+JAPAN · KANSAI
+with one small accurate Japanese national flag only. No other text, logos, or watermarks. No people faces. Square 1:1.
+```
+
+- Author: [@AiwithLariab](https://x.com/AiwithLariab)
+- Original post: https://x.com/AiwithLariab/status/2094618926475055509
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/kyoto-destination-isometric-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Lisbon Destination Isometric Diorama
+
+<a href="https://cinel.ai/prompts/p/lisbon-destination-isometric-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/lisbon-destination-isometric-diorama.webp" alt="Lisbon Destination Isometric Diorama" width="480"></a>
+
+> @Goodmanprotocol destination isometric diorama (42 likes). Filled Lisbon; square 1:1.
+
+```text
+DESTINATION = Lisbon SCOPE = AUTO
+Create a premium square 1:1 3D isometric miniature diorama of Lisbon, focused on its most recognizable geographic and cultural core. Select 5–8 authentic iconic elements.
+Use Alfama/Baixa waterfront core as raised terrain. Include hero: Belém Tower and Dom Luís I / riverside skyline hierarchy; secondary: yellow tram on hill street, tiled rooftops, São Jorge Castle hill, Tagus waterfront, pastel façades. Connect via streets, hills, water.
+High-detail realistic architectural miniature, high-angle three-quarter isometric, soft ambient occlusion, warm off-white studio background.
+Top center exactly:
+LISBON
+PORTUGAL · IBERIA
+small accurate Portuguese flag only. No logos, watermarks, invented landmarks. Square 1:1.
+```
+
+- Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- Original post: https://x.com/Goodmanprotocol/status/2092819809453129850
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/lisbon-destination-isometric-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Venice Block-Style City Diorama
+
+<a href="https://cinel.ai/prompts/p/venice-block-city-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/venice-block-city-diorama.webp" alt="Venice Block-Style City Diorama" width="480"></a>
+
+> @Goodmanprotocol block-style city diorama (44 likes). Filled Venice; removed toy-brand wording from filled_prompt; original kept.
+
+```text
+Create a premium square 1:1 miniature city diorama for Venice.
+Automatically identify iconic canals, bridges, and architecture. Recreate as a highly detailed block-style miniature city diorama with clean geometric forms, crisp edges, modular details, realistic miniature proportions.
+Dynamic isometric elevated three-quarter viewpoint. Main landmark focal point (Rialto Bridge silhouette) surrounded by supporting buildings, canals, boats, greenery, tiny miniature figures without facial detail.
+Bright clear daytime, vivid blue sky, soft white clouds, bright natural studio illumination. Charming collectible architectural model aesthetic. No logos, no brand names, no watermarks, no photorealistic full-scale city. Square 1:1.
+```
+
+- Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- Original post: https://x.com/Goodmanprotocol/status/2101305861000040790
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/venice-block-city-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Printing Press Invention World Diorama
+
+<a href="https://cinel.ai/prompts/p/printing-press-invention-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/printing-press-invention-diorama.webp" alt="Printing Press Invention World Diorama" width="480"></a>
+
+> @Gdgtify inventions isometric miniature world (9 likes). Filled mechanical printing press / open-book silhouette; single frame 1:1.
+
+```text
+Square 1:1 isometric miniature world of the theme "mechanical printing press", landmass cut as a silhouette of an open book, floating as a self-contained diorama. Isometric projection, cross-section side walls revealing strata, soft global illumination. Core landmark: a detailed antique printing press at center; surrounding sub-scenes of type cases, ink rollers, stacked broadsheets, tiny printers at work without facial detail. Soft shadows and small elegant labels only on key scenes. Matte blank background. No brands, no modern logos. 8K isometric diorama masterwork.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2097225927394836520
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/printing-press-invention-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Robie House Blueprint Desk Diorama
+
+<a href="https://cinel.ai/prompts/p/robie-house-blueprint-desk-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/robie-house-blueprint-desk-diorama.webp" alt="Robie House Blueprint Desk Diorama" width="480"></a>
+
+> @Gdgtify blueprint-to-model desk diorama (17 likes). Filled Robie House (prairie school); chibi architect avatar, no real likeness.
+
+```text
+Hyper-realistic 1:1 product photo of a Blueprint-to-Model Desk Diorama (isometric miniature) for Robie House prairie-school architecture.
+U-shaped cardboard drafting station (two walls + floor). Walls: B&W blueprint lines, elevation drawings, annotations. Floor: blueprint fragments fold upward. A 2D blueprint line rises into a 3D model piece of the long horizontal cantilevered brick volumes; a small stylized chibi architect avatar in matte PVC holding a tiny scale ruler points at the emerging model — no real-person likeness. Palette: strict B&W blueprint world; full color figure + one accent prop. Soft product lighting. Label: "ROBIE HOUSE — PRAIRIE SCHOOL". Museum-miniature realism. Square 1:1. No logos.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2089551609466683653
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/robie-house-blueprint-desk-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

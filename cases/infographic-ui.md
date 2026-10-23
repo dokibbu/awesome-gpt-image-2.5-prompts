@@ -1,6 +1,6 @@
 # Infographics & UI · GPT Image 2.5
 
-[← README](../README.md) · 34 · [Category on cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 36 · [Category on cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -1174,3 +1174,35 @@ The final result should resemble a professionally published engineering referenc
 - Author: [@ttmouse](https://x.com/ttmouse)
 - Original post: https://x.com/ttmouse/status/1995243880326029556
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/isometric-city-weather-card-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Attention Economy Data Machine
+
+<a href="https://cinel.ai/prompts/p/attention-economy-data-machine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/attention-economy-data-machine.webp" alt="Attention Economy Data Machine" width="480"></a>
+
+> @Gdgtify data physication prompt (8 likes). Filled attention / daily screen time; no real app logos.
+
+```text
+Surreal but clean isometric 3D render, square 1:1, where the attention economy is shown as an elegant symbolic machine consuming human attention. A giant refined hourglass-grinder machine: on the input side, glowing clock blocks and tiny phone silhouettes enter a chute; on the output side, endless short video tiles and empty space spill out. One oversized numeral "2.5H" above the input chute. Caption small: "DAILY SCREEN TIME · ATTENTION · 2020s". Premium isometric 3D, matte clay and brushed metal, soft studio lighting, neutral background, subtle arrows and measurement bars. No logos of real apps, no real people faces.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2100681698530746736
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/attention-economy-data-machine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Bicycle L-Shaped Evolution Infographic
+
+<a href="https://cinel.ai/prompts/p/bicycle-l-evolution-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/bicycle-l-evolution-infographic.webp" alt="Bicycle L-Shaped Evolution Infographic" width="480"></a>
+
+> @Gdgtify L-shaped evolution infographic (17 likes). Filled bicycle; generic e-bike silhouette, no brand.
+
+```text
+Clean minimalist isometric miniature infographic for TOPIC = the bicycle, using a distinctive L-shaped evolutionary layout, square 1:1.
+Vertical leg: earliest stages stacked on tall upright spine shelves — hobby horse, boneshaker, high-wheel penny-farthing.
+Corner: 90-degree conceptual turn at the safety bicycle pivot.
+Horizontal leg: later stages along a low runway — diamond-frame road bike, mountain bike, modern e-bike silhouette (generic, no brand).
+Each stage one dominant miniature artifact with fine leader lines and small elegant labels. Warm-white background, restrained wood/matte materials, soft studio lighting, tiny people for scale without facial detail. Physical exhibit is the timeline — no giant chart panels, no brand logos.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2112259739317055886
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/bicycle-l-evolution-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

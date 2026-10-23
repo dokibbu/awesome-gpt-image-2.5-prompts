@@ -1,6 +1,6 @@
 # Creative Scenes · GPT Image 2.5
 
-[← README](../README.md) · 93 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 100 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 
@@ -1491,3 +1491,103 @@ Top-down cozy desk flat lay near a sunrise window: a wooden table with a coffee 
 - Author: [@MrLarus](https://x.com/MrLarus)
 - Original post: https://x.com/MrLarus/status/2047709029804155226
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/isometric-micro-world-archive-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Frankenstein Cutaway Book Diorama
+
+<a href="https://cinel.ai/prompts/p/frankenstein-cutaway-book-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/frankenstein-cutaway-book-diorama.webp" alt="Frankenstein Cutaway Book Diorama" width="480"></a>
+
+> @Gdgtify isometric cutaway book diorama (6 likes). Public-domain Frankenstein fill; single hero angle at 1:1 (not 2x2 grid).
+
+```text
+Clean isometric 3D render, 2.5D dollhouse cutaway, parallel projection, soft studio light, gentle ambient occlusion, pure white cyclorama. Muted architectural neutrals + one storm-teal accent.
+Single hero angle of an isometric cutaway diorama for the public-domain novel Frankenstein; or, The Modern Prometheus.
+Slice an Ingolstadt lab tower on a razor-clean vertical plane revealing stacked doll-sized rooms: base = charnel cellar with grave-robbing props; mid = galvanic laboratory with creature rising on a slab under lightning arcs; top = Victor's study with fleeing scholar silhouette. Tiny stylized figures mid-action, no readable faces. No logos. Square 1:1.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2095778389454143792
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/frankenstein-cutaway-book-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Ramen Letter Campus Diorama
+
+<a href="https://cinel.ai/prompts/p/ramen-letter-campus-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ramen-letter-campus-diorama.webp" alt="Ramen Letter Campus Diorama" width="480"></a>
+
+> @Gdgtify letter-architecture campus prompt (12 likes) demoed on street foods. Filled TOPIC=RAMEN; dark studio.
+
+```text
+Square 1:1. Create a premium isometric miniature campus where TOPIC = RAMEN becomes a walkable architectural ecosystem. DISPLAY_WORD = RAMEN as dominant central structure; each letter is a thick inhabitable building with doors, windows, interior cutaways, terraces, bowls of noodles displayed, steam vents. Surrounding ecosystem: tiny noodle stalls, broth cauldrons, chopstick workshops, chili oil garden, seating courtyards. Tiny people without facial detail. Dark studio background, soft product lighting, polished architectural model realism. Word must remain readable. No brand logos. No hardcoded celebrity or chain.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2096596530601906195
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ramen-letter-campus-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Apollo 11 Typographic History Diorama
+
+<a href="https://cinel.ai/prompts/p/apollo11-typographic-history-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/apollo11-typographic-history-diorama.webp" alt="Apollo 11 Typographic History Diorama" width="480"></a>
+
+> @Gdgtify typographic civilization history prompt (11 likes). Filled APOLLO 11; generic astronaut silhouettes only.
+
+```text
+Square 1:1 legendary typographic civilization miniature for SUBJECT = APOLLO 11. Giant readable word architecture where letters become monuments and habitats; carved relief panels of launch and moonwalk; tiny workforce, lunar module, crawlerway, and mythic clouds; museum model lighting; materials of carved stone, plaster relief, matte clay, resin water, engraved plaques. No flat logo, no corporate building clutter. Soft studio shadows. No real-person likeness — use generic astronaut silhouettes only. Educational isometric miniature campus.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2099503183835828453
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/apollo11-typographic-history-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Relativity Museum Tabletop Diorama
+
+<a href="https://cinel.ai/prompts/p/relativity-museum-tabletop-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/relativity-museum-tabletop-diorama.webp" alt="Relativity Museum Tabletop Diorama" width="480"></a>
+
+> @Gdgtify museum tabletop concept diorama (11 likes). Filled general relativity gravity well; toyified expert, no real likeness.
+
+```text
+Cinematic miniature museum tabletop diorama, square 1:1, explaining general relativity. Base artifact: open physics notebook as stage floor. Central physical 3D wire-grid rubber sheet warped by a heavy metal sphere (gravity well). Supporting props: pocket watch, light-beam token, eclipse newspaper clipping prop (generic), measuring calipers. One toyified miniature expert figurine measuring the curve of the grid — stylized, no real likeness. Warm cinematic still life, shallow depth of field, tactile wood/metal/paper, isometric macro high angle. No floating hologram text, no logos.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2088179568792436760
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/relativity-museum-tabletop-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Silk Road Hybrid Exhibit Diorama
+
+<a href="https://cinel.ai/prompts/p/silk-road-hybrid-exhibit-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/silk-road-hybrid-exhibit-diorama.webp" alt="Silk Road Hybrid Exhibit Diorama" width="480"></a>
+
+> @Gdgtify hybrid cutaway/dossier/poster equation prompt (13 likes). Filled Silk Road trade network.
+
+```text
+Square 1:1 hybrid annotated miniature exhibit for SUBJECT = the Silk Road trade network. Part isometric cutaway dollhouse caravanserai, part open-book annotated dossier, part monochrome deco exhibit card, part pastel discovery diorama, part layered paper-cut travel poster. Labels, inset boxes, arrows, small study panels. Materials: paper, clay, plaster, cardstock, foam-board, miniature resin. Clear title "SILK ROAD", focal camel-caravan miniature scene, supporting notes on routes and goods. No photoreal full-scale environment, no generic corporate infographic, no logos. Collectible museum charm.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2089510086280671367
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/silk-road-hybrid-exhibit-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 1920s Decade Cutaway Townhouse Diorama
+
+<a href="https://cinel.ai/prompts/p/decade-1920s-cutaway-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/decade-1920s-cutaway-diorama.webp" alt="1920s Decade Cutaway Townhouse Diorama" width="480"></a>
+
+> @Gdgtify decade/franchise cutaway prompt (16 likes) — filled with 1920s history (not movie IP). Stylized residents only.
+
+```text
+Square 1:1 miniature isometric cutaway of an iconic 1920s multi-room townhouse block with two adjoining walls and roof cut away on a clean section line, floating in a plain neutral void. Rooms: jazz lounge with radio and records, kitchen with early electric appliances, study with newspapers, rooftop terrace with city lights. Tiny stylized residents mid-action without facial likeness of real people. Dense period props readable per room. Clean 3D render, soft GI, true isometric 45° camera, neutral seamless backdrop. No movie/game IP, no logos.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2108491912168567167
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/decade-1920s-cutaway-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Photosynthesis Knowledge Popup Book
+
+<a href="https://cinel.ai/prompts/p/photosynthesis-knowledge-popup-book?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/photosynthesis-knowledge-popup-book.webp" alt="Photosynthesis Knowledge Popup Book" width="480"></a>
+
+> @Gdgtify knowledge popup-book diorama (9 likes). Filled photosynthesis leaf cross-section.
+
+```text
+Physical open-book diorama where TOPIC = photosynthesis becomes a tactile educational artifact, square 1:1. Open thick archival book; central 3D pop-up of a leaf cross-section with chloroplasts as glossy green chambers, sun rays as brass wires, CO2 and O2 molecule tokens, tiny water droplets. Diagrams and notes belong to photosynthesis only. Museum still-life lighting, tabletop product angle, paper age and ink wear. No hard-coded unrelated props, no logos, no real people.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2095469605829382530
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/photosynthesis-knowledge-popup-book?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

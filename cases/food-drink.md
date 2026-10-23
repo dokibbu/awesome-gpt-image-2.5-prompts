@@ -1,6 +1,6 @@
 # Food & Drink · GPT Image 2.5
 
-[← README](../README.md) · 184 · [Category on cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 199 · [Category on cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
@@ -3190,3 +3190,279 @@ Generate a square 1:1 "restaurant dish deconstruction guide / ingredient explosi
 - Author: [@HioPepper](https://x.com/HioPepper)
 - Original post: https://x.com/HioPepper/status/2061678578346184976
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/roujiamo-ingredient-exploded-menu-infographic-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Strawberry Milkshake Exploded Labeled Infographic
+
+<a href="https://cinel.ai/prompts/p/strawberry-milkshake-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/strawberry-milkshake-exploded-labeled.webp" alt="Strawberry Milkshake Exploded Labeled Infographic" width="480"></a>
+
+> @Strength04_X posted a Nano Banana 2 × Kling workflow with an Image 2 exploded vertical milkshake infographic (140 likes). We keep Image 2 as the runnable still, square 1:1.
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of a premium strawberry milkshake.
+Top → Bottom structure:
+Fresh Strawberry Garnish
+→ Whipped Cream
+→ Strawberry Syrup
+→ Creamy Strawberry Shake
+→ Crushed Ice
+→ Transparent Glass Base
+All elements must be perfectly centered, evenly spaced, and vertically aligned. Show realistic strawberry texture, fluffy whipped cream, glossy syrup, thick creamy milkshake consistency, translucent ice, and realistic glass reflections. Use a soft pastel pink seamless studio background with elegant café lighting and subtle realistic shadows beneath each floating element. Ultra-sharp DSLR macro beverage photography, premium dessert drink infographic aesthetic, clean professional composition, hyper realistic, 8K.
+Add clean minimalist infographic text labels with thin pointer lines using these exact labels:
+"Strawberry"
+"Whipped Cream"
+"Strawberry Syrup"
+"Milkshake"
+"Ice"
+"Glass"
+Square aspect ratio 1:1. No logos, no brands, no people, no hands.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2090665058980462697
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/strawberry-milkshake-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Loaded Beef Taco Exploded Labeled Infographic
+
+<a href="https://cinel.ai/prompts/p/loaded-beef-taco-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/loaded-beef-taco-exploded-labeled.webp" alt="Loaded Beef Taco Exploded Labeled Infographic" width="480"></a>
+
+> @Strength04_X Image 2 exploded taco infographic (40 likes). Kept the labeled vertical stack, square 1:1.
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of a premium loaded beef taco.
+Top → Bottom structure:
+Fresh Cilantro Garnish
+→ Lime Crema
+→ Jalapeño Slices
+→ Diced Tomato & Onion
+→ Shredded Lettuce
+→ Melted Cheddar Cheese
+→ Seasoned Grilled Beef
+→ Crispy Corn Shell
+Every element must be perfectly centered, evenly spaced, and aligned vertically. Show realistic grilled beef texture, melted cheese, crisp vegetables, fresh herbs, creamy sauce, and a detailed crunchy corn shell. Use a warm terracotta-orange seamless studio background, soft commercial lighting, subtle realistic shadows beneath every floating element, ultra-sharp DSLR macro food photography, premium fast-food infographic aesthetic, clean professional composition, hyper realistic, 8K.
+Add clean minimalist infographic text labels with thin pointer lines using these exact labels:
+"Cilantro"
+"Lime Crema"
+"Jalapeños"
+"Tomato & Onion"
+"Lettuce"
+"Cheddar Cheese"
+"Grilled Beef"
+"Corn Shell"
+Square aspect ratio 1:1. No logos, no brands, no people, no hands.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2091192289385451787
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/loaded-beef-taco-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Chicken Nuggets Exploded Labeled Infographic
+
+<a href="https://cinel.ai/prompts/p/chicken-nuggets-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/chicken-nuggets-exploded-labeled.webp" alt="Chicken Nuggets Exploded Labeled Infographic" width="480"></a>
+
+> Parent post by @Strength04_X (107 likes) with Image 2 reply detailing the exploded nugget stack. We use Image 2 as filled_prompt; source_likes from the parent.
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of premium crispy chicken nuggets.
+Top → Bottom structure:
+Crispy Breading
+→ Seasoning
+→ Chicken Fillet
+→ Marinade Layer
+→ Dipping Sauce
+→ Serving Tray
+Each layer must remain perfectly centered, evenly spaced, and visually clean. Show realistic golden breading texture, juicy chicken fibers, fine seasoning particles, creamy sauce texture, and a minimal serving tray. Use a bright yellow seamless studio background with soft commercial lighting and subtle realistic shadows beneath each floating element. Ultra-sharp DSLR macro food photography, premium fast-food infographic aesthetic, clean professional composition, 8K.
+Add clean infographic text labels with thin pointer lines using these exact labels:
+"Crispy Breading"
+"Seasoning"
+"Chicken"
+"Marinade"
+"Dipping Sauce"
+"Tray"
+Square aspect ratio 1:1. No logos, no brands, no people, no hands.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2089531966156857533
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/chicken-nuggets-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Potato to Golden Crunch Chips Hero Keyframe
+
+<a href="https://cinel.ai/prompts/p/potato-golden-crunch-chips-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/potato-golden-crunch-chips-hero.webp" alt="Potato to Golden Crunch Chips Hero Keyframe" width="480"></a>
+
+> Video TVC storyboard by @Strength04_X (144 likes). Rewrote scene 07 hero as a still keyframe; removed branded packshot text.
+
+```text
+Ultra-realistic premium snack-food commercial still, square 1:1. Hero keyframe from a potato-to-chips transformation: a generous pile of golden crispy thin potato chips landing into a premium matte ceramic bowl on a dark cinematic stone surface, warm golden rim light, crumbs falling naturally around the bowl, shallow depth of field, ultra-crispy blistered chip texture, rich shadows, no packaging branding, no logos, no text, no people, no hands. DSLR macro food photography, 8K.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2091472894727712866
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/potato-golden-crunch-chips-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Potato Sticks Crumb Break Keyframe
+
+<a href="https://cinel.ai/prompts/p/potato-sticks-crumb-break?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/potato-sticks-crumb-break.webp" alt="Potato Sticks Crumb Break Keyframe" width="480"></a>
+
+> Storyboard by @Strength04_X (143 likes). Still keyframe of sticks snapping with crumbs; no branded tube.
+
+```text
+Ultra-realistic premium snack commercial still, square 1:1. Extreme macro of crunchy seasoned potato sticks snapping mid-air with tiny crumbs and seasoning particles suspended around them, glossy dark studio surface below, dramatic controlled lighting, golden yellow and cream palette, sharp crispy ridge texture, no branded packaging logos, no text overlays, no people, no hands. High-speed food photography, 8K.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2095782580071411770
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/potato-sticks-crumb-break?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Avocado Toast Matcha Café Flatlay
+
+<a href="https://cinel.ai/prompts/p/avocado-toast-matcha-cafe-flatlay?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/avocado-toast-matcha-cafe-flatlay.webp" alt="Avocado Toast Matcha Café Flatlay" width="480"></a>
+
+> @azed_ai Fresh Café Flatlay template (119 likes). Filled with avocado toast + matcha latte, sage/cream palette.
+
+```text
+Photorealistic top-down shot of avocado toast with soft-boiled egg and chili flakes with a frothy matcha latte in a ceramic cup in a stylish café setting, cheerful fresh atmosphere, sage green and warm cream palette, elegant food styling, natural textures, soft daylight, subtle shadows, premium editorial food photography, ARRI Alexa look, crisp details, 8K realism. Square 1:1. No logos, no brand marks, no people, no hands.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2107063271648100604
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/avocado-toast-matcha-cafe-flatlay?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Spaghetti Fork Steam Hero Keyframe
+
+<a href="https://cinel.ai/prompts/p/spaghetti-fork-steam-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/spaghetti-fork-steam-hero.webp" alt="Spaghetti Fork Steam Hero Keyframe" width="480"></a>
+
+> Spaghetti commercial storyboard by @Strength04_X (296 likes). Still of fork-twirl + steam; no branded pasta box.
+
+```text
+Ultra-realistic Italian food advertising still, square 1:1. Long cooked spaghetti strands coated in glossy tomato sauce being twirled elegantly around a fork, steam rising softly, extreme macro silky pasta texture, warm cinematic cream and wheat-gold lighting, dark neutral background, no branded packaging, no logos, no text, no people, no hands. Premium gourmet presentation, 8K.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2095411329461100949
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/spaghetti-fork-steam-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Sparkling Citrus Drink Splash Keyframe
+
+<a href="https://cinel.ai/prompts/p/sparkling-citrus-drink-splash?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/sparkling-citrus-drink-splash.webp" alt="Sparkling Citrus Drink Splash Keyframe" width="480"></a>
+
+> Beverage storyboard by @Strength04_X (242 likes). Hero splash still; unbranded bottle.
+
+```text
+Ultra-realistic luxury beverage advertising still, square 1:1. Final hero of a chilled unbranded clear sparkling fruit drink bottle and crystal glass surrounded by a frozen citrus splash, fresh orange and lemon slices, ice cubes, condensation droplets, silver-citrus-orange and deep blue studio palette, dramatic backlighting, no logos, no brand labels, no text, no people, no hands. High-speed liquid photography, 8K.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2091388744599486491
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/sparkling-citrus-drink-splash?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Peanut Butter Ribbon Toast Keyframe
+
+<a href="https://cinel.ai/prompts/p/peanut-butter-ribbon-toast?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/peanut-butter-ribbon-toast.webp" alt="Peanut Butter Ribbon Toast Keyframe" width="480"></a>
+
+> Peanut butter storyboard by @Strength04_X (314 likes). Ribbon-lift still; unbranded jar.
+
+```text
+Ultra-realistic gourmet breakfast advertising still, square 1:1. Thick creamy peanut butter lifting from a spoon in a long glossy ribbon above warm toasted bread, with an unbranded glass jar and roasted peanuts nearby on a premium stone surface, warm beige caramel brown palette, natural soft lighting, rich creamy texture with tiny peanut particles, no logos, no brand labels, no text, no people, no hands. Extreme macro food photography, 8K.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2095104027667177825
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/peanut-butter-ribbon-toast?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Potato Wedges Fluffy Break Keyframe
+
+<a href="https://cinel.ai/prompts/p/potato-wedges-fluffy-break?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/potato-wedges-fluffy-break.webp" alt="Potato Wedges Fluffy Break Keyframe" width="480"></a>
+
+> Potato wedges storyboard by @Strength04_X (249 likes). Break-open macro still; no branded frozen pack.
+
+```text
+Ultra-realistic gourmet food commercial still, square 1:1. One golden crispy potato wedge breaking open to reveal a soft fluffy potato center, steam rising, crispy seasoned coating with bubbling texture detail, warm cream golden yellow and dark brown studio background, dramatic side light, no packaging brands, no logos, no text, no people, no hands. Extreme macro food photography, 8K.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2091043191755878628
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/potato-wedges-fluffy-break?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Coconut Water Hero Splash Keyframe
+
+<a href="https://cinel.ai/prompts/p/coconut-water-hero-splash?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/coconut-water-hero-splash.webp" alt="Coconut Water Hero Splash Keyframe" width="480"></a>
+
+> Highest-heat food source this batch: @Strength04_X coconut water storyboard (663 likes). Hero splash still; unbranded bottle.
+
+```text
+Ultra-realistic premium natural beverage advertising still, square 1:1. Final hero of an unbranded chilled coconut water bottle and a clear glass surrounded by fresh coconut pieces and a frozen water splash on wet natural stone, heavy condensation, crystal-clear liquid, white coconut-green beige palette, natural premium lighting, no logos, no brand labels, no text, no people, no hands. High-speed liquid photography, 8K.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2094760813794111843
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/coconut-water-hero-splash?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Jollof Rice Culinary Anatomy Board
+
+<a href="https://cinel.ai/prompts/p/jollof-rice-culinary-anatomy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/jollof-rice-culinary-anatomy.webp" alt="Jollof Rice Culinary Anatomy Board" width="480"></a>
+
+> @Gdgtify Culinary Anatomy Board meta-prompt (11 likes). Filled with Nigerian jollof rice; square poster.
+
+```text
+Square 1:1 clean framed educational food anatomy poster for Nigerian jollof rice. Central high-quality rendered plate of fragrant red jollof rice with grilled plantain and chicken. Surrounding ingredient callout boxes with thin connectors: long-grain rice, tomatoes and peppers stew base, onions, curry and thyme spices, bay leaf, stock, grilled chicken, ripe plantain. Each box has component name, one short culinary-property notation, and a tiny simple chart (heat, aroma, or richness). Bold sans-serif title at top: "JOLLOF RICE ANATOMY". Bright soft studio lighting, white framed poster on clean wall, educational modern menu-lab aesthetic, appetizing food realism, no logos, no brands, no people, no hands.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2097241279071727902
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/jollof-rice-culinary-anatomy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Cold-Pressed Orange Juice Splash Keyframe
+
+<a href="https://cinel.ai/prompts/p/cold-pressed-orange-juice-splash?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/cold-pressed-orange-juice-splash.webp" alt="Cold-Pressed Orange Juice Splash Keyframe" width="480"></a>
+
+> Cold-pressed juice storyboard by @Strength04_X (143 likes). Splash hero still; unbranded bottle.
+
+```text
+Ultra-realistic fresh beverage commercial still, square 1:1. Unbranded cold-pressed orange juice bottle with condensation beside a glass, frozen mid-air juice splash and fresh orange pieces falling around, ice cubes, vibrant orange green cream palette, dramatic backlight, no logos, no brand labels, no text, no people, no hands. High-speed liquid photography, 8K.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2090774232213131401
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/cold-pressed-orange-juice-splash?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pepperoni Pizza Exploded Labeled Infographic
+
+<a href="https://cinel.ai/prompts/p/pepperoni-pizza-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pepperoni-pizza-exploded-labeled.webp" alt="Pepperoni Pizza Exploded Labeled Infographic" width="480"></a>
+
+> Parent @Strength04_X pepperoni pizza ad (64 likes) published Image 1 product still; Image 2 exploded prompt was not fully captured in-thread. We reverse-wrote the exploded labeled stack from Strength04's established vertical-infographic template + Image 1 dish.
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of a premium pepperoni pizza slice stack.
+Top → Bottom structure:
+Oregano Sprinkle
+→ Pepperoni Slices
+→ Melted Mozzarella
+→ Tomato Sauce
+→ Golden Thin Crust
+Each layer perfectly centered, evenly spaced, vertically aligned. Show stretchy melted cheese, crispy-edged pepperoni, rich sauce gloss, and detailed baked crust bubbles. Deep warm red seamless studio background, soft cinematic lighting, subtle shadows under each floating element. Ultra-sharp DSLR macro food photography, premium pizzeria infographic aesthetic, hyper realistic, 8K.
+Add clean minimalist labels with thin pointer lines:
+"Oregano"
+"Pepperoni"
+"Mozzarella"
+"Tomato Sauce"
+"Crust"
+Square 1:1. No logos, no brands, no people, no hands.
+```
+
+- Author: [@Strength04_X](https://x.com/Strength04_X)
+- Original post: https://x.com/Strength04_X/status/2088559566418227273
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pepperoni-pizza-exploded-labeled?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Quiet Luxury Beef Burger Gallery Poster
+
+<a href="https://cinel.ai/prompts/p/quiet-luxury-beef-burger-gallery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/quiet-luxury-beef-burger-gallery.webp" alt="Quiet Luxury Beef Burger Gallery Poster" width="480"></a>
+
+> @hellsing00fl quiet-luxury surreal burger poster (prompt share; 0 likes at capture but unique reusable style). Filled at 1:1; stripped magazine brand name-drops from the runnable prompt; original keeps them verbatim.
+
+```text
+Create one complete high-end advertising still of a premium beef burger, square 1:1 aspect ratio. Surrealism × quiet luxury — minimalist luxury still life, soft cinematic lighting, premium editorial advertising aesthetic. One complete handcrafted burger floating slightly above a warm travertine stone pedestal inside a minimalist surreal gallery room of soft beige marble and limestone planes. Brioche bun with subtle sesame, crisp lettuce, ripe tomato, pickles, thin red onion, melted aged cheddar, thick flame-grilled beef patty with natural char, caramelized onion, dark sauce. Soft morning side light, gentle shadows, large empty architectural negative space. Tiny thin editorial marks only: "01 BEEF SELECTED" "02 HANDCRAFTED BUN" "03 AGED CHEDDAR". No fast-food red/yellow, no people, no hands, no logos, no brand names, no flames, no flying ingredients. Museum-quality quiet luxury food advertising, 8K.
+```
+
+- Author: [@hellsing00fl](https://x.com/hellsing00fl)
+- Original post: https://x.com/hellsing00fl/status/2096552686678417851
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/quiet-luxury-beef-burger-gallery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

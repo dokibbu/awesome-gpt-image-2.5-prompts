@@ -1,6 +1,6 @@
 # Illustration & Anime · GPT Image 2.5
 
-[← README](../README.md) · 43 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 44 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -692,3 +692,17 @@ Cozy anime-style video keyframe, vertical 9:16: a cute fictional young woman in 
 - Author: [@JohnSmith5912](https://x.com/JohnSmith5912)
 - Original post: https://x.com/JohnSmith5912/status/2111391726191681700
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/anime-rainy-balcony-coffee-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pi Claymation Math Diorama
+
+<a href="https://cinel.ai/prompts/p/pi-claymation-math-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pi-claymation-math-diorama.webp" alt="Pi Claymation Math Diorama" width="480"></a>
+
+> @Gdgtify isometric claymation math prompt (10 likes). Filled Pi / circle; single 1:1 frame.
+
+```text
+Mixed-media educational illustration, isometric claymation, square 1:1. Subject: Pi (π) and the circle. Background: solid warm pastel peach, zero depth. The_3D_Diorama: an isometric clay slice of earth with a circular pond and a clay wheel/compass. Tiny adorable clay figures measuring circumference with string. 2D Overlay: hand-drawn ink call-out boxes and scribbled notes explaining circumference = 2πr, no brand logos. Softbox studio lighting with soft drop-shadows from clay onto flat background.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2111223411112353853
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pi-claymation-math-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

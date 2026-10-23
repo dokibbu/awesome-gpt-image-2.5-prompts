@@ -1,6 +1,6 @@
 # 信息图与 UI · GPT Image 2.5
 
-[← README](../../README_zh.md) · 34 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 36 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D 国家旅行指南地图信息图提示词
 
@@ -1174,3 +1174,35 @@ The final result should resemble a professionally published engineering referenc
 - 原作者: [@ttmouse](https://x.com/ttmouse)
 - 原帖: https://x.com/ttmouse/status/1995243880326029556
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/isometric-city-weather-card-zh?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 注意力经济数据物化机器
+
+<a href="https://cinel.ai/zh/prompts/p/attention-economy-data-machine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/attention-economy-data-machine.webp" alt="注意力经济数据物化机器" width="480"></a>
+
+> @Gdgtify 数据物化提示词（8 赞）。填入注意力/每日屏幕时间；无真实 App Logo。
+
+```text
+Surreal but clean isometric 3D render, square 1:1, where the attention economy is shown as an elegant symbolic machine consuming human attention. A giant refined hourglass-grinder machine: on the input side, glowing clock blocks and tiny phone silhouettes enter a chute; on the output side, endless short video tiles and empty space spill out. One oversized numeral "2.5H" above the input chute. Caption small: "DAILY SCREEN TIME · ATTENTION · 2020s". Premium isometric 3D, matte clay and brushed metal, soft studio lighting, neutral background, subtle arrows and measurement bars. No logos of real apps, no real people faces.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2100681698530746736
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/attention-economy-data-machine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 自行车L形演化信息图
+
+<a href="https://cinel.ai/zh/prompts/p/bicycle-l-evolution-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/bicycle-l-evolution-infographic.webp" alt="自行车L形演化信息图" width="480"></a>
+
+> @Gdgtify L形演化信息图（17 赞）。填入自行车；通用电助力剪影，无品牌。
+
+```text
+Clean minimalist isometric miniature infographic for TOPIC = the bicycle, using a distinctive L-shaped evolutionary layout, square 1:1.
+Vertical leg: earliest stages stacked on tall upright spine shelves — hobby horse, boneshaker, high-wheel penny-farthing.
+Corner: 90-degree conceptual turn at the safety bicycle pivot.
+Horizontal leg: later stages along a low runway — diamond-frame road bike, mountain bike, modern e-bike silhouette (generic, no brand).
+Each stage one dominant miniature artifact with fine leader lines and small elegant labels. Warm-white background, restrained wood/matte materials, soft studio lighting, tiny people for scale without facial detail. Physical exhibit is the timeline — no giant chart panels, no brand logos.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2112259739317055886
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/bicycle-l-evolution-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

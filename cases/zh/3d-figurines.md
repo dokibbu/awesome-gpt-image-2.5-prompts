@@ -1,6 +1,6 @@
 # 3D 角色与手办 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 60 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 65 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 照片转极简 3D 玩具角色风格提示词
 
@@ -1219,3 +1219,91 @@ All text must automatically match the background contrast (white or black).
 - 原作者: [@aleenaamiir](https://x.com/aleenaamiir)
 - 原帖: https://x.com/aleenaamiir/status/2018147539992862866
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/inside-the-machine-cutaway-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 京都目的地等距立体微缩场景
+
+<a href="https://cinel.ai/zh/prompts/p/kyoto-destination-isometric-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/kyoto-destination-isometric-diorama.webp" alt="京都目的地等距立体微缩场景" width="480"></a>
+
+> @AiwithLariab 目的地核心身份微缩元提示词（126 赞）。填入京都；1:1；仅准确日本国旗。
+
+```text
+Create a premium square 1:1 3D isometric miniature diorama of Kyoto, focused on its most internationally recognizable geographic and cultural core.
+Use the smallest coherent area that best represents Kyoto: historic center with river corridor and temple district. Maintain iconic core 75% + supporting context 25%.
+Terrain footprint visible and uncropped. Include 1–2 hero landmarks (Kiyomizu-dera wooden stage silhouette, Fushimi Inari vermilion torii tunnel) and 3–5 secondary elements (Pagoda roof cluster, stone lantern path, cherry trees, Kamo river edge, traditional machiya street). Correct relative positions, connected by streets, bridges, parks, vegetation.
+High-angle three-quarter isometric view, orthographic-like perspective, sculpted terrain, realistic materials, soft contact shadows, warm off-white studio background, subtle ground shadow. Elegant museum-quality architectural miniature — not cartoonish or toy-like.
+Top center header exactly:
+KYOTO
+JAPAN · KANSAI
+with one small accurate Japanese national flag only. No other text, logos, or watermarks. No people faces. Square 1:1.
+```
+
+- 原作者: [@AiwithLariab](https://x.com/AiwithLariab)
+- 原帖: https://x.com/AiwithLariab/status/2094618926475055509
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/kyoto-destination-isometric-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 里斯本目的地等距立体微缩场景
+
+<a href="https://cinel.ai/zh/prompts/p/lisbon-destination-isometric-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/lisbon-destination-isometric-diorama.webp" alt="里斯本目的地等距立体微缩场景" width="480"></a>
+
+> @Goodmanprotocol 目的地等距微缩（42 赞）。填入里斯本；1:1。
+
+```text
+DESTINATION = Lisbon SCOPE = AUTO
+Create a premium square 1:1 3D isometric miniature diorama of Lisbon, focused on its most recognizable geographic and cultural core. Select 5–8 authentic iconic elements.
+Use Alfama/Baixa waterfront core as raised terrain. Include hero: Belém Tower and Dom Luís I / riverside skyline hierarchy; secondary: yellow tram on hill street, tiled rooftops, São Jorge Castle hill, Tagus waterfront, pastel façades. Connect via streets, hills, water.
+High-detail realistic architectural miniature, high-angle three-quarter isometric, soft ambient occlusion, warm off-white studio background.
+Top center exactly:
+LISBON
+PORTUGAL · IBERIA
+small accurate Portuguese flag only. No logos, watermarks, invented landmarks. Square 1:1.
+```
+
+- 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- 原帖: https://x.com/Goodmanprotocol/status/2092819809453129850
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/lisbon-destination-isometric-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 威尼斯积木风城市微缩
+
+<a href="https://cinel.ai/zh/prompts/p/venice-block-city-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/venice-block-city-diorama.webp" alt="威尼斯积木风城市微缩" width="480"></a>
+
+> @Goodmanprotocol 积木风城市微缩（44 赞）。填入威尼斯；filled 去掉玩具品牌用词；原文保留。
+
+```text
+Create a premium square 1:1 miniature city diorama for Venice.
+Automatically identify iconic canals, bridges, and architecture. Recreate as a highly detailed block-style miniature city diorama with clean geometric forms, crisp edges, modular details, realistic miniature proportions.
+Dynamic isometric elevated three-quarter viewpoint. Main landmark focal point (Rialto Bridge silhouette) surrounded by supporting buildings, canals, boats, greenery, tiny miniature figures without facial detail.
+Bright clear daytime, vivid blue sky, soft white clouds, bright natural studio illumination. Charming collectible architectural model aesthetic. No logos, no brand names, no watermarks, no photorealistic full-scale city. Square 1:1.
+```
+
+- 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- 原帖: https://x.com/Goodmanprotocol/status/2101305861000040790
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/venice-block-city-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 印刷机发明主题微缩世界
+
+<a href="https://cinel.ai/zh/prompts/p/printing-press-invention-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/printing-press-invention-diorama.webp" alt="印刷机发明主题微缩世界" width="480"></a>
+
+> @Gdgtify 发明主题等距微缩世界（9 赞）。填入机械印刷机/打开的书轮廓；单帧 1:1。
+
+```text
+Square 1:1 isometric miniature world of the theme "mechanical printing press", landmass cut as a silhouette of an open book, floating as a self-contained diorama. Isometric projection, cross-section side walls revealing strata, soft global illumination. Core landmark: a detailed antique printing press at center; surrounding sub-scenes of type cases, ink rollers, stacked broadsheets, tiny printers at work without facial detail. Soft shadows and small elegant labels only on key scenes. Matte blank background. No brands, no modern logos. 8K isometric diorama masterwork.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2097225927394836520
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/printing-press-invention-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 罗比之家蓝图桌面微缩
+
+<a href="https://cinel.ai/zh/prompts/p/robie-house-blueprint-desk-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/robie-house-blueprint-desk-diorama.webp" alt="罗比之家蓝图桌面微缩" width="480"></a>
+
+> @Gdgtify 蓝图到模型桌面微缩（17 赞）。填入罗比之家（草原学派）；Q版建筑师，无真人肖像。
+
+```text
+Hyper-realistic 1:1 product photo of a Blueprint-to-Model Desk Diorama (isometric miniature) for Robie House prairie-school architecture.
+U-shaped cardboard drafting station (two walls + floor). Walls: B&W blueprint lines, elevation drawings, annotations. Floor: blueprint fragments fold upward. A 2D blueprint line rises into a 3D model piece of the long horizontal cantilevered brick volumes; a small stylized chibi architect avatar in matte PVC holding a tiny scale ruler points at the emerging model — no real-person likeness. Palette: strict B&W blueprint world; full color figure + one accent prop. Soft product lighting. Label: "ROBIE HOUSE — PRAIRIE SCHOOL". Museum-miniature realism. Square 1:1. No logos.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2089551609466683653
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/robie-house-blueprint-desk-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
