@@ -1,6 +1,6 @@
 # 海报与平面设计 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 53 · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 67 · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 运动员致敬双重曝光拼贴海报提示词
 
@@ -1425,3 +1425,199 @@ Professional charity bingo event flyer for "Paws & Prizes Bingo Night", a fictio
 - 原作者: [@abs_crea8or](https://x.com/abs_crea8or)
 - 原帖: https://x.com/abs_crea8or/status/2106432140455911768
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/charity-bingo-night-event-flyer?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 中世纪现代风墨线库斯科屋顶旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/midcentury-ink-cusco-rooftops-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/midcentury-ink-cusco-rooftops-poster.webp" alt="中世纪现代风墨线库斯科屋顶旅行海报" width="480"></a>
+
+> @Naiknelofar788 复古手绘海报方法（176 赞）。填入库斯科屋顶旅行场景；1:1。
+
+```text
+Square 1:1 vintage hand-illustrated travel poster featuring Cusco, Peru terracotta rooftops at dusk with Andes silhouette. Detailed black ink linework, simplified graphic shapes, subtle crosshatching, muted earthy colors, soft aged-paper background, authentic mid-century travel-poster aesthetic. Elegant destination title "CUSCO". No logos, no photoreal people.
+```
+
+- 原作者: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- 原帖: https://x.com/Naiknelofar788/status/2094992489476194376
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/midcentury-ink-cusco-rooftops-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 复古手绘佩特拉宝库旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/vintage-painted-petra-treasury-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/vintage-painted-petra-treasury-poster.webp" alt="复古手绘佩特拉宝库旅行海报" width="480"></a>
+
+> @Naiknelofar788 标志建筑旅行海报（161 赞）。填入佩特拉宝库；1:1；无品牌。
+
+```text
+Square 1:1 sophisticated vintage-inspired travel poster featuring the Treasury (Al-Khazneh) at Petra, Jordan as the main focal point. Keep architecture highly recognizable with accurate proportions and distinctive details, but reinterpret as stylized hand-painted gouache/ink travel art. Canyon walls, soft desert light, aged paper, elegant title "PETRA". No logos, no real people.
+```
+
+- 原作者: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- 原帖: https://x.com/Naiknelofar788/status/2095774387857392008
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/vintage-painted-petra-treasury-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 极简插画波尔图旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/minimalist-illustrated-porto-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/minimalist-illustrated-porto-travel-poster.webp" alt="极简插画波尔图旅行海报" width="480"></a>
+
+> @Goodmanprotocol 极简插画旅行海报（135 赞）。填入波尔图；1:1。
+
+```text
+Square 1:1 premium minimalist illustrated travel poster of Porto, Portugal. Centered balanced composition around Dom Luís I Bridge and colorful riverside houses, adapting naturally. Clean graphic shapes, refined limited palette of azulejo blue and cream, generous negative space, elegant "PORTO" title. No logos, no crowds of real people.
+```
+
+- 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- 原帖: https://x.com/Goodmanprotocol/status/2094991927347490949
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/minimalist-illustrated-porto-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 奢华冬季微缩卑尔根旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/luxury-winter-miniature-bergen-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/luxury-winter-miniature-bergen-poster.webp" alt="奢华冬季微缩卑尔根旅行海报" width="480"></a>
+
+> @KrishnaBio1 奢华冬季微缩旅行海报（127 赞）。填入卑尔根；1:1。
+
+```text
+Square 1:1 premium luxury winter travel poster for Bergen, Norway. Raised 3D miniature city diorama on thick stone base with snow-covered Bryggen-style wooden houses, harbor boats, evergreen trees, tiny pedestrians as anonymous silhouettes, elegant vintage European travel-poster typography reading BERGEN. Soft winter light, sophisticated editorial details. No brand logos.
+```
+
+- 原作者: [@KrishnaBio1](https://x.com/KrishnaBio1)
+- 原帖: https://x.com/KrishnaBio1/status/2101100670178979945
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/luxury-winter-miniature-bergen-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 建筑护照爱丁堡旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/architectural-passport-edinburgh-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/architectural-passport-edinburgh-poster.webp" alt="建筑护照爱丁堡旅行海报" width="480"></a>
+
+> @Naiknelofar788 建筑护照方法（113 赞）。填入爱丁堡城堡；1:1。
+
+```text
+Square 1:1 highly detailed Architectural Passport travel poster for Edinburgh Castle, Scotland. Colored-pencil illustration, fine ink, vintage architectural documentation, subtle watercolor on warm ivory paper. Faint map, measurements, tiny elevation sketches, botanical accents. Typography: EDINBURGH / EDINBURGH CASTLE with small coordinates. No logos, no real portraits.
+```
+
+- 原作者: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- 原帖: https://x.com/Naiknelofar788/status/2105486629586796891
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/architectural-passport-edinburgh-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 纸艺立体马拉喀什旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/papercut-diorama-marrakech-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/papercut-diorama-marrakech-poster.webp" alt="纸艺立体马拉喀什旅行海报" width="480"></a>
+
+> @Naiknelofar788 3D纸艺旅行海报（108 赞）。填入马拉喀什；1:1。
+
+```text
+Square 1:1 charming handcrafted 3D paper-cut travel poster representing Marrakech, Morocco. One cohesive layered paper diorama with soft sculpted paper textures, cut-out edges, subtle shadows, gentle pastel terracotta and mint colors, premium handmade feel. Include minaret silhouette, souk arches, lanterns, citrus trees. Title MARRAKECH. No logos.
+```
+
+- 原作者: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- 原帖: https://x.com/Naiknelofar788/status/2096451812807356737
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/papercut-diorama-marrakech-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 扁平矢量哈瓦那复古旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/flat-vector-havana-vintage-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/flat-vector-havana-vintage-travel-poster.webp" alt="扁平矢量哈瓦那复古旅行海报" width="480"></a>
+
+> @KrishnaBio1 扁平矢量旅行海报（96 赞）。改为单城哈瓦那填充（避免多城拥挤拼贴）；1:1。
+
+```text
+Square 1:1 premium sophisticated flat-vector illustrated travel poster for Havana, Cuba. Luxurious vintage travel-poster artwork with bold flat shapes of the Malecón seawall, colorful colonial facades, anonymous classic-car silhouettes (no brand badges), palm fronds, warm sunset coral and teal palette, elegant title HAVANA. No logos, no real people faces.
+```
+
+- 原作者: [@KrishnaBio1](https://x.com/KrishnaBio1)
+- 原帖: https://x.com/KrishnaBio1/status/2100511660255416636
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/flat-vector-havana-vintage-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 编辑级超清清迈旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/editorial-ultra-chiang-mai-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/editorial-ultra-chiang-mai-travel-poster.webp" alt="编辑级超清清迈旅行海报" width="480"></a>
+
+> @Goodmanprotocol 超高清旅行海报（88 赞）。填入清迈；1:1；仅英文排版。
+
+```text
+Square 1:1 ultra-high-resolution travel poster themed around Chiang Mai, Thailand. All visible text in English only, perfectly spelled: CHIANG MAI. Sophisticated gallery-print look with temple roof silhouettes, warm dusk light, refined editorial composition, premium paper texture. No logos, no gibberish characters, no real portraits.
+```
+
+- 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- 原帖: https://x.com/Goodmanprotocol/status/2096232474355564760
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/editorial-ultra-chiang-mai-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 奢华3D微缩布拉格旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/luxury-3d-miniature-prague-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/luxury-3d-miniature-prague-poster.webp" alt="奢华3D微缩布拉格旅行海报" width="480"></a>
+
+> @KrishnaBio1 奢华3D微缩旅行海报（76 赞）。填入布拉格；1:1。
+
+```text
+Square 1:1 premium luxury 3D miniature travel poster for Prague, Czechia. Raised architectural diorama on thick dark stone base, Charles Bridge and towers as focal point, river, tiny anonymous pedestrians, warm architectural lighting, elegant vintage travel typography PRAGUE. No logos.
+```
+
+- 原作者: [@KrishnaBio1](https://x.com/KrishnaBio1)
+- 原帖: https://x.com/KrishnaBio1/status/2101241573358887119
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/luxury-3d-miniature-prague-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 诗意拼贴第比利斯旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/poetic-collage-tbilisi-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/poetic-collage-tbilisi-travel-poster.webp" alt="诗意拼贴第比利斯旅行海报" width="480"></a>
+
+> @Naiknelofar788 诗意拼贴旅行海报（73 赞）。填入第比利斯；1:1。
+
+```text
+Square 1:1 vintage hand-illustrated travel poster celebrating Tbilisi, Georgia, as a poetic visual collage rather than a single landmark. Feature carved wooden balconies, old-town roofs, sulfur-bath dome cue, river bend, warm Caucasus light, aged paper collage textures. Title TBILISI. No logos, no real portraits.
+```
+
+- 原作者: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- 原帖: https://x.com/Naiknelofar788/status/2095040547878765034
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/poetic-collage-tbilisi-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 邮票风布达佩斯旅行艺术品
+
+<a href="https://cinel.ai/zh/prompts/p/postage-stamp-budapest-travel-artwork?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/postage-stamp-budapest-travel-artwork.webp" alt="邮票风布达佩斯旅行艺术品" width="480"></a>
+
+> @Naiknelofar788 复古旅行邮票作品（69 赞）。填入布达佩斯；1:1。
+
+```text
+Square 1:1 sophisticated vintage travel postage-stamp artwork representing Budapest, Hungary. Iconic Parliament building on the Danube as main focal point, surrounded by 3–5 supporting elements (Chain Bridge cue, thermal bath dome, tram silhouette). Perforated stamp border, aged paper, elegant country lettering BUDAPEST. No logos.
+```
+
+- 原作者: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- 原帖: https://x.com/Naiknelofar788/status/2095856946075283552
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/postage-stamp-budapest-travel-artwork?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 诗意拼贴非斯麦地那旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/poetic-collage-fez-medina-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/poetic-collage-fez-medina-poster.webp" alt="诗意拼贴非斯麦地那旅行海报" width="480"></a>
+
+> @itxsarmadd 诗意拼贴旅行方法填充（63 赞）。填入非斯麦地那；1:1。
+
+```text
+Square 1:1 vintage hand-illustrated travel poster celebrating Fez, Morocco, designed as a poetic visual collage. Medina alleys, blue doors, zellige pattern accents, tannery terraces cue, warm Maghreb light, aged paper. Title FEZ. No logos, no real portraits.
+```
+
+- 原作者: [@itxsarmadd](https://x.com/itxsarmadd)
+- 原帖: https://x.com/itxsarmadd/status/2095097216017084749
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/poetic-collage-fez-medina-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 撕纸微缩魁北克城旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/torn-paper-miniature-quebec-city-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/torn-paper-miniature-quebec-city-poster.webp" alt="撕纸微缩魁北克城旅行海报" width="480"></a>
+
+> @Goodmanprotocol 撕纸微缩旅行海报（54 赞）。填入魁北克城；1:1。
+
+```text
+Square 1:1 premium full-frame miniature 3D travel-poster illustration for Quebec City, Canada. Vintage travel poster on aged cream paper tears open along the lower edge; a highly detailed 3D miniature of Château-style silhouette, fort walls, cobbled lower town, and snowy rooftops emerges. Warm afternoon light, cinematic shadows, title QUEBEC CITY. Text-to-image only. No logos.
+```
+
+- 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- 原帖: https://x.com/Goodmanprotocol/status/2109215948901331160
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/torn-paper-miniature-quebec-city-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 写实/低面数对切班夫旅行海报
+
+<a href="https://cinel.ai/zh/prompts/p/split-real-lowpoly-banff-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/split-real-lowpoly-banff-travel-poster.webp" alt="写实/低面数对切班夫旅行海报" width="480"></a>
+
+> @aiwithlumi 对切复古旅行海报（60 赞）。去掉原品牌文案，改写班夫目的地填充；1:1；无真人。
+
+```text
+Square 1:1 split vintage travel poster of Banff, Canada: the top shows a realistic autumn lakeside scene with turquoise water, golden larch trees, distant peaks, and a quiet cabin (no recognizable real people); the bottom recreates the same scene in sharp low-poly geometric style with faceted cabin, trees, and jagged reflections. Cream divider with dark blue serif text "BANFF", "ROCKIES / LAKE / LIGHT", and a small edition mark. No brand slogans, no logos.
+```
+
+- 原作者: [@aiwithlumi](https://x.com/aiwithlumi)
+- 原帖: https://x.com/aiwithlumi/status/2101265866226602262
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/split-real-lowpoly-banff-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

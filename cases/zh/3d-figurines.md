@@ -1,6 +1,6 @@
 # 3D 角色与手办 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 80 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 93 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 照片转极简 3D 玩具角色风格提示词
 
@@ -1517,3 +1517,185 @@ High-detail 3D render of a trendy fictional cyber hacker teenage boy, half-body 
 - 原作者: [@_armar_](https://x.com/_armar_)
 - 原帖: https://x.com/_armar_/status/2111777994666610814
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/y2k-cyber-hacker-visor-boy-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 莫兰迪毛绒盲盒暴风狐狸潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/morandi-plush-blindbox-storm-fox?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/morandi-plush-blindbox-storm-fox.webp" alt="莫兰迪毛绒盲盒暴风狐狸潮玩" width="480"></a>
+
+> @daaihq 毛绒盲盒 IP 风格（134 赞）。反写虚构暴风狐狸；1:1；无上传照片、无品牌IP。
+
+```text
+Square 1:1 premium designer-toy product shot of an ORIGINAL fictional plush blind-box mascot: "Storm Fox", a round-headed fluffy arctic-fox art toy with oversized glossy eyes, tiny pout, stubby limbs, and a soft Morandi palette of dusty blue, warm gray, and blush pink. Soft faux-fur vinyl hybrid texture, zipper seam details, tiny embroidered storm-cloud patch (generic, no brands). Standing on a plain warm cream pedestal under soft studio lighting, clean light background. Collectible blind-box figurine look, chibi proportions. No real people, no celebrity likeness, no brand logos, no Labubu/Molly/Sonny Angel/Disney IP.
+```
+
+- 原作者: [@daaihq](https://x.com/daaihq)
+- 原帖: https://x.com/daaihq/status/2104403490579824833
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/morandi-plush-blindbox-storm-fox?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 复古80年代波普几何霓虹兔潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/retro80s-pop-geometry-neon-bunny?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/retro80s-pop-geometry-neon-bunny.webp" alt="复古80年代波普几何霓虹兔潮玩" width="480"></a>
+
+> @daaihq 80年代波普几何潮玩风（100 赞）。反写虚构霓虹兔；1:1；无上传照片。
+
+```text
+Square 1:1 high-gloss designer-toy render of an ORIGINAL fictional Y2K/80s-pop vinyl bunny mascot: chunky geometric body, oversized head, zigzag ear patterns, bold polka dots and triangle motifs in neon yellow, hot pink, electric blue, and black. Smooth vinyl toy surface, playful smirk, stubby limbs, standing three-quarter view on a white seamless studio backdrop with soft product lighting. Blind-box collectible aesthetic, exaggerated chibi proportions. No real people, no logos, no branded IP.
+```
+
+- 原作者: [@daaihq](https://x.com/daaihq)
+- 原帖: https://x.com/daaihq/status/2101832852409360592
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/retro80s-pop-geometry-neon-bunny?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 霓虹双色软质3D果冻图书管理员潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/neon-duotone-soft3d-jelly-librarian?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/neon-duotone-soft3d-jelly-librarian.webp" alt="霓虹双色软质3D果冻图书管理员潮玩" width="480"></a>
+
+> @VoxcatAI 软质3D霓虹静物方法（58 赞）。填入原创果冻图书管理员+烤面包机；1:1；无游戏IP。
+
+```text
+Square 1:1 kawaii surreal still-life poster of an ORIGINAL fictional soft-3D designer-toy character: Jelly Librarian — round soft-vinyl girl with oversized jelly-translucent blue hair bun, tiny half-lidded eyes, matte pastel skin, wearing a simplified tiny cardigan and holding a miniature open book. Beside her sits an ordinary chrome toaster as humorous second subject. Neon duotone of electric cyan and hot magenta on deep black seamless studio ground, soft sculpture toy surfaces, editorial product lighting, generous negative space. No brands, no real people, no copyrighted game IP.
+```
+
+- 原作者: [@VoxcatAI](https://x.com/VoxcatAI)
+- 原帖: https://x.com/VoxcatAI/status/2107833070527328637
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/neon-duotone-soft3d-jelly-librarian?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 豆身街头像素滑板手吉祥物潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/bean-body-streetwear-pixel-skater-mascot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/bean-body-streetwear-pixel-skater-mascot.webp" alt="豆身街头像素滑板手吉祥物潮玩" width="480"></a>
+
+> @CryptoRonin2 漂浮豆身吉祥物方法（41 赞）。去掉 NFT/头像上传，改写为虚构像素滑板手；1:1。
+
+```text
+Square 1:1 cute minimalist floating designer-toy mascot of an ORIGINAL fictional character: Pixel Skater — super cute rounded bean-shaped body, oversized hoodie with generic glitch-check pattern (no logos), small floating legs, thick smooth black outlines, clean flat vector colors in mint, black, and lemon, soft minimal shading, tiny expressive eyes, large oversized head, floating pose with simple oval shadow, chibi ~2-heads-tall proportions. Premium art-toy sticker-ready look on pure white. No NFT reference, no real people, no brand marks.
+```
+
+- 原作者: [@CryptoRonin2](https://x.com/CryptoRonin2)
+- 原帖: https://x.com/CryptoRonin2/status/2101970486171185656
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/bean-body-streetwear-pixel-skater-mascot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 毛绒吉祥物时装酸狐狸潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/plush-mascot-fashion-sour-fox?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/plush-mascot-fashion-sour-fox.webp" alt="毛绒吉祥物时装酸狐狸潮玩" width="480"></a>
+
+> @VoxcatAI 毛绒吉祥物时装方法（22 赞）。改为完全虚构酸狐狸毛绒OC（无真人模特）；1:1。
+
+```text
+Square 1:1 premium soft designer-toy photo of an ORIGINAL fictional plush mascot fashion character: Sour Fox — adult-proportion doll body with slightly oversized head, narrow shoulders, short neck, slender limbs, covered in soft faux-fur fox mascot fashion (ears, tail, chest graphic patches), dusty apricot and charcoal palette with one hot-pink accent. Awkward doll-like pose mid-step, blank cool expression, clean soft studio lighting, plain warm-gray seamless backdrop. Collectible plush art-toy look. No real human likeness, no brands.
+```
+
+- 原作者: [@VoxcatAI](https://x.com/VoxcatAI)
+- 原帖: https://x.com/VoxcatAI/status/2108536391890342108
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/plush-mascot-fashion-sour-fox?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 积木拼接故障猫雕塑潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/interlocking-brick-glitch-cat-sculpture?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/interlocking-brick-glitch-cat-sculpture.webp" alt="积木拼接故障猫雕塑潮玩" width="480"></a>
+
+> @CryptoRonin2 积木雕塑方法（20 赞）。去掉 NFT/头像，改写虚构故障猫；1:1；仅通用积木。
+
+```text
+Square 1:1 premium product render of an ORIGINAL fictional character built entirely from interlocking toy bricks: Glitch Cat — recognizable as a cute cat art-toy silhouette made of hundreds of physical plastic bricks in teal, magenta, and cream, controlled deconstruction with a few floating bricks, black-void studio backdrop, sharp product lighting. Preserve invented OC design only (antenna ear, single LED-like eye brick, scarf). No NFT, no real people, no brand logos (generic bricks).
+```
+
+- 原作者: [@CryptoRonin2](https://x.com/CryptoRonin2)
+- 原帖: https://x.com/CryptoRonin2/status/2112240462870265985
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/interlocking-brick-glitch-cat-sculpture?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 自我贴纸轰炸浣熊乙烯基手办
+
+<a href="https://cinel.ai/zh/prompts/p/self-stickerbomb-raccoon-vinyl-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/self-stickerbomb-raccoon-vinyl-figurine.webp" alt="自我贴纸轰炸浣熊乙烯基手办" width="480"></a>
+
+> @CryptoRonin2 自我贴纸轰炸方法（18 赞）。去掉 NFT，改写虚构浣熊；1:1。
+
+```text
+Square 1:1 premium glossy 3D designer-toy of an ORIGINAL fictional raccoon vinyl figurine covered in extreme self-sticker-bomb: hundreds of tiny miniature stickers repeating the same raccoon face and motifs across the body, clean white studio backdrop, soft reflections, chibi oversized head, playful pose. Invented OC only. No NFT, no real people, no brand logos.
+```
+
+- 原作者: [@CryptoRonin2](https://x.com/CryptoRonin2)
+- 原帖: https://x.com/CryptoRonin2/status/2107801017844679123
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/self-stickerbomb-raccoon-vinyl-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 浣熊装虎斑猫软质3D潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/chibi-tabby-raccoon-costume-soft3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/chibi-tabby-raccoon-costume-soft3d.webp" alt="浣熊装虎斑猫软质3D潮玩" width="480"></a>
+
+> @AAnjinha09 软质3D chibi 扮装提示（12 赞）。保留虚构动物；1:1。
+
+```text
+Square 1:1 soft 3D collectible figure: chibi tabby cat in a plush raccoon costume, oversized head, stubby legs, glossy amber eyes, adorably vacant expression, warm studio lighting, clean soft backdrop, premium designer-toy finish. Fictional animal OC only. No brands.
+```
+
+- 原作者: [@AAnjinha09](https://x.com/AAnjinha09)
+- 原帖: https://x.com/AAnjinha09/status/2107174553382257092
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/chibi-tabby-raccoon-costume-soft3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 等距立方房间 chibi 书桌巫师潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/isometric-cube-room-chibi-desk-wizard?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/isometric-cube-room-chibi-desk-wizard.webp" alt="等距立方房间 chibi 书桌巫师潮玩" width="480"></a>
+
+> @Filmlune2026 等距立方房间 chibi 套图（9 赞）。反写书桌巫师填充；1:1。
+
+```text
+Square 1:1 isometric miniature room-cube diorama with an ORIGINAL fictional chibi designer-toy figurine: Desk Wizard — tiny vinyl chibi with oversized round glasses and star hoodie, sitting at a miniature desk inside a cutaway cube room. Warm desk lamp glow, floating papers, tiny monitor with generic UI (no logos), soft plastic toy materials, clean product-photo look, light gray void around the cube. No brands, no real people.
+```
+
+- 原作者: [@Filmlune2026](https://x.com/Filmlune2026)
+- 原帖: https://x.com/Filmlune2026/status/2113463068172951889
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/isometric-cube-room-chibi-desk-wizard?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 长鼻毛绒药剂师潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/longnose-plush-potion-apothecary?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/longnose-plush-potion-apothecary.webp" alt="长鼻毛绒药剂师潮玩" width="480"></a>
+
+> @VoxcatAI 长鼻毛绒系列方法（8 赞）。填入药剂师OC；1:1；去掉签名标记。
+
+```text
+Square 1:1 original long-nose quirky plush mascot designer toy: Potion Apothecary — pear-shaped plush body, skinny legs, short arms, forward cylindrical rounded snout holding a tiny potion bottle on the nose tip, serious focused expression, lavender and moss-green fur with tiny round glasses perched, soft commercial photography, single solid pastel backdrop, generous negative space. Fictional OC series look. No brands, no real people, no watermark signatures.
+```
+
+- 原作者: [@VoxcatAI](https://x.com/VoxcatAI)
+- 原帖: https://x.com/VoxcatAI/status/2108949426341339406
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/longnose-plush-potion-apothecary?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 冷脸软胶小龙潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/cold-face-softvinyl-dragonette?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/cold-face-softvinyl-dragonette.webp" alt="冷脸软胶小龙潮玩" width="480"></a>
+
+> @derek_wall90176 冷脸软胶方法（7 赞）。填入虚构冷脸小龙；1:1；去掉画面标题字。
+
+```text
+Square 1:1 original soft-vinyl designer-toy release poster of Cold Dragonette: retain horns, small cape, golden slit pupils, round face; enlarge head, shorten body and limbs, rounded silhouette; cold half-lidded eyes, tiny mouth, no smile; entire figure unified soft-vinyl sculpture with matte surface and restrained highlights; ink-black and antique-gold palette; pale cream seamless background, low circular display plinth, soft key from upper left and thin rim light; generous top negative space, no title text, no logos. Fictional OC only.
+```
+
+- 原作者: [@derek_wall90176](https://x.com/derek_wall90176)
+- 原帖: https://x.com/derek_wall90176/status/2108774165373477271
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/cold-face-softvinyl-dragonette?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 亮面Y2K铬色兔头潮玩
+
+<a href="https://cinel.ai/zh/prompts/p/glossy-y2k-chrome-bunny-head-toy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/glossy-y2k-chrome-bunny-head-toy.webp" alt="亮面Y2K铬色兔头潮玩" width="480"></a>
+
+> @romance0x 亮面3D兔对比帖（8 赞）。反写虚构铬色兔头；1:1。
+
+```text
+Square 1:1 premium glossy 3D designer-toy bust: ORIGINAL fictional Y2K chrome bunny head with oversized reflective vinyl ears, candy-pink and silver chrome finish, big sparkly eyes, soft smirk, clean product lighting with crisp reflections, floating slightly above a white seamless floor. Collectible art-toy look. No brands, no real people.
+```
+
+- 原作者: [@romance0x](https://x.com/romance0x)
+- 原帖: https://x.com/romance0x/status/2108214668330184963
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/glossy-y2k-chrome-bunny-head-toy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 粉彩粘土盲盒幸运星小兽
+
+<a href="https://cinel.ai/zh/prompts/p/pastel-clay-blindbox-lucky-star-critter?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pastel-clay-blindbox-lucky-star-critter.webp" alt="粉彩粘土盲盒幸运星小兽" width="480"></a>
+
+> @pangbenxiong 粘土盲盒提示（新帖）。去掉 Web3/加密品牌，改写虚构幸运星小兽；1:1。
+
+```text
+Square 1:1 surprise blind-box 3D clay figurine of an ORIGINAL fictional lucky-star critter: round pastel clay body, tiny limbs, big sparkly eyes, holding a generic lucky star charm (no logos, no crypto tickers, no brand marks), cute proportions, soft studio lighting, smooth polymer-clay material, sitting beside a plain open blind-box base. Collectible art-toy look. No real people, no NFT branding.
+```
+
+- 原作者: [@pangbenxiong](https://x.com/pangbenxiong)
+- 原帖: https://x.com/pangbenxiong/status/2113268005258018867
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pastel-clay-blindbox-lucky-star-critter?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

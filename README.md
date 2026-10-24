@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-A curated list of **652** GPT Image 2.5 prompts. Each one has an example image, the full prompt, and credit to the original author with a link to the original post. Data comes from the [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) prompt library and syncs automatically.
+A curated list of **679** GPT Image 2.5 prompts. Each one has an example image, the full prompt, and credit to the original author with a link to the original post. Data comes from the [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) prompt library and syncs automatically.
 
 👉 [Browse all and generate online at cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -21,9 +21,9 @@ A curated list of **652** GPT Image 2.5 prompts. Each one has an example image, 
 
 - [Portrait & Headshot](#portrait) (79) · [all](cases/portrait.md)
 - [Product & E-commerce](#product-photography) (46) · [all](cases/product-photography.md)
-- [Posters, Logos & Graphic Design](#poster-design) (53) · [all](cases/poster-design.md)
+- [Posters, Logos & Graphic Design](#poster-design) (67) · [all](cases/poster-design.md)
 - [Infographics & UI](#infographic-ui) (36) · [all](cases/infographic-ui.md)
-- [3D Characters & Figurines](#3d-figurines) (80) · [all](cases/3d-figurines.md)
+- [3D Characters & Figurines](#3d-figurines) (93) · [all](cases/3d-figurines.md)
 - [Food & Drink](#food-drink) (199) · [all](cases/food-drink.md)
 - [Illustration & Anime](#illustration-anime) (58) · [all](cases/illustration-anime.md)
 - [Creative Scenes](#scenes-creative) (101) · [all](cases/scenes-creative.md)
@@ -522,7 +522,7 @@ A high-end editorial photo of a amber glass face-oil bottle with a dropper place
 
 ## Posters, Logos & Graphic Design
 
-Featured 6 · [See all 53](cases/poster-design.md) · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Featured 6 · [See all 67](cases/poster-design.md) · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sports Tribute Double-Exposure Collage Poster Prompt
 
@@ -916,7 +916,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## 3D Characters & Figurines
 
-Featured 6 · [See all 80](cases/3d-figurines.md) · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Featured 6 · [See all 93](cases/3d-figurines.md) · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 

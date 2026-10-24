@@ -1,6 +1,6 @@
 # 3D Characters & Figurines · GPT Image 2.5
 
-[← README](../README.md) · 80 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 93 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1517,3 +1517,185 @@ High-detail 3D render of a trendy fictional cyber hacker teenage boy, half-body 
 - Author: [@_armar_](https://x.com/_armar_)
 - Original post: https://x.com/_armar_/status/2111777994666610814
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/y2k-cyber-hacker-visor-boy-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Morandi Plush Blind-Box Storm Fox Toy
+
+<a href="https://cinel.ai/prompts/p/morandi-plush-blindbox-storm-fox?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/morandi-plush-blindbox-storm-fox.webp" alt="Morandi Plush Blind-Box Storm Fox Toy" width="480"></a>
+
+> @daaihq plush blind-box IP style (134 likes). Reverse-wrote fictional Storm Fox OC; square 1:1; no photo upload, no brand IP.
+
+```text
+Square 1:1 premium designer-toy product shot of an ORIGINAL fictional plush blind-box mascot: "Storm Fox", a round-headed fluffy arctic-fox art toy with oversized glossy eyes, tiny pout, stubby limbs, and a soft Morandi palette of dusty blue, warm gray, and blush pink. Soft faux-fur vinyl hybrid texture, zipper seam details, tiny embroidered storm-cloud patch (generic, no brands). Standing on a plain warm cream pedestal under soft studio lighting, clean light background. Collectible blind-box figurine look, chibi proportions. No real people, no celebrity likeness, no brand logos, no Labubu/Molly/Sonny Angel/Disney IP.
+```
+
+- Author: [@daaihq](https://x.com/daaihq)
+- Original post: https://x.com/daaihq/status/2104403490579824833
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/morandi-plush-blindbox-storm-fox?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Retro-80s Pop Geometry Neon Bunny Toy
+
+<a href="https://cinel.ai/prompts/p/retro80s-pop-geometry-neon-bunny?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/retro80s-pop-geometry-neon-bunny.webp" alt="Retro-80s Pop Geometry Neon Bunny Toy" width="480"></a>
+
+> @daaihq 80s pop geometry toy IP vibe (100 likes). Reverse-wrote fictional neon bunny OC; square 1:1; no photo upload.
+
+```text
+Square 1:1 high-gloss designer-toy render of an ORIGINAL fictional Y2K/80s-pop vinyl bunny mascot: chunky geometric body, oversized head, zigzag ear patterns, bold polka dots and triangle motifs in neon yellow, hot pink, electric blue, and black. Smooth vinyl toy surface, playful smirk, stubby limbs, standing three-quarter view on a white seamless studio backdrop with soft product lighting. Blind-box collectible aesthetic, exaggerated chibi proportions. No real people, no logos, no branded IP.
+```
+
+- Author: [@daaihq](https://x.com/daaihq)
+- Original post: https://x.com/daaihq/status/2101832852409360592
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/retro80s-pop-geometry-neon-bunny?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Neon Duotone Soft-3D Jelly Librarian Toy
+
+<a href="https://cinel.ai/prompts/p/neon-duotone-soft3d-jelly-librarian?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/neon-duotone-soft3d-jelly-librarian.webp" alt="Neon Duotone Soft-3D Jelly Librarian Toy" width="480"></a>
+
+> @VoxcatAI soft-3D neon still-life method (58 likes). Filled fictional Jelly Librarian OC + toaster prop; square 1:1; no game IP.
+
+```text
+Square 1:1 kawaii surreal still-life poster of an ORIGINAL fictional soft-3D designer-toy character: Jelly Librarian — round soft-vinyl girl with oversized jelly-translucent blue hair bun, tiny half-lidded eyes, matte pastel skin, wearing a simplified tiny cardigan and holding a miniature open book. Beside her sits an ordinary chrome toaster as humorous second subject. Neon duotone of electric cyan and hot magenta on deep black seamless studio ground, soft sculpture toy surfaces, editorial product lighting, generous negative space. No brands, no real people, no copyrighted game IP.
+```
+
+- Author: [@VoxcatAI](https://x.com/VoxcatAI)
+- Original post: https://x.com/VoxcatAI/status/2107833070527328637
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/neon-duotone-soft3d-jelly-librarian?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Bean-Body Streetwear Pixel Skater Mascot
+
+<a href="https://cinel.ai/prompts/p/bean-body-streetwear-pixel-skater-mascot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/bean-body-streetwear-pixel-skater-mascot.webp" alt="Bean-Body Streetwear Pixel Skater Mascot" width="480"></a>
+
+> @CryptoRonin2 floating bean mascot method (41 likes). Rewrote without NFT/PFP upload into fictional Pixel Skater; square 1:1.
+
+```text
+Square 1:1 cute minimalist floating designer-toy mascot of an ORIGINAL fictional character: Pixel Skater — super cute rounded bean-shaped body, oversized hoodie with generic glitch-check pattern (no logos), small floating legs, thick smooth black outlines, clean flat vector colors in mint, black, and lemon, soft minimal shading, tiny expressive eyes, large oversized head, floating pose with simple oval shadow, chibi ~2-heads-tall proportions. Premium art-toy sticker-ready look on pure white. No NFT reference, no real people, no brand marks.
+```
+
+- Author: [@CryptoRonin2](https://x.com/CryptoRonin2)
+- Original post: https://x.com/CryptoRonin2/status/2101970486171185656
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/bean-body-streetwear-pixel-skater-mascot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Plush Mascot-Fashion Sour Fox Designer Toy
+
+<a href="https://cinel.ai/prompts/p/plush-mascot-fashion-sour-fox?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/plush-mascot-fashion-sour-fox.webp" alt="Plush Mascot-Fashion Sour Fox Designer Toy" width="480"></a>
+
+> @VoxcatAI plush mascot-fashion method (22 likes). Adapted to fully fictional Sour Fox plush OC (no real-person model); square 1:1.
+
+```text
+Square 1:1 premium soft designer-toy photo of an ORIGINAL fictional plush mascot fashion character: Sour Fox — adult-proportion doll body with slightly oversized head, narrow shoulders, short neck, slender limbs, covered in soft faux-fur fox mascot fashion (ears, tail, chest graphic patches), dusty apricot and charcoal palette with one hot-pink accent. Awkward doll-like pose mid-step, blank cool expression, clean soft studio lighting, plain warm-gray seamless backdrop. Collectible plush art-toy look. No real human likeness, no brands.
+```
+
+- Author: [@VoxcatAI](https://x.com/VoxcatAI)
+- Original post: https://x.com/VoxcatAI/status/2108536391890342108
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/plush-mascot-fashion-sour-fox?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Interlocking-Brick Glitch Cat Sculpture Toy
+
+<a href="https://cinel.ai/prompts/p/interlocking-brick-glitch-cat-sculpture?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/interlocking-brick-glitch-cat-sculpture.webp" alt="Interlocking-Brick Glitch Cat Sculpture Toy" width="480"></a>
+
+> @CryptoRonin2 interlocking brick sculpture method (20 likes). Rewrote without NFT/PFP into fictional Glitch Cat; square 1:1; generic bricks only.
+
+```text
+Square 1:1 premium product render of an ORIGINAL fictional character built entirely from interlocking toy bricks: Glitch Cat — recognizable as a cute cat art-toy silhouette made of hundreds of physical plastic bricks in teal, magenta, and cream, controlled deconstruction with a few floating bricks, black-void studio backdrop, sharp product lighting. Preserve invented OC design only (antenna ear, single LED-like eye brick, scarf). No NFT, no real people, no brand logos (generic bricks).
+```
+
+- Author: [@CryptoRonin2](https://x.com/CryptoRonin2)
+- Original post: https://x.com/CryptoRonin2/status/2112240462870265985
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/interlocking-brick-glitch-cat-sculpture?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Self-Stickerbomb Raccoon Vinyl Figurine
+
+<a href="https://cinel.ai/prompts/p/self-stickerbomb-raccoon-vinyl-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/self-stickerbomb-raccoon-vinyl-figurine.webp" alt="Self-Stickerbomb Raccoon Vinyl Figurine" width="480"></a>
+
+> @CryptoRonin2 self-sticker-bomb method (18 likes). Rewrote without NFT into fictional raccoon OC; square 1:1.
+
+```text
+Square 1:1 premium glossy 3D designer-toy of an ORIGINAL fictional raccoon vinyl figurine covered in extreme self-sticker-bomb: hundreds of tiny miniature stickers repeating the same raccoon face and motifs across the body, clean white studio backdrop, soft reflections, chibi oversized head, playful pose. Invented OC only. No NFT, no real people, no brand logos.
+```
+
+- Author: [@CryptoRonin2](https://x.com/CryptoRonin2)
+- Original post: https://x.com/CryptoRonin2/status/2107801017844679123
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/self-stickerbomb-raccoon-vinyl-figurine?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Chibi Tabby in Raccoon Costume Soft-3D Toy
+
+<a href="https://cinel.ai/prompts/p/chibi-tabby-raccoon-costume-soft3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/chibi-tabby-raccoon-costume-soft3d.webp" alt="Chibi Tabby in Raccoon Costume Soft-3D Toy" width="480"></a>
+
+> @AAnjinha09 soft-3D chibi costume prompt (12 likes). Kept fictional animal OC; square 1:1.
+
+```text
+Square 1:1 soft 3D collectible figure: chibi tabby cat in a plush raccoon costume, oversized head, stubby legs, glossy amber eyes, adorably vacant expression, warm studio lighting, clean soft backdrop, premium designer-toy finish. Fictional animal OC only. No brands.
+```
+
+- Author: [@AAnjinha09](https://x.com/AAnjinha09)
+- Original post: https://x.com/AAnjinha09/status/2107174553382257092
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/chibi-tabby-raccoon-costume-soft3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Isometric Cube-Room Chibi Desk Wizard Toy
+
+<a href="https://cinel.ai/prompts/p/isometric-cube-room-chibi-desk-wizard?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/isometric-cube-room-chibi-desk-wizard.webp" alt="Isometric Cube-Room Chibi Desk Wizard Toy" width="480"></a>
+
+> @Filmlune2026 isometric cube-room chibi set (9 likes). Reverse-wrote Desk Wizard OC fill; square 1:1.
+
+```text
+Square 1:1 isometric miniature room-cube diorama with an ORIGINAL fictional chibi designer-toy figurine: Desk Wizard — tiny vinyl chibi with oversized round glasses and star hoodie, sitting at a miniature desk inside a cutaway cube room. Warm desk lamp glow, floating papers, tiny monitor with generic UI (no logos), soft plastic toy materials, clean product-photo look, light gray void around the cube. No brands, no real people.
+```
+
+- Author: [@Filmlune2026](https://x.com/Filmlune2026)
+- Original post: https://x.com/Filmlune2026/status/2113463068172951889
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/isometric-cube-room-chibi-desk-wizard?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Long-Nose Plush Potion Apothecary Toy
+
+<a href="https://cinel.ai/prompts/p/longnose-plush-potion-apothecary?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/longnose-plush-potion-apothecary.webp" alt="Long-Nose Plush Potion Apothecary Toy" width="480"></a>
+
+> @VoxcatAI long-nose plush series method (8 likes). Filled Potion Apothecary OC; square 1:1; removed signature mark.
+
+```text
+Square 1:1 original long-nose quirky plush mascot designer toy: Potion Apothecary — pear-shaped plush body, skinny legs, short arms, forward cylindrical rounded snout holding a tiny potion bottle on the nose tip, serious focused expression, lavender and moss-green fur with tiny round glasses perched, soft commercial photography, single solid pastel backdrop, generous negative space. Fictional OC series look. No brands, no real people, no watermark signatures.
+```
+
+- Author: [@VoxcatAI](https://x.com/VoxcatAI)
+- Original post: https://x.com/VoxcatAI/status/2108949426341339406
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/longnose-plush-potion-apothecary?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Cold-Face Soft-Vinyl Dragonette Art Toy
+
+<a href="https://cinel.ai/prompts/p/cold-face-softvinyl-dragonette?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/cold-face-softvinyl-dragonette.webp" alt="Cold-Face Soft-Vinyl Dragonette Art Toy" width="480"></a>
+
+> @derek_wall90176 cold-face soft-vinyl method (7 likes). Filled fictional Cold Dragonette; square 1:1; removed on-image titles.
+
+```text
+Square 1:1 original soft-vinyl designer-toy release poster of Cold Dragonette: retain horns, small cape, golden slit pupils, round face; enlarge head, shorten body and limbs, rounded silhouette; cold half-lidded eyes, tiny mouth, no smile; entire figure unified soft-vinyl sculpture with matte surface and restrained highlights; ink-black and antique-gold palette; pale cream seamless background, low circular display plinth, soft key from upper left and thin rim light; generous top negative space, no title text, no logos. Fictional OC only.
+```
+
+- Author: [@derek_wall90176](https://x.com/derek_wall90176)
+- Original post: https://x.com/derek_wall90176/status/2108774165373477271
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/cold-face-softvinyl-dragonette?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Glossy Y2K Chrome Bunny Head Designer Toy
+
+<a href="https://cinel.ai/prompts/p/glossy-y2k-chrome-bunny-head-toy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/glossy-y2k-chrome-bunny-head-toy.webp" alt="Glossy Y2K Chrome Bunny Head Designer Toy" width="480"></a>
+
+> @romance0x glossy 3D bunny comparison (8 likes). Reverse-wrote fictional chrome bunny bust; square 1:1.
+
+```text
+Square 1:1 premium glossy 3D designer-toy bust: ORIGINAL fictional Y2K chrome bunny head with oversized reflective vinyl ears, candy-pink and silver chrome finish, big sparkly eyes, soft smirk, clean product lighting with crisp reflections, floating slightly above a white seamless floor. Collectible art-toy look. No brands, no real people.
+```
+
+- Author: [@romance0x](https://x.com/romance0x)
+- Original post: https://x.com/romance0x/status/2108214668330184963
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/glossy-y2k-chrome-bunny-head-toy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pastel Clay Blind-Box Lucky Star Critter
+
+<a href="https://cinel.ai/prompts/p/pastel-clay-blindbox-lucky-star-critter?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pastel-clay-blindbox-lucky-star-critter.webp" alt="Pastel Clay Blind-Box Lucky Star Critter" width="480"></a>
+
+> @pangbenxiong clay blind-box prompt (fresh). Rewrote without Web3/crypto brands into fictional lucky-star critter; square 1:1.
+
+```text
+Square 1:1 surprise blind-box 3D clay figurine of an ORIGINAL fictional lucky-star critter: round pastel clay body, tiny limbs, big sparkly eyes, holding a generic lucky star charm (no logos, no crypto tickers, no brand marks), cute proportions, soft studio lighting, smooth polymer-clay material, sitting beside a plain open blind-box base. Collectible art-toy look. No real people, no NFT branding.
+```
+
+- Author: [@pangbenxiong](https://x.com/pangbenxiong)
+- Original post: https://x.com/pangbenxiong/status/2113268005258018867
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pastel-clay-blindbox-lucky-star-critter?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

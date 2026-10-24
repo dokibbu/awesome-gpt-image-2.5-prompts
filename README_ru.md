@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Подборка из **652** промптов для GPT Image 2.5. У каждого есть пример изображения, полный текст промпта и ссылка на автора и оригинальный пост. Данные берутся из библиотеки промптов [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) и синхронизируются автоматически.
+Подборка из **679** промптов для GPT Image 2.5. У каждого есть пример изображения, полный текст промпта и ссылка на автора и оригинальный пост. Данные берутся из библиотеки промптов [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) и синхронизируются автоматически.
 
 👉 [Смотреть все и генерировать онлайн на cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -21,9 +21,9 @@
 
 - [Портреты](#portrait) (79) · [все](cases/portrait.md)
 - [Товары и e-commerce](#product-photography) (46) · [все](cases/product-photography.md)
-- [Постеры, логотипы и графический дизайн](#poster-design) (53) · [все](cases/poster-design.md)
+- [Постеры, логотипы и графический дизайн](#poster-design) (67) · [все](cases/poster-design.md)
 - [Инфографика и UI](#infographic-ui) (36) · [все](cases/infographic-ui.md)
-- [3D-персонажи и фигурки](#3d-figurines) (80) · [все](cases/3d-figurines.md)
+- [3D-персонажи и фигурки](#3d-figurines) (93) · [все](cases/3d-figurines.md)
 - [Еда и напитки](#food-drink) (199) · [все](cases/food-drink.md)
 - [Иллюстрации и аниме](#illustration-anime) (58) · [все](cases/illustration-anime.md)
 - [Креативные сцены](#scenes-creative) (101) · [все](cases/scenes-creative.md)
@@ -522,7 +522,7 @@ A high-end editorial photo of a amber glass face-oil bottle with a dropper place
 
 ## Постеры, логотипы и графический дизайн
 
-Избранное: 6 · [Все 53](cases/poster-design.md) · [Категория на cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Избранное: 6 · [Все 67](cases/poster-design.md) · [Категория на cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sports Tribute Double-Exposure Collage Poster Prompt
 
@@ -916,7 +916,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## 3D-персонажи и фигурки
 
-Избранное: 6 · [Все 80](cases/3d-figurines.md) · [Категория на cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Избранное: 6 · [Все 93](cases/3d-figurines.md) · [Категория на cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 

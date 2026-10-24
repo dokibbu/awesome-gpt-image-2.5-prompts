@@ -1,6 +1,6 @@
 # Posters, Logos & Graphic Design · GPT Image 2.5
 
-[← README](../README.md) · 53 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 67 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sports Tribute Double-Exposure Collage Poster Prompt
 
@@ -1425,3 +1425,199 @@ Professional charity bingo event flyer for "Paws & Prizes Bingo Night", a fictio
 - Author: [@abs_crea8or](https://x.com/abs_crea8or)
 - Original post: https://x.com/abs_crea8or/status/2106432140455911768
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/charity-bingo-night-event-flyer?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Mid-Century Ink Cusco Rooftops Travel Poster
+
+<a href="https://cinel.ai/prompts/p/midcentury-ink-cusco-rooftops-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/midcentury-ink-cusco-rooftops-poster.webp" alt="Mid-Century Ink Cusco Rooftops Travel Poster" width="480"></a>
+
+> @Naiknelofar788 vintage hand-illustrated poster method (176 likes). Filled Cusco rooftops travel scene; square 1:1.
+
+```text
+Square 1:1 vintage hand-illustrated travel poster featuring Cusco, Peru terracotta rooftops at dusk with Andes silhouette. Detailed black ink linework, simplified graphic shapes, subtle crosshatching, muted earthy colors, soft aged-paper background, authentic mid-century travel-poster aesthetic. Elegant destination title "CUSCO". No logos, no photoreal people.
+```
+
+- Author: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- Original post: https://x.com/Naiknelofar788/status/2094992489476194376
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/midcentury-ink-cusco-rooftops-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Vintage Painted Petra Treasury Travel Poster
+
+<a href="https://cinel.ai/prompts/p/vintage-painted-petra-treasury-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/vintage-painted-petra-treasury-poster.webp" alt="Vintage Painted Petra Treasury Travel Poster" width="480"></a>
+
+> @Naiknelofar788 iconic-structure travel poster (161 likes). Filled Petra Treasury; square 1:1; no brands.
+
+```text
+Square 1:1 sophisticated vintage-inspired travel poster featuring the Treasury (Al-Khazneh) at Petra, Jordan as the main focal point. Keep architecture highly recognizable with accurate proportions and distinctive details, but reinterpret as stylized hand-painted gouache/ink travel art. Canyon walls, soft desert light, aged paper, elegant title "PETRA". No logos, no real people.
+```
+
+- Author: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- Original post: https://x.com/Naiknelofar788/status/2095774387857392008
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/vintage-painted-petra-treasury-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Minimalist Illustrated Porto Travel Poster
+
+<a href="https://cinel.ai/prompts/p/minimalist-illustrated-porto-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/minimalist-illustrated-porto-travel-poster.webp" alt="Minimalist Illustrated Porto Travel Poster" width="480"></a>
+
+> @Goodmanprotocol minimalist illustrated travel poster (135 likes). Filled Porto; square 1:1.
+
+```text
+Square 1:1 premium minimalist illustrated travel poster of Porto, Portugal. Centered balanced composition around Dom Luís I Bridge and colorful riverside houses, adapting naturally. Clean graphic shapes, refined limited palette of azulejo blue and cream, generous negative space, elegant "PORTO" title. No logos, no crowds of real people.
+```
+
+- Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- Original post: https://x.com/Goodmanprotocol/status/2094991927347490949
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/minimalist-illustrated-porto-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Luxury Winter Miniature Bergen Travel Poster
+
+<a href="https://cinel.ai/prompts/p/luxury-winter-miniature-bergen-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/luxury-winter-miniature-bergen-poster.webp" alt="Luxury Winter Miniature Bergen Travel Poster" width="480"></a>
+
+> @KrishnaBio1 luxury winter miniature travel poster (127 likes). Filled Bergen; square 1:1.
+
+```text
+Square 1:1 premium luxury winter travel poster for Bergen, Norway. Raised 3D miniature city diorama on thick stone base with snow-covered Bryggen-style wooden houses, harbor boats, evergreen trees, tiny pedestrians as anonymous silhouettes, elegant vintage European travel-poster typography reading BERGEN. Soft winter light, sophisticated editorial details. No brand logos.
+```
+
+- Author: [@KrishnaBio1](https://x.com/KrishnaBio1)
+- Original post: https://x.com/KrishnaBio1/status/2101100670178979945
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/luxury-winter-miniature-bergen-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Architectural Passport Edinburgh Travel Poster
+
+<a href="https://cinel.ai/prompts/p/architectural-passport-edinburgh-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/architectural-passport-edinburgh-poster.webp" alt="Architectural Passport Edinburgh Travel Poster" width="480"></a>
+
+> @Naiknelofar788 Architectural Passport method (113 likes). Filled Edinburgh Castle; square 1:1.
+
+```text
+Square 1:1 highly detailed Architectural Passport travel poster for Edinburgh Castle, Scotland. Colored-pencil illustration, fine ink, vintage architectural documentation, subtle watercolor on warm ivory paper. Faint map, measurements, tiny elevation sketches, botanical accents. Typography: EDINBURGH / EDINBURGH CASTLE with small coordinates. No logos, no real portraits.
+```
+
+- Author: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- Original post: https://x.com/Naiknelofar788/status/2105486629586796891
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/architectural-passport-edinburgh-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Paper-Cut Diorama Marrakech Travel Poster
+
+<a href="https://cinel.ai/prompts/p/papercut-diorama-marrakech-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/papercut-diorama-marrakech-poster.webp" alt="Paper-Cut Diorama Marrakech Travel Poster" width="480"></a>
+
+> @Naiknelofar788 3D paper-cut travel poster (108 likes). Filled Marrakech; square 1:1.
+
+```text
+Square 1:1 charming handcrafted 3D paper-cut travel poster representing Marrakech, Morocco. One cohesive layered paper diorama with soft sculpted paper textures, cut-out edges, subtle shadows, gentle pastel terracotta and mint colors, premium handmade feel. Include minaret silhouette, souk arches, lanterns, citrus trees. Title MARRAKECH. No logos.
+```
+
+- Author: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- Original post: https://x.com/Naiknelofar788/status/2096451812807356737
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/papercut-diorama-marrakech-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Flat-Vector Havana Vintage Travel Poster
+
+<a href="https://cinel.ai/prompts/p/flat-vector-havana-vintage-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/flat-vector-havana-vintage-travel-poster.webp" alt="Flat-Vector Havana Vintage Travel Poster" width="480"></a>
+
+> @KrishnaBio1 flat-vector illustrated travel poster (96 likes). Adapted to single-city Havana fill (avoid crowded multi-city mashup); square 1:1.
+
+```text
+Square 1:1 premium sophisticated flat-vector illustrated travel poster for Havana, Cuba. Luxurious vintage travel-poster artwork with bold flat shapes of the Malecón seawall, colorful colonial facades, anonymous classic-car silhouettes (no brand badges), palm fronds, warm sunset coral and teal palette, elegant title HAVANA. No logos, no real people faces.
+```
+
+- Author: [@KrishnaBio1](https://x.com/KrishnaBio1)
+- Original post: https://x.com/KrishnaBio1/status/2100511660255416636
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/flat-vector-havana-vintage-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Editorial Ultra Chiang Mai Travel Poster
+
+<a href="https://cinel.ai/prompts/p/editorial-ultra-chiang-mai-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/editorial-ultra-chiang-mai-travel-poster.webp" alt="Editorial Ultra Chiang Mai Travel Poster" width="480"></a>
+
+> @Goodmanprotocol ultra-high-res travel poster (88 likes). Filled Chiang Mai; square 1:1; English typography only.
+
+```text
+Square 1:1 ultra-high-resolution travel poster themed around Chiang Mai, Thailand. All visible text in English only, perfectly spelled: CHIANG MAI. Sophisticated gallery-print look with temple roof silhouettes, warm dusk light, refined editorial composition, premium paper texture. No logos, no gibberish characters, no real portraits.
+```
+
+- Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- Original post: https://x.com/Goodmanprotocol/status/2096232474355564760
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/editorial-ultra-chiang-mai-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Luxury 3D Miniature Prague Travel Poster
+
+<a href="https://cinel.ai/prompts/p/luxury-3d-miniature-prague-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/luxury-3d-miniature-prague-poster.webp" alt="Luxury 3D Miniature Prague Travel Poster" width="480"></a>
+
+> @KrishnaBio1 luxury 3D miniature travel poster (76 likes). Filled Prague; square 1:1.
+
+```text
+Square 1:1 premium luxury 3D miniature travel poster for Prague, Czechia. Raised architectural diorama on thick dark stone base, Charles Bridge and towers as focal point, river, tiny anonymous pedestrians, warm architectural lighting, elegant vintage travel typography PRAGUE. No logos.
+```
+
+- Author: [@KrishnaBio1](https://x.com/KrishnaBio1)
+- Original post: https://x.com/KrishnaBio1/status/2101241573358887119
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/luxury-3d-miniature-prague-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Poetic Collage Tbilisi Travel Poster
+
+<a href="https://cinel.ai/prompts/p/poetic-collage-tbilisi-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/poetic-collage-tbilisi-travel-poster.webp" alt="Poetic Collage Tbilisi Travel Poster" width="480"></a>
+
+> @Naiknelofar788 poetic collage travel poster (73 likes). Filled Tbilisi; square 1:1.
+
+```text
+Square 1:1 vintage hand-illustrated travel poster celebrating Tbilisi, Georgia, as a poetic visual collage rather than a single landmark. Feature carved wooden balconies, old-town roofs, sulfur-bath dome cue, river bend, warm Caucasus light, aged paper collage textures. Title TBILISI. No logos, no real portraits.
+```
+
+- Author: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- Original post: https://x.com/Naiknelofar788/status/2095040547878765034
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/poetic-collage-tbilisi-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Postage-Stamp Budapest Travel Artwork
+
+<a href="https://cinel.ai/prompts/p/postage-stamp-budapest-travel-artwork?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/postage-stamp-budapest-travel-artwork.webp" alt="Postage-Stamp Budapest Travel Artwork" width="480"></a>
+
+> @Naiknelofar788 vintage travel postage-stamp artwork (69 likes). Filled Budapest; square 1:1.
+
+```text
+Square 1:1 sophisticated vintage travel postage-stamp artwork representing Budapest, Hungary. Iconic Parliament building on the Danube as main focal point, surrounded by 3–5 supporting elements (Chain Bridge cue, thermal bath dome, tram silhouette). Perforated stamp border, aged paper, elegant country lettering BUDAPEST. No logos.
+```
+
+- Author: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- Original post: https://x.com/Naiknelofar788/status/2095856946075283552
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/postage-stamp-budapest-travel-artwork?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Poetic Collage Fez Medina Travel Poster
+
+<a href="https://cinel.ai/prompts/p/poetic-collage-fez-medina-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/poetic-collage-fez-medina-poster.webp" alt="Poetic Collage Fez Medina Travel Poster" width="480"></a>
+
+> @itxsarmadd fill of poetic collage travel method (63 likes). Filled Fez medina; square 1:1.
+
+```text
+Square 1:1 vintage hand-illustrated travel poster celebrating Fez, Morocco, designed as a poetic visual collage. Medina alleys, blue doors, zellige pattern accents, tannery terraces cue, warm Maghreb light, aged paper. Title FEZ. No logos, no real portraits.
+```
+
+- Author: [@itxsarmadd](https://x.com/itxsarmadd)
+- Original post: https://x.com/itxsarmadd/status/2095097216017084749
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/poetic-collage-fez-medina-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Torn-Paper Miniature Quebec City Travel Poster
+
+<a href="https://cinel.ai/prompts/p/torn-paper-miniature-quebec-city-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/torn-paper-miniature-quebec-city-poster.webp" alt="Torn-Paper Miniature Quebec City Travel Poster" width="480"></a>
+
+> @Goodmanprotocol torn-paper miniature travel poster (54 likes). Filled Quebec City; square 1:1.
+
+```text
+Square 1:1 premium full-frame miniature 3D travel-poster illustration for Quebec City, Canada. Vintage travel poster on aged cream paper tears open along the lower edge; a highly detailed 3D miniature of Château-style silhouette, fort walls, cobbled lower town, and snowy rooftops emerges. Warm afternoon light, cinematic shadows, title QUEBEC CITY. Text-to-image only. No logos.
+```
+
+- Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- Original post: https://x.com/Goodmanprotocol/status/2109215948901331160
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/torn-paper-miniature-quebec-city-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Split Real/Low-Poly Banff Travel Poster
+
+<a href="https://cinel.ai/prompts/p/split-real-lowpoly-banff-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/split-real-lowpoly-banff-travel-poster.webp" alt="Split Real/Low-Poly Banff Travel Poster" width="480"></a>
+
+> @aiwithlumi split vintage travel poster (60 likes). Rewrote branded “RAISE & ROAR” copy into Banff destination fill; square 1:1; no real people.
+
+```text
+Square 1:1 split vintage travel poster of Banff, Canada: the top shows a realistic autumn lakeside scene with turquoise water, golden larch trees, distant peaks, and a quiet cabin (no recognizable real people); the bottom recreates the same scene in sharp low-poly geometric style with faceted cabin, trees, and jagged reflections. Cream divider with dark blue serif text "BANFF", "ROCKIES / LAKE / LIGHT", and a small edition mark. No brand slogans, no logos.
+```
+
+- Author: [@aiwithlumi](https://x.com/aiwithlumi)
+- Original post: https://x.com/aiwithlumi/status/2101265866226602262
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/split-real-lowpoly-banff-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

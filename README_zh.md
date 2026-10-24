@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-精选 **652** 条 GPT Image 2.5 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示词库，自动同步更新。
+精选 **679** 条 GPT Image 2.5 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示词库，自动同步更新。
 
 👉 [在 cinel.ai 浏览全部并在线生成](https://cinel.ai/zh/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -21,9 +21,9 @@
 
 - [人像写真](#portrait) (79) · [全部](cases/zh/portrait.md)
 - [产品与电商](#product-photography) (46) · [全部](cases/zh/product-photography.md)
-- [海报与平面设计](#poster-design) (53) · [全部](cases/zh/poster-design.md)
+- [海报与平面设计](#poster-design) (67) · [全部](cases/zh/poster-design.md)
 - [信息图与 UI](#infographic-ui) (36) · [全部](cases/zh/infographic-ui.md)
-- [3D 角色与手办](#3d-figurines) (80) · [全部](cases/zh/3d-figurines.md)
+- [3D 角色与手办](#3d-figurines) (93) · [全部](cases/zh/3d-figurines.md)
 - [美食饮品](#food-drink) (199) · [全部](cases/zh/food-drink.md)
 - [插画与动漫](#illustration-anime) (58) · [全部](cases/zh/illustration-anime.md)
 - [创意场景](#scenes-creative) (101) · [全部](cases/zh/scenes-creative.md)
@@ -522,7 +522,7 @@ A high-end editorial photo of a amber glass face-oil bottle with a dropper place
 
 ## 海报与平面设计
 
-精选 6 条 · [查看本类全部 53 条](cases/zh/poster-design.md) · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 67 条](cases/zh/poster-design.md) · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 运动员致敬双重曝光拼贴海报提示词
 
@@ -916,7 +916,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## 3D 角色与手办
 
-精选 6 条 · [查看本类全部 80 条](cases/zh/3d-figurines.md) · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 93 条](cases/zh/3d-figurines.md) · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 照片转极简 3D 玩具角色风格提示词
 
