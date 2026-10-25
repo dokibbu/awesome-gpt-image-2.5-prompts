@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Подборка из **679** промптов для GPT Image 2.5. У каждого есть пример изображения, полный текст промпта и ссылка на автора и оригинальный пост. Данные берутся из библиотеки промптов [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) и синхронизируются автоматически.
+Подборка из **736** промптов для GPT Image 2.5. У каждого есть пример изображения, полный текст промпта и ссылка на автора и оригинальный пост. Данные берутся из библиотеки промптов [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) и синхронизируются автоматически.
 
 👉 [Смотреть все и генерировать онлайн на cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -23,9 +23,9 @@
 - [Товары и e-commerce](#product-photography) (46) · [все](cases/product-photography.md)
 - [Постеры, логотипы и графический дизайн](#poster-design) (67) · [все](cases/poster-design.md)
 - [Инфографика и UI](#infographic-ui) (36) · [все](cases/infographic-ui.md)
-- [3D-персонажи и фигурки](#3d-figurines) (93) · [все](cases/3d-figurines.md)
-- [Еда и напитки](#food-drink) (199) · [все](cases/food-drink.md)
-- [Иллюстрации и аниме](#illustration-anime) (58) · [все](cases/illustration-anime.md)
+- [3D-персонажи и фигурки](#3d-figurines) (111) · [все](cases/3d-figurines.md)
+- [Еда и напитки](#food-drink) (223) · [все](cases/food-drink.md)
+- [Иллюстрации и аниме](#illustration-anime) (73) · [все](cases/illustration-anime.md)
 - [Креативные сцены](#scenes-creative) (101) · [все](cases/scenes-creative.md)
 
 <a id="portrait"></a>
@@ -916,7 +916,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## 3D-персонажи и фигурки
 
-Избранное: 6 · [Все 93](cases/3d-figurines.md) · [Категория на cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Избранное: 6 · [Все 111](cases/3d-figurines.md) · [Категория на cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1105,7 +1105,7 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## Еда и напитки
 
-Избранное: 6 · [Все 199](cases/food-drink.md) · [Категория на cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Избранное: 6 · [Все 223](cases/food-drink.md) · [Категория на cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
@@ -1432,7 +1432,7 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 ## Иллюстрации и аниме
 
-Избранное: 6 · [Все 58](cases/illustration-anime.md) · [Категория на cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Избранное: 6 · [Все 73](cases/illustration-anime.md) · [Категория на cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 

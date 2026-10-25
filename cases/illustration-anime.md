@@ -1,6 +1,6 @@
 # Illustration & Anime · GPT Image 2.5
 
-[← README](../README.md) · 58 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 73 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -902,3 +902,213 @@ Create a clean professional anime character design sheet on pure white backgroun
 - Author: [@Mayz1169](https://x.com/Mayz1169)
 - Original post: https://x.com/Mayz1169/status/2101305814447431701
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/anime-botanical-mage-design-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Crimson Silk Ballgown Ink Couture Sketch
+
+<a href="https://cinel.ai/prompts/p/ink-couture-crimson-ballgown?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ink-couture-crimson-ballgown.webp" alt="Crimson Silk Ballgown Ink Couture Sketch" width="480"></a>
+
+> @azed_ai editorial ink couture sketch (23 likes). Filled outfit/palette/pose/headwear/accessories; square 1:1.
+
+```text
+Artistic haute couture fashion illustration of a single elegant model wearing a voluminous crimson silk ballgown with sculptural hip drapery and a dramatic train in deep crimson, black ink, ivory highlights, thick expressive black ink outlines, bold solid color fills, elongated fashion proportions, stylized facial features, dramatic flowing fabric, mid-stride runway walk with one hand lightly lifting the skirt, sleek sculpted updo with a thin black ink hairband, long opera gloves and a minimal geometric clutch, sophisticated editorial fashion sketch aesthetic, full-body composition, pure white background Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2114310517619921351
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ink-couture-crimson-ballgown?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Ivory Sculptural Cape Ink Couture Sketch
+
+<a href="https://cinel.ai/prompts/p/ink-couture-ivory-sculptural-cape?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ink-couture-ivory-sculptural-cape.webp" alt="Ivory Sculptural Cape Ink Couture Sketch" width="480"></a>
+
+> @azed_ai editorial ink couture sketch (23 likes). Filled outfit/palette/pose/headwear/accessories; square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Artistic haute couture fashion illustration of a single elegant model wearing an ivory architectural cape-gown with sharp folded planes and a high collar in warm ivory, charcoal ink, soft gold accents, thick expressive black ink outlines, bold solid color fills, elongated fashion proportions, stylized facial features, dramatic flowing fabric, still three-quarter turn with cape wings extended, smooth center-part bob under a flat architectural headpiece, sculptural cuff bracelets and pointed ivory pumps, sophisticated editorial fashion sketch aesthetic, full-body composition, pure white background Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2114310517619921351
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ink-couture-ivory-sculptural-cape?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Emerald Column Gown Ink Couture Sketch
+
+<a href="https://cinel.ai/prompts/p/ink-couture-emerald-column-gown?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ink-couture-emerald-column-gown.webp" alt="Emerald Column Gown Ink Couture Sketch" width="480"></a>
+
+> @azed_ai editorial ink couture sketch (23 likes). Filled outfit/palette/pose/headwear/accessories; square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Artistic haute couture fashion illustration of a single elegant model wearing a floor-length emerald column gown with a single asymmetric shoulder drape in jewel emerald, black ink, pale mint accents, thick expressive black ink outlines, bold solid color fills, elongated fashion proportions, stylized facial features, dramatic flowing fabric, contrapposto stance with one arm raised along the drape, sleek low chignon, thin stacked bangles and a slim emerald drop earring pair, sophisticated editorial fashion sketch aesthetic, full-body composition, pure white background Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2114310517619921351
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ink-couture-emerald-column-gown?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Midnight Tuxedo Dress Ink Couture Sketch
+
+<a href="https://cinel.ai/prompts/p/ink-couture-midnight-tuxedo-dress?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ink-couture-midnight-tuxedo-dress.webp" alt="Midnight Tuxedo Dress Ink Couture Sketch" width="480"></a>
+
+> @azed_ai editorial ink couture sketch (23 likes). Filled outfit/palette/pose/headwear/accessories; square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Artistic haute couture fashion illustration of a single elegant model wearing a midnight-black tuxedo dress with satin lapels and a slit skirt in midnight black, pure white, silver-gray ink accents, thick expressive black ink outlines, bold solid color fills, elongated fashion proportions, stylized facial features, dramatic flowing fabric, confident stride with jacket open and hands in pockets, slicked-back wet-look hair, skinny satin necktie and polished oxford heels, sophisticated editorial fashion sketch aesthetic, full-body composition, pure white background Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2114310517619921351
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ink-couture-midnight-tuxedo-dress?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Saffron Structured Suit Ink Couture Sketch
+
+<a href="https://cinel.ai/prompts/p/ink-couture-saffron-structured-suit?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ink-couture-saffron-structured-suit.webp" alt="Saffron Structured Suit Ink Couture Sketch" width="480"></a>
+
+> @azed_ai editorial ink couture sketch (23 likes). Filled outfit/palette/pose/headwear/accessories; square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Artistic haute couture fashion illustration of a single elegant model wearing a saffron structured pantsuit with oversized peaked shoulders in saffron yellow, black ink, cream highlights, thick expressive black ink outlines, bold solid color fills, elongated fashion proportions, stylized facial features, dramatic flowing fabric, power pose with feet planted and chin lifted, sharp side-part cropped hair, wide-brim minimal hat held in one hand and geometric cufflinks, sophisticated editorial fashion sketch aesthetic, full-body composition, pure white background Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2114310517619921351
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ink-couture-saffron-structured-suit?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Cobalt Pleated Maxi Ink Couture Sketch
+
+<a href="https://cinel.ai/prompts/p/ink-couture-cobalt-pleated-maxi?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ink-couture-cobalt-pleated-maxi.webp" alt="Cobalt Pleated Maxi Ink Couture Sketch" width="480"></a>
+
+> @azed_ai editorial ink couture sketch (23 likes). Filled outfit/palette/pose/headwear/accessories; square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Artistic haute couture fashion illustration of a single elegant model wearing a cobalt pleated maxi dress with a liquid metal belt in cobalt blue, black ink, silver belt accents, thick expressive black ink outlines, bold solid color fills, elongated fashion proportions, stylized facial features, dramatic flowing fabric, wind-swept stance with pleats fanning sideways, high ponytail with ink-stroke bangs, sculptural silver cuff and strappy cobalt sandals, sophisticated editorial fashion sketch aesthetic, full-body composition, pure white background Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2114310517619921351
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ink-couture-cobalt-pleated-maxi?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pearl-Gray Asymmetry Ink Couture Sketch
+
+<a href="https://cinel.ai/prompts/p/ink-couture-pearl-gray-asymmetry?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ink-couture-pearl-gray-asymmetry.webp" alt="Pearl-Gray Asymmetry Ink Couture Sketch" width="480"></a>
+
+> @azed_ai editorial ink couture sketch (23 likes). Filled outfit/palette/pose/headwear/accessories; square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Artistic haute couture fashion illustration of a single elegant model wearing a pearl-gray asymmetric cocktail dress with one long sleeve and one bare shoulder in pearl gray, charcoal, soft lilac accents, thick expressive black ink outlines, bold solid color fills, elongated fashion proportions, stylized facial features, dramatic flowing fabric, seated on an invisible block with crossed ankles, editorial cool, sculpted finger waves, single oversized abstract earring and slim ankle strap heels, sophisticated editorial fashion sketch aesthetic, full-body composition, pure white background Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2114310517619921351
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ink-couture-pearl-gray-asymmetry?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Burgundy Velvet Coat Ink Couture Sketch
+
+<a href="https://cinel.ai/prompts/p/ink-couture-burgundy-velvet-coat?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ink-couture-burgundy-velvet-coat.webp" alt="Burgundy Velvet Coat Ink Couture Sketch" width="480"></a>
+
+> @azed_ai editorial ink couture sketch (23 likes). Filled outfit/palette/pose/headwear/accessories; square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Artistic haute couture fashion illustration of a single elegant model wearing an oversized burgundy velvet cocoon coat over a slim black column in burgundy velvet, black, deep wine ink accents, thick expressive black ink outlines, bold solid color fills, elongated fashion proportions, stylized facial features, dramatic flowing fabric, walking pose with coat floating behind like a cape, hidden under a soft velvet beret, leather gloves and a long thin scarf trailing, sophisticated editorial fashion sketch aesthetic, full-body composition, pure white background Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2114310517619921351
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ink-couture-burgundy-velvet-coat?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Teal Metallic Sheath Ink Couture Sketch
+
+<a href="https://cinel.ai/prompts/p/ink-couture-teal-metallic-sheath?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ink-couture-teal-metallic-sheath.webp" alt="Teal Metallic Sheath Ink Couture Sketch" width="480"></a>
+
+> @azed_ai editorial ink couture sketch (23 likes). Filled outfit/palette/pose/headwear/accessories; square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Artistic haute couture fashion illustration of a single elegant model wearing a teal metallic sheath dress with laser-cut side vents in teal metallic, black ink, champagne spark accents, thick expressive black ink outlines, bold solid color fills, elongated fashion proportions, stylized facial features, dramatic flowing fabric, sharp stopped pose with hand on hip, vents flared, sleek high bun with a thin metallic circlet, minimalist drop earrings and pointed metallic heels, sophisticated editorial fashion sketch aesthetic, full-body composition, pure white background Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2114310517619921351
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ink-couture-teal-metallic-sheath?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pastel Polka Paper-Cut Fashion Editorial
+
+<a href="https://cinel.ai/prompts/p/papercut-fashion-polka-pastel-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/papercut-fashion-polka-pastel-editorial.webp" alt="Pastel Polka Paper-Cut Fashion Editorial" width="480"></a>
+
+> @Tech_Apex0 3D paper-cut fashion editorial (~101 likes). Varied outfit, color blocking, and pattern; square 1:1.
+
+```text
+Create a high-end editorial fashion illustration of a stylish fictional adult woman wearing a tailored pastel blazer over a flared midi skirt. Use a polished 3D paper-cut illustration aesthetic with smooth surfaces, layered shapes, subtle paper-like textures, and clean, elegant edges. Feature vibrant color combinations of pastel pink, sky blue, mint green, and soft ivory, paired with contrasting patterns: large playful polka dots on the skirt and subtle dots on one blazer cuff. Add fashionable accessories including statement oval sunglasses, pearl-like stud earrings, a structured mini handbag, and modern block heels. Give the character a confident, expressive pose with natural body proportions and a stylish attitude. Use a minimalist warm ivory background with soft studio lighting, gentle shadows beneath the feet, and a refined luxury fashion-campaign composition. Full-body character, beautifully detailed clothing folds, crisp silhouettes, sophisticated color blocking, playful yet elegant styling, premium fashion magazine aesthetic, clean negative space, high-resolution digital illustration. No text, no logos, no watermark. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@Tech_Apex0](https://x.com/Tech_Apex0)
+- Original post: https://x.com/Tech_Apex0/status/2109687049666347113
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/papercut-fashion-polka-pastel-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Emerald Stripe Paper-Cut Fashion Editorial
+
+<a href="https://cinel.ai/prompts/p/papercut-fashion-stripe-emerald-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/papercut-fashion-stripe-emerald-editorial.webp" alt="Emerald Stripe Paper-Cut Fashion Editorial" width="480"></a>
+
+> @Tech_Apex0 3D paper-cut fashion editorial (~101 likes). Varied outfit, color blocking, and pattern; square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Create a high-end editorial fashion illustration of a stylish fictional adult woman wearing a cropped emerald jacket over a high-waist wide-leg trouser. Use a polished 3D paper-cut illustration aesthetic with smooth surfaces, layered shapes, subtle paper-like textures, and clean, elegant edges. Feature vibrant color combinations of emerald green, sunshine yellow, sky blue, and warm ivory, paired with contrasting patterns: bold vertical stripes on the trousers and a thin stripe band on the jacket hem. Add fashionable accessories including geometric sunglasses, gold-tone hoop earrings, a boxy handbag, and pointed flats. Give the character a confident, expressive pose with natural body proportions and a stylish attitude. Use a minimalist warm ivory background with soft studio lighting, gentle shadows beneath the feet, and a refined luxury fashion-campaign composition. Full-body character, beautifully detailed clothing folds, crisp silhouettes, sophisticated color blocking, playful yet elegant styling, premium fashion magazine aesthetic, clean negative space, high-resolution digital illustration. No text, no logos, no watermark. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@Tech_Apex0](https://x.com/Tech_Apex0)
+- Original post: https://x.com/Tech_Apex0/status/2109687049666347113
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/papercut-fashion-stripe-emerald-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Coral Color-Block Paper-Cut Fashion Editorial
+
+<a href="https://cinel.ai/prompts/p/papercut-fashion-colorblock-coral-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/papercut-fashion-colorblock-coral-editorial.webp" alt="Coral Color-Block Paper-Cut Fashion Editorial" width="480"></a>
+
+> @Tech_Apex0 3D paper-cut fashion editorial (~101 likes). Varied outfit, color blocking, and pattern; square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Create a high-end editorial fashion illustration of a stylish fictional adult woman wearing a color-blocked shift dress with sharp panel seams. Use a polished 3D paper-cut illustration aesthetic with smooth surfaces, layered shapes, subtle paper-like textures, and clean, elegant edges. Feature vibrant color combinations of coral, mint green, cobalt, and cream, paired with contrasting patterns: large geometric color-block panels instead of prints, plus a tiny dotted pocket flap. Add fashionable accessories including cat-eye sunglasses, sculptural earrings, a trapezoid handbag, and ankle-strap heels. Give the character a confident, expressive pose with natural body proportions and a stylish attitude. Use a minimalist warm ivory background with soft studio lighting, gentle shadows beneath the feet, and a refined luxury fashion-campaign composition. Full-body character, beautifully detailed clothing folds, crisp silhouettes, sophisticated color blocking, playful yet elegant styling, premium fashion magazine aesthetic, clean negative space, high-resolution digital illustration. No text, no logos, no watermark. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@Tech_Apex0](https://x.com/Tech_Apex0)
+- Original post: https://x.com/Tech_Apex0/status/2109687049666347113
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/papercut-fashion-colorblock-coral-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Mint Chevron Paper-Cut Fashion Editorial
+
+<a href="https://cinel.ai/prompts/p/papercut-fashion-chevron-mint-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/papercut-fashion-chevron-mint-editorial.webp" alt="Mint Chevron Paper-Cut Fashion Editorial" width="480"></a>
+
+> @Tech_Apex0 3D paper-cut fashion editorial (~101 likes). Varied outfit, color blocking, and pattern; square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Create a high-end editorial fashion illustration of a stylish fictional adult woman wearing a mint trench-inspired open coat over a lemon sheath. Use a polished 3D paper-cut illustration aesthetic with smooth surfaces, layered shapes, subtle paper-like textures, and clean, elegant edges. Feature vibrant color combinations of mint green, sunshine yellow, pastel pink, and ivory, paired with contrasting patterns: chevron zig-zag pattern on the coat lining panels peeking open. Add fashionable accessories including slim rectangular sunglasses, drop earrings, a cylindrical clutch, and knee-high boots. Give the character a confident, expressive pose with natural body proportions and a stylish attitude. Use a minimalist warm ivory background with soft studio lighting, gentle shadows beneath the feet, and a refined luxury fashion-campaign composition. Full-body character, beautifully detailed clothing folds, crisp silhouettes, sophisticated color blocking, playful yet elegant styling, premium fashion magazine aesthetic, clean negative space, high-resolution digital illustration. No text, no logos, no watermark. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@Tech_Apex0](https://x.com/Tech_Apex0)
+- Original post: https://x.com/Tech_Apex0/status/2109687049666347113
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/papercut-fashion-chevron-mint-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Mustard Dot Paper-Cut Fashion Editorial
+
+<a href="https://cinel.ai/prompts/p/papercut-fashion-dot-mustard-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/papercut-fashion-dot-mustard-editorial.webp" alt="Mustard Dot Paper-Cut Fashion Editorial" width="480"></a>
+
+> @Tech_Apex0 3D paper-cut fashion editorial (~101 likes). Varied outfit, color blocking, and pattern; square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Create a high-end editorial fashion illustration of a stylish fictional adult woman wearing a mustard cocoon coat over black slim trousers and a white tee. Use a polished 3D paper-cut illustration aesthetic with smooth surfaces, layered shapes, subtle paper-like textures, and clean, elegant edges. Feature vibrant color combinations of mustard yellow, emerald, soft black, and cream, paired with contrasting patterns: irregular playful dots scattered on the cocoon coat. Add fashionable accessories including bold round sunglasses, hoop earrings, a semi-circle handbag, and chunky sneakers. Give the character a confident, expressive pose with natural body proportions and a stylish attitude. Use a minimalist warm ivory background with soft studio lighting, gentle shadows beneath the feet, and a refined luxury fashion-campaign composition. Full-body character, beautifully detailed clothing folds, crisp silhouettes, sophisticated color blocking, playful yet elegant styling, premium fashion magazine aesthetic, clean negative space, high-resolution digital illustration. No text, no logos, no watermark. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@Tech_Apex0](https://x.com/Tech_Apex0)
+- Original post: https://x.com/Tech_Apex0/status/2109687049666347113
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/papercut-fashion-dot-mustard-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Violet Wave Paper-Cut Fashion Editorial
+
+<a href="https://cinel.ai/prompts/p/papercut-fashion-wave-violet-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/papercut-fashion-wave-violet-editorial.webp" alt="Violet Wave Paper-Cut Fashion Editorial" width="480"></a>
+
+> @Tech_Apex0 3D paper-cut fashion editorial (~101 likes). Varied outfit, color blocking, and pattern; square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Create a high-end editorial fashion illustration of a stylish fictional adult woman wearing a violet wrap top with high-waist ivory culottes. Use a polished 3D paper-cut illustration aesthetic with smooth surfaces, layered shapes, subtle paper-like textures, and clean, elegant edges. Feature vibrant color combinations of violet, pastel pink, mint, and warm ivory, paired with contrasting patterns: soft wave stripes across the wrap top and solid ivory culottes. Add fashionable accessories including butterfly sunglasses, spiral earrings, a soft pouch bag, and strappy sandals. Give the character a confident, expressive pose with natural body proportions and a stylish attitude. Use a minimalist warm ivory background with soft studio lighting, gentle shadows beneath the feet, and a refined luxury fashion-campaign composition. Full-body character, beautifully detailed clothing folds, crisp silhouettes, sophisticated color blocking, playful yet elegant styling, premium fashion magazine aesthetic, clean negative space, high-resolution digital illustration. No text, no logos, no watermark. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@Tech_Apex0](https://x.com/Tech_Apex0)
+- Original post: https://x.com/Tech_Apex0/status/2109687049666347113
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/papercut-fashion-wave-violet-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

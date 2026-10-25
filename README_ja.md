@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-厳選した **679** 件の GPT Image 2.5 プロンプト集です。各項目に作例画像、プロンプト全文、元の作者と元投稿へのリンクを掲載しています。データは [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) のプロンプトライブラリから自動で同期されます。
+厳選した **736** 件の GPT Image 2.5 プロンプト集です。各項目に作例画像、プロンプト全文、元の作者と元投稿へのリンクを掲載しています。データは [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) のプロンプトライブラリから自動で同期されます。
 
 👉 [cinel.ai ですべて見る・オンラインで生成](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -23,9 +23,9 @@
 - [商品・EC](#product-photography) (46) · [すべて](cases/product-photography.md)
 - [ポスター・ロゴ・グラフィック](#poster-design) (67) · [すべて](cases/poster-design.md)
 - [インフォグラフィック・UI](#infographic-ui) (36) · [すべて](cases/infographic-ui.md)
-- [3D キャラクター・フィギュア](#3d-figurines) (93) · [すべて](cases/3d-figurines.md)
-- [フード・ドリンク](#food-drink) (199) · [すべて](cases/food-drink.md)
-- [イラスト・アニメ](#illustration-anime) (58) · [すべて](cases/illustration-anime.md)
+- [3D キャラクター・フィギュア](#3d-figurines) (111) · [すべて](cases/3d-figurines.md)
+- [フード・ドリンク](#food-drink) (223) · [すべて](cases/food-drink.md)
+- [イラスト・アニメ](#illustration-anime) (73) · [すべて](cases/illustration-anime.md)
 - [クリエイティブシーン](#scenes-creative) (101) · [すべて](cases/scenes-creative.md)
 
 <a id="portrait"></a>
@@ -916,7 +916,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## 3D キャラクター・フィギュア
 
-厳選 6 件 · [全 93 件を見る](cases/3d-figurines.md) · [cinel のカテゴリ](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+厳選 6 件 · [全 111 件を見る](cases/3d-figurines.md) · [cinel のカテゴリ](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1105,7 +1105,7 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## フード・ドリンク
 
-厳選 6 件 · [全 199 件を見る](cases/food-drink.md) · [cinel のカテゴリ](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+厳選 6 件 · [全 223 件を見る](cases/food-drink.md) · [cinel のカテゴリ](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
@@ -1432,7 +1432,7 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 ## イラスト・アニメ
 
-厳選 6 件 · [全 58 件を見る](cases/illustration-anime.md) · [cinel のカテゴリ](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+厳選 6 件 · [全 73 件を見る](cases/illustration-anime.md) · [cinel のカテゴリ](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 

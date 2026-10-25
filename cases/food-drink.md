@@ -1,6 +1,6 @@
 # Food & Drink · GPT Image 2.5
 
-[← README](../README.md) · 199 · [Category on cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 223 · [Category on cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
@@ -3466,3 +3466,339 @@ Create one complete high-end advertising still of a premium beef burger, square 
 - Author: [@hellsing00fl](https://x.com/hellsing00fl)
 - Original post: https://x.com/hellsing00fl/status/2096552686678417851
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/quiet-luxury-beef-burger-gallery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Gado-Gado No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-gado-gado-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-gado-gado-no-text.webp" alt="Floating Gado-Gado No-Text Bowl Stack" width="480"></a>
+
+> @AIMevzulari floating-bowl food style (1297 likes at capture). Same-template no-text fill for Indonesian gado-gado; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Uses original source id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian gado-gado. A traditional ceramic bowl of peanut-sauce salad with blanched vegetables and compressed rice cake sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: blanched cabbage wedges, long beans, spinach, bean sprouts, fried tofu cubes, tempeh slices, boiled egg halves, lontong rice cake, cucumber slices, emping crackers, and a glossy ribbon of peanut sauce. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@AIMevzulari](https://x.com/AIMevzulari)
+- Original post: https://x.com/AIMevzulari/status/2018256452930912676
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-gado-gado-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Mie Goreng No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-mie-goreng-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-mie-goreng-no-text.webp" alt="Floating Mie Goreng No-Text Bowl Stack" width="480"></a>
+
+> @AIMevzulari floating-bowl food style (1297 likes at capture). Same-template no-text fill for Indonesian mie goreng; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian mie goreng. A traditional deep ceramic bowl of smoky stir-fried yellow noodles with sweet soy gloss sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: tangled yellow noodle strands, shrimp, chicken strips, cabbage shreds, bean sprouts, fried egg ribbons, green onions, fried shallots, red chili slices, and a splash of kecap manis. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@AIMevzulari](https://x.com/AIMevzulari)
+- Original post: https://x.com/AIMevzulari/status/2018256452930912676
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-mie-goreng-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Ketoprak No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-ketoprak-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-ketoprak-no-text.webp" alt="Floating Ketoprak No-Text Bowl Stack" width="480"></a>
+
+> @AIMevzulari floating-bowl food style (1297 likes at capture). Same-template no-text fill for Indonesian ketoprak; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian ketoprak. A traditional wide ceramic bowl of ketoprak rice-cake salad with peanut sauce and vermicelli sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: lontong cubes, thin rice vermicelli, fried tofu, bean sprouts, cucumber sticks, crushed peanuts, fried shallots, krupuk crackers, and a thick peanut-sauce pour. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@AIMevzulari](https://x.com/AIMevzulari)
+- Original post: https://x.com/AIMevzulari/status/2018256452930912676
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-ketoprak-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Pecel Lele No-Text Stack
+
+<a href="https://cinel.ai/prompts/p/floating-pecel-lele-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-pecel-lele-no-text.webp" alt="Floating Pecel Lele No-Text Stack" width="480"></a>
+
+> @AIMevzulari floating-bowl food style (1297 likes at capture). Same-template no-text fill for Indonesian pecel lele; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian pecel lele. A traditional banana-leaf plate of crispy fried catfish with fresh sambal and lalapan vegetables sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: whole golden fried catfish pieces, steaming white rice mound, raw cabbage, cucumber, basil leaves, tomato wedges, fried tempeh, and a fiery sambal splash. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@AIMevzulari](https://x.com/AIMevzulari)
+- Original post: https://x.com/AIMevzulari/status/2018256452930912676
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-pecel-lele-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Nasi Uduk No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-nasi-uduk-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-nasi-uduk-no-text.webp" alt="Floating Nasi Uduk No-Text Bowl Stack" width="480"></a>
+
+> @AIMevzulari floating-bowl food style (1297 likes at capture). Same-template no-text fill for Indonesian nasi uduk; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian nasi uduk. A traditional woven bamboo bowl of coconut milk rice with savory side dishes sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: fluffy coconut rice mound, fried chicken piece, soft-boiled egg, fried tempeh, bihun noodles, cucumber slices, emping, sambal, and fried shallot shower. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@AIMevzulari](https://x.com/AIMevzulari)
+- Original post: https://x.com/AIMevzulari/status/2018256452930912676
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-nasi-uduk-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Lontong Sayur No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-lontong-sayur-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-lontong-sayur-no-text.webp" alt="Floating Lontong Sayur No-Text Bowl Stack" width="480"></a>
+
+> @AIMevzulari floating-bowl food style (1297 likes at capture). Same-template no-text fill for Indonesian lontong sayur; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian lontong sayur. A traditional ceramic soup bowl of compressed rice cakes in rich coconut vegetable curry sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: lontong cylinders, jackfruit chunks, cabbage, long beans, tofu puffs, hard-boiled egg, spicy potato cake, sambal, and a creamy coconut-curry splash. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@AIMevzulari](https://x.com/AIMevzulari)
+- Original post: https://x.com/AIMevzulari/status/2018256452930912676
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-lontong-sayur-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Empal Gentong No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-empal-gentong-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-empal-gentong-no-text.webp" alt="Floating Empal Gentong No-Text Bowl Stack" width="480"></a>
+
+> @AIMevzulari floating-bowl food style (1297 likes at capture). Same-template no-text fill for Indonesian empal gentong; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian empal gentong. A traditional clay soup bowl of Cirebon-style beef soup with fragrant yellow spices sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: tender beef chunks, clear yellow spice broth splash, rice noodles, fried shallots, scallions, lime wedges, emping, and chili sambal. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@AIMevzulari](https://x.com/AIMevzulari)
+- Original post: https://x.com/AIMevzulari/status/2018256452930912676
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-empal-gentong-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Batagor No-Text Stack
+
+<a href="https://cinel.ai/prompts/p/floating-batagor-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-batagor-no-text.webp" alt="Floating Batagor No-Text Stack" width="480"></a>
+
+> @AIMevzulari floating-bowl food style (1297 likes at capture). Same-template no-text fill for Indonesian batagor; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian batagor. A traditional banana-leaf plate of fried fish dumplings with peanut sauce sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: golden fried batagor dumplings, tofu batagor, steamed siomay pieces, shredded cucumber, cabbage, lime, crispy wonton chips, and a thick peanut-sauce pour with sweet soy drizzle. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@AIMevzulari](https://x.com/AIMevzulari)
+- Original post: https://x.com/AIMevzulari/status/2018256452930912676
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-batagor-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Siomay Bandung No-Text Stack
+
+<a href="https://cinel.ai/prompts/p/floating-siomay-bandung-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-siomay-bandung-no-text.webp" alt="Floating Siomay Bandung No-Text Stack" width="480"></a>
+
+> @Taaruk_ floating-bowl food style (227 likes at capture). Same-template no-text fill for Bandung siomay; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Bandung siomay. A traditional bamboo steamer basket plate of steamed fish dumplings with peanut sauce and sweet soy sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: steamed fish siomay, tofu siomay, cabbage roll, hard-boiled egg, potato siomay, fried wonton skin, lime wedges, and a glossy peanut-sauce ribbon with kecap manis. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@Taaruk_](https://x.com/Taaruk_)
+- Original post: https://x.com/Taaruk_/status/2019254034654195755
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-siomay-bandung-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Pempek Palembang No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-pempek-palembang-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-pempek-palembang-no-text.webp" alt="Floating Pempek Palembang No-Text Bowl Stack" width="480"></a>
+
+> @Taaruk_ floating-bowl food style (227 likes at capture). Same-template no-text fill for Palembang pempek; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Palembang pempek. A traditional ceramic bowl of fried fish cakes with vinegar cuko sauce and noodles sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: fried lenjer pempek sticks, submarine pempek cut open, egg pempek halves, yellow egg noodles, diced cucumber, dried shrimp powder, and a sharp cuko vinegar-sauce splash. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@Taaruk_](https://x.com/Taaruk_)
+- Original post: https://x.com/Taaruk_/status/2019254034654195755
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-pempek-palembang-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Bubur Ayam No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-bubur-ayam-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-bubur-ayam-no-text.webp" alt="Floating Bubur Ayam No-Text Bowl Stack" width="480"></a>
+
+> @Taaruk_ floating-bowl food style (227 likes at capture). Same-template no-text fill for Indonesian bubur ayam; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian bubur ayam. A traditional ceramic porridge bowl of savory chicken rice porridge with crisp toppings sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: creamy white rice porridge splash, shredded chicken, fried shallots, scallions, celery, cakwe sticks, toasted soybeans, boiled egg slices, and chili oil droplets. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@Taaruk_](https://x.com/Taaruk_)
+- Original post: https://x.com/Taaruk_/status/2019254034654195755
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-bubur-ayam-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Martabak Manis No-Text Stack
+
+<a href="https://cinel.ai/prompts/p/floating-martabak-manis-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-martabak-manis-no-text.webp" alt="Floating Martabak Manis No-Text Stack" width="480"></a>
+
+> @Taaruk_ floating-bowl food style (227 likes at capture). Same-template no-text fill for Indonesian martabak manis; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian martabak manis. A traditional cast-iron pan base of thick sweet martabak pancake with melting toppings sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: torn fluffy pancake halves, melted chocolate, crushed peanuts, sesame seeds, condensed milk ribbons, grated cheese, and butter pats floating above. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@Taaruk_](https://x.com/Taaruk_)
+- Original post: https://x.com/Taaruk_/status/2019254034654195755
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-martabak-manis-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Klepon Tower No-Text Stack
+
+<a href="https://cinel.ai/prompts/p/floating-klepon-tower-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-klepon-tower-no-text.webp" alt="Floating Klepon Tower No-Text Stack" width="480"></a>
+
+> @Taaruk_ floating-bowl food style (227 likes at capture). Same-template no-text fill for Indonesian klepon; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian klepon. A traditional banana-leaf platter of pandan sticky-rice balls coated in grated coconut sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: bright green klepon balls, molten palm-sugar cores oozing, fresh grated coconut flakes, pandan leaves, and a palm-sugar syrup splash rising in a tower. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@Taaruk_](https://x.com/Taaruk_)
+- Original post: https://x.com/Taaruk_/status/2019254034654195755
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-klepon-tower-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Es Campur No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-es-campur-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-es-campur-no-text.webp" alt="Floating Es Campur No-Text Bowl Stack" width="480"></a>
+
+> @Taaruk_ floating-bowl food style (227 likes at capture). Same-template no-text fill for Indonesian es campur; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian es campur. A traditional tall glass bowl of mixed ice dessert with syrup, jelly, and tropical fruit sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: shaved ice mound, colorful agar jellies, fermented cassava tape, avocado chunks, jackfruit, coconut young meat, condensed milk pour, and rose syrup splash. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@Taaruk_](https://x.com/Taaruk_)
+- Original post: https://x.com/Taaruk_/status/2019254034654195755
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-es-campur-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Ikan Bakar Jimbaran No-Text Stack
+
+<a href="https://cinel.ai/prompts/p/floating-ikan-bakar-jimbaran-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-ikan-bakar-jimbaran-no-text.webp" alt="Floating Ikan Bakar Jimbaran No-Text Stack" width="480"></a>
+
+> @Taaruk_ floating-bowl food style (136 likes at capture). Same-template no-text fill for Jimbaran grilled fish; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Jimbaran grilled fish. A traditional banana-leaf platter of charcoal-grilled whole fish with sambal matah sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: charred grilled fish fillets, sambal matah with lemongrass and shallots, lime wedges, steamed rice, water spinach, tomato salsa, and a smoky oil splash. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@Taaruk_](https://x.com/Taaruk_)
+- Original post: https://x.com/Taaruk_/status/2019806212599284155
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-ikan-bakar-jimbaran-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Bebek Goreng No-Text Stack
+
+<a href="https://cinel.ai/prompts/p/floating-bebek-goreng-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-bebek-goreng-no-text.webp" alt="Floating Bebek Goreng No-Text Stack" width="480"></a>
+
+> @Taaruk_ floating-bowl food style (136 likes at capture). Same-template no-text fill for Indonesian bebek goreng; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian bebek goreng. A traditional woven plate of crispy fried duck with sambal and fresh vegetables sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: golden crispy duck pieces, steaming rice, raw cabbage, cucumber, basil, tomato, fried tempeh, and a chunky red sambal splash. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@Taaruk_](https://x.com/Taaruk_)
+- Original post: https://x.com/Taaruk_/status/2019806212599284155
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-bebek-goreng-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Tahu Gejrot No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-tahu-gejrot-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-tahu-gejrot-no-text.webp" alt="Floating Tahu Gejrot No-Text Bowl Stack" width="480"></a>
+
+> @Taaruk_ floating-bowl food style (136 likes at capture). Same-template no-text fill for Indonesian tahu gejrot; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian tahu gejrot. A traditional clay bowl of fried tofu chunks in sweet-spicy gejrot sauce sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: crispy fried tofu cubes, sliced shallots, red chilies, garlic, sweet-sour gejrot sauce splash, fried shallots, and fresh cucumber. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@Taaruk_](https://x.com/Taaruk_)
+- Original post: https://x.com/Taaruk_/status/2019806212599284155
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-tahu-gejrot-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Seblak No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-seblak-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-seblak-no-text.webp" alt="Floating Seblak No-Text Bowl Stack" width="480"></a>
+
+> @Taaruk_ floating-bowl food style (136 likes at capture). Same-template no-text fill for Indonesian seblak; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian seblak. A traditional metal wok bowl of spicy wet crackers stir-fry with egg and proteins sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: soft kerupuk crackers, scrambled egg ribbons, sausages, meatballs, cabbage, bean sprouts, garlic, kencur aroma steam, and a fiery red chili-oil splash. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@Taaruk_](https://x.com/Taaruk_)
+- Original post: https://x.com/Taaruk_/status/2019806212599284155
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-seblak-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Nasi Kuning No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-nasi-kuning-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-nasi-kuning-no-text.webp" alt="Floating Nasi Kuning No-Text Bowl Stack" width="480"></a>
+
+> @iamaiistudio floating-bowl food style (1 likes at capture). Same-template no-text fill for Indonesian nasi kuning; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian nasi kuning. A traditional ceramic plate bowl of festive turmeric yellow rice with savory sides sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: mounded turmeric rice, fried chicken, shredded omelette, sambal goreng potatoes, cucumber, tomato, kerupuk, and fried shallots. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@iamaiistudio](https://x.com/iamaiistudio)
+- Original post: https://x.com/iamaiistudio/status/2053819797214019996
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-nasi-kuning-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Opor Ayam No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-opor-ayam-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-opor-ayam-no-text.webp" alt="Floating Opor Ayam No-Text Bowl Stack" width="480"></a>
+
+> @iamaiistudio floating-bowl food style (1 likes at capture). Same-template no-text fill for Indonesian opor ayam; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian opor ayam. A traditional ceramic soup bowl of chicken in creamy white coconut spice sauce sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: tender chicken pieces, creamy white coconut gravy splash, boiled egg, glass noodles, fried shallots, lime leaves, and mild chili. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@iamaiistudio](https://x.com/iamaiistudio)
+- Original post: https://x.com/iamaiistudio/status/2053819797214019996
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-opor-ayam-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Gudeg Jogja No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-gudeg-jogja-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-gudeg-jogja-no-text.webp" alt="Floating Gudeg Jogja No-Text Bowl Stack" width="480"></a>
+
+> @iamaiistudio floating-bowl food style (1 likes at capture). Same-template no-text fill for Yogyakarta gudeg; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Yogyakarta gudeg. A traditional clay bowl of slow-cooked jackfruit stew with savory sides sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: brown caramelized jackfruit gudeg, creamy areh coconut sauce, krecek spicy cattle skin, boiled egg, chicken opor piece, and steamed rice. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@iamaiistudio](https://x.com/iamaiistudio)
+- Original post: https://x.com/iamaiistudio/status/2053819797214019996
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-gudeg-jogja-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Sate Padang No-Text Stack
+
+<a href="https://cinel.ai/prompts/p/floating-sate-padang-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-sate-padang-no-text.webp" alt="Floating Sate Padang No-Text Stack" width="480"></a>
+
+> @iamaiistudio floating-bowl food style (1 likes at capture). Same-template no-text fill for Padang satay; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Padang satay. A traditional ceramic plate with bowl of beef satay with thick yellow Padang sauce sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: grilled beef satay skewers, thick yellow turmeric sauce splash, ketupat rice cakes, fried shallots, red chilies, and lime. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@iamaiistudio](https://x.com/iamaiistudio)
+- Original post: https://x.com/iamaiistudio/status/2053819797214019996
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-sate-padang-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Sayur Lodeh No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-sayur-lodeh-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-sayur-lodeh-no-text.webp" alt="Floating Sayur Lodeh No-Text Bowl Stack" width="480"></a>
+
+> @woleswoosh floating-bowl food style (925 likes at capture). Same-template no-text fill for Indonesian sayur lodeh; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian sayur lodeh. A traditional ceramic soup bowl of vegetable stew in savory coconut milk broth sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: young jackfruit, long beans, eggplant, tempeh, tofu, corn kernels, chayote, and a creamy coconut-milk splash with fried shallots. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@woleswoosh](https://x.com/woleswoosh)
+- Original post: https://x.com/woleswoosh/status/1994773362875535462
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-sayur-lodeh-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Es Teler No-Text Bowl Stack
+
+<a href="https://cinel.ai/prompts/p/floating-es-teler-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-es-teler-no-text.webp" alt="Floating Es Teler No-Text Bowl Stack" width="480"></a>
+
+> @woleswoosh floating-bowl food style (925 likes at capture). Same-template no-text fill for Indonesian es teler; rustic wood BG; stripped all titles/labels/watermarks per hot-query demand; square 1:1. Synthetic unique id.
+
+```text
+Square 1:1 hyper-realistic editorial food visual of Indonesian es teler. A traditional glass dessert bowl of mixed ice with avocado, jackfruit, and coconut sits at the bottom of the frame on a rustic wooden surface. Above it, the ingredients rise upward in a realistic gravity-defying stack: shaved ice, ripe avocado slices, jackfruit segments, young coconut strands, condensed milk pour, coconut water splash, and basil seeds. Keep a clean vertical composition with a strong visual hierarchy, bowl at the base and floating ingredients ascending. Absolutely no text titles, no ingredient labels, no watermarks, no logos, and no typography anywhere in the image. Professional food-magazine layout, warm cinematic studio lighting, dramatic steam where natural, motion-frozen ingredients, shallow depth of field, sharp DSLR-style focus, ultra-detailed textures, premium editorial photorealism. Square 1:1 composition.
+```
+
+- Author: [@woleswoosh](https://x.com/woleswoosh)
+- Original post: https://x.com/woleswoosh/status/1994773362875535462
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-es-teler-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

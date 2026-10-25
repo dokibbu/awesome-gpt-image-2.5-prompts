@@ -1,6 +1,6 @@
 # 3D Characters & Figurines · GPT Image 2.5
 
-[← README](../README.md) · 93 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 111 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1699,3 +1699,385 @@ Square 1:1 surprise blind-box 3D clay figurine of an ORIGINAL fictional lucky-st
 - Author: [@pangbenxiong](https://x.com/pangbenxiong)
 - Original post: https://x.com/pangbenxiong/status/2113268005258018867
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pastel-clay-blindbox-lucky-star-critter?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Bone-White Hoodie Dark Kawaii Collectible
+
+<a href="https://cinel.ai/prompts/p/dark-kawaii-bone-white-hoodie-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/dark-kawaii-bone-white-hoodie-oc.webp" alt="Bone-White Hoodie Dark Kawaii Collectible" width="480"></a>
+
+> @fiberzOG dark-kawaii street-fashion collectible (~39 likes). Rewritten from ref-based character preservation to text-only fictional adult OC (hair/hoodie accents/accessories varied); square 1:1.
+
+```text
+Ultra-detailed 3D anime illustration of an ORIGINAL fictional adult OC as a dark street-fashion anime collectible character, chibi proportions, oversized head, compact body, large heavy-lidded eyes, slightly tired expression, tiny nose and mouth, pale porcelain-like skin, subtle blush and under-eye shading. Mix cute kawaii character design with aggressive punk, goth, cyber-streetwear and underground Japanese fashion. Clothing is extremely layered and intricate: oversized distressed hoodie, loose sleeves, layered shirts, belts, straps, chains, padlocks, metal rings, buckles, safety pins, checkerboard patterns, graffiti symbols, hand-painted markings, stitched patches, torn fabric, abstract screen-printed graphics and small hanging accessories. Clothing should feel handmade, worn, dirty and customized rather than clean or mass-produced. Dense accessory design: chunky chains, chokers, rings, earrings, piercings, nail art, charms, spikes, miniature hardware, metallic ornaments, straps and dangling objects overlapping naturally. Subtle tattoos, sticker-like markings and hand-drawn abstract symbols across the face, fingers, arms and exposed skin (tiny abstract symbols, never readable branded text). Hair rendered as hundreds of fine individual strands with strong anime shaping, slightly messy texture, dramatic bangs and sculptural silhouette. Rendering style: premium Japanese anime figurine photography, hyper-detailed 3D character modelling, resin collectible sculpture, manga illustration and gritty editorial street-fashion photography. Materials physically real: woven cotton, faded denim, rough canvas, scratched metal, oxidized chains, soft skin, painted plastic, leather and weathered fabric. Extremely sharp micro-detail, intricate textures, realistic fabric fibres, highly detailed stitching, metallic reflections, subtle surface imperfections, controlled subsurface scattering in skin, physically based materials, ambient occlusion, realistic contact shadows. Composition: character filling most of the frame, close portrait / three-quarter body crop, slightly wide-angle perspective, dramatic overlapping pose, strong foreground presence, crowded composition, intentionally maximalist. Background: dirty concrete wall covered with black brush graffiti, torn posters, scratches, stains, faded paint, rust marks and distressed urban textures. Japanese underground alley aesthetic, post-apocalyptic Harajuku fashion editorial, rebellious street-art atmosphere. Lighting: soft overcast daylight mixed with directional studio illumination, diffused shadows, bright pale highlights, deep black details, slightly desaturated environment, warm skin accents, strong separation between black and white clothing. Colour palette: predominantly bone white, cream, black, dirty grey and muted beige, with very small accents of red, faded pink, brass, aged gold and oxidized metal. Visual density extremely high; face remains the main focal point. Sophisticated polished render, professional collectible-art quality, sharp linework integrated with photorealistic materials, cinematic depth, extremely detailed, intentionally imperfect, rebellious, cute but intimidating, dark kawaii, punk anime streetwear, dystopian fashion editorial. OC look: hair is ash-black messy mullet with uneven bangs; outfit focus is bone-white oversized distressed hoodie with cream layered sleeves and faint charcoal hand-painted markings; accessory emphasis is heavy oxidized padlock choker and overlapping brass chains. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@fiberzOG](https://x.com/fiberzOG)
+- Original post: https://x.com/fiberzOG/status/2104157646848995796
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/dark-kawaii-bone-white-hoodie-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Lavender-Streak Punk Dark Kawaii Collectible
+
+<a href="https://cinel.ai/prompts/p/dark-kawaii-lavender-streak-punk-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/dark-kawaii-lavender-streak-punk-oc.webp" alt="Lavender-Streak Punk Dark Kawaii Collectible" width="480"></a>
+
+> @fiberzOG dark-kawaii street-fashion collectible (~39 likes). Rewritten from ref-based character preservation to text-only fictional adult OC (hair/hoodie accents/accessories varied); square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Ultra-detailed 3D anime illustration of an ORIGINAL fictional adult OC as a dark street-fashion anime collectible character, chibi proportions, oversized head, compact body, large heavy-lidded eyes, slightly tired expression, tiny nose and mouth, pale porcelain-like skin, subtle blush and under-eye shading. Mix cute kawaii character design with aggressive punk, goth, cyber-streetwear and underground Japanese fashion. Clothing is extremely layered and intricate: oversized distressed hoodie, loose sleeves, layered shirts, belts, straps, chains, padlocks, metal rings, buckles, safety pins, checkerboard patterns, graffiti symbols, hand-painted markings, stitched patches, torn fabric, abstract screen-printed graphics and small hanging accessories. Clothing should feel handmade, worn, dirty and customized rather than clean or mass-produced. Dense accessory design: chunky chains, chokers, rings, earrings, piercings, nail art, charms, spikes, miniature hardware, metallic ornaments, straps and dangling objects overlapping naturally. Subtle tattoos, sticker-like markings and hand-drawn abstract symbols across the face, fingers, arms and exposed skin (tiny abstract symbols, never readable branded text). Hair rendered as hundreds of fine individual strands with strong anime shaping, slightly messy texture, dramatic bangs and sculptural silhouette. Rendering style: premium Japanese anime figurine photography, hyper-detailed 3D character modelling, resin collectible sculpture, manga illustration and gritty editorial street-fashion photography. Materials physically real: woven cotton, faded denim, rough canvas, scratched metal, oxidized chains, soft skin, painted plastic, leather and weathered fabric. Extremely sharp micro-detail, intricate textures, realistic fabric fibres, highly detailed stitching, metallic reflections, subtle surface imperfections, controlled subsurface scattering in skin, physically based materials, ambient occlusion, realistic contact shadows. Composition: character filling most of the frame, close portrait / three-quarter body crop, slightly wide-angle perspective, dramatic overlapping pose, strong foreground presence, crowded composition, intentionally maximalist. Background: dirty concrete wall covered with black brush graffiti, torn posters, scratches, stains, faded paint, rust marks and distressed urban textures. Japanese underground alley aesthetic, post-apocalyptic Harajuku fashion editorial, rebellious street-art atmosphere. Lighting: soft overcast daylight mixed with directional studio illumination, diffused shadows, bright pale highlights, deep black details, slightly desaturated environment, warm skin accents, strong separation between black and white clothing. Colour palette: predominantly bone white, cream, black, dirty grey and muted beige, with very small accents of red, faded pink, brass, aged gold and oxidized metal. Visual density extremely high; face remains the main focal point. Sophisticated polished render, professional collectible-art quality, sharp linework integrated with photorealistic materials, cinematic depth, extremely detailed, intentionally imperfect, rebellious, cute but intimidating, dark kawaii, punk anime streetwear, dystopian fashion editorial. OC look: hair is jet-black shaggy bob with two soft lavender under-streaks; outfit focus is charcoal oversized hoodie with lavender checkerboard cuff patches and torn cream undershirt; accessory emphasis is clusters of safety pins on one shoulder and dangling spike charms. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@fiberzOG](https://x.com/fiberzOG)
+- Original post: https://x.com/fiberzOG/status/2104157646848995796
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/dark-kawaii-lavender-streak-punk-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Crimson-Accent Chains Dark Kawaii Collectible
+
+<a href="https://cinel.ai/prompts/p/dark-kawaii-crimson-accent-chains-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/dark-kawaii-crimson-accent-chains-oc.webp" alt="Crimson-Accent Chains Dark Kawaii Collectible" width="480"></a>
+
+> @fiberzOG dark-kawaii street-fashion collectible (~39 likes). Rewritten from ref-based character preservation to text-only fictional adult OC (hair/hoodie accents/accessories varied); square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Ultra-detailed 3D anime illustration of an ORIGINAL fictional adult OC as a dark street-fashion anime collectible character, chibi proportions, oversized head, compact body, large heavy-lidded eyes, slightly tired expression, tiny nose and mouth, pale porcelain-like skin, subtle blush and under-eye shading. Mix cute kawaii character design with aggressive punk, goth, cyber-streetwear and underground Japanese fashion. Clothing is extremely layered and intricate: oversized distressed hoodie, loose sleeves, layered shirts, belts, straps, chains, padlocks, metal rings, buckles, safety pins, checkerboard patterns, graffiti symbols, hand-painted markings, stitched patches, torn fabric, abstract screen-printed graphics and small hanging accessories. Clothing should feel handmade, worn, dirty and customized rather than clean or mass-produced. Dense accessory design: chunky chains, chokers, rings, earrings, piercings, nail art, charms, spikes, miniature hardware, metallic ornaments, straps and dangling objects overlapping naturally. Subtle tattoos, sticker-like markings and hand-drawn abstract symbols across the face, fingers, arms and exposed skin (tiny abstract symbols, never readable branded text). Hair rendered as hundreds of fine individual strands with strong anime shaping, slightly messy texture, dramatic bangs and sculptural silhouette. Rendering style: premium Japanese anime figurine photography, hyper-detailed 3D character modelling, resin collectible sculpture, manga illustration and gritty editorial street-fashion photography. Materials physically real: woven cotton, faded denim, rough canvas, scratched metal, oxidized chains, soft skin, painted plastic, leather and weathered fabric. Extremely sharp micro-detail, intricate textures, realistic fabric fibres, highly detailed stitching, metallic reflections, subtle surface imperfections, controlled subsurface scattering in skin, physically based materials, ambient occlusion, realistic contact shadows. Composition: character filling most of the frame, close portrait / three-quarter body crop, slightly wide-angle perspective, dramatic overlapping pose, strong foreground presence, crowded composition, intentionally maximalist. Background: dirty concrete wall covered with black brush graffiti, torn posters, scratches, stains, faded paint, rust marks and distressed urban textures. Japanese underground alley aesthetic, post-apocalyptic Harajuku fashion editorial, rebellious street-art atmosphere. Lighting: soft overcast daylight mixed with directional studio illumination, diffused shadows, bright pale highlights, deep black details, slightly desaturated environment, warm skin accents, strong separation between black and white clothing. Colour palette: predominantly bone white, cream, black, dirty grey and muted beige, with very small accents of red, faded pink, brass, aged gold and oxidized metal. Visual density extremely high; face remains the main focal point. Sophisticated polished render, professional collectible-art quality, sharp linework integrated with photorealistic materials, cinematic depth, extremely detailed, intentionally imperfect, rebellious, cute but intimidating, dark kawaii, punk anime streetwear, dystopian fashion editorial. OC look: hair is cream-blonde choppy layers with deep crimson tips; outfit focus is faded black hoodie with bone-white graphic patches and crimson stitch accents on the hem; accessory emphasis is dense overlapping chain harness across the chest with tiny crimson charms. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@fiberzOG](https://x.com/fiberzOG)
+- Original post: https://x.com/fiberzOG/status/2104157646848995796
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/dark-kawaii-crimson-accent-chains-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Mint-Patch Hoodie Dark Kawaii Collectible
+
+<a href="https://cinel.ai/prompts/p/dark-kawaii-mint-patch-hoodie-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/dark-kawaii-mint-patch-hoodie-oc.webp" alt="Mint-Patch Hoodie Dark Kawaii Collectible" width="480"></a>
+
+> @fiberzOG dark-kawaii street-fashion collectible (~39 likes). Rewritten from ref-based character preservation to text-only fictional adult OC (hair/hoodie accents/accessories varied); square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Ultra-detailed 3D anime illustration of an ORIGINAL fictional adult OC as a dark street-fashion anime collectible character, chibi proportions, oversized head, compact body, large heavy-lidded eyes, slightly tired expression, tiny nose and mouth, pale porcelain-like skin, subtle blush and under-eye shading. Mix cute kawaii character design with aggressive punk, goth, cyber-streetwear and underground Japanese fashion. Clothing is extremely layered and intricate: oversized distressed hoodie, loose sleeves, layered shirts, belts, straps, chains, padlocks, metal rings, buckles, safety pins, checkerboard patterns, graffiti symbols, hand-painted markings, stitched patches, torn fabric, abstract screen-printed graphics and small hanging accessories. Clothing should feel handmade, worn, dirty and customized rather than clean or mass-produced. Dense accessory design: chunky chains, chokers, rings, earrings, piercings, nail art, charms, spikes, miniature hardware, metallic ornaments, straps and dangling objects overlapping naturally. Subtle tattoos, sticker-like markings and hand-drawn abstract symbols across the face, fingers, arms and exposed skin (tiny abstract symbols, never readable branded text). Hair rendered as hundreds of fine individual strands with strong anime shaping, slightly messy texture, dramatic bangs and sculptural silhouette. Rendering style: premium Japanese anime figurine photography, hyper-detailed 3D character modelling, resin collectible sculpture, manga illustration and gritty editorial street-fashion photography. Materials physically real: woven cotton, faded denim, rough canvas, scratched metal, oxidized chains, soft skin, painted plastic, leather and weathered fabric. Extremely sharp micro-detail, intricate textures, realistic fabric fibres, highly detailed stitching, metallic reflections, subtle surface imperfections, controlled subsurface scattering in skin, physically based materials, ambient occlusion, realistic contact shadows. Composition: character filling most of the frame, close portrait / three-quarter body crop, slightly wide-angle perspective, dramatic overlapping pose, strong foreground presence, crowded composition, intentionally maximalist. Background: dirty concrete wall covered with black brush graffiti, torn posters, scratches, stains, faded paint, rust marks and distressed urban textures. Japanese underground alley aesthetic, post-apocalyptic Harajuku fashion editorial, rebellious street-art atmosphere. Lighting: soft overcast daylight mixed with directional studio illumination, diffused shadows, bright pale highlights, deep black details, slightly desaturated environment, warm skin accents, strong separation between black and white clothing. Colour palette: predominantly bone white, cream, black, dirty grey and muted beige, with very small accents of red, faded pink, brass, aged gold and oxidized metal. Visual density extremely high; face remains the main focal point. Sophisticated polished render, professional collectible-art quality, sharp linework integrated with photorealistic materials, cinematic depth, extremely detailed, intentionally imperfect, rebellious, cute but intimidating, dark kawaii, punk anime streetwear, dystopian fashion editorial. OC look: hair is inky blue-black twin tails with uneven blunt bangs; outfit focus is bone-white hoodie covered in mint and charcoal stitched patches, loose layered sleeves; accessory emphasis is mint enamel ring stack and a single padlock earring. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@fiberzOG](https://x.com/fiberzOG)
+- Original post: https://x.com/fiberzOG/status/2104157646848995796
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/dark-kawaii-mint-patch-hoodie-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Ash-Blonde Spikes Dark Kawaii Collectible
+
+<a href="https://cinel.ai/prompts/p/dark-kawaii-ash-blonde-spikes-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/dark-kawaii-ash-blonde-spikes-oc.webp" alt="Ash-Blonde Spikes Dark Kawaii Collectible" width="480"></a>
+
+> @fiberzOG dark-kawaii street-fashion collectible (~39 likes). Rewritten from ref-based character preservation to text-only fictional adult OC (hair/hoodie accents/accessories varied); square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Ultra-detailed 3D anime illustration of an ORIGINAL fictional adult OC as a dark street-fashion anime collectible character, chibi proportions, oversized head, compact body, large heavy-lidded eyes, slightly tired expression, tiny nose and mouth, pale porcelain-like skin, subtle blush and under-eye shading. Mix cute kawaii character design with aggressive punk, goth, cyber-streetwear and underground Japanese fashion. Clothing is extremely layered and intricate: oversized distressed hoodie, loose sleeves, layered shirts, belts, straps, chains, padlocks, metal rings, buckles, safety pins, checkerboard patterns, graffiti symbols, hand-painted markings, stitched patches, torn fabric, abstract screen-printed graphics and small hanging accessories. Clothing should feel handmade, worn, dirty and customized rather than clean or mass-produced. Dense accessory design: chunky chains, chokers, rings, earrings, piercings, nail art, charms, spikes, miniature hardware, metallic ornaments, straps and dangling objects overlapping naturally. Subtle tattoos, sticker-like markings and hand-drawn abstract symbols across the face, fingers, arms and exposed skin (tiny abstract symbols, never readable branded text). Hair rendered as hundreds of fine individual strands with strong anime shaping, slightly messy texture, dramatic bangs and sculptural silhouette. Rendering style: premium Japanese anime figurine photography, hyper-detailed 3D character modelling, resin collectible sculpture, manga illustration and gritty editorial street-fashion photography. Materials physically real: woven cotton, faded denim, rough canvas, scratched metal, oxidized chains, soft skin, painted plastic, leather and weathered fabric. Extremely sharp micro-detail, intricate textures, realistic fabric fibres, highly detailed stitching, metallic reflections, subtle surface imperfections, controlled subsurface scattering in skin, physically based materials, ambient occlusion, realistic contact shadows. Composition: character filling most of the frame, close portrait / three-quarter body crop, slightly wide-angle perspective, dramatic overlapping pose, strong foreground presence, crowded composition, intentionally maximalist. Background: dirty concrete wall covered with black brush graffiti, torn posters, scratches, stains, faded paint, rust marks and distressed urban textures. Japanese underground alley aesthetic, post-apocalyptic Harajuku fashion editorial, rebellious street-art atmosphere. Lighting: soft overcast daylight mixed with directional studio illumination, diffused shadows, bright pale highlights, deep black details, slightly desaturated environment, warm skin accents, strong separation between black and white clothing. Colour palette: predominantly bone white, cream, black, dirty grey and muted beige, with very small accents of red, faded pink, brass, aged gold and oxidized metal. Visual density extremely high; face remains the main focal point. Sophisticated polished render, professional collectible-art quality, sharp linework integrated with photorealistic materials, cinematic depth, extremely detailed, intentionally imperfect, rebellious, cute but intimidating, dark kawaii, punk anime streetwear, dystopian fashion editorial. OC look: hair is ash-blonde wolf cut with spiky crown volume; outfit focus is dirty-grey oversized hoodie with black checker sleeves and cream tear-aways; accessory emphasis is forehead spike clip row and layered oxidized rings on every finger. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@fiberzOG](https://x.com/fiberzOG)
+- Original post: https://x.com/fiberzOG/status/2104157646848995796
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/dark-kawaii-ash-blonde-spikes-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Ink-Black Bangs Dark Kawaii Collectible
+
+<a href="https://cinel.ai/prompts/p/dark-kawaii-ink-black-bangs-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/dark-kawaii-ink-black-bangs-oc.webp" alt="Ink-Black Bangs Dark Kawaii Collectible" width="480"></a>
+
+> @fiberzOG dark-kawaii street-fashion collectible (~39 likes). Rewritten from ref-based character preservation to text-only fictional adult OC (hair/hoodie accents/accessories varied); square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Ultra-detailed 3D anime illustration of an ORIGINAL fictional adult OC as a dark street-fashion anime collectible character, chibi proportions, oversized head, compact body, large heavy-lidded eyes, slightly tired expression, tiny nose and mouth, pale porcelain-like skin, subtle blush and under-eye shading. Mix cute kawaii character design with aggressive punk, goth, cyber-streetwear and underground Japanese fashion. Clothing is extremely layered and intricate: oversized distressed hoodie, loose sleeves, layered shirts, belts, straps, chains, padlocks, metal rings, buckles, safety pins, checkerboard patterns, graffiti symbols, hand-painted markings, stitched patches, torn fabric, abstract screen-printed graphics and small hanging accessories. Clothing should feel handmade, worn, dirty and customized rather than clean or mass-produced. Dense accessory design: chunky chains, chokers, rings, earrings, piercings, nail art, charms, spikes, miniature hardware, metallic ornaments, straps and dangling objects overlapping naturally. Subtle tattoos, sticker-like markings and hand-drawn abstract symbols across the face, fingers, arms and exposed skin (tiny abstract symbols, never readable branded text). Hair rendered as hundreds of fine individual strands with strong anime shaping, slightly messy texture, dramatic bangs and sculptural silhouette. Rendering style: premium Japanese anime figurine photography, hyper-detailed 3D character modelling, resin collectible sculpture, manga illustration and gritty editorial street-fashion photography. Materials physically real: woven cotton, faded denim, rough canvas, scratched metal, oxidized chains, soft skin, painted plastic, leather and weathered fabric. Extremely sharp micro-detail, intricate textures, realistic fabric fibres, highly detailed stitching, metallic reflections, subtle surface imperfections, controlled subsurface scattering in skin, physically based materials, ambient occlusion, realistic contact shadows. Composition: character filling most of the frame, close portrait / three-quarter body crop, slightly wide-angle perspective, dramatic overlapping pose, strong foreground presence, crowded composition, intentionally maximalist. Background: dirty concrete wall covered with black brush graffiti, torn posters, scratches, stains, faded paint, rust marks and distressed urban textures. Japanese underground alley aesthetic, post-apocalyptic Harajuku fashion editorial, rebellious street-art atmosphere. Lighting: soft overcast daylight mixed with directional studio illumination, diffused shadows, bright pale highlights, deep black details, slightly desaturated environment, warm skin accents, strong separation between black and white clothing. Colour palette: predominantly bone white, cream, black, dirty grey and muted beige, with very small accents of red, faded pink, brass, aged gold and oxidized metal. Visual density extremely high; face remains the main focal point. Sophisticated polished render, professional collectible-art quality, sharp linework integrated with photorealistic materials, cinematic depth, extremely detailed, intentionally imperfect, rebellious, cute but intimidating, dark kawaii, punk anime streetwear, dystopian fashion editorial. OC look: hair is waist-length ink-black straight hair with heavy curtain bangs; outfit focus is cream cropped hoodie over a long black layered shirt with strap harness; accessory emphasis is hanging skeleton-key charms and brass buckle belts. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@fiberzOG](https://x.com/fiberzOG)
+- Original post: https://x.com/fiberzOG/status/2104157646848995796
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/dark-kawaii-ink-black-bangs-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Rose Safety-Pin Dark Kawaii Collectible
+
+<a href="https://cinel.ai/prompts/p/dark-kawaii-rose-safety-pin-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/dark-kawaii-rose-safety-pin-oc.webp" alt="Rose Safety-Pin Dark Kawaii Collectible" width="480"></a>
+
+> @fiberzOG dark-kawaii street-fashion collectible (~39 likes). Rewritten from ref-based character preservation to text-only fictional adult OC (hair/hoodie accents/accessories varied); square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Ultra-detailed 3D anime illustration of an ORIGINAL fictional adult OC as a dark street-fashion anime collectible character, chibi proportions, oversized head, compact body, large heavy-lidded eyes, slightly tired expression, tiny nose and mouth, pale porcelain-like skin, subtle blush and under-eye shading. Mix cute kawaii character design with aggressive punk, goth, cyber-streetwear and underground Japanese fashion. Clothing is extremely layered and intricate: oversized distressed hoodie, loose sleeves, layered shirts, belts, straps, chains, padlocks, metal rings, buckles, safety pins, checkerboard patterns, graffiti symbols, hand-painted markings, stitched patches, torn fabric, abstract screen-printed graphics and small hanging accessories. Clothing should feel handmade, worn, dirty and customized rather than clean or mass-produced. Dense accessory design: chunky chains, chokers, rings, earrings, piercings, nail art, charms, spikes, miniature hardware, metallic ornaments, straps and dangling objects overlapping naturally. Subtle tattoos, sticker-like markings and hand-drawn abstract symbols across the face, fingers, arms and exposed skin (tiny abstract symbols, never readable branded text). Hair rendered as hundreds of fine individual strands with strong anime shaping, slightly messy texture, dramatic bangs and sculptural silhouette. Rendering style: premium Japanese anime figurine photography, hyper-detailed 3D character modelling, resin collectible sculpture, manga illustration and gritty editorial street-fashion photography. Materials physically real: woven cotton, faded denim, rough canvas, scratched metal, oxidized chains, soft skin, painted plastic, leather and weathered fabric. Extremely sharp micro-detail, intricate textures, realistic fabric fibres, highly detailed stitching, metallic reflections, subtle surface imperfections, controlled subsurface scattering in skin, physically based materials, ambient occlusion, realistic contact shadows. Composition: character filling most of the frame, close portrait / three-quarter body crop, slightly wide-angle perspective, dramatic overlapping pose, strong foreground presence, crowded composition, intentionally maximalist. Background: dirty concrete wall covered with black brush graffiti, torn posters, scratches, stains, faded paint, rust marks and distressed urban textures. Japanese underground alley aesthetic, post-apocalyptic Harajuku fashion editorial, rebellious street-art atmosphere. Lighting: soft overcast daylight mixed with directional studio illumination, diffused shadows, bright pale highlights, deep black details, slightly desaturated environment, warm skin accents, strong separation between black and white clothing. Colour palette: predominantly bone white, cream, black, dirty grey and muted beige, with very small accents of red, faded pink, brass, aged gold and oxidized metal. Visual density extremely high; face remains the main focal point. Sophisticated polished render, professional collectible-art quality, sharp linework integrated with photorealistic materials, cinematic depth, extremely detailed, intentionally imperfect, rebellious, cute but intimidating, dark kawaii, punk anime streetwear, dystopian fashion editorial. OC look: hair is dusty rose space-buns over undercut sides; outfit focus is black-and-bone split hoodie with rose hand-painted X marks on one sleeve; accessory emphasis is safety-pin ear cuff cascade and rose-bead nail charms. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@fiberzOG](https://x.com/fiberzOG)
+- Original post: https://x.com/fiberzOG/status/2104157646848995796
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/dark-kawaii-rose-safety-pin-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Brass-Lock Street Dark Kawaii Collectible
+
+<a href="https://cinel.ai/prompts/p/dark-kawaii-brass-lock-street-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/dark-kawaii-brass-lock-street-oc.webp" alt="Brass-Lock Street Dark Kawaii Collectible" width="480"></a>
+
+> @fiberzOG dark-kawaii street-fashion collectible (~39 likes). Rewritten from ref-based character preservation to text-only fictional adult OC (hair/hoodie accents/accessories varied); square 1:1. Same-template variant (synthetic unique id).
+
+```text
+Ultra-detailed 3D anime illustration of an ORIGINAL fictional adult OC as a dark street-fashion anime collectible character, chibi proportions, oversized head, compact body, large heavy-lidded eyes, slightly tired expression, tiny nose and mouth, pale porcelain-like skin, subtle blush and under-eye shading. Mix cute kawaii character design with aggressive punk, goth, cyber-streetwear and underground Japanese fashion. Clothing is extremely layered and intricate: oversized distressed hoodie, loose sleeves, layered shirts, belts, straps, chains, padlocks, metal rings, buckles, safety pins, checkerboard patterns, graffiti symbols, hand-painted markings, stitched patches, torn fabric, abstract screen-printed graphics and small hanging accessories. Clothing should feel handmade, worn, dirty and customized rather than clean or mass-produced. Dense accessory design: chunky chains, chokers, rings, earrings, piercings, nail art, charms, spikes, miniature hardware, metallic ornaments, straps and dangling objects overlapping naturally. Subtle tattoos, sticker-like markings and hand-drawn abstract symbols across the face, fingers, arms and exposed skin (tiny abstract symbols, never readable branded text). Hair rendered as hundreds of fine individual strands with strong anime shaping, slightly messy texture, dramatic bangs and sculptural silhouette. Rendering style: premium Japanese anime figurine photography, hyper-detailed 3D character modelling, resin collectible sculpture, manga illustration and gritty editorial street-fashion photography. Materials physically real: woven cotton, faded denim, rough canvas, scratched metal, oxidized chains, soft skin, painted plastic, leather and weathered fabric. Extremely sharp micro-detail, intricate textures, realistic fabric fibres, highly detailed stitching, metallic reflections, subtle surface imperfections, controlled subsurface scattering in skin, physically based materials, ambient occlusion, realistic contact shadows. Composition: character filling most of the frame, close portrait / three-quarter body crop, slightly wide-angle perspective, dramatic overlapping pose, strong foreground presence, crowded composition, intentionally maximalist. Background: dirty concrete wall covered with black brush graffiti, torn posters, scratches, stains, faded paint, rust marks and distressed urban textures. Japanese underground alley aesthetic, post-apocalyptic Harajuku fashion editorial, rebellious street-art atmosphere. Lighting: soft overcast daylight mixed with directional studio illumination, diffused shadows, bright pale highlights, deep black details, slightly desaturated environment, warm skin accents, strong separation between black and white clothing. Colour palette: predominantly bone white, cream, black, dirty grey and muted beige, with very small accents of red, faded pink, brass, aged gold and oxidized metal. Visual density extremely high; face remains the main focal point. Sophisticated polished render, professional collectible-art quality, sharp linework integrated with photorealistic materials, cinematic depth, extremely detailed, intentionally imperfect, rebellious, cute but intimidating, dark kawaii, punk anime streetwear, dystopian fashion editorial. OC look: hair is silver-grey messy pixie with a long side fringe; outfit focus is oversized cream hoodie with black strap lattice and tiny brass lock cluster at the zipper; accessory emphasis is thick brass curb chain necklace and padlock pendant emphasis. Square 1:1. No brand logos, no watermarks, no real celebrity likeness. Fictional adult model only.
+```
+
+- Author: [@fiberzOG](https://x.com/fiberzOG)
+- Original post: https://x.com/fiberzOG/status/2104157646848995796
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/dark-kawaii-brass-lock-street-oc?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### How Bread Is Made
+
+<a href="https://cinel.ai/prompts/p/edu-diorama-how-bread-is-made?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/edu-diorama-how-bread-is-made.webp" alt="How Bread Is Made" width="480"></a>
+
+> @aleenaamiir isometric educational 3D diorama (~920 likes). Same-template fill of isometric-educational-3d-diorama: How Bread Is Made; square 1:1. Synthetic unique id.
+
+```text
+Create a clear, 45° top-down isometric miniature 3D educational diorama explaining how bread is made, from milling grain and kneading dough through proofing, baking, and slicing a finished loaf.
+
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting.
+
+Build a stepped or layered diorama base showing each stage of the process with subtle arrows or paths.
+
+Include tiny stylized figures interacting with each stage (no facial details).
+
+Use a clean solid warm wheat-gold background.
+At the top-center, display How Bread Is Made in large bold text, directly beneath it show a short explanation subtitle, and place a minimal symbolic icon below.
+
+All text must automatically match the background contrast (white or black).
+
+Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
+```
+
+- Author: [@aleenaamiir](https://x.com/aleenaamiir)
+- Original post: https://x.com/aleenaamiir/status/2013493349156823287
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/edu-diorama-how-bread-is-made?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### How a Battery Works
+
+<a href="https://cinel.ai/prompts/p/edu-diorama-how-a-battery-works?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/edu-diorama-how-a-battery-works.webp" alt="How a Battery Works" width="480"></a>
+
+> @aleenaamiir isometric educational 3D diorama (~920 likes). Same-template fill of isometric-educational-3d-diorama: How a Battery Works; square 1:1. Synthetic unique id.
+
+```text
+Create a clear, 45° top-down isometric miniature 3D educational diorama explaining how a simple battery works, from chemical cells and ion flow through a circuit to lighting a small bulb.
+
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting.
+
+Build a stepped or layered diorama base showing each stage of the process with subtle arrows or paths.
+
+Include tiny stylized figures interacting with each stage (no facial details).
+
+Use a clean solid soft electric blue background.
+At the top-center, display How a Battery Works in large bold text, directly beneath it show a short explanation subtitle, and place a minimal symbolic icon below.
+
+All text must automatically match the background contrast (white or black).
+
+Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
+```
+
+- Author: [@aleenaamiir](https://x.com/aleenaamiir)
+- Original post: https://x.com/aleenaamiir/status/2013493349156823287
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/edu-diorama-how-a-battery-works?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### How Bees Make Honey
+
+<a href="https://cinel.ai/prompts/p/edu-diorama-how-bees-make-honey?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/edu-diorama-how-bees-make-honey.webp" alt="How Bees Make Honey" width="480"></a>
+
+> @aleenaamiir isometric educational 3D diorama (~920 likes). Same-template fill of isometric-educational-3d-diorama: How Bees Make Honey; square 1:1. Synthetic unique id.
+
+```text
+Create a clear, 45° top-down isometric miniature 3D educational diorama explaining how bees make honey, from foraging flowers and comb building through nectar ripening to sealed honey cells.
+
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting.
+
+Build a stepped or layered diorama base showing each stage of the process with subtle arrows or paths.
+
+Include tiny stylized figures interacting with each stage (no facial details).
+
+Use a clean solid soft amber honey background.
+At the top-center, display How Bees Make Honey in large bold text, directly beneath it show a short explanation subtitle, and place a minimal symbolic icon below.
+
+All text must automatically match the background contrast (white or black).
+
+Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
+```
+
+- Author: [@aleenaamiir](https://x.com/aleenaamiir)
+- Original post: https://x.com/aleenaamiir/status/2013493349156823287
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/edu-diorama-how-bees-make-honey?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### How Composting Works
+
+<a href="https://cinel.ai/prompts/p/edu-diorama-how-composting-works?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/edu-diorama-how-composting-works.webp" alt="How Composting Works" width="480"></a>
+
+> @aleenaamiir isometric educational 3D diorama (~920 likes). Same-template fill of isometric-educational-3d-diorama: How Composting Works; square 1:1. Synthetic unique id.
+
+```text
+Create a clear, 45° top-down isometric miniature 3D educational diorama explaining how composting works, from kitchen scraps and browns layered in a bin through microbes and worms to rich soil.
+
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting.
+
+Build a stepped or layered diorama base showing each stage of the process with subtle arrows or paths.
+
+Include tiny stylized figures interacting with each stage (no facial details).
+
+Use a clean solid earthy olive green background.
+At the top-center, display How Composting Works in large bold text, directly beneath it show a short explanation subtitle, and place a minimal symbolic icon below.
+
+All text must automatically match the background contrast (white or black).
+
+Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
+```
+
+- Author: [@aleenaamiir](https://x.com/aleenaamiir)
+- Original post: https://x.com/aleenaamiir/status/2013493349156823287
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/edu-diorama-how-composting-works?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### How Chocolate Is Made
+
+<a href="https://cinel.ai/prompts/p/edu-diorama-how-chocolate-is-made?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/edu-diorama-how-chocolate-is-made.webp" alt="How Chocolate Is Made" width="480"></a>
+
+> @aleenaamiir isometric educational 3D diorama (~920 likes). Same-template fill of isometric-educational-3d-diorama: How Chocolate Is Made; square 1:1. Synthetic unique id.
+
+```text
+Create a clear, 45° top-down isometric miniature 3D educational diorama explaining how chocolate is made, from cacao pods and fermentation through roasting, grinding, and molding chocolate bars.
+
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting.
+
+Build a stepped or layered diorama base showing each stage of the process with subtle arrows or paths.
+
+Include tiny stylized figures interacting with each stage (no facial details).
+
+Use a clean solid rich cocoa brown background.
+At the top-center, display How Chocolate Is Made in large bold text, directly beneath it show a short explanation subtitle, and place a minimal symbolic icon below.
+
+All text must automatically match the background contrast (white or black).
+
+Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
+```
+
+- Author: [@aleenaamiir](https://x.com/aleenaamiir)
+- Original post: https://x.com/aleenaamiir/status/2013493349156823287
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/edu-diorama-how-chocolate-is-made?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### How Paper Is Made
+
+<a href="https://cinel.ai/prompts/p/edu-diorama-how-paper-is-made?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/edu-diorama-how-paper-is-made.webp" alt="How Paper Is Made" width="480"></a>
+
+> @aleenaamiir isometric educational 3D diorama (~920 likes). Same-template fill of isometric-educational-3d-diorama: How Paper Is Made; square 1:1. Synthetic unique id.
+
+```text
+Create a clear, 45° top-down isometric miniature 3D educational diorama explaining how paper is made, from trees and wood pulp through screening, pressing, drying, and cutting sheets.
+
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting.
+
+Build a stepped or layered diorama base showing each stage of the process with subtle arrows or paths.
+
+Include tiny stylized figures interacting with each stage (no facial details).
+
+Use a clean solid soft pulp white background.
+At the top-center, display How Paper Is Made in large bold text, directly beneath it show a short explanation subtitle, and place a minimal symbolic icon below.
+
+All text must automatically match the background contrast (white or black).
+
+Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
+```
+
+- Author: [@aleenaamiir](https://x.com/aleenaamiir)
+- Original post: https://x.com/aleenaamiir/status/2013493349156823287
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/edu-diorama-how-paper-is-made?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### How Wi-Fi Works
+
+<a href="https://cinel.ai/prompts/p/edu-diorama-how-wifi-works?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/edu-diorama-how-wifi-works.webp" alt="How Wi-Fi Works" width="480"></a>
+
+> @aleenaamiir isometric educational 3D diorama (~920 likes). Same-template fill of isometric-educational-3d-diorama: How Wi-Fi Works; square 1:1. Synthetic unique id.
+
+```text
+Create a clear, 45° top-down isometric miniature 3D educational diorama explaining how Wi-Fi works in a kid-friendly way, from a home router sending radio waves through devices connecting to the internet cloud.
+
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting.
+
+Build a stepped or layered diorama base showing each stage of the process with subtle arrows or paths.
+
+Include tiny stylized figures interacting with each stage (no facial details).
+
+Use a clean solid soft sky cyan background.
+At the top-center, display How Wi-Fi Works in large bold text, directly beneath it show a short explanation subtitle, and place a minimal symbolic icon below.
+
+All text must automatically match the background contrast (white or black).
+
+Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
+```
+
+- Author: [@aleenaamiir](https://x.com/aleenaamiir)
+- Original post: https://x.com/aleenaamiir/status/2013493349156823287
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/edu-diorama-how-wifi-works?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### How a Seed Grows
+
+<a href="https://cinel.ai/prompts/p/edu-diorama-how-a-seed-grows?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/edu-diorama-how-a-seed-grows.webp" alt="How a Seed Grows" width="480"></a>
+
+> @aleenaamiir isometric educational 3D diorama (~920 likes). Same-template fill of isometric-educational-3d-diorama: How a Seed Grows; square 1:1. Synthetic unique id.
+
+```text
+Create a clear, 45° top-down isometric miniature 3D educational diorama explaining how a seed grows into a plant, from seed in soil through sprouting roots and shoots to a leafy young plant.
+
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting.
+
+Build a stepped or layered diorama base showing each stage of the process with subtle arrows or paths.
+
+Include tiny stylized figures interacting with each stage (no facial details).
+
+Use a clean solid fresh seedling green background.
+At the top-center, display How a Seed Grows in large bold text, directly beneath it show a short explanation subtitle, and place a minimal symbolic icon below.
+
+All text must automatically match the background contrast (white or black).
+
+Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
+```
+
+- Author: [@aleenaamiir](https://x.com/aleenaamiir)
+- Original post: https://x.com/aleenaamiir/status/2013493349156823287
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/edu-diorama-how-a-seed-grows?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### How Steel Becomes a Bike
+
+<a href="https://cinel.ai/prompts/p/edu-diorama-how-steel-becomes-a-bike?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/edu-diorama-how-steel-becomes-a-bike.webp" alt="How Steel Becomes a Bike" width="480"></a>
+
+> @aleenaamiir isometric educational 3D diorama (~920 likes). Same-template fill of isometric-educational-3d-diorama: How Steel Becomes a Bike; square 1:1. Synthetic unique id.
+
+```text
+Create a clear, 45° top-down isometric miniature 3D educational diorama explaining how recycled steel becomes a bicycle, from scrap steel and melting through shaping tubes, welding a frame, and assembling wheels.
+
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting.
+
+Build a stepped or layered diorama base showing each stage of the process with subtle arrows or paths.
+
+Include tiny stylized figures interacting with each stage (no facial details).
+
+Use a clean solid cool steel gray background.
+At the top-center, display How Steel Becomes a Bike in large bold text, directly beneath it show a short explanation subtitle, and place a minimal symbolic icon below.
+
+All text must automatically match the background contrast (white or black).
+
+Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
+```
+
+- Author: [@aleenaamiir](https://x.com/aleenaamiir)
+- Original post: https://x.com/aleenaamiir/status/2013493349156823287
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/edu-diorama-how-steel-becomes-a-bike?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### How Solar Panels Make Electricity
+
+<a href="https://cinel.ai/prompts/p/edu-diorama-how-solar-panels-make-electricity?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/edu-diorama-how-solar-panels-make-electricity.webp" alt="How Solar Panels Make Electricity" width="480"></a>
+
+> @aleenaamiir isometric educational 3D diorama (~920 likes). Same-template fill of isometric-educational-3d-diorama: How Solar Panels Make Electricity; square 1:1. Synthetic unique id.
+
+```text
+Create a clear, 45° top-down isometric miniature 3D educational diorama explaining how solar panels make electricity, from sunlight hitting photovoltaic cells through inverters to powering a home light.
+
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting.
+
+Build a stepped or layered diorama base showing each stage of the process with subtle arrows or paths.
+
+Include tiny stylized figures interacting with each stage (no facial details).
+
+Use a clean solid sunny solar yellow background.
+At the top-center, display How Solar Panels Make Electricity in large bold text, directly beneath it show a short explanation subtitle, and place a minimal symbolic icon below.
+
+All text must automatically match the background contrast (white or black).
+
+Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
+```
+
+- Author: [@aleenaamiir](https://x.com/aleenaamiir)
+- Original post: https://x.com/aleenaamiir/status/2013493349156823287
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/edu-diorama-how-solar-panels-make-electricity?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
