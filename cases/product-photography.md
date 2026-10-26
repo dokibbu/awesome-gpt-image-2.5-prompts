@@ -1207,20 +1207,6 @@ Ultra-realistic 3D product shot, square 1:1: an unbranded glass bottle sharp in 
 - Original post: https://x.com/FilmluneCOM/status/2109902038834598239
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/cherry-bottle-ice-splash-product?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-### Suitcase to Flying Motorcycle Keyframe
-
-<a href="https://cinel.ai/prompts/p/suitcase-flying-motorcycle-transform-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/suitcase-flying-motorcycle-transform-keyframe.webp" alt="Suitcase to Flying Motorcycle Keyframe" width="480"></a>
-
-> Adapted from a Grok Imagine video post by @Aiminithoughts on 2026-10-20 (24 likes at capture). We rewrote it as one clean widescreen 16:9 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
-
-```text
-Cinematic sci-fi product keyframe, widescreen 16:9: inside a vast futuristic airport hangar, one single sleek brushed-metal suitcase, centered and alone on the floor, is caught at the exact halfway moment of transforming into a flying motorcycle (half suitcase, half bike, a single hybrid object, not a lineup or sequence) — hundreds of precision-engineered panels expanding outward, hidden mechanical arms extending from its core, wheels unfolding, the frame lengthening, twin anti-gravity thrusters glowing blue beneath the chassis. Polished concrete floor with reflections, cool rim lights, hangar doors open to a hazy futuristic skyline. Fictional design, no brand, no text, no logo. Widescreen 16:9 composition.
-```
-
-- Author: [@Aiminithoughts](https://x.com/Aiminithoughts)
-- Original post: https://x.com/Aiminithoughts/status/2112364398350311506
-- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/suitcase-flying-motorcycle-transform-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
 ### Inflating Juice Bottle Typography Poster
 
 <a href="https://cinel.ai/prompts/p/inflating-juice-bottle-typography-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/inflating-juice-bottle-typography-poster.webp" alt="Inflating Juice Bottle Typography Poster" width="480"></a>
@@ -1234,6 +1220,20 @@ Premium commercial product poster for a fictional juice brand "VELVABERRY", squa
 - Author: [@ou_zhen599](https://x.com/ou_zhen599)
 - Original post: https://x.com/ou_zhen599/status/2111034381150339446
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/inflating-juice-bottle-typography-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Suitcase to Flying Motorcycle Keyframe
+
+<a href="https://cinel.ai/prompts/p/suitcase-flying-motorcycle-transform-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/suitcase-flying-motorcycle-transform-keyframe.webp" alt="Suitcase to Flying Motorcycle Keyframe" width="480"></a>
+
+> Adapted from a Grok Imagine video post by @Aiminithoughts on 2026-10-20 (24 likes at capture). We rewrote it as one clean widescreen 16:9 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Cinematic sci-fi product keyframe, widescreen 16:9: inside a vast futuristic airport hangar, one single sleek brushed-metal suitcase, centered and alone on the floor, is caught at the exact halfway moment of transforming into a flying motorcycle (half suitcase, half bike, a single hybrid object, not a lineup or sequence) — hundreds of precision-engineered panels expanding outward, hidden mechanical arms extending from its core, wheels unfolding, the frame lengthening, twin anti-gravity thrusters glowing blue beneath the chassis. Polished concrete floor with reflections, cool rim lights, hangar doors open to a hazy futuristic skyline. Fictional design, no brand, no text, no logo. Widescreen 16:9 composition.
+```
+
+- Author: [@Aiminithoughts](https://x.com/Aiminithoughts)
+- Original post: https://x.com/Aiminithoughts/status/2112364398350311506
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/suitcase-flying-motorcycle-transform-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Luxury Product Hero Commercial Poster
 

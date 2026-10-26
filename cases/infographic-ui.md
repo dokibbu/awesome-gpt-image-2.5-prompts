@@ -1,6 +1,6 @@
 # Infographics & UI · GPT Image 2.5
 
-[← README](../README.md) · 36 · [Category on cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 40 · [Category on cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -1206,3 +1206,59 @@ Each stage one dominant miniature artifact with fine leader lines and small eleg
 - Author: [@Gdgtify](https://x.com/Gdgtify)
 - Original post: https://x.com/Gdgtify/status/2112259739317055886
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/bicycle-l-evolution-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pixel Arcane RPG Item Grid
+
+<a href="https://cinel.ai/prompts/p/pixel-rpg-items-arcane-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pixel-rpg-items-arcane-grid.webp" alt="Pixel Arcane RPG Item Grid" width="480"></a>
+
+> Flat 2D pixel RPG item sprite sheet (30 unique arcane-themed items) on white grid.
+
+```text
+A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a arcane theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- Author: [@johnsavage_ai](https://x.com/johnsavage_ai)
+- Original post: https://x.com/johnsavage_ai/status/1991958964813148541
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-rpg-items-arcane-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pixel Swamp RPG Item Grid
+
+<a href="https://cinel.ai/prompts/p/pixel-rpg-items-swamp-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pixel-rpg-items-swamp-grid.webp" alt="Pixel Swamp RPG Item Grid" width="480"></a>
+
+> Flat 2D pixel RPG item sprite sheet (30 unique swamp-themed items) on white grid.
+
+```text
+A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a swamp theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- Author: [@johnsavage_ai](https://x.com/johnsavage_ai)
+- Original post: https://x.com/johnsavage_ai/status/1991958964813148541
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-rpg-items-swamp-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pixel Steampunk RPG Item Grid
+
+<a href="https://cinel.ai/prompts/p/pixel-rpg-items-steampunk-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pixel-rpg-items-steampunk-grid.webp" alt="Pixel Steampunk RPG Item Grid" width="480"></a>
+
+> Flat 2D pixel RPG item sprite sheet (30 unique steampunk-themed items) on white grid.
+
+```text
+A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a steampunk theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- Author: [@johnsavage_ai](https://x.com/johnsavage_ai)
+- Original post: https://x.com/johnsavage_ai/status/1991958964813148541
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-rpg-items-steampunk-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pixel RPG Universe Sprite Sheet
+
+<a href="https://cinel.ai/prompts/p/pixel-rpg-universe-sprite-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pixel-rpg-universe-sprite-sheet.webp" alt="Pixel RPG Universe Sprite Sheet" width="480"></a>
+
+> Reconstructed English prompt for a coherent 10×10 (100-asset) RPG pixel sprite sheet (source post teased “prompt👇” without paste-able body).
+
+```text
+Create a coherent fantasy RPG universe as a single 10x10 pixel-art sprite sheet with exactly 100 assets. Theme: moonlit woodland kingdom. Include a mix of playable adventurers, forest mobs, weapons, potions, loot bags, and environmental props that all share one visual style and muted teal-and-gold palette. Flat 2D game-asset sheet on a clean light background, neat equal grid cells, no overlapping, distinct silhouettes, high-quality retro pixel art. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- Author: [@givros](https://x.com/givros)
+- Original post: https://x.com/givros/status/2049883610136600939
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-rpg-universe-sprite-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

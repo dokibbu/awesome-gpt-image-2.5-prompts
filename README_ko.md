@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-엄선한 **736**개의 GPT Image 2.5 프롬프트 모음입니다. 각 항목에는 예시 이미지, 전체 프롬프트, 원작자와 원본 게시물 링크가 포함되어 있습니다. 데이터는 [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 프롬프트 라이브러리에서 자동으로 동기화됩니다.
+엄선한 **759**개의 GPT Image 2.5 프롬프트 모음입니다. 각 항목에는 예시 이미지, 전체 프롬프트, 원작자와 원본 게시물 링크가 포함되어 있습니다. 데이터는 [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 프롬프트 라이브러리에서 자동으로 동기화됩니다.
 
 👉 [cinel.ai에서 전체 보기 및 온라인 생성](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -22,11 +22,11 @@
 - [인물 사진·헤드샷](#portrait) (79) · [전체](cases/portrait.md)
 - [제품·이커머스](#product-photography) (46) · [전체](cases/product-photography.md)
 - [포스터·로고·그래픽 디자인](#poster-design) (67) · [전체](cases/poster-design.md)
-- [인포그래픽·UI](#infographic-ui) (36) · [전체](cases/infographic-ui.md)
+- [인포그래픽·UI](#infographic-ui) (40) · [전체](cases/infographic-ui.md)
 - [3D 캐릭터·피규어](#3d-figurines) (111) · [전체](cases/3d-figurines.md)
 - [음식·음료](#food-drink) (223) · [전체](cases/food-drink.md)
-- [일러스트·애니메](#illustration-anime) (73) · [전체](cases/illustration-anime.md)
-- [크리에이티브 장면](#scenes-creative) (101) · [전체](cases/scenes-creative.md)
+- [일러스트·애니메](#illustration-anime) (87) · [전체](cases/illustration-anime.md)
+- [크리에이티브 장면](#scenes-creative) (106) · [전체](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -783,7 +783,7 @@ Make the aspect ratio 9:16
 
 ## 인포그래픽·UI
 
-추천 6개 · [전체 36개 보기](cases/infographic-ui.md) · [cinel 카테고리](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+추천 6개 · [전체 40개 보기](cases/infographic-ui.md) · [cinel 카테고리](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -1432,7 +1432,7 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 ## 일러스트·애니메
 
-추천 6개 · [전체 73개 보기](cases/illustration-anime.md) · [cinel 카테고리](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+추천 6개 · [전체 87개 보기](cases/illustration-anime.md) · [cinel 카테고리](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -1526,7 +1526,7 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 ## 크리에이티브 장면
 
-추천 6개 · [전체 101개 보기](cases/scenes-creative.md) · [cinel 카테고리](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+추천 6개 · [전체 106개 보기](cases/scenes-creative.md) · [cinel 카테고리](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 

@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-厳選した **736** 件の GPT Image 2.5 プロンプト集です。各項目に作例画像、プロンプト全文、元の作者と元投稿へのリンクを掲載しています。データは [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) のプロンプトライブラリから自動で同期されます。
+厳選した **759** 件の GPT Image 2.5 プロンプト集です。各項目に作例画像、プロンプト全文、元の作者と元投稿へのリンクを掲載しています。データは [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) のプロンプトライブラリから自動で同期されます。
 
 👉 [cinel.ai ですべて見る・オンラインで生成](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -22,11 +22,11 @@
 - [ポートレート・顔写真](#portrait) (79) · [すべて](cases/portrait.md)
 - [商品・EC](#product-photography) (46) · [すべて](cases/product-photography.md)
 - [ポスター・ロゴ・グラフィック](#poster-design) (67) · [すべて](cases/poster-design.md)
-- [インフォグラフィック・UI](#infographic-ui) (36) · [すべて](cases/infographic-ui.md)
+- [インフォグラフィック・UI](#infographic-ui) (40) · [すべて](cases/infographic-ui.md)
 - [3D キャラクター・フィギュア](#3d-figurines) (111) · [すべて](cases/3d-figurines.md)
 - [フード・ドリンク](#food-drink) (223) · [すべて](cases/food-drink.md)
-- [イラスト・アニメ](#illustration-anime) (73) · [すべて](cases/illustration-anime.md)
-- [クリエイティブシーン](#scenes-creative) (101) · [すべて](cases/scenes-creative.md)
+- [イラスト・アニメ](#illustration-anime) (87) · [すべて](cases/illustration-anime.md)
+- [クリエイティブシーン](#scenes-creative) (106) · [すべて](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -783,7 +783,7 @@ Make the aspect ratio 9:16
 
 ## インフォグラフィック・UI
 
-厳選 6 件 · [全 36 件を見る](cases/infographic-ui.md) · [cinel のカテゴリ](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+厳選 6 件 · [全 40 件を見る](cases/infographic-ui.md) · [cinel のカテゴリ](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -1432,7 +1432,7 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 ## イラスト・アニメ
 
-厳選 6 件 · [全 73 件を見る](cases/illustration-anime.md) · [cinel のカテゴリ](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+厳選 6 件 · [全 87 件を見る](cases/illustration-anime.md) · [cinel のカテゴリ](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -1526,7 +1526,7 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 ## クリエイティブシーン
 
-厳選 6 件 · [全 101 件を見る](cases/scenes-creative.md) · [cinel のカテゴリ](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+厳選 6 件 · [全 106 件を見る](cases/scenes-creative.md) · [cinel のカテゴリ](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 

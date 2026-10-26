@@ -1,6 +1,6 @@
 # Creative Scenes · GPT Image 2.5
 
-[← README](../README.md) · 101 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 106 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 
@@ -1316,20 +1316,6 @@ Cinematic live-action thriller video keyframe, widescreen 16:9, realistic gritty
 - Original post: https://x.com/Alina_with_Ai/status/2111661075590684814
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/classroom-showdown-aftermath-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-### Glowing Snail Sunset Water Wallpaper
-
-<a href="https://cinel.ai/prompts/p/glowing-snail-sunset-water-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/glowing-snail-sunset-water-wallpaper.webp" alt="Glowing Snail Sunset Water Wallpaper" width="480"></a>
-
-> Adapted from an image post by @churvikv on 2026-10-17 (128 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
-
-```text
-Serene minimal wallpaper photograph, square 1:1: a snail with a translucent amber shell that glows from within glides across mirror-still water at dusk, the low sun sitting on the horizon behind it, its perfect reflection below, tall feathery reeds on one side, soft lavender and peach sky, calm gradient water, quiet poetic mood, no text, no logo. Square 1:1 composition.
-```
-
-- Author: [@churvikv](https://x.com/churvikv)
-- Original post: https://x.com/churvikv/status/2111561461306917097
-- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/glowing-snail-sunset-water-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
 ### 2003 Camcorder Mall Ice Cream Date Keyframe
 
 <a href="https://cinel.ai/prompts/p/camcorder-2003-mall-ice-cream-date-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/camcorder-2003-mall-ice-cream-date-keyframe.webp" alt="2003 Camcorder Mall Ice Cream Date Keyframe" width="480"></a>
@@ -1343,6 +1329,20 @@ Ultra-realistic early-2000s MiniDV camcorder video keyframe, widescreen 16:9, li
 - Author: [@AIwithkhan](https://x.com/AIwithkhan)
 - Original post: https://x.com/AIwithkhan/status/2112383970478522877
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/camcorder-2003-mall-ice-cream-date-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Glowing Snail Sunset Water Wallpaper
+
+<a href="https://cinel.ai/prompts/p/glowing-snail-sunset-water-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/glowing-snail-sunset-water-wallpaper.webp" alt="Glowing Snail Sunset Water Wallpaper" width="480"></a>
+
+> Adapted from an image post by @churvikv on 2026-10-17 (128 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Serene minimal wallpaper photograph, square 1:1: a snail with a translucent amber shell that glows from within glides across mirror-still water at dusk, the low sun sitting on the horizon behind it, its perfect reflection below, tall feathery reeds on one side, soft lavender and peach sky, calm gradient water, quiet poetic mood, no text, no logo. Square 1:1 composition.
+```
+
+- Author: [@churvikv](https://x.com/churvikv)
+- Original post: https://x.com/churvikv/status/2111561461306917097
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/glowing-snail-sunset-water-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Elevator Shortcut Impossible Stairs Keyframe
 
@@ -1358,20 +1358,6 @@ Cinematic surreal action-comedy video keyframe, widescreen 16:9, photoreal: an i
 - Original post: https://x.com/umesh_ai/status/2111683472897225067
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/elevator-shortcut-impossible-stairs-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-### Open Window Coastal View Painting
-
-<a href="https://cinel.ai/prompts/p/open-window-coastal-view-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/open-window-coastal-view-painting.webp" alt="Open Window Coastal View Painting" width="480"></a>
-
-> Adapted from an image post by @AllaAisling on 2026-10-17 (47 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
-
-```text
-Painterly illustration, square 1:1: view through a tall open double window with white frames from a terracotta-red room, potted plants and a small white radiator below the sill, lush leaves and orange flowers framing the edges; outside, a sunlit Mediterranean garden with dark cypress trees slopes down to a calm blue bay and distant islands, towering white cumulus clouds in a deep blue sky, crisp summer daylight, rich saturated colours, no people, no text, no logo. Square 1:1 composition.
-```
-
-- Author: [@AllaAisling](https://x.com/AllaAisling)
-- Original post: https://x.com/AllaAisling/status/2111492181018186059
-- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/open-window-coastal-view-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
 ### Jam Lid Twisting Pastry World Keyframe
 
 <a href="https://cinel.ai/prompts/p/jam-lid-twisting-pastry-world-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/jam-lid-twisting-pastry-world-keyframe.webp" alt="Jam Lid Twisting Pastry World Keyframe" width="480"></a>
@@ -1385,6 +1371,20 @@ Cinematic surreal action-comedy video keyframe, widescreen 16:9, photoreal: an a
 - Author: [@umesh_ai](https://x.com/umesh_ai)
 - Original post: https://x.com/umesh_ai/status/2112397267017810346
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/jam-lid-twisting-pastry-world-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Open Window Coastal View Painting
+
+<a href="https://cinel.ai/prompts/p/open-window-coastal-view-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/open-window-coastal-view-painting.webp" alt="Open Window Coastal View Painting" width="480"></a>
+
+> Adapted from an image post by @AllaAisling on 2026-10-17 (47 likes at capture). We rewrote it as one clean square 1:1 still, removing brands, logos, celebrity/IP elements and any need for your own photo. Change one variable at a time.
+
+```text
+Painterly illustration, square 1:1: view through a tall open double window with white frames from a terracotta-red room, potted plants and a small white radiator below the sill, lush leaves and orange flowers framing the edges; outside, a sunlit Mediterranean garden with dark cypress trees slopes down to a calm blue bay and distant islands, towering white cumulus clouds in a deep blue sky, crisp summer daylight, rich saturated colours, no people, no text, no logo. Square 1:1 composition.
+```
+
+- Author: [@AllaAisling](https://x.com/AllaAisling)
+- Original post: https://x.com/AllaAisling/status/2111492181018186059
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/open-window-coastal-view-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sunrise Desk Doodle Planner Flat Lay
 
@@ -1605,3 +1605,73 @@ Create a premium character concept art sheet, square 1:1, soft plain warm backgr
 - Author: [@itsPixieVerse](https://x.com/itsPixieVerse)
 - Original post: https://x.com/itsPixieVerse/status/2105949472983568738
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/storybook-wayfinder-mechanic-tova-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Ember Knight vs Obsidian Colossus
+
+<a href="https://cinel.ai/prompts/p/ue5-boss-ember-knight-vs-obsidian-colossus?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ue5-boss-ember-knight-vs-obsidian-colossus.webp" alt="Ember Knight vs Obsidian Colossus" width="480"></a>
+
+> Cinematic Unreal Engine 5 boss-fight gameplay screenshot template with fictional hero and boss only.
+
+```text
+cinematic boss fight gameplay screenshot, fictional ember knight in scorched crimson plate facing a fictional towering obsidian lava colossus, dramatic lighting, sparks and particles, epic scale, dynamic camera angle, motion blur, high contrast, Unreal Engine 5 graphics, intense atmosphere. Widescreen 16:9 cinematic. Original fictional characters only — no real people, no celebrity likeness, no brand logos, no copyrighted game IP, no watermarks.
+```
+
+- Author: [@TopviewAIhq](https://x.com/TopviewAIhq)
+- Original post: https://x.com/TopviewAIhq/status/2046770035994370357
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ue5-boss-ember-knight-vs-obsidian-colossus?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Storm Ranger vs Sky Serpent
+
+<a href="https://cinel.ai/prompts/p/ue5-boss-storm-ranger-vs-sky-serpent?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ue5-boss-storm-ranger-vs-sky-serpent.webp" alt="Storm Ranger vs Sky Serpent" width="480"></a>
+
+> Cinematic Unreal Engine 5 boss-fight gameplay screenshot template with fictional hero and boss only.
+
+```text
+cinematic boss fight gameplay screenshot, fictional storm ranger with crackling bow facing a fictional massive sky serpent coiled through storm clouds, dramatic lighting, sparks and particles, epic scale, dynamic camera angle, motion blur, high contrast, Unreal Engine 5 graphics, intense atmosphere. Widescreen 16:9 cinematic. Original fictional characters only — no real people, no celebrity likeness, no brand logos, no copyrighted game IP, no watermarks.
+```
+
+- Author: [@TopviewAIhq](https://x.com/TopviewAIhq)
+- Original post: https://x.com/TopviewAIhq/status/2046770035994370357
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ue5-boss-storm-ranger-vs-sky-serpent?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Frost Mage vs Glacier Titan
+
+<a href="https://cinel.ai/prompts/p/ue5-boss-frost-mage-vs-glacier-titan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ue5-boss-frost-mage-vs-glacier-titan.webp" alt="Frost Mage vs Glacier Titan" width="480"></a>
+
+> Cinematic Unreal Engine 5 boss-fight gameplay screenshot template with fictional hero and boss only.
+
+```text
+cinematic boss fight gameplay screenshot, fictional frost mage wrapped in ice-crystal robes facing a fictional glacier titan rising from a frozen lake, dramatic lighting, sparks and particles, epic scale, dynamic camera angle, motion blur, high contrast, Unreal Engine 5 graphics, intense atmosphere. Widescreen 16:9 cinematic. Original fictional characters only — no real people, no celebrity likeness, no brand logos, no copyrighted game IP, no watermarks.
+```
+
+- Author: [@TopviewAIhq](https://x.com/TopviewAIhq)
+- Original post: https://x.com/TopviewAIhq/status/2046770035994370357
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ue5-boss-frost-mage-vs-glacier-titan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Shadow Blade vs Void Wraith
+
+<a href="https://cinel.ai/prompts/p/ue5-boss-shadow-blade-vs-void-wraith?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ue5-boss-shadow-blade-vs-void-wraith.webp" alt="Shadow Blade vs Void Wraith" width="480"></a>
+
+> Cinematic Unreal Engine 5 boss-fight gameplay screenshot template with fictional hero and boss only.
+
+```text
+cinematic boss fight gameplay screenshot, fictional shadow blade assassin cloaked in purple mist facing a fictional void wraith with fracturing reality tendrils, dramatic lighting, sparks and particles, epic scale, dynamic camera angle, motion blur, high contrast, Unreal Engine 5 graphics, intense atmosphere. Widescreen 16:9 cinematic. Original fictional characters only — no real people, no celebrity likeness, no brand logos, no copyrighted game IP, no watermarks.
+```
+
+- Author: [@TopviewAIhq](https://x.com/TopviewAIhq)
+- Original post: https://x.com/TopviewAIhq/status/2046770035994370357
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ue5-boss-shadow-blade-vs-void-wraith?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Mech Pilot vs Iron Leviathan
+
+<a href="https://cinel.ai/prompts/p/ue5-boss-mech-pilot-vs-iron-leviathan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ue5-boss-mech-pilot-vs-iron-leviathan.webp" alt="Mech Pilot vs Iron Leviathan" width="480"></a>
+
+> Cinematic Unreal Engine 5 boss-fight gameplay screenshot template with fictional hero and boss only.
+
+```text
+cinematic boss fight gameplay screenshot, fictional mech pilot in a sleek bipedal combat frame facing a fictional iron leviathan war-machine the size of a city block, dramatic lighting, sparks and particles, epic scale, dynamic camera angle, motion blur, high contrast, Unreal Engine 5 graphics, intense atmosphere. Widescreen 16:9 cinematic. Original fictional characters only — no real people, no celebrity likeness, no brand logos, no copyrighted game IP, no watermarks.
+```
+
+- Author: [@TopviewAIhq](https://x.com/TopviewAIhq)
+- Original post: https://x.com/TopviewAIhq/status/2046770035994370357
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ue5-boss-mech-pilot-vs-iron-leviathan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

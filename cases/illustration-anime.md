@@ -1,6 +1,6 @@
 # Illustration & Anime · GPT Image 2.5
 
-[← README](../README.md) · 73 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 87 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -1112,3 +1112,199 @@ Create a high-end editorial fashion illustration of a stylish fictional adult wo
 - Author: [@Tech_Apex0](https://x.com/Tech_Apex0)
 - Original post: https://x.com/Tech_Apex0/status/2109687049666347113
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/papercut-fashion-wave-violet-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Silent Vampire Pixel Game
+
+<a href="https://cinel.ai/prompts/p/pixel-game-silent-vampire-film?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pixel-game-silent-vampire-film.webp" alt="Silent Vampire Pixel Game" width="360"></a>
+
+> Reusable square 1:1 pixel-art video-game key art template filled with a fictional / public-domain-safe film concept (“a silent-era expressionist vampire film”), not a modern studio IP title.
+
+```text
+Make me a pixel art version of a silent-era expressionist vampire film if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: German-expressionist angles, jagged castle silhouettes, chalk-white vampire figure, high-contrast black/white/crimson pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- Author: [@icreatelife](https://x.com/icreatelife)
+- Original post: https://x.com/icreatelife/status/1992598016868720997
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-game-silent-vampire-film?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Metropolis Workers Pixel Game
+
+<a href="https://cinel.ai/prompts/p/pixel-game-metropolis-workers-scifi?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pixel-game-metropolis-workers-scifi.webp" alt="Metropolis Workers Pixel Game" width="360"></a>
+
+> Reusable square 1:1 pixel-art video-game key art template filled with a fictional / public-domain-safe film concept (“a 1920s metropolis workers-vs-machines sci-fi”), not a modern studio IP title.
+
+```text
+Make me a pixel art version of a 1920s metropolis workers-vs-machines sci-fi if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: towering art-deco city, workers marching below giant gears and chrome robots, teal-and-amber pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- Author: [@icreatelife](https://x.com/icreatelife)
+- Original post: https://x.com/icreatelife/status/1992598016868720997
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-game-metropolis-workers-scifi?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Western Train Robbery Pixel Game
+
+<a href="https://cinel.ai/prompts/p/pixel-game-western-train-robbery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pixel-game-western-train-robbery.webp" alt="Western Train Robbery Pixel Game" width="360"></a>
+
+> Reusable square 1:1 pixel-art video-game key art template filled with a fictional / public-domain-safe film concept (“a dusty western train-robbery epic”), not a modern studio IP title.
+
+```text
+Make me a pixel art version of a dusty western train-robbery epic if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: desert mesa, steam locomotive, masked outlaws on horseback, sunset orange pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- Author: [@icreatelife](https://x.com/icreatelife)
+- Original post: https://x.com/icreatelife/status/1992598016868720997
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-game-western-train-robbery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Gothic Haunted Mansion Pixel Game
+
+<a href="https://cinel.ai/prompts/p/pixel-game-gothic-haunted-mansion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pixel-game-gothic-haunted-mansion.webp" alt="Gothic Haunted Mansion Pixel Game" width="360"></a>
+
+> Reusable square 1:1 pixel-art video-game key art template filled with a fictional / public-domain-safe film concept (“a gothic haunted-mansion mystery”), not a modern studio IP title.
+
+```text
+Make me a pixel art version of a gothic haunted-mansion mystery if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: looming Victorian mansion, moonlit wrought-iron gates, candle windows, purple-and-teal gothic pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- Author: [@icreatelife](https://x.com/icreatelife)
+- Original post: https://x.com/icreatelife/status/1992598016868720997
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-game-gothic-haunted-mansion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Oceanic Giant Squid Pixel Game
+
+<a href="https://cinel.ai/prompts/p/pixel-game-oceanic-giant-squid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pixel-game-oceanic-giant-squid.webp" alt="Oceanic Giant Squid Pixel Game" width="360"></a>
+
+> Reusable square 1:1 pixel-art video-game key art template filled with a fictional / public-domain-safe film concept (“an oceanic adventure with giant squid”), not a modern studio IP title.
+
+```text
+Make me a pixel art version of an oceanic adventure with giant squid if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: wooden sailing ship dwarfed by a colossal squid, stormy waves, deep-blue and seafoam pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- Author: [@icreatelife](https://x.com/icreatelife)
+- Original post: https://x.com/icreatelife/status/1992598016868720997
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-game-oceanic-giant-squid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Noir Rain City Pixel Game
+
+<a href="https://cinel.ai/prompts/p/pixel-game-noir-rain-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pixel-game-noir-rain-city.webp" alt="Noir Rain City Pixel Game" width="360"></a>
+
+> Reusable square 1:1 pixel-art video-game key art template filled with a fictional / public-domain-safe film concept (“a noir detective rain-soaked city”), not a modern studio IP title.
+
+```text
+Make me a pixel art version of a noir detective rain-soaked city if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: trench-coat detective under neon streetlamp, wet asphalt reflections, black-and-yellow noir pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- Author: [@icreatelife](https://x.com/icreatelife)
+- Original post: https://x.com/icreatelife/status/1992598016868720997
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-game-noir-rain-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Desert Caravan Fantasy Pixel Game
+
+<a href="https://cinel.ai/prompts/p/pixel-game-desert-caravan-fantasy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pixel-game-desert-caravan-fantasy.webp" alt="Desert Caravan Fantasy Pixel Game" width="360"></a>
+
+> Reusable square 1:1 pixel-art video-game key art template filled with a fictional / public-domain-safe film concept (“a desert caravan fantasy”), not a modern studio IP title.
+
+```text
+Make me a pixel art version of a desert caravan fantasy if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: camel caravan across golden dunes, floating lanterns, mirage oasis, warm sand-and-violet pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- Author: [@icreatelife](https://x.com/icreatelife)
+- Original post: https://x.com/icreatelife/status/1992598016868720997
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-game-desert-caravan-fantasy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Dryad Sylvara Pixel RPG Card
+
+<a href="https://cinel.ai/prompts/p/rpg-card-dryad-sylvara?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/rpg-card-dryad-sylvara.webp" alt="Dryad Sylvara Pixel RPG Card" width="360"></a>
+
+> Fantasy RPG game-card portrait template with invented adult OC Sylvara (Dryad). Name “Kris” and any real-person identity removed.
+
+```text
+Create a pixel art fantasy RPG game card portrait of a fictional adult character named Sylvara, class Dryad. The character has bark-textured skin, glowing green eyes, flower-crowned hair, vine-woven armor, posed against glowing enchanted grove. The card includes floral borders and leaf patterns and readable RPG-style stats panels (HP, ATK, DEF, MAG) with invented numbers. Old-school nostalgic collectible game card layout, Portrait 2:3 (vertical game cover / card). Fictional original character only — not a real person, not named Kris, no celebrity likeness. No brand logos, no copyrighted franchise marks, no watermarks.
+```
+
+- Author: [@icreatelife](https://x.com/icreatelife)
+- Original post: https://x.com/icreatelife/status/1972050050105712898
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/rpg-card-dryad-sylvara?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Oracle Mirael Fantasy RPG Card
+
+<a href="https://cinel.ai/prompts/p/rpg-card-oracle-mirael?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/rpg-card-oracle-mirael.webp" alt="Oracle Mirael Fantasy RPG Card" width="360"></a>
+
+> Fantasy RPG game-card portrait template with invented adult OC Mirael (Oracle). Name “Kris” and any real-person identity removed.
+
+```text
+Create a hyper-detailed painterly fantasy RPG game card portrait of a fictional adult character named Mirael, class Oracle. The character has star-flecked violet robes, silver third-eye mark, floating constellation orbs, posed against moonlit marble temple balcony. The card includes celestial borders with constellation motifs and readable RPG-style stats panels (HP, ATK, DEF, MAG) with invented numbers. Old-school nostalgic collectible game card layout, Portrait 2:3 (vertical game cover / card). Fictional original character only — not a real person, not named Kris, no celebrity likeness. No brand logos, no copyrighted franchise marks, no watermarks.
+```
+
+- Author: [@icreatelife](https://x.com/icreatelife)
+- Original post: https://x.com/icreatelife/status/1972047357723480257
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/rpg-card-oracle-mirael?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Knight Thorven Pixel RPG Card
+
+<a href="https://cinel.ai/prompts/p/rpg-card-knight-thorven?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/rpg-card-knight-thorven.webp" alt="Knight Thorven Pixel RPG Card" width="360"></a>
+
+> Fantasy RPG game-card portrait template with invented adult OC Thorven (Knight). Name “Kris” and any real-person identity removed.
+
+```text
+Create a pixel art fantasy RPG game card portrait of a fictional adult character named Thorven, class Knight. The character has polished plate armor with crimson cape, scarred jaw, towering kite shield, posed against stormy castle battlements. The card includes iron rivet borders and heraldic corner flourishes and readable RPG-style stats panels (HP, ATK, DEF, MAG) with invented numbers. Old-school nostalgic collectible game card layout, Portrait 2:3 (vertical game cover / card). Fictional original character only — not a real person, not named Kris, no celebrity likeness. No brand logos, no copyrighted franchise marks, no watermarks.
+```
+
+- Author: [@icreatelife](https://x.com/icreatelife)
+- Original post: https://x.com/icreatelife/status/1972050050105712898
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/rpg-card-knight-thorven?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Alchemist Quillan Fantasy RPG Card
+
+<a href="https://cinel.ai/prompts/p/rpg-card-alchemist-quillan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/rpg-card-alchemist-quillan.webp" alt="Alchemist Quillan Fantasy RPG Card" width="360"></a>
+
+> Fantasy RPG game-card portrait template with invented adult OC Quillan (Alchemist). Name “Kris” and any real-person identity removed.
+
+```text
+Create a hyper-detailed painterly fantasy RPG game card portrait of a fictional adult character named Quillan, class Alchemist. The character has brass goggles on forehead, stained leather apron, swirling potion vials on belt, posed against cluttered laboratory with glowing alembics. The card includes scrollwork borders with vial icons and readable RPG-style stats panels (HP, ATK, DEF, MAG) with invented numbers. Old-school nostalgic collectible game card layout, Portrait 2:3 (vertical game cover / card). Fictional original character only — not a real person, not named Kris, no celebrity likeness. No brand logos, no copyrighted franchise marks, no watermarks.
+```
+
+- Author: [@icreatelife](https://x.com/icreatelife)
+- Original post: https://x.com/icreatelife/status/1972047357723480257
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/rpg-card-alchemist-quillan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Necromancer Vexra Pixel RPG Card
+
+<a href="https://cinel.ai/prompts/p/rpg-card-necromancer-vexra?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/rpg-card-necromancer-vexra.webp" alt="Necromancer Vexra Pixel RPG Card" width="360"></a>
+
+> Fantasy RPG game-card portrait template with invented adult OC Vexra (Necromancer). Name “Kris” and any real-person identity removed.
+
+```text
+Create a pixel art fantasy RPG game card portrait of a fictional adult character named Vexra, class Necromancer. The character has bone-white mask, tattered black robes, floating green soul-flames, posed against moonlit crypt with skeletal arches. The card includes bone and rune borders and readable RPG-style stats panels (HP, ATK, DEF, MAG) with invented numbers. Old-school nostalgic collectible game card layout, Portrait 2:3 (vertical game cover / card). Fictional original character only — not a real person, not named Kris, no celebrity likeness. No brand logos, no copyrighted franchise marks, no watermarks.
+```
+
+- Author: [@icreatelife](https://x.com/icreatelife)
+- Original post: https://x.com/icreatelife/status/1972050050105712898
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/rpg-card-necromancer-vexra?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Beast-Tamer Rowan Fantasy RPG Card
+
+<a href="https://cinel.ai/prompts/p/rpg-card-beast-tamer-rowan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/rpg-card-beast-tamer-rowan.webp" alt="Beast-Tamer Rowan Fantasy RPG Card" width="360"></a>
+
+> Fantasy RPG game-card portrait template with invented adult OC Rowan (Beast-Tamer). Name “Kris” and any real-person identity removed.
+
+```text
+Create a hyper-detailed painterly fantasy RPG game card portrait of a fictional adult character named Rowan, class Beast-Tamer. The character has leather travel cloak, wolf companion at side, feathered braids, hunting spear, posed against misty mountain ridge at dawn. The card includes paw-print and vine borders and readable RPG-style stats panels (HP, ATK, DEF, MAG) with invented numbers. Old-school nostalgic collectible game card layout, Portrait 2:3 (vertical game cover / card). Fictional original character only — not a real person, not named Kris, no celebrity likeness. No brand logos, no copyrighted franchise marks, no watermarks.
+```
+
+- Author: [@icreatelife](https://x.com/icreatelife)
+- Original post: https://x.com/icreatelife/status/1972047357723480257
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/rpg-card-beast-tamer-rowan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pixel Nature Retro Game Background
+
+<a href="https://cinel.ai/prompts/p/pixel-nature-retro-game-bg?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pixel-nature-retro-game-bg.webp" alt="Pixel Nature Retro Game Background" width="480"></a>
+
+> Colorful pixel art nature retro game background with heavy halftone/dithering; no text, no UI.
+
+```text
+colorful pixel art nature scene with mountains, flowers and blue sky, heavy halftone shading and dithering, vintage comic print texture, vibrant greens and purples, scenic composition, retro video game background, highly detailed, sharp pixels, no text, no UI. Widescreen 16:9 cinematic. No brand logos, no watermarks, no real celebrity likeness.
+```
+
+- Author: [@betomoedano](https://x.com/betomoedano)
+- Original post: https://x.com/betomoedano/status/2046727843925942564
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-nature-retro-game-bg?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

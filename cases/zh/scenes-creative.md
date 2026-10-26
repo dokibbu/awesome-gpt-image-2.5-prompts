@@ -1,6 +1,6 @@
 # 创意场景 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 101 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 106 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 巨型钢笔写出书中世界的魔幻场景提示词
 
@@ -1316,20 +1316,6 @@ Cinematic live-action thriller video keyframe, widescreen 16:9, realistic gritty
 - 原帖: https://x.com/Alina_with_Ai/status/2111661075590684814
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/classroom-showdown-aftermath-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-### 发光蜗牛日落水面壁纸
-
-<a href="https://cinel.ai/zh/prompts/p/glowing-snail-sunset-water-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/glowing-snail-sunset-water-wallpaper.webp" alt="发光蜗牛日落水面壁纸" width="480"></a>
-
-> 根据 @churvikv 于 2026-10-17 的图片帖改写（记录时 128 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
-
-```text
-Serene minimal wallpaper photograph, square 1:1: a snail with a translucent amber shell that glows from within glides across mirror-still water at dusk, the low sun sitting on the horizon behind it, its perfect reflection below, tall feathery reeds on one side, soft lavender and peach sky, calm gradient water, quiet poetic mood, no text, no logo. Square 1:1 composition.
-```
-
-- 原作者: [@churvikv](https://x.com/churvikv)
-- 原帖: https://x.com/churvikv/status/2111561461306917097
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/glowing-snail-sunset-water-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
 ### 2003年DV摄像机商场冰淇淋约会关键帧
 
 <a href="https://cinel.ai/zh/prompts/p/camcorder-2003-mall-ice-cream-date-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/camcorder-2003-mall-ice-cream-date-keyframe.webp" alt="2003年DV摄像机商场冰淇淋约会关键帧" width="480"></a>
@@ -1343,6 +1329,20 @@ Ultra-realistic early-2000s MiniDV camcorder video keyframe, widescreen 16:9, li
 - 原作者: [@AIwithkhan](https://x.com/AIwithkhan)
 - 原帖: https://x.com/AIwithkhan/status/2112383970478522877
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/camcorder-2003-mall-ice-cream-date-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 发光蜗牛日落水面壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/glowing-snail-sunset-water-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/glowing-snail-sunset-water-wallpaper.webp" alt="发光蜗牛日落水面壁纸" width="480"></a>
+
+> 根据 @churvikv 于 2026-10-17 的图片帖改写（记录时 128 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+Serene minimal wallpaper photograph, square 1:1: a snail with a translucent amber shell that glows from within glides across mirror-still water at dusk, the low sun sitting on the horizon behind it, its perfect reflection below, tall feathery reeds on one side, soft lavender and peach sky, calm gradient water, quiet poetic mood, no text, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@churvikv](https://x.com/churvikv)
+- 原帖: https://x.com/churvikv/status/2111561461306917097
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/glowing-snail-sunset-water-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 不等电梯的不可能楼梯关键帧
 
@@ -1358,20 +1358,6 @@ Cinematic surreal action-comedy video keyframe, widescreen 16:9, photoreal: an i
 - 原帖: https://x.com/umesh_ai/status/2111683472897225067
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/elevator-shortcut-impossible-stairs-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-### 敞开窗外海岸风景画
-
-<a href="https://cinel.ai/zh/prompts/p/open-window-coastal-view-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/open-window-coastal-view-painting.webp" alt="敞开窗外海岸风景画" width="480"></a>
-
-> 根据 @AllaAisling 于 2026-10-17 的图片帖改写（记录时 47 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
-
-```text
-Painterly illustration, square 1:1: view through a tall open double window with white frames from a terracotta-red room, potted plants and a small white radiator below the sill, lush leaves and orange flowers framing the edges; outside, a sunlit Mediterranean garden with dark cypress trees slopes down to a calm blue bay and distant islands, towering white cumulus clouds in a deep blue sky, crisp summer daylight, rich saturated colours, no people, no text, no logo. Square 1:1 composition.
-```
-
-- 原作者: [@AllaAisling](https://x.com/AllaAisling)
-- 原帖: https://x.com/AllaAisling/status/2111492181018186059
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/open-window-coastal-view-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
 ### 拧不开果酱盖的酥皮世界关键帧
 
 <a href="https://cinel.ai/zh/prompts/p/jam-lid-twisting-pastry-world-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/jam-lid-twisting-pastry-world-keyframe.webp" alt="拧不开果酱盖的酥皮世界关键帧" width="480"></a>
@@ -1385,6 +1371,20 @@ Cinematic surreal action-comedy video keyframe, widescreen 16:9, photoreal: an a
 - 原作者: [@umesh_ai](https://x.com/umesh_ai)
 - 原帖: https://x.com/umesh_ai/status/2112397267017810346
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/jam-lid-twisting-pastry-world-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 敞开窗外海岸风景画
+
+<a href="https://cinel.ai/zh/prompts/p/open-window-coastal-view-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/open-window-coastal-view-painting.webp" alt="敞开窗外海岸风景画" width="480"></a>
+
+> 根据 @AllaAisling 于 2026-10-17 的图片帖改写（记录时 47 赞）。我们改成一张干净的1:1方形图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+Painterly illustration, square 1:1: view through a tall open double window with white frames from a terracotta-red room, potted plants and a small white radiator below the sill, lush leaves and orange flowers framing the edges; outside, a sunlit Mediterranean garden with dark cypress trees slopes down to a calm blue bay and distant islands, towering white cumulus clouds in a deep blue sky, crisp summer daylight, rich saturated colours, no people, no text, no logo. Square 1:1 composition.
+```
+
+- 原作者: [@AllaAisling](https://x.com/AllaAisling)
+- 原帖: https://x.com/AllaAisling/status/2111492181018186059
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/open-window-coastal-view-painting?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 晨光书桌涂鸦手账平铺
 
@@ -1605,3 +1605,73 @@ Create a premium character concept art sheet, square 1:1, soft plain warm backgr
 - 原作者: [@itsPixieVerse](https://x.com/itsPixieVerse)
 - 原帖: https://x.com/itsPixieVerse/status/2105949472983568738
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/storybook-wayfinder-mechanic-tova-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 余烬骑士对黑曜石巨像
+
+<a href="https://cinel.ai/zh/prompts/p/ue5-boss-ember-knight-vs-obsidian-colossus?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/ue5-boss-ember-knight-vs-obsidian-colossus.webp" alt="余烬骑士对黑曜石巨像" width="480"></a>
+
+> 电影级虚幻引擎5 Boss战游玩截图模板，仅用虚构英雄与Boss。
+
+```text
+cinematic boss fight gameplay screenshot, fictional ember knight in scorched crimson plate facing a fictional towering obsidian lava colossus, dramatic lighting, sparks and particles, epic scale, dynamic camera angle, motion blur, high contrast, Unreal Engine 5 graphics, intense atmosphere. Widescreen 16:9 cinematic. Original fictional characters only — no real people, no celebrity likeness, no brand logos, no copyrighted game IP, no watermarks.
+```
+
+- 原作者: [@TopviewAIhq](https://x.com/TopviewAIhq)
+- 原帖: https://x.com/TopviewAIhq/status/2046770035994370357
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/ue5-boss-ember-knight-vs-obsidian-colossus?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 风暴游侠对天空巨蛇
+
+<a href="https://cinel.ai/zh/prompts/p/ue5-boss-storm-ranger-vs-sky-serpent?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/ue5-boss-storm-ranger-vs-sky-serpent.webp" alt="风暴游侠对天空巨蛇" width="480"></a>
+
+> 电影级虚幻引擎5 Boss战游玩截图模板，仅用虚构英雄与Boss。
+
+```text
+cinematic boss fight gameplay screenshot, fictional storm ranger with crackling bow facing a fictional massive sky serpent coiled through storm clouds, dramatic lighting, sparks and particles, epic scale, dynamic camera angle, motion blur, high contrast, Unreal Engine 5 graphics, intense atmosphere. Widescreen 16:9 cinematic. Original fictional characters only — no real people, no celebrity likeness, no brand logos, no copyrighted game IP, no watermarks.
+```
+
+- 原作者: [@TopviewAIhq](https://x.com/TopviewAIhq)
+- 原帖: https://x.com/TopviewAIhq/status/2046770035994370357
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/ue5-boss-storm-ranger-vs-sky-serpent?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 霜法师对冰川泰坦
+
+<a href="https://cinel.ai/zh/prompts/p/ue5-boss-frost-mage-vs-glacier-titan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/ue5-boss-frost-mage-vs-glacier-titan.webp" alt="霜法师对冰川泰坦" width="480"></a>
+
+> 电影级虚幻引擎5 Boss战游玩截图模板，仅用虚构英雄与Boss。
+
+```text
+cinematic boss fight gameplay screenshot, fictional frost mage wrapped in ice-crystal robes facing a fictional glacier titan rising from a frozen lake, dramatic lighting, sparks and particles, epic scale, dynamic camera angle, motion blur, high contrast, Unreal Engine 5 graphics, intense atmosphere. Widescreen 16:9 cinematic. Original fictional characters only — no real people, no celebrity likeness, no brand logos, no copyrighted game IP, no watermarks.
+```
+
+- 原作者: [@TopviewAIhq](https://x.com/TopviewAIhq)
+- 原帖: https://x.com/TopviewAIhq/status/2046770035994370357
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/ue5-boss-frost-mage-vs-glacier-titan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 影刃刺客对虚空幽灵
+
+<a href="https://cinel.ai/zh/prompts/p/ue5-boss-shadow-blade-vs-void-wraith?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/ue5-boss-shadow-blade-vs-void-wraith.webp" alt="影刃刺客对虚空幽灵" width="480"></a>
+
+> 电影级虚幻引擎5 Boss战游玩截图模板，仅用虚构英雄与Boss。
+
+```text
+cinematic boss fight gameplay screenshot, fictional shadow blade assassin cloaked in purple mist facing a fictional void wraith with fracturing reality tendrils, dramatic lighting, sparks and particles, epic scale, dynamic camera angle, motion blur, high contrast, Unreal Engine 5 graphics, intense atmosphere. Widescreen 16:9 cinematic. Original fictional characters only — no real people, no celebrity likeness, no brand logos, no copyrighted game IP, no watermarks.
+```
+
+- 原作者: [@TopviewAIhq](https://x.com/TopviewAIhq)
+- 原帖: https://x.com/TopviewAIhq/status/2046770035994370357
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/ue5-boss-shadow-blade-vs-void-wraith?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 机甲驾驶员对钢铁利维坦
+
+<a href="https://cinel.ai/zh/prompts/p/ue5-boss-mech-pilot-vs-iron-leviathan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/ue5-boss-mech-pilot-vs-iron-leviathan.webp" alt="机甲驾驶员对钢铁利维坦" width="480"></a>
+
+> 电影级虚幻引擎5 Boss战游玩截图模板，仅用虚构英雄与Boss。
+
+```text
+cinematic boss fight gameplay screenshot, fictional mech pilot in a sleek bipedal combat frame facing a fictional iron leviathan war-machine the size of a city block, dramatic lighting, sparks and particles, epic scale, dynamic camera angle, motion blur, high contrast, Unreal Engine 5 graphics, intense atmosphere. Widescreen 16:9 cinematic. Original fictional characters only — no real people, no celebrity likeness, no brand logos, no copyrighted game IP, no watermarks.
+```
+
+- 原作者: [@TopviewAIhq](https://x.com/TopviewAIhq)
+- 原帖: https://x.com/TopviewAIhq/status/2046770035994370357
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/ue5-boss-mech-pilot-vs-iron-leviathan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

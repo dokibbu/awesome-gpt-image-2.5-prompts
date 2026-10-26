@@ -1,6 +1,6 @@
 # 插画与动漫 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 73 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 87 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 极简黑白线稿人物插画提示词
 
@@ -1112,3 +1112,199 @@ Create a high-end editorial fashion illustration of a stylish fictional adult wo
 - 原作者: [@Tech_Apex0](https://x.com/Tech_Apex0)
 - 原帖: https://x.com/Tech_Apex0/status/2109687049666347113
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/papercut-fashion-wave-violet-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 默片吸血鬼像素游戏
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-game-silent-vampire-film?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pixel-game-silent-vampire-film.webp" alt="默片吸血鬼像素游戏" width="360"></a>
+
+> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a silent-era expressionist vampire film”），非现代片厂IP片名。
+
+```text
+Make me a pixel art version of a silent-era expressionist vampire film if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: German-expressionist angles, jagged castle silhouettes, chalk-white vampire figure, high-contrast black/white/crimson pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1992598016868720997
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-silent-vampire-film?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 大都会劳工像素游戏
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-game-metropolis-workers-scifi?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pixel-game-metropolis-workers-scifi.webp" alt="大都会劳工像素游戏" width="360"></a>
+
+> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a 1920s metropolis workers-vs-machines sci-fi”），非现代片厂IP片名。
+
+```text
+Make me a pixel art version of a 1920s metropolis workers-vs-machines sci-fi if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: towering art-deco city, workers marching below giant gears and chrome robots, teal-and-amber pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1992598016868720997
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-metropolis-workers-scifi?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 西部劫火车像素游戏
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-game-western-train-robbery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pixel-game-western-train-robbery.webp" alt="西部劫火车像素游戏" width="360"></a>
+
+> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a dusty western train-robbery epic”），非现代片厂IP片名。
+
+```text
+Make me a pixel art version of a dusty western train-robbery epic if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: desert mesa, steam locomotive, masked outlaws on horseback, sunset orange pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1992598016868720997
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-western-train-robbery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 哥特鬼宅像素游戏
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-game-gothic-haunted-mansion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pixel-game-gothic-haunted-mansion.webp" alt="哥特鬼宅像素游戏" width="360"></a>
+
+> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a gothic haunted-mansion mystery”），非现代片厂IP片名。
+
+```text
+Make me a pixel art version of a gothic haunted-mansion mystery if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: looming Victorian mansion, moonlit wrought-iron gates, candle windows, purple-and-teal gothic pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1992598016868720997
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-gothic-haunted-mansion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 深海巨鱿像素游戏
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-game-oceanic-giant-squid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pixel-game-oceanic-giant-squid.webp" alt="深海巨鱿像素游戏" width="360"></a>
+
+> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“an oceanic adventure with giant squid”），非现代片厂IP片名。
+
+```text
+Make me a pixel art version of an oceanic adventure with giant squid if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: wooden sailing ship dwarfed by a colossal squid, stormy waves, deep-blue and seafoam pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1992598016868720997
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-oceanic-giant-squid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 黑色雨夜都市像素游戏
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-game-noir-rain-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pixel-game-noir-rain-city.webp" alt="黑色雨夜都市像素游戏" width="360"></a>
+
+> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a noir detective rain-soaked city”），非现代片厂IP片名。
+
+```text
+Make me a pixel art version of a noir detective rain-soaked city if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: trench-coat detective under neon streetlamp, wet asphalt reflections, black-and-yellow noir pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1992598016868720997
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-noir-rain-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 沙漠商队奇幻像素游戏
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-game-desert-caravan-fantasy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pixel-game-desert-caravan-fantasy.webp" alt="沙漠商队奇幻像素游戏" width="360"></a>
+
+> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a desert caravan fantasy”），非现代片厂IP片名。
+
+```text
+Make me a pixel art version of a desert caravan fantasy if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: camel caravan across golden dunes, floating lanterns, mirage oasis, warm sand-and-violet pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1992598016868720997
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-desert-caravan-fantasy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 树精希尔瓦拉像素RPG卡
+
+<a href="https://cinel.ai/zh/prompts/p/rpg-card-dryad-sylvara?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/rpg-card-dryad-sylvara.webp" alt="树精希尔瓦拉像素RPG卡" width="360"></a>
+
+> 奇幻RPG卡牌肖像模板，虚构成年原创角色Sylvara（Dryad）。已去掉原帖“Kris”名与任何真人身份。
+
+```text
+Create a pixel art fantasy RPG game card portrait of a fictional adult character named Sylvara, class Dryad. The character has bark-textured skin, glowing green eyes, flower-crowned hair, vine-woven armor, posed against glowing enchanted grove. The card includes floral borders and leaf patterns and readable RPG-style stats panels (HP, ATK, DEF, MAG) with invented numbers. Old-school nostalgic collectible game card layout, Portrait 2:3 (vertical game cover / card). Fictional original character only — not a real person, not named Kris, no celebrity likeness. No brand logos, no copyrighted franchise marks, no watermarks.
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1972050050105712898
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/rpg-card-dryad-sylvara?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 神谕米拉尔奇幻RPG卡
+
+<a href="https://cinel.ai/zh/prompts/p/rpg-card-oracle-mirael?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/rpg-card-oracle-mirael.webp" alt="神谕米拉尔奇幻RPG卡" width="360"></a>
+
+> 奇幻RPG卡牌肖像模板，虚构成年原创角色Mirael（Oracle）。已去掉原帖“Kris”名与任何真人身份。
+
+```text
+Create a hyper-detailed painterly fantasy RPG game card portrait of a fictional adult character named Mirael, class Oracle. The character has star-flecked violet robes, silver third-eye mark, floating constellation orbs, posed against moonlit marble temple balcony. The card includes celestial borders with constellation motifs and readable RPG-style stats panels (HP, ATK, DEF, MAG) with invented numbers. Old-school nostalgic collectible game card layout, Portrait 2:3 (vertical game cover / card). Fictional original character only — not a real person, not named Kris, no celebrity likeness. No brand logos, no copyrighted franchise marks, no watermarks.
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1972047357723480257
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/rpg-card-oracle-mirael?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 骑士托尔文像素RPG卡
+
+<a href="https://cinel.ai/zh/prompts/p/rpg-card-knight-thorven?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/rpg-card-knight-thorven.webp" alt="骑士托尔文像素RPG卡" width="360"></a>
+
+> 奇幻RPG卡牌肖像模板，虚构成年原创角色Thorven（Knight）。已去掉原帖“Kris”名与任何真人身份。
+
+```text
+Create a pixel art fantasy RPG game card portrait of a fictional adult character named Thorven, class Knight. The character has polished plate armor with crimson cape, scarred jaw, towering kite shield, posed against stormy castle battlements. The card includes iron rivet borders and heraldic corner flourishes and readable RPG-style stats panels (HP, ATK, DEF, MAG) with invented numbers. Old-school nostalgic collectible game card layout, Portrait 2:3 (vertical game cover / card). Fictional original character only — not a real person, not named Kris, no celebrity likeness. No brand logos, no copyrighted franchise marks, no watermarks.
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1972050050105712898
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/rpg-card-knight-thorven?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 炼金师奎兰奇幻RPG卡
+
+<a href="https://cinel.ai/zh/prompts/p/rpg-card-alchemist-quillan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/rpg-card-alchemist-quillan.webp" alt="炼金师奎兰奇幻RPG卡" width="360"></a>
+
+> 奇幻RPG卡牌肖像模板，虚构成年原创角色Quillan（Alchemist）。已去掉原帖“Kris”名与任何真人身份。
+
+```text
+Create a hyper-detailed painterly fantasy RPG game card portrait of a fictional adult character named Quillan, class Alchemist. The character has brass goggles on forehead, stained leather apron, swirling potion vials on belt, posed against cluttered laboratory with glowing alembics. The card includes scrollwork borders with vial icons and readable RPG-style stats panels (HP, ATK, DEF, MAG) with invented numbers. Old-school nostalgic collectible game card layout, Portrait 2:3 (vertical game cover / card). Fictional original character only — not a real person, not named Kris, no celebrity likeness. No brand logos, no copyrighted franchise marks, no watermarks.
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1972047357723480257
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/rpg-card-alchemist-quillan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 死灵法师薇克莎像素RPG卡
+
+<a href="https://cinel.ai/zh/prompts/p/rpg-card-necromancer-vexra?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/rpg-card-necromancer-vexra.webp" alt="死灵法师薇克莎像素RPG卡" width="360"></a>
+
+> 奇幻RPG卡牌肖像模板，虚构成年原创角色Vexra（Necromancer）。已去掉原帖“Kris”名与任何真人身份。
+
+```text
+Create a pixel art fantasy RPG game card portrait of a fictional adult character named Vexra, class Necromancer. The character has bone-white mask, tattered black robes, floating green soul-flames, posed against moonlit crypt with skeletal arches. The card includes bone and rune borders and readable RPG-style stats panels (HP, ATK, DEF, MAG) with invented numbers. Old-school nostalgic collectible game card layout, Portrait 2:3 (vertical game cover / card). Fictional original character only — not a real person, not named Kris, no celebrity likeness. No brand logos, no copyrighted franchise marks, no watermarks.
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1972050050105712898
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/rpg-card-necromancer-vexra?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 驯兽师罗安奇幻RPG卡
+
+<a href="https://cinel.ai/zh/prompts/p/rpg-card-beast-tamer-rowan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/rpg-card-beast-tamer-rowan.webp" alt="驯兽师罗安奇幻RPG卡" width="360"></a>
+
+> 奇幻RPG卡牌肖像模板，虚构成年原创角色Rowan（Beast-Tamer）。已去掉原帖“Kris”名与任何真人身份。
+
+```text
+Create a hyper-detailed painterly fantasy RPG game card portrait of a fictional adult character named Rowan, class Beast-Tamer. The character has leather travel cloak, wolf companion at side, feathered braids, hunting spear, posed against misty mountain ridge at dawn. The card includes paw-print and vine borders and readable RPG-style stats panels (HP, ATK, DEF, MAG) with invented numbers. Old-school nostalgic collectible game card layout, Portrait 2:3 (vertical game cover / card). Fictional original character only — not a real person, not named Kris, no celebrity likeness. No brand logos, no copyrighted franchise marks, no watermarks.
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1972047357723480257
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/rpg-card-beast-tamer-rowan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 像素自然复古游戏背景
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-nature-retro-game-bg?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pixel-nature-retro-game-bg.webp" alt="像素自然复古游戏背景" width="480"></a>
+
+> 多彩像素自然风景复古游戏背景，重半调/抖动；无文字、无UI。
+
+```text
+colorful pixel art nature scene with mountains, flowers and blue sky, heavy halftone shading and dithering, vintage comic print texture, vibrant greens and purples, scenic composition, retro video game background, highly detailed, sharp pixels, no text, no UI. Widescreen 16:9 cinematic. No brand logos, no watermarks, no real celebrity likeness.
+```
+
+- 原作者: [@betomoedano](https://x.com/betomoedano)
+- 原帖: https://x.com/betomoedano/status/2046727843925942564
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-nature-retro-game-bg?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

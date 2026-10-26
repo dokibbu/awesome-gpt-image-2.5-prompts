@@ -1,6 +1,6 @@
 # 信息图与 UI · GPT Image 2.5
 
-[← README](../../README_zh.md) · 36 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 40 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D 国家旅行指南地图信息图提示词
 
@@ -1206,3 +1206,59 @@ Each stage one dominant miniature artifact with fine leader lines and small eleg
 - 原作者: [@Gdgtify](https://x.com/Gdgtify)
 - 原帖: https://x.com/Gdgtify/status/2112259739317055886
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/bicycle-l-evolution-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 奥术像素RPG道具网格
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-rpg-items-arcane-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pixel-rpg-items-arcane-grid.webp" alt="奥术像素RPG道具网格" width="480"></a>
+
+> 平面2D像素RPG道具精灵表（30个独特arcane主题道具）白底网格。
+
+```text
+A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a arcane theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- 原作者: [@johnsavage_ai](https://x.com/johnsavage_ai)
+- 原帖: https://x.com/johnsavage_ai/status/1991958964813148541
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-rpg-items-arcane-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 沼泽像素RPG道具网格
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-rpg-items-swamp-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pixel-rpg-items-swamp-grid.webp" alt="沼泽像素RPG道具网格" width="480"></a>
+
+> 平面2D像素RPG道具精灵表（30个独特swamp主题道具）白底网格。
+
+```text
+A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a swamp theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- 原作者: [@johnsavage_ai](https://x.com/johnsavage_ai)
+- 原帖: https://x.com/johnsavage_ai/status/1991958964813148541
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-rpg-items-swamp-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 蒸汽朋克像素RPG道具网格
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-rpg-items-steampunk-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pixel-rpg-items-steampunk-grid.webp" alt="蒸汽朋克像素RPG道具网格" width="480"></a>
+
+> 平面2D像素RPG道具精灵表（30个独特steampunk主题道具）白底网格。
+
+```text
+A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a steampunk theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- 原作者: [@johnsavage_ai](https://x.com/johnsavage_ai)
+- 原帖: https://x.com/johnsavage_ai/status/1991958964813148541
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-rpg-items-steampunk-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 像素RPG宇宙精灵表
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-rpg-universe-sprite-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pixel-rpg-universe-sprite-sheet.webp" alt="像素RPG宇宙精灵表" width="480"></a>
+
+> 根据热帖要点重建的英文提示词：连贯10×10（100素材）RPG像素精灵表（原帖写“prompt👇”但无可粘贴正文）。
+
+```text
+Create a coherent fantasy RPG universe as a single 10x10 pixel-art sprite sheet with exactly 100 assets. Theme: moonlit woodland kingdom. Include a mix of playable adventurers, forest mobs, weapons, potions, loot bags, and environmental props that all share one visual style and muted teal-and-gold palette. Flat 2D game-asset sheet on a clean light background, neat equal grid cells, no overlapping, distinct silhouettes, high-quality retro pixel art. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- 原作者: [@givros](https://x.com/givros)
+- 原帖: https://x.com/givros/status/2049883610136600939
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-rpg-universe-sprite-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

@@ -1207,20 +1207,6 @@ Ultra-realistic 3D product shot, square 1:1: an unbranded glass bottle sharp in 
 - 原帖: https://x.com/FilmluneCOM/status/2109902038834598239
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/cherry-bottle-ice-splash-product?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-### 行李箱变形飞行摩托关键帧
-
-<a href="https://cinel.ai/zh/prompts/p/suitcase-flying-motorcycle-transform-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/suitcase-flying-motorcycle-transform-keyframe.webp" alt="行李箱变形飞行摩托关键帧" width="480"></a>
-
-> 根据 @Aiminithoughts 于 2026-10-20 的视频帖改写（记录时 24 赞）。我们改成一张干净的16:9宽屏图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
-
-```text
-Cinematic sci-fi product keyframe, widescreen 16:9: inside a vast futuristic airport hangar, one single sleek brushed-metal suitcase, centered and alone on the floor, is caught at the exact halfway moment of transforming into a flying motorcycle (half suitcase, half bike, a single hybrid object, not a lineup or sequence) — hundreds of precision-engineered panels expanding outward, hidden mechanical arms extending from its core, wheels unfolding, the frame lengthening, twin anti-gravity thrusters glowing blue beneath the chassis. Polished concrete floor with reflections, cool rim lights, hangar doors open to a hazy futuristic skyline. Fictional design, no brand, no text, no logo. Widescreen 16:9 composition.
-```
-
-- 原作者: [@Aiminithoughts](https://x.com/Aiminithoughts)
-- 原帖: https://x.com/Aiminithoughts/status/2112364398350311506
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/suitcase-flying-motorcycle-transform-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
 ### 膨胀果汁瓶立体字产品海报
 
 <a href="https://cinel.ai/zh/prompts/p/inflating-juice-bottle-typography-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/inflating-juice-bottle-typography-poster.webp" alt="膨胀果汁瓶立体字产品海报" width="480"></a>
@@ -1234,6 +1220,20 @@ Premium commercial product poster for a fictional juice brand "VELVABERRY", squa
 - 原作者: [@ou_zhen599](https://x.com/ou_zhen599)
 - 原帖: https://x.com/ou_zhen599/status/2111034381150339446
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/inflating-juice-bottle-typography-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 行李箱变形飞行摩托关键帧
+
+<a href="https://cinel.ai/zh/prompts/p/suitcase-flying-motorcycle-transform-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/suitcase-flying-motorcycle-transform-keyframe.webp" alt="行李箱变形飞行摩托关键帧" width="480"></a>
+
+> 根据 @Aiminithoughts 于 2026-10-20 的视频帖改写（记录时 24 赞）。我们改成一张干净的16:9宽屏图，去掉品牌、Logo、名人/IP元素，也不需要你的照片。一次只改一个变量。
+
+```text
+Cinematic sci-fi product keyframe, widescreen 16:9: inside a vast futuristic airport hangar, one single sleek brushed-metal suitcase, centered and alone on the floor, is caught at the exact halfway moment of transforming into a flying motorcycle (half suitcase, half bike, a single hybrid object, not a lineup or sequence) — hundreds of precision-engineered panels expanding outward, hidden mechanical arms extending from its core, wheels unfolding, the frame lengthening, twin anti-gravity thrusters glowing blue beneath the chassis. Polished concrete floor with reflections, cool rim lights, hangar doors open to a hazy futuristic skyline. Fictional design, no brand, no text, no logo. Widescreen 16:9 composition.
+```
+
+- 原作者: [@Aiminithoughts](https://x.com/Aiminithoughts)
+- 原帖: https://x.com/Aiminithoughts/status/2112364398350311506
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/suitcase-flying-motorcycle-transform-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 奢华产品主视觉商业海报
 
