@@ -785,6 +785,62 @@ Make the aspect ratio 9:16
 
 精选 6 条 · [查看本类全部 40 条](cases/zh/infographic-ui.md) · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
+### 奥术像素RPG道具网格
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-rpg-items-arcane-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-rpg-items-arcane-grid.webp" alt="奥术像素RPG道具网格" width="480"></a>
+
+> 平面2D像素RPG道具精灵表（30个独特arcane主题道具）白底网格。
+
+```text
+A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a arcane theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- 原作者: [@johnsavage_ai](https://x.com/johnsavage_ai)
+- 原帖: https://x.com/johnsavage_ai/status/1991958964813148541
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-rpg-items-arcane-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 沼泽像素RPG道具网格
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-rpg-items-swamp-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-rpg-items-swamp-grid.webp" alt="沼泽像素RPG道具网格" width="480"></a>
+
+> 平面2D像素RPG道具精灵表（30个独特swamp主题道具）白底网格。
+
+```text
+A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a swamp theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- 原作者: [@johnsavage_ai](https://x.com/johnsavage_ai)
+- 原帖: https://x.com/johnsavage_ai/status/1991958964813148541
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-rpg-items-swamp-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 蒸汽朋克像素RPG道具网格
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-rpg-items-steampunk-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-rpg-items-steampunk-grid.webp" alt="蒸汽朋克像素RPG道具网格" width="480"></a>
+
+> 平面2D像素RPG道具精灵表（30个独特steampunk主题道具）白底网格。
+
+```text
+A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a steampunk theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- 原作者: [@johnsavage_ai](https://x.com/johnsavage_ai)
+- 原帖: https://x.com/johnsavage_ai/status/1991958964813148541
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-rpg-items-steampunk-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 像素RPG宇宙精灵表
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-rpg-universe-sprite-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-rpg-universe-sprite-sheet.webp" alt="像素RPG宇宙精灵表" width="480"></a>
+
+> 根据热帖要点重建的英文提示词：连贯10×10（100素材）RPG像素精灵表（原帖写“prompt👇”但无可粘贴正文）。
+
+```text
+Create a coherent fantasy RPG universe as a single 10x10 pixel-art sprite sheet with exactly 100 assets. Theme: moonlit woodland kingdom. Include a mix of playable adventurers, forest mobs, weapons, potions, loot bags, and environmental props that all share one visual style and muted teal-and-gold palette. Flat 2D game-asset sheet on a clean light background, neat equal grid cells, no overlapping, distinct silhouettes, high-quality retro pixel art. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- 原作者: [@givros](https://x.com/givros)
+- 原帖: https://x.com/givros/status/2049883610136600939
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-rpg-universe-sprite-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
 ### 3D 国家旅行指南地图信息图提示词
 
 <a href="https://cinel.ai/zh/prompts/p/3d-country-travel-guide-map-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/3d-country-travel-guide-map-infographic.webp" alt="3D 国家旅行指南地图信息图提示词" width="480"></a>
@@ -825,92 +881,6 @@ Output: 1080×1080, ultra-crisp, social-feed optimized.
 - 原作者: [@TechieBySA](https://x.com/TechieBySA)
 - 原帖: https://x.com/TechieBySA/status/2017928823497453789
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/isometric-technical-infographic-annotated-object?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 3×3 网格触感 3D 图标套组提示词
-
-<a href="https://cinel.ai/zh/prompts/p/tactile-3d-icon-set-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/tactile-3d-icon-set-grid.webp" alt="3×3 网格触感 3D 图标套组提示词" width="480"></a>
-
-> 不到 50 个单词，是灵感库里最短的提示词之一。它之所以好用，是因为只规定了关键的东西：一个主题、3×3 网格、白底、“彩色且有触感的 3D”质感、不要文字。后面那串列表其实是作者给出的示例主题，并不属于指令本身。我们用“露营”主题时把列表留在了原文里，结果模型把它们混在一起：背包小狗、下雪的一月日历、香蕉和小猫，与帐篷、篝火排在一起。这正好说明：删掉列表，只写一个主题，才能得到风格统一、可直接用于贴纸、应用空状态或幻灯片的一套图标。
-
-```text
-Create a collection of icons representing a cozy camping trip, they belong together as a single theme. Put them in a 3x3 grid. The background is white. Make the icons in a colorful and tactile 3D style. No text.
-
-- dogs with different emotions
-- bananas
-- January
-- the same cat in different emotions
-```
-
-- 原作者: [@NanoBanana](https://x.com/NanoBanana)
-- 原帖: https://x.com/NanoBanana/status/2009660363227152653
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/tactile-3d-icon-set-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 实拍物品叠加技术草图标注信息图提示词
-
-<a href="https://cinel.ai/zh/prompts/p/photo-with-technical-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/photo-with-technical-annotation-infographic.webp" alt="实拍物品叠加技术草图标注信息图提示词" width="480"></a>
-
-> 它和“等距技术拆解”是姊妹模板，但有一个重要区别：严格只用白底黑墨，没有点缀色。这个限制让成品更安静，更像一本工程笔记。叠加内容清单（部件标签、爆炸图轮廓、尺寸、材料标注、流向箭头）足够宽泛，几乎适用于任何物品。用陶瓷茶壶测试，模型画出了显示蒸汽与水的剖面图、壶盖—滤网—壶身的爆炸图和材料说明框；但也出现了拼写错误（heat reistant）和略显伪科学的流向图，小字标注请务必校对。功能清晰的日常物品——水壶、自行车、相机——最适合。
-
-```text
-Create an infographic image of a ceramic teapot, combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.
-
-Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:
-•Key component labels
-•Internal cutaway or exploded-view outlines
-•Measurements, dimensions, and scale markers
-•Material callouts and quantities
-•Arrows indicating function, force, or flow (air, sound, power, pressure)
-•Simple schematic or sectional diagrams where relevant
-
-Place the title a ceramic teapot inside a hand-drawn technical annotation box in one corner.
-
-Style & layout rules:
-•The real object remains clearly visible beneath the annotations
-•Annotations feel sketched, technical, and architectural
-•Clean composition with balanced negative space
-•Educational, museum-exhibit / engineering-manual vibe
-
-Visual style:
-Minimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.
-
-Color palette:
-White background, black annotation lines and text only. No colors.
-
-Output:
-1080×1080, ultra-crisp, social-feed optimized, no watermark.
-```
-
-- 原作者: [@TechieBySA](https://x.com/TechieBySA)
-- 原帖: https://x.com/TechieBySA/status/2013316513701216688
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/photo-with-technical-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 地标实景照片 + 蓝图标注提示词
-
-<a href="https://cinel.ai/zh/prompts/p/landmark-blueprint-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/landmark-blueprint-annotation-infographic.webp" alt="地标实景照片 + 蓝图标注提示词" width="480"></a>
-
-> 这个一段话的模板，靠一个“反转”获得了独特的观感：不是白底黑线，而是在真实照片上画白色粉笔风格的蓝图草图，让地标和天空在图解背后依然可见。叠加内容清单——尺寸、材料用量、内部结构图、受力流向箭头、剖面图、平面图——把画面填得像一块建筑师的展示板。我们的荷兰风车示例，在金色时刻的写实风车周围排布了立面图、风帆细节、“工作原理”流程和楼层平面图。图中数字是编造的，还有一个单位不对（茅草用了立方米），除非核实过，否则只把数据当作装饰。
-
-```text
-Create an infographic image of a traditional Dutch windmill, combining a real photograph of the landmark with blueprint-style technical annotations and diagrams overlaid on the image. Include the title “a traditional Dutch windmill” in a hand-drawn box in the corner. Add white chalk-style sketches showing key structural data, important measurements, material quantities, internal diagrams, load-flow arrows, cross-sections, floor plans, and notable architectural or engineering features. Style: blueprint aesthetic with white line drawings on the photograph, technical/architectural annotation style, educational infographic feel, with the real environment visible behind the annotations.
-```
-
-- 原作者: [@TechieBySA](https://x.com/TechieBySA)
-- 原帖: https://x.com/TechieBySA/status/2007523056822939698
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/landmark-blueprint-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 产品内部结构爆炸图广告提示词
-
-<a href="https://cinel.ai/zh/prompts/p/exploded-product-inner-mechanics-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/exploded-product-inner-mechanics-ad.webp" alt="产品内部结构爆炸图广告提示词" width="480"></a>
-
-> 爆炸图用 3D 软件做成本很高，这条短提示词却能做得相当接近。关键短语是“外壳悬浮在核心上方”“微型螺丝和零件悬停”“隐含完美对齐参考线”，它们一起告诉模型沿同一轴线垂直分离各层，画面因此井然有序而不是一团乱。相机语言（100mm、f/8）保证所有部件都清晰。我们的机械键盘示例，把键帽、轴体、定位板、PCB、消音棉和外壳完美地垂直排开，角落里飘着细小的螺丝。键盘、耳机、手表、音箱这类层次分明的产品效果最好。注意方括号插在句子中间，填写时要保证语法通顺。
-
-```text
-Create an exploded products with inner mechanics of a mechanical keyboard, high-end product advertising, white seamless background, exploded view with inner mechanics revealed, outer shell hovering above core, micro screws and components suspended, perfect alignment guides implied, crisp soft shadow, ultra realistic, macro product photography, 100mm lens look, f/8, 8k, 1:1
-```
-
-- 原作者: [@azed_ai](https://x.com/azed_ai)
-- 原帖: https://x.com/azed_ai/status/2010350005870276897
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/exploded-product-inner-mechanics-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 <a id="3d-figurines"></a>
 
@@ -1434,6 +1404,76 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 精选 6 条 · [查看本类全部 92 条](cases/zh/illustration-anime.md) · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
+### 默片吸血鬼像素游戏
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-game-silent-vampire-film?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-silent-vampire-film.webp" alt="默片吸血鬼像素游戏" width="360"></a>
+
+> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a silent-era expressionist vampire film”），非现代片厂IP片名。
+
+```text
+Make me a pixel art version of a silent-era expressionist vampire film if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: German-expressionist angles, jagged castle silhouettes, chalk-white vampire figure, high-contrast black/white/crimson pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1992598016868720997
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-silent-vampire-film?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 大都会劳工像素游戏
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-game-metropolis-workers-scifi?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-metropolis-workers-scifi.webp" alt="大都会劳工像素游戏" width="360"></a>
+
+> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a 1920s metropolis workers-vs-machines sci-fi”），非现代片厂IP片名。
+
+```text
+Make me a pixel art version of a 1920s metropolis workers-vs-machines sci-fi if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: towering art-deco city, workers marching below giant gears and chrome robots, teal-and-amber pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1992598016868720997
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-metropolis-workers-scifi?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 西部劫火车像素游戏
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-game-western-train-robbery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-western-train-robbery.webp" alt="西部劫火车像素游戏" width="360"></a>
+
+> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a dusty western train-robbery epic”），非现代片厂IP片名。
+
+```text
+Make me a pixel art version of a dusty western train-robbery epic if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: desert mesa, steam locomotive, masked outlaws on horseback, sunset orange pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1992598016868720997
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-western-train-robbery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 哥特鬼宅像素游戏
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-game-gothic-haunted-mansion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-gothic-haunted-mansion.webp" alt="哥特鬼宅像素游戏" width="360"></a>
+
+> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a gothic haunted-mansion mystery”），非现代片厂IP片名。
+
+```text
+Make me a pixel art version of a gothic haunted-mansion mystery if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: looming Victorian mansion, moonlit wrought-iron gates, candle windows, purple-and-teal gothic pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1992598016868720997
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-gothic-haunted-mansion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 深海巨鱿像素游戏
+
+<a href="https://cinel.ai/zh/prompts/p/pixel-game-oceanic-giant-squid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-oceanic-giant-squid.webp" alt="深海巨鱿像素游戏" width="360"></a>
+
+> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“an oceanic adventure with giant squid”），非现代片厂IP片名。
+
+```text
+Make me a pixel art version of an oceanic adventure with giant squid if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: wooden sailing ship dwarfed by a colossal squid, stormy waves, deep-blue and seafoam pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- 原作者: [@icreatelife](https://x.com/icreatelife)
+- 原帖: https://x.com/icreatelife/status/1992598016868720997
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-oceanic-giant-squid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
 ### 极简黑白线稿人物插画提示词
 
 <a href="https://cinel.ai/zh/prompts/p/minimal-black-white-line-art-character?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/minimal-black-white-line-art-character.webp" alt="极简黑白线稿人物插画提示词" width="480"></a>
@@ -1447,80 +1487,6 @@ A simple black-and-white illustration of a young woman in an oversized knit swea
 - 原作者: [@azed_ai](https://x.com/azed_ai)
 - 原帖: https://x.com/azed_ai/status/2043284009116160473
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/minimal-black-white-line-art-character?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 毛茸茸小动物四格故事漫画提示词
-
-<a href="https://cinel.ai/zh/prompts/p/four-panel-fluffy-creatures-story?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/four-panel-fluffy-creatures-story.webp" alt="毛茸茸小动物四格故事漫画提示词" width="480"></a>
-
-> 这条提示词没有描述画面，而是描述了一条故事线——目标、挫折、协作、圆满结局，把视觉交给模型发挥。唯一关键的技术指令是“三个角色保持一致的形象”。作者原本的用法是在对话式生成中逐张生成四张 16:9 图片。像我们的示例这样一次生成时，模型会把四个情节画进同一张图：小熊、小兔和浣熊做计划、失败（“Oops… not so easy”）、在夕阳下干活、在完工的树屋里庆祝。两种方式都能快速得到绘本或社交轮播图的草稿。给角色起名字，一致性会更好。
-
-```text
-Create a funny 4-part story featuring 3 fluffy creatures building a treehouse. The story has emotional highs and lows and ends in a happy moment. Maintain consistent identity across the 3 characters. Generate 4 images in 16:9 format, one at a time.
-```
-
-- 原作者: [@GoogleAI](https://x.com/GoogleAI)
-- 原帖: https://x.com/GoogleAI/status/2027094912357761319
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/four-panel-fluffy-creatures-story?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 未来沙漠文明世界观设定集提示词
-
-<a href="https://cinel.ai/zh/prompts/p/futuristic-desert-worldbuilding-concept-art?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/futuristic-desert-worldbuilding-concept-art.webp" alt="未来沙漠文明世界观设定集提示词" width="480"></a>
-
-> 就产出而言，它短得惊人。提示词只给出一个设定（依靠太阳能的未来沙漠文明），列出概念美术会覆盖的类别（建筑、角色、服饰、载具、地图），并要求统一的设计语言。一次生成时，我们得到了一整张名为 SOLARA 的提案板：穹顶城市、长袍角色、服饰细节、悬浮载具、室内、农业和羊皮纸地图，全部统一在沙色与天空蓝的配色里。原文“多张图片”假定的是对话式生成；单次生成会得到拼贴图。替换环境和能源（极地 + 地热、海洋 + 潮汐），就能创造新的世界。
-
-```text
-Create a complete visual worldbuilding set for a futuristic desert civilization powered by solar technology, multiple images including architecture, characters, clothing, vehicles, and maps, cohesive design language, cinematic realism, ultra detailed.
-```
-
-- 原作者: [@aleenaamiir](https://x.com/aleenaamiir)
-- 原帖: https://x.com/aleenaamiir/status/2046866168208916503
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/futuristic-desert-worldbuilding-concept-art?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 木刻版画风格人像插画提示词
-
-<a href="https://cinel.ai/zh/prompts/p/woodcut-engraving-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/woodcut-engraving-portrait-illustration.webp" alt="木刻版画风格人像插画提示词" width="480"></a>
-
-> 版画风格对图像模型来说不容易，因为它们总爱滑向柔和的铅笔明暗。这条提示词从两头着手：正向部分精确点名技法（交叉排线、线条明暗、下巴和头发周围的浓重墨影、硬朗轮廓线），一长串负面词则排除了水彩、柔和明暗、3D、动漫和模糊线条。我们的成品是一位卷发松散的女性头肩像，完全由平行线和交叉线在暖色纸上刻画而成，像复古杂志插图或钞票上的肖像小图。适合作者头像、简报刊头、酒标或周边商品。想要特定人物的样貌，可以附上自己的照片。
-
-```text
-Black and white engraved portrait illustration of a person.
-Drawn in classic woodcut / linocut engraving style, high contrast black ink on textured off-white paper background. Fine cross-hatching and line shading to create depth and shadow, bold black ink shadows under chin and around hair, strong contour lines, traditional printmaking aesthetic.
-Minimal composition, centered portrait, no body visible, clean negative space, vintage editorial illustration style, ultra detailed linework, sharp crisp ink strokes, professional vector-ready engraving look, monochrome palette, dramatic contrast.
-Negative Prompt:
-color, watercolor, soft shading, blurred lines, low contrast, realistic photography, 3D render, anime style, cartoon style, messy sketch, thick uneven strokes, background objects, noisy texture, pixelated, distorted face, extra eyes, extra ears, bad anatomy, modern digital painting, glossy skin, overexposed highlights
-```
-
-- 原作者: [@Naiknelofar788](https://x.com/Naiknelofar788)
-- 原帖: https://x.com/Naiknelofar788/status/2042785774245154868
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/woodcut-engraving-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 高对比水墨黑色电影人像插画提示词
-
-<a href="https://cinel.ai/zh/prompts/p/ink-noir-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/ink-noir-portrait-illustration.webp" alt="高对比水墨黑色电影人像插画提示词" width="480"></a>
-
-> 简短而有氛围：整个效果来自把媒介限定为黑色墨水——笔触加可控的墨点飞溅，只让纸张留白的地方成为高光。“厚重的阴影占据主导”把画面推向近乎剪影，“像定格在最戏剧化一格的图像小说”定下了情绪。我们选了一位穿风衣、戴软呢帽的疲惫侦探，成品是一张很有冲击力的笔刷插画：帽檐把眼睛压进阴影，墨点打散了风衣，背景隐约有路灯和尖顶。适合书封、海报、纹身稿或播客封面。换主体即可，但保留“只用墨水”的规则。
-
-```text
-A high-contrast ink noir portrait of a weary detective in a trench coat and fedora, illustrated entirely with expressive black ink strokes and controlled splatter. Heavy shadows dominate the composition while selective highlights emerge through negative space. Subtle paper grain is visible. Atmosphere is moody, cinematic, and intense, like a graphic novel frozen at its most dramatic panel.
-```
-
-- 原作者: [@aleenaamiir](https://x.com/aleenaamiir)
-- 原帖: https://x.com/aleenaamiir/status/2008431391235862892
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/ink-noir-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 照片转单色水墨侧颜人像提示词
-
-<a href="https://cinel.ai/zh/prompts/p/monochrome-ink-side-profile-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/monochrome-ink-side-profile-portrait.webp" alt="照片转单色水墨侧颜人像提示词" width="480"></a>
-
-> 一种温和、有画廊感的转换：照片变成一张朝左的干净侧脸，用柔和的炭灰色墨在纯白背景上绘制，带一点可控的墨点飞溅和水彩晕染，边缘化成薄雾。提示词要求保留精确的身份和比例，所以结果依然像本人，而不是泛泛的素描。我们的参考图是一位低盘发虚构女性的四分之三侧面照，模型把她完全转成了侧面，保留了鼻梁和下颌线，头发用松散的墨线表现，发髻周围散落着灰色墨点。很适合作者照、婚礼文具或纪念肖像。请使用清晰、光线好的参考图。
-
-```text
-Transform the input photo into a refined monochromatic ink portrait on a pure white background. Clean side profile facing left, preserving exact facial identity and proportions. Soft charcoal-gray ink with subtle tonal variation, controlled splatter accents, delicate watercolor diffusion, and faint mist-like dispersion along the edges.
-```
-
-- 原作者: [@Naiknelofar788](https://x.com/Naiknelofar788)
-- 原帖: https://x.com/Naiknelofar788/status/2024636606272229577
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/monochrome-ink-side-profile-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 <a id="scenes-creative"></a>
 

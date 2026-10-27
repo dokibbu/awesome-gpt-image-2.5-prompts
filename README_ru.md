@@ -785,6 +785,62 @@ Make the aspect ratio 9:16
 
 Избранное: 6 · [Все 40](cases/infographic-ui.md) · [Категория на cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
+### Pixel Arcane RPG Item Grid
+
+<a href="https://cinel.ai/prompts/p/pixel-rpg-items-arcane-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-rpg-items-arcane-grid.webp" alt="Pixel Arcane RPG Item Grid" width="480"></a>
+
+> Flat 2D pixel RPG item sprite sheet (30 unique arcane-themed items) on white grid.
+
+```text
+A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a arcane theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- Автор: [@johnsavage_ai](https://x.com/johnsavage_ai)
+- Оригинальный пост: https://x.com/johnsavage_ai/status/1991958964813148541
+- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/pixel-rpg-items-arcane-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pixel Swamp RPG Item Grid
+
+<a href="https://cinel.ai/prompts/p/pixel-rpg-items-swamp-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-rpg-items-swamp-grid.webp" alt="Pixel Swamp RPG Item Grid" width="480"></a>
+
+> Flat 2D pixel RPG item sprite sheet (30 unique swamp-themed items) on white grid.
+
+```text
+A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a swamp theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- Автор: [@johnsavage_ai](https://x.com/johnsavage_ai)
+- Оригинальный пост: https://x.com/johnsavage_ai/status/1991958964813148541
+- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/pixel-rpg-items-swamp-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pixel Steampunk RPG Item Grid
+
+<a href="https://cinel.ai/prompts/p/pixel-rpg-items-steampunk-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-rpg-items-steampunk-grid.webp" alt="Pixel Steampunk RPG Item Grid" width="480"></a>
+
+> Flat 2D pixel RPG item sprite sheet (30 unique steampunk-themed items) on white grid.
+
+```text
+A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a steampunk theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- Автор: [@johnsavage_ai](https://x.com/johnsavage_ai)
+- Оригинальный пост: https://x.com/johnsavage_ai/status/1991958964813148541
+- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/pixel-rpg-items-steampunk-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pixel RPG Universe Sprite Sheet
+
+<a href="https://cinel.ai/prompts/p/pixel-rpg-universe-sprite-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-rpg-universe-sprite-sheet.webp" alt="Pixel RPG Universe Sprite Sheet" width="480"></a>
+
+> Reconstructed English prompt for a coherent 10×10 (100-asset) RPG pixel sprite sheet (source post teased “prompt👇” without paste-able body).
+
+```text
+Create a coherent fantasy RPG universe as a single 10x10 pixel-art sprite sheet with exactly 100 assets. Theme: moonlit woodland kingdom. Include a mix of playable adventurers, forest mobs, weapons, potions, loot bags, and environmental props that all share one visual style and muted teal-and-gold palette. Flat 2D game-asset sheet on a clean light background, neat equal grid cells, no overlapping, distinct silhouettes, high-quality retro pixel art. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
+```
+
+- Автор: [@givros](https://x.com/givros)
+- Оригинальный пост: https://x.com/givros/status/2049883610136600939
+- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/pixel-rpg-universe-sprite-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
 ### 3D Country Travel Guide Map Infographic Prompt
 
 <a href="https://cinel.ai/prompts/p/3d-country-travel-guide-map-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/3d-country-travel-guide-map-infographic.webp" alt="3D Country Travel Guide Map Infographic Prompt" width="480"></a>
@@ -825,92 +881,6 @@ Output: 1080×1080, ultra-crisp, social-feed optimized.
 - Автор: [@TechieBySA](https://x.com/TechieBySA)
 - Оригинальный пост: https://x.com/TechieBySA/status/2017928823497453789
 - [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/isometric-technical-infographic-annotated-object?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### Tactile 3D Icon Set in a 3×3 Grid Prompt
-
-<a href="https://cinel.ai/prompts/p/tactile-3d-icon-set-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/tactile-3d-icon-set-grid.webp" alt="Tactile 3D Icon Set in a 3×3 Grid Prompt" width="480"></a>
-
-> At under 50 words this is one of the shortest prompts in the library, and it works because it fixes only what matters: one theme, a 3×3 grid, white background, a 'colourful and tactile 3D' finish and no text. The bullet list after it is the author's set of example themes, not part of the brief. We left it in for our camping run, and the model blended them: puppies with backpacks, a snowy calendar for January, bananas and a cat sit beside a tent and campfire. That is a useful lesson. Delete the list and write a single theme, and you'll get a coherent set ready for stickers, app empty-states or slides.
-
-```text
-Create a collection of icons representing a cozy camping trip, they belong together as a single theme. Put them in a 3x3 grid. The background is white. Make the icons in a colorful and tactile 3D style. No text.
-
-- dogs with different emotions
-- bananas
-- January
-- the same cat in different emotions
-```
-
-- Автор: [@NanoBanana](https://x.com/NanoBanana)
-- Оригинальный пост: https://x.com/NanoBanana/status/2009660363227152653
-- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/tactile-3d-icon-set-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### Photo with Technical Sketch Annotations Infographic
-
-<a href="https://cinel.ai/prompts/p/photo-with-technical-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/photo-with-technical-annotation-infographic.webp" alt="Photo with Technical Sketch Annotations Infographic" width="480"></a>
-
-> A sister template to the isometric teardown, with one important difference: it is strictly black ink on white, with no accent colours. That restriction makes the result calmer and closer to an engineering notebook. The list of overlays (labels, exploded outlines, dimensions, material callouts, flow arrows) is broad enough to suit almost any object. With a ceramic teapot, the model produced a cross-section showing steam and water, an exploded lid–filter–body view and a material panel. It also printed a typo ('heat reistant') and a slightly pseudo-scientific flow diagram, so proofread small labels. Everyday objects with a clear function, like kettles, bikes or cameras, make the best subjects.
-
-```text
-Create an infographic image of a ceramic teapot, combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.
-
-Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:
-•Key component labels
-•Internal cutaway or exploded-view outlines
-•Measurements, dimensions, and scale markers
-•Material callouts and quantities
-•Arrows indicating function, force, or flow (air, sound, power, pressure)
-•Simple schematic or sectional diagrams where relevant
-
-Place the title a ceramic teapot inside a hand-drawn technical annotation box in one corner.
-
-Style & layout rules:
-•The real object remains clearly visible beneath the annotations
-•Annotations feel sketched, technical, and architectural
-•Clean composition with balanced negative space
-•Educational, museum-exhibit / engineering-manual vibe
-
-Visual style:
-Minimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.
-
-Color palette:
-White background, black annotation lines and text only. No colors.
-
-Output:
-1080×1080, ultra-crisp, social-feed optimized, no watermark.
-```
-
-- Автор: [@TechieBySA](https://x.com/TechieBySA)
-- Оригинальный пост: https://x.com/TechieBySA/status/2013316513701216688
-- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/photo-with-technical-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### Landmark Photo with Blueprint Annotations Prompt
-
-<a href="https://cinel.ai/prompts/p/landmark-blueprint-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/landmark-blueprint-annotation-infographic.webp" alt="Landmark Photo with Blueprint Annotations Prompt" width="480"></a>
-
-> This one-paragraph template gets its look from a single inversion: instead of dark lines on white, it draws white chalk-style blueprint sketches over a real photograph, so the landmark and its sky stay visible behind the diagrams. The list of overlays (measurements, material quantities, internal diagrams, load-flow arrows, cross-sections and floor plans) fills the frame like an architect's presentation board. Our Dutch windmill result has a front elevation, sail detail, a 'how it works' sequence and floor plans around a photoreal mill at golden hour. The numbers are invented, and one unit was wrong (thatch in cubic metres), so treat the data as decoration unless you verify it.
-
-```text
-Create an infographic image of a traditional Dutch windmill, combining a real photograph of the landmark with blueprint-style technical annotations and diagrams overlaid on the image. Include the title “a traditional Dutch windmill” in a hand-drawn box in the corner. Add white chalk-style sketches showing key structural data, important measurements, material quantities, internal diagrams, load-flow arrows, cross-sections, floor plans, and notable architectural or engineering features. Style: blueprint aesthetic with white line drawings on the photograph, technical/architectural annotation style, educational infographic feel, with the real environment visible behind the annotations.
-```
-
-- Автор: [@TechieBySA](https://x.com/TechieBySA)
-- Оригинальный пост: https://x.com/TechieBySA/status/2007523056822939698
-- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/landmark-blueprint-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### Exploded View Product Ad with Inner Mechanics
-
-<a href="https://cinel.ai/prompts/p/exploded-product-inner-mechanics-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/exploded-product-inner-mechanics-ad.webp" alt="Exploded View Product Ad with Inner Mechanics" width="480"></a>
-
-> Exploded views are expensive to produce in 3D software, and this short prompt gets surprisingly close. The key phrases are 'outer shell hovering above core', 'micro screws and components suspended' and 'perfect alignment guides implied'. Together they tell the model to separate layers vertically along one axis, which keeps the result orderly instead of chaotic. Camera language (100mm look, f/8) keeps everything sharp. Our mechanical keyboard example stacks keycaps, switches, plate, PCB, foam and case in perfect vertical alignment, with tiny screws floating at the corners. Products with clear layers, like keyboards, headphones, watches or speakers, work best. The bracket is inserted mid-sentence, so mind the grammar when filling it.
-
-```text
-Create an exploded products with inner mechanics of a mechanical keyboard, high-end product advertising, white seamless background, exploded view with inner mechanics revealed, outer shell hovering above core, micro screws and components suspended, perfect alignment guides implied, crisp soft shadow, ultra realistic, macro product photography, 100mm lens look, f/8, 8k, 1:1
-```
-
-- Автор: [@azed_ai](https://x.com/azed_ai)
-- Оригинальный пост: https://x.com/azed_ai/status/2010350005870276897
-- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/exploded-product-inner-mechanics-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 <a id="3d-figurines"></a>
 
@@ -1434,6 +1404,76 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 Избранное: 6 · [Все 92](cases/illustration-anime.md) · [Категория на cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
+### Silent Vampire Pixel Game
+
+<a href="https://cinel.ai/prompts/p/pixel-game-silent-vampire-film?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-silent-vampire-film.webp" alt="Silent Vampire Pixel Game" width="360"></a>
+
+> Reusable square 1:1 pixel-art video-game key art template filled with a fictional / public-domain-safe film concept (“a silent-era expressionist vampire film”), not a modern studio IP title.
+
+```text
+Make me a pixel art version of a silent-era expressionist vampire film if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: German-expressionist angles, jagged castle silhouettes, chalk-white vampire figure, high-contrast black/white/crimson pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- Автор: [@icreatelife](https://x.com/icreatelife)
+- Оригинальный пост: https://x.com/icreatelife/status/1992598016868720997
+- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/pixel-game-silent-vampire-film?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Metropolis Workers Pixel Game
+
+<a href="https://cinel.ai/prompts/p/pixel-game-metropolis-workers-scifi?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-metropolis-workers-scifi.webp" alt="Metropolis Workers Pixel Game" width="360"></a>
+
+> Reusable square 1:1 pixel-art video-game key art template filled with a fictional / public-domain-safe film concept (“a 1920s metropolis workers-vs-machines sci-fi”), not a modern studio IP title.
+
+```text
+Make me a pixel art version of a 1920s metropolis workers-vs-machines sci-fi if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: towering art-deco city, workers marching below giant gears and chrome robots, teal-and-amber pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- Автор: [@icreatelife](https://x.com/icreatelife)
+- Оригинальный пост: https://x.com/icreatelife/status/1992598016868720997
+- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/pixel-game-metropolis-workers-scifi?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Western Train Robbery Pixel Game
+
+<a href="https://cinel.ai/prompts/p/pixel-game-western-train-robbery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-western-train-robbery.webp" alt="Western Train Robbery Pixel Game" width="360"></a>
+
+> Reusable square 1:1 pixel-art video-game key art template filled with a fictional / public-domain-safe film concept (“a dusty western train-robbery epic”), not a modern studio IP title.
+
+```text
+Make me a pixel art version of a dusty western train-robbery epic if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: desert mesa, steam locomotive, masked outlaws on horseback, sunset orange pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- Автор: [@icreatelife](https://x.com/icreatelife)
+- Оригинальный пост: https://x.com/icreatelife/status/1992598016868720997
+- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/pixel-game-western-train-robbery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Gothic Haunted Mansion Pixel Game
+
+<a href="https://cinel.ai/prompts/p/pixel-game-gothic-haunted-mansion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-gothic-haunted-mansion.webp" alt="Gothic Haunted Mansion Pixel Game" width="360"></a>
+
+> Reusable square 1:1 pixel-art video-game key art template filled with a fictional / public-domain-safe film concept (“a gothic haunted-mansion mystery”), not a modern studio IP title.
+
+```text
+Make me a pixel art version of a gothic haunted-mansion mystery if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: looming Victorian mansion, moonlit wrought-iron gates, candle windows, purple-and-teal gothic pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- Автор: [@icreatelife](https://x.com/icreatelife)
+- Оригинальный пост: https://x.com/icreatelife/status/1992598016868720997
+- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/pixel-game-gothic-haunted-mansion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Oceanic Giant Squid Pixel Game
+
+<a href="https://cinel.ai/prompts/p/pixel-game-oceanic-giant-squid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-oceanic-giant-squid.webp" alt="Oceanic Giant Squid Pixel Game" width="360"></a>
+
+> Reusable square 1:1 pixel-art video-game key art template filled with a fictional / public-domain-safe film concept (“an oceanic adventure with giant squid”), not a modern studio IP title.
+
+```text
+Make me a pixel art version of an oceanic adventure with giant squid if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: wooden sailing ship dwarfed by a colossal squid, stormy waves, deep-blue and seafoam pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+```
+
+- Автор: [@icreatelife](https://x.com/icreatelife)
+- Оригинальный пост: https://x.com/icreatelife/status/1992598016868720997
+- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/pixel-game-oceanic-giant-squid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
 ### Minimal Black-and-White Line Art Character Prompt
 
 <a href="https://cinel.ai/prompts/p/minimal-black-white-line-art-character?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/minimal-black-white-line-art-character.webp" alt="Minimal Black-and-White Line Art Character Prompt" width="480"></a>
@@ -1447,80 +1487,6 @@ A simple black-and-white illustration of a young woman in an oversized knit swea
 - Автор: [@azed_ai](https://x.com/azed_ai)
 - Оригинальный пост: https://x.com/azed_ai/status/2043284009116160473
 - [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/minimal-black-white-line-art-character?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### Four-Panel Fluffy Creatures Story Comic Prompt
-
-<a href="https://cinel.ai/prompts/p/four-panel-fluffy-creatures-story?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/four-panel-fluffy-creatures-story.webp" alt="Four-Panel Fluffy Creatures Story Comic Prompt" width="480"></a>
-
-> Instead of describing images, this prompt describes a story arc (a goal, a setback, teamwork, a happy ending) and leaves the visuals to the model. The one technical instruction that matters is 'maintain consistent identity across the 3 characters'. The author intended four separate 16:9 images generated one at a time, in a chat-style session. Run as a single generation, as in our example, the model drew all four beats in one frame: a bear, a bunny and a raccoon planning, failing ('Oops… not so easy'), working at sunset and celebrating in the finished treehouse. Either way, it is a fast route to a picture-book or social carousel draft. Name your creatures for tighter consistency.
-
-```text
-Create a funny 4-part story featuring 3 fluffy creatures building a treehouse. The story has emotional highs and lows and ends in a happy moment. Maintain consistent identity across the 3 characters. Generate 4 images in 16:9 format, one at a time.
-```
-
-- Автор: [@GoogleAI](https://x.com/GoogleAI)
-- Оригинальный пост: https://x.com/GoogleAI/status/2027094912357761319
-- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/four-panel-fluffy-creatures-story?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### Futuristic Desert Civilization Worldbuilding Set
-
-<a href="https://cinel.ai/prompts/p/futuristic-desert-worldbuilding-concept-art?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/futuristic-desert-worldbuilding-concept-art.webp" alt="Futuristic Desert Civilization Worldbuilding Set" width="480"></a>
-
-> Remarkably short for what it produces. The prompt names one setting (a futuristic desert civilization powered by solar technology), lists the categories a concept artist would cover (architecture, characters, clothing, vehicles, maps) and asks for a cohesive design language. Run as a single image, our result became a full pitch board titled SOLARA, with a domed city, robed characters, costume details, hover vehicles, interiors, agriculture and a parchment map, all in one sand-and-sky palette. The phrase 'multiple images' assumes a chat-style session; in one generation you get a collage instead. Swap the environment and power source (arctic and geothermal, ocean and tidal) for new worlds.
-
-```text
-Create a complete visual worldbuilding set for a futuristic desert civilization powered by solar technology, multiple images including architecture, characters, clothing, vehicles, and maps, cohesive design language, cinematic realism, ultra detailed.
-```
-
-- Автор: [@aleenaamiir](https://x.com/aleenaamiir)
-- Оригинальный пост: https://x.com/aleenaamiir/status/2046866168208916503
-- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/futuristic-desert-worldbuilding-concept-art?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### Woodcut Engraving Portrait Illustration Prompt
-
-<a href="https://cinel.ai/prompts/p/woodcut-engraving-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/woodcut-engraving-portrait-illustration.webp" alt="Woodcut Engraving Portrait Illustration Prompt" width="480"></a>
-
-> Engraving style is hard for image models because they drift towards soft pencil shading. This prompt fights that from both sides: the positive part names the technique precisely (cross-hatching, line shading, bold ink under the chin and around the hair, strong contour lines), and a long negative list rules out watercolour, soft shading, 3D, anime and blurred lines. Our result is a striking head-and-shoulders of a woman with loose curls, rendered entirely in parallel and crossed lines on warm paper, the look of a vintage editorial or a banknote vignette. Use it for author portraits, newsletter headers, wine labels or merch. Attach your own photo if you want a specific likeness.
-
-```text
-Black and white engraved portrait illustration of a person.
-Drawn in classic woodcut / linocut engraving style, high contrast black ink on textured off-white paper background. Fine cross-hatching and line shading to create depth and shadow, bold black ink shadows under chin and around hair, strong contour lines, traditional printmaking aesthetic.
-Minimal composition, centered portrait, no body visible, clean negative space, vintage editorial illustration style, ultra detailed linework, sharp crisp ink strokes, professional vector-ready engraving look, monochrome palette, dramatic contrast.
-Negative Prompt:
-color, watercolor, soft shading, blurred lines, low contrast, realistic photography, 3D render, anime style, cartoon style, messy sketch, thick uneven strokes, background objects, noisy texture, pixelated, distorted face, extra eyes, extra ears, bad anatomy, modern digital painting, glossy skin, overexposed highlights
-```
-
-- Автор: [@Naiknelofar788](https://x.com/Naiknelofar788)
-- Оригинальный пост: https://x.com/Naiknelofar788/status/2042785774245154868
-- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/woodcut-engraving-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### High-Contrast Ink Noir Portrait Illustration
-
-<a href="https://cinel.ai/prompts/p/ink-noir-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/ink-noir-portrait-illustration.webp" alt="High-Contrast Ink Noir Portrait Illustration" width="480"></a>
-
-> Short and atmospheric: the whole look comes from limiting the medium to black ink, using strokes and controlled splatter, and letting highlights appear only where the paper is left bare. 'Heavy shadows dominate' pushes the image towards near-silhouette, and 'a graphic novel frozen at its most dramatic panel' sets the mood. We cast a weary detective in a trench coat and fedora, and the result is a striking brush illustration: the hat brim casts the eyes into shadow, ink splashes break up the coat, and a street lamp and spires are suggested in the background. It suits book covers, posters, tattoo flash or podcast art. Swap the subject; keep the ink-only rule.
-
-```text
-A high-contrast ink noir portrait of a weary detective in a trench coat and fedora, illustrated entirely with expressive black ink strokes and controlled splatter. Heavy shadows dominate the composition while selective highlights emerge through negative space. Subtle paper grain is visible. Atmosphere is moody, cinematic, and intense, like a graphic novel frozen at its most dramatic panel.
-```
-
-- Автор: [@aleenaamiir](https://x.com/aleenaamiir)
-- Оригинальный пост: https://x.com/aleenaamiir/status/2008431391235862892
-- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/ink-noir-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### Monochrome Ink Side-Profile Portrait from a Photo
-
-<a href="https://cinel.ai/prompts/p/monochrome-ink-side-profile-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/monochrome-ink-side-profile-portrait.webp" alt="Monochrome Ink Side-Profile Portrait from a Photo" width="480"></a>
-
-> A gentle, gallery-style conversion: the photo becomes a clean side profile facing left, rendered in soft charcoal-grey ink on pure white, with a little controlled splatter and watercolour bleed that dissolves into mist at the edges. The prompt asks for exact identity and proportions, so the result still looks like the person rather than a generic sketch. Our reference was a three-quarter photo of a fictional woman with a low bun; the model turned her fully into profile, keeping the nose and jawline, with loose ink strands for hair and grey speckles scattered around the bun. It makes a lovely author photo, wedding stationery or memorial portrait. Use a clear, well-lit reference.
-
-```text
-Transform the input photo into a refined monochromatic ink portrait on a pure white background. Clean side profile facing left, preserving exact facial identity and proportions. Soft charcoal-gray ink with subtle tonal variation, controlled splatter accents, delicate watercolor diffusion, and faint mist-like dispersion along the edges.
-```
-
-- Автор: [@Naiknelofar788](https://x.com/Naiknelofar788)
-- Оригинальный пост: https://x.com/Naiknelofar788/status/2024636606272229577
-- [Открыть на cinel и сгенерировать по этому промпту](https://cinel.ai/prompts/p/monochrome-ink-side-profile-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 <a id="scenes-creative"></a>
 
