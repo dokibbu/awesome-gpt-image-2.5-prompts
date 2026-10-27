@@ -1,6 +1,6 @@
 # 创意场景 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 106 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 125 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 巨型钢笔写出书中世界的魔幻场景提示词
 
@@ -1675,3 +1675,269 @@ cinematic boss fight gameplay screenshot, fictional mech pilot in a sleek bipeda
 - 原作者: [@TopviewAIhq](https://x.com/TopviewAIhq)
 - 原帖: https://x.com/TopviewAIhq/status/2046770035994370357
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/ue5-boss-mech-pilot-vs-iron-leviathan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 手机锁屏·仰拍粗野主义螺旋楼梯
+
+<a href="https://cinel.ai/zh/prompts/p/phone-lock-brutalist-stairwell?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/phone-lock-brutalist-stairwell.webp" alt="手机锁屏·仰拍粗野主义螺旋楼梯" width="360"></a>
+
+> 空景建筑手机锁屏壁纸：仰拍螺旋混凝土楼梯，硬光从上方落下，负空间留给图标。无人无字。
+
+```text
+Vertical 9:16 photoreal cinematic iPhone lock-screen wallpaper. Looking straight up a spiral brutalist concrete stairwell from below: concrete folded into a spiral, one hard slab of daylight arriving from above, soft shadow on the inner wall. Empty architecture, vast calm negative space in the upper third for clock/icons. No people, no text, no logos, no watermarks, no brands. Photoreal, cinematic contrast, premium editorial aesthetic.
+```
+
+- 原作者: [@CliffWade](https://x.com/CliffWade)
+- 原帖: https://x.com/CliffWade/status/2114832341981855770
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/phone-lock-brutalist-stairwell?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 手机锁屏·平原上的雷暴积云
+
+<a href="https://cinel.ai/zh/prompts/p/phone-lock-thunderhead-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/phone-lock-thunderhead-plain.webp" alt="手机锁屏·平原上的雷暴积云" width="360"></a>
+
+> 自然空景锁屏：平原上一朵积云，金色轮廓光，无人，负空间干净。
+
+```text
+Vertical 9:16 photoreal cinematic iPhone lock-screen wallpaper. One thunderhead storm cell standing alone over a flat grassy plain, lit gold on one side, nothing under it but quiet grass. Low horizon, vast sky for negative space, no people, no animals, no text, no logos. Photoreal, cinematic atmosphere, empty nature lock wallpaper.
+```
+
+- 原作者: [@CliffWade](https://x.com/CliffWade)
+- 原帖: https://x.com/CliffWade/status/2114450647110013331
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/phone-lock-thunderhead-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 手机锁屏·盐滩镜面倒影
+
+<a href="https://cinel.ai/zh/prompts/p/phone-lock-salt-flat-mirror?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/phone-lock-salt-flat-mirror.webp" alt="手机锁屏·盐滩镜面倒影" width="360"></a>
+
+> 盐滩镜面倒影云层，地平线近乎消失——经典空景锁屏。
+
+```text
+Vertical 9:16 photoreal cinematic iPhone lock-screen wallpaper. Salt flat mirror with clouds: a thin film of water over white salt, the sky lying on the ground so the horizon nearly vanishes. Soft cloud reflections, empty, calm negative space in the upper half. No people, no footprints, no text, no logos. Photoreal, serene, premium empty nature lock wallpaper.
+```
+
+- 原作者: [@CliffWade](https://x.com/CliffWade)
+- 原帖: https://x.com/CliffWade/status/2111463228081320176
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/phone-lock-salt-flat-mirror?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 手机锁屏·霜晶荒原空景
+
+<a href="https://cinel.ai/zh/prompts/p/phone-lock-frost-crystalline-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/phone-lock-frost-crystalline-plain.webp" alt="手机锁屏·霜晶荒原空景" width="360"></a>
+
+> 改编自 CliffWade 霜晶柱提示词，做成无人手机锁屏自然空景。
+
+```text
+Vertical 9:16 photoreal cinematic iPhone lock-screen wallpaper. Crystalline frost pillars on a wide pale plain beneath a sky of soft drifting aurora light, frost glittering on the cold ground. Empty scene, no people, no text, no logos, no watermarks. Bold clear focal point, calm negative space for lock UI, photoreal naturalistic light, premium empty nature wallpaper.
+```
+
+- 原作者: [@CliffWade](https://x.com/CliffWade)
+- 原帖: https://x.com/CliffWade/status/2112755841413660711
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/phone-lock-frost-crystalline-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 柔光抽象锁屏·蓝丝绸褶皱
+
+<a href="https://cinel.ai/zh/prompts/p/soft-abstract-blue-silk-folds?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/soft-abstract-blue-silk-folds.webp" alt="柔光抽象锁屏·蓝丝绸褶皱" width="360"></a>
+
+> 受 TimeTravelWalls 柔蓝褶皱启发的平静抽象锁屏——纯织物抽象，无人形。
+
+```text
+Vertical 9:16 soft abstract phone lock wallpaper. Soft folds of blue silk fabric filling the frame, gentle gradient shadows between folds, calm diffused lighting, luxurious matte-satin texture. No people, no faces, no text, no logos, no watermarks. Minimal, serene, premium calm lock-screen abstract.
+```
+
+- 原作者: [@TimeTravelWalls](https://x.com/TimeTravelWalls)
+- 原帖: https://x.com/TimeTravelWalls/status/2110324751763640611
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/soft-abstract-blue-silk-folds?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 柔光抽象锁屏·薰衣草雾
+
+<a href="https://cinel.ai/zh/prompts/p/soft-abstract-lavender-mist?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/soft-abstract-lavender-mist.webp" alt="柔光抽象锁屏·薰衣草雾" width="360"></a>
+
+> 柔光抽象锁屏变体：薰衣草雾渐变，归因同一 TimeTravelWalls 柔褶皱帖作灵感源。
+
+```text
+Vertical 9:16 soft abstract phone lock wallpaper. Lavender mist soft gradient filling the frame: lilac fog drifting over pale mauve, subtle soft grain, no hard edges, dreamy quiet atmosphere. No people, no objects, no text, no logos. Calm premium abstract lock wallpaper.
+```
+
+- 原作者: [@TimeTravelWalls](https://x.com/TimeTravelWalls)
+- 原帖: https://x.com/TimeTravelWalls/status/2110324751763640611
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/soft-abstract-lavender-mist?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 柔光抽象锁屏·暖杏织物渐变
+
+<a href="https://cinel.ai/zh/prompts/p/soft-abstract-apricot-fabric?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/soft-abstract-apricot-fabric.webp" alt="柔光抽象锁屏·暖杏织物渐变" width="360"></a>
+
+> 暖杏/陶土柔织物抽象锁屏，归因 HDWallArt 极简抽象壁纸帖。
+
+```text
+Vertical 9:16 soft abstract phone lock wallpaper. Warm apricot soft fabric folds with gentle terracotta shadow curves, clean calm composition, matte soft lighting, aesthetic minimal abstract. No people, no text, no logos, no hard geometric lines. Premium calm lock wallpaper.
+```
+
+- 原作者: [@HDWallArt](https://x.com/HDWallArt)
+- 原帖: https://x.com/HDWallArt/status/2104001060109164898
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/soft-abstract-apricot-fabric?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 柔光抽象锁屏·深墨绿丝绸
+
+<a href="https://cinel.ai/zh/prompts/p/soft-abstract-forest-green-silk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/soft-abstract-forest-green-silk.webp" alt="柔光抽象锁屏·深墨绿丝绸" width="360"></a>
+
+> 深绿丝绸柔抽象锁屏，归因 wallpapppers 柔瓷/纹理手机壁纸系列。
+
+```text
+Vertical 9:16 soft abstract phone lock wallpaper. Deep forest-green silk soft undulating folds, subtle low-contrast highlights, luxurious quiet depth, calm diffused light. No people, no text, no logos. Premium dark-mode-friendly calm abstract lock wallpaper.
+```
+
+- 原作者: [@wallpapppers](https://x.com/wallpapppers)
+- 原帖: https://x.com/wallpapppers/status/2104525621464383624
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/soft-abstract-forest-green-silk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 柔光抽象锁屏·珍珠白柔波
+
+<a href="https://cinel.ai/zh/prompts/p/soft-abstract-pearl-white-waves?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/soft-abstract-pearl-white-waves.webp" alt="柔光抽象锁屏·珍珠白柔波" width="360"></a>
+
+> 珍珠白柔粉彩抽象锁屏，归因 PAE soft art 免费壁纸帖；比例混用 4:5。
+
+```text
+Vertical 4:5 soft abstract phone wallpaper. Pearl white soft waves: ivory-to-pearl gentle undulating forms, subtle pastel sheen, almost empty calm surface, soft diffused light. No people, no text, no logos. Premium soft pastel lock/home wallpaper.
+```
+
+- 原作者: [@xxxPanoooPanxxx](https://x.com/xxxPanoooPanxxx)
+- 原帖: https://x.com/xxxPanoooPanxxx/status/2114562029428052321
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/soft-abstract-pearl-white-waves?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 极简罗马神庙桌面壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/minimal-roman-temple-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/minimal-roman-temple-wallpaper.webp" alt="极简罗马神庙桌面壁纸" width="480"></a>
+
+> 近原文采用 shushant_l 极简罗马帝国壁纸提示词；无人无字。
+
+```text
+Ultra-minimal wallpaper of the Ancient Roman Empire, featuring a solitary grand Roman temple with towering marble columns, subtle distant aqueducts and classical ruins, warm golden sunset, muted beige and terracotta palette, vast negative space, clean geometric composition, soft cinematic lighting, elegant historical atmosphere, minimal details, no people, no text, premium editorial aesthetic, 16:9 aspect ratio.
+```
+
+- 原作者: [@shushant_l](https://x.com/shushant_l)
+- 原帖: https://x.com/shushant_l/status/2097988208357474530
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/minimal-roman-temple-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 极简远景鸟居日落桌面壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/minimal-torii-distant-fuji?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/minimal-torii-distant-fuji.webp" alt="极简远景鸟居日落桌面壁纸" width="480"></a>
+
+> 极简日式鸟居远景壁纸，归因 ohmy_wall 富士山鸟居壁纸帖；无品牌无人。
+
+```text
+Ultra-minimal 16:9 desktop wallpaper: a distant vermilion Japanese torii gate as a small silhouette in soft mountain haze at warm muted sunset, vast empty negative space, clean geometric calm composition, photoreal cinematic, elegant quiet atmosphere. No people, no text, no logos, no shrine names, no watermarks. Premium editorial aesthetic.
+```
+
+- 原作者: [@ohmy_wall](https://x.com/ohmy_wall)
+- 原帖: https://x.com/ohmy_wall/status/2104532258782662691
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/minimal-torii-distant-fuji?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 粗野主义混凝土走廊手机壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/brutalist-concrete-corridor-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/brutalist-concrete-corridor-wallpaper.webp" alt="粗野主义混凝土走廊手机壁纸" width="360"></a>
+
+> 粗野主义混凝土走廊空景壁纸，归因 Aidaal93 粗野混凝土壁纸帖。
+
+```text
+Vertical 9:16 photoreal cinematic phone wallpaper. Empty brutalist concrete corridor with rhythmic pillars and a soft skylight, cool gray palette, strong one-point perspective, vast calm negative space. No people, no graffiti, no text, no logos. Premium minimal architecture lock wallpaper.
+```
+
+- 原作者: [@Aidaal93](https://x.com/Aidaal93)
+- 原帖: https://x.com/Aidaal93/status/2107390514878206090
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/brutalist-concrete-corridor-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 沙漠拱门废墟极简桌面壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/desert-arch-ruin-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/desert-arch-ruin-wallpaper.webp" alt="沙漠拱门废墟极简桌面壁纸" width="480"></a>
+
+> 沙漠拱门废墟极简壁纸，归因 velpaper 建筑 4K 壁纸帖。
+
+```text
+Ultra-minimal 16:9 desktop wallpaper: a solitary stone arch ruin standing alone in an empty desert, soft golden late-afternoon light, vast sand negative space, clean quiet composition, photoreal cinematic. No people, no text, no logos, no modern objects. Premium editorial aesthetic.
+```
+
+- 原作者: [@velpaper](https://x.com/velpaper)
+- 原帖: https://x.com/velpaper/status/2114779143082569873
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/desert-arch-ruin-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 雾中哥特尖塔剪影手机壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/fog-gothic-spires-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/fog-gothic-spires-wallpaper.webp" alt="雾中哥特尖塔剪影手机壁纸" width="360"></a>
+
+> 雾中哥特尖塔剪影壁纸，归因 Aidaal93 城市粗野壁纸热帖；空景无人。
+
+```text
+Vertical 9:16 photoreal cinematic phone wallpaper. Gothic cathedral spires as dark silhouettes dissolving into thick cool blue-gray fog, empty streets below implied only as soft tone, vast quiet negative space. No people, no text, no logos, no readable signs. Premium minimal architecture lock wallpaper.
+```
+
+- 原作者: [@Aidaal93](https://x.com/Aidaal93)
+- 原帖: https://x.com/Aidaal93/status/2108913972422570153
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/fog-gothic-spires-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 雾山湖平静桌面壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/desktop-misty-mountain-lake?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/desktop-misty-mountain-lake.webp" alt="雾山湖平静桌面壁纸" width="480"></a>
+
+> 近原文采用 promptdig 平静壁纸提示词；无人、无鸟、无字。
+
+```text
+Photorealistic misty mountain lake at dawn. Soft blue water, lavender mist, peach light on the peaks. Small wooden rowboat near shore, left of center. Low-detail sky, calm dark water. Light film grain. No text, no people, no birds. Cinematic 16:9 desktop wallpaper.
+```
+
+- 原作者: [@promptdig](https://x.com/promptdig)
+- 原帖: https://x.com/promptdig/status/2111517544938962982
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/desktop-misty-mountain-lake?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 河边黄昏桌面壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/desktop-riverside-dusk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/desktop-riverside-dusk.webp" alt="河边黄昏桌面壁纸" width="480"></a>
+
+> 将 noahmungmung 竖版河边黄昏壁纸改写为 16:9 桌面；无人无字。
+
+```text
+Cinematic 16:9 desktop wallpaper. Quiet riverside at dusk, purple-orange sky reflected in calm water, a curved empty path along the bank, distant soft bridge silhouette. Photoreal, calm atmosphere. No people, no text, no logos. Premium landscape wallpaper.
+```
+
+- 原作者: [@noahmungmung](https://x.com/noahmungmung)
+- 原帖: https://x.com/noahmungmung/status/2108909643829543090
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/desktop-riverside-dusk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 秋日金叶温馨桌面壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/desktop-cozy-fall-leaves?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/desktop-cozy-fall-leaves.webp" alt="秋日金叶温馨桌面壁纸" width="480"></a>
+
+> 秋日金叶桌面风景，归因 lhzliew 山日桌面壁纸帖作风景壁纸源。
+
+```text
+Cinematic 16:9 desktop wallpaper. Cozy fall forest: sunlit autumn path with golden leaves, warm backlight through the canopy, soft haze, empty trail. Photoreal, calm cozy atmosphere. No people, no text, no logos. Premium landscape wallpaper.
+```
+
+- 原作者: [@lhzliew](https://x.com/lhzliew)
+- 原帖: https://x.com/lhzliew/status/2110339846934044764
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/desktop-cozy-fall-leaves?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 迷失蓝海雾桌面壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/desktop-lost-in-blue-sea-fog?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/desktop-lost-in-blue-sea-fog.webp" alt="迷失蓝海雾桌面壁纸" width="480"></a>
+
+> 迷失蓝海雾桌面，归因 ChromaticScreen 雾林手机壁纸系列作平静自然壁纸源；比例混用 3:2。
+
+```text
+Cinematic 3:2 desktop wallpaper. Lost-in-blue sea fog: endless soft blue ocean horizon swallowed by pale mist, calm dark water, almost monochrome cool azure palette, vast empty calm. Photoreal. No people, no boats, no birds, no text, no logos. Premium serene landscape wallpaper.
+```
+
+- 原作者: [@ChromaticScreen](https://x.com/ChromaticScreen)
+- 原帖: https://x.com/ChromaticScreen/status/2109256495841845585
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/desktop-lost-in-blue-sea-fog?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 雾中松林桌面壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/desktop-foggy-pine-forest?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/desktop-foggy-pine-forest.webp" alt="雾中松林桌面壁纸" width="480"></a>
+
+> 雾中松林桌面，归因 ChromaticScreen 雾月森林手机壁纸帖。
+
+```text
+Cinematic 16:9 desktop wallpaper. Misty moonlit pine forest path with soft layered fog, cool teal-gray palette, empty trail, calm depth. Photoreal. No people, no text, no logos. Premium landscape wallpaper.
+```
+
+- 原作者: [@ChromaticScreen](https://x.com/ChromaticScreen)
+- 原帖: https://x.com/ChromaticScreen/status/2107671718328172903
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/desktop-foggy-pine-forest?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

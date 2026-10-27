@@ -1,6 +1,6 @@
 # Product & E-commerce · GPT Image 2.5
 
-[← README](../README.md) · 46 · [Category on cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 51 · [Category on cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -1304,3 +1304,73 @@ Premium daily-necessities social media marketing poster for a fictional laundry 
 - Author: [@PixuryAI](https://x.com/PixuryAI)
 - Original post: https://x.com/PixuryAI/status/2061657972145635434
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/home-care-product-promo-layout?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Seamless Warm Ivory Studio Background
+
+<a href="https://cinel.ai/prompts/p/studio-seamless-warm-ivory?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/studio-seamless-warm-ivory.webp" alt="Seamless Warm Ivory Studio Background" width="480"></a>
+
+> Pure seamless warm-ivory studio background extracted from favprompt product-photography prompt (studio background detail). Empty, no product.
+
+```text
+Clean empty product photography background only: seamless warm ivory paper studio backdrop with subtle fine paper texture, bright diffused softbox lighting, soft even falloff, no product, no props, no people, no text, no logos. Square 1:1 premium e-commerce seamless background.
+```
+
+- Author: [@favprompt](https://x.com/favprompt)
+- Original post: https://x.com/favprompt/status/2104323921998741980
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/studio-seamless-warm-ivory?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Matte Charcoal Studio Sweep Background
+
+<a href="https://cinel.ai/prompts/p/studio-matte-charcoal-sweep?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/studio-matte-charcoal-sweep.webp" alt="Matte Charcoal Studio Sweep Background" width="480"></a>
+
+> Matte charcoal seamless studio sweep adapted from AIPromptLabX dark reflective product-bg prompt; empty background only, no brand.
+
+```text
+Clean empty product photography background only: matte charcoal seamless studio sweep, soft subtle gradient falloff, low-key even lighting, no glossy floor reflection, no product, no people, no text, no logos. Square 1:1 premium e-commerce dark seamless background.
+```
+
+- Author: [@AIPromptLabX](https://x.com/AIPromptLabX)
+- Original post: https://x.com/AIPromptLabX/status/2114807910245216595
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/studio-matte-charcoal-sweep?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Morandi Pink Seamless Studio Background
+
+<a href="https://cinel.ai/prompts/p/studio-morandi-pink-seamless?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/studio-morandi-pink-seamless.webp" alt="Morandi Pink Seamless Studio Background" width="480"></a>
+
+> Morandi pink seamless bg adapted from PromptTip warm beige studio background product-ad prompt; empty, no brand labels.
+
+```text
+Clean empty product photography background only: Morandi soft pink seamless studio backdrop, muted dusty blush pastel, soft natural even lighting, gentle falloff, no product, no props, no people, no text, no logos, no brand labels. Landscape 3:2 premium e-commerce seamless background.
+```
+
+- Author: [@PromptTip](https://x.com/PromptTip)
+- Original post: https://x.com/PromptTip/status/2111760631179485583
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/studio-morandi-pink-seamless?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Soft Gray Marble Product Background
+
+<a href="https://cinel.ai/prompts/p/studio-soft-gray-marble?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/studio-soft-gray-marble.webp" alt="Soft Gray Marble Product Background" width="480"></a>
+
+> Soft gray marble empty product surface attributed to OlatundeAI clean white/neutral studio background product-sheet prompt.
+
+```text
+Clean empty product photography background only: soft gray marble slab surface with subtle quiet veins, matte stone (not mirror polish), soft controlled even studio lighting, gentle contact-shadow zone implied but empty. No product, no people, no text, no logos. Landscape 3:2 premium e-commerce surface background.
+```
+
+- Author: [@OlatundeAI](https://x.com/OlatundeAI)
+- Original post: https://x.com/OlatundeAI/status/2104523280153468972
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/studio-soft-gray-marble?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Light Wood Desktop Overhead Background
+
+<a href="https://cinel.ai/prompts/p/studio-light-wood-overhead?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/studio-light-wood-overhead.webp" alt="Light Wood Desktop Overhead Background" width="480"></a>
+
+> Light wood overhead empty desk bg adapted from KeyoAPI warm off-white studio product-reference prompt; empty, no brand.
+
+```text
+Clean empty product photography background only: light oak wood desk surface photographed straight from above, soft natural window light, subtle wood grain, mostly empty flat lay. No products, no brands, no people, no text, no logos. Square 1:1 premium e-commerce wood surface background.
+```
+
+- Author: [@KeyoAPI](https://x.com/KeyoAPI)
+- Original post: https://x.com/KeyoAPI/status/2111646675513073820
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/studio-light-wood-overhead?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

@@ -13,20 +13,20 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Una lista seleccionada de **759** prompts para GPT Image 2.5. Cada uno incluye una imagen de ejemplo, el prompt completo y el crédito al autor original con enlace a la publicación original. Los datos provienen de la biblioteca de prompts de [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) y se sincronizan automáticamente.
+Una lista seleccionada de **788** prompts para GPT Image 2.5. Cada uno incluye una imagen de ejemplo, el prompt completo y el crédito al autor original con enlace a la publicación original. Los datos provienen de la biblioteca de prompts de [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) y se sincronizan automáticamente.
 
 👉 [Ver todo y generar online en cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ## Contenido
 
 - [Retrato y foto de perfil](#portrait) (79) · [todos](cases/portrait.md)
-- [Producto y e-commerce](#product-photography) (46) · [todos](cases/product-photography.md)
+- [Producto y e-commerce](#product-photography) (51) · [todos](cases/product-photography.md)
 - [Pósters, logos y diseño gráfico](#poster-design) (67) · [todos](cases/poster-design.md)
 - [Infografías y UI](#infographic-ui) (40) · [todos](cases/infographic-ui.md)
 - [Personajes y figuras 3D](#3d-figurines) (111) · [todos](cases/3d-figurines.md)
 - [Comida y bebida](#food-drink) (223) · [todos](cases/food-drink.md)
-- [Ilustración y anime](#illustration-anime) (87) · [todos](cases/illustration-anime.md)
-- [Escenas creativas](#scenes-creative) (106) · [todos](cases/scenes-creative.md)
+- [Ilustración y anime](#illustration-anime) (92) · [todos](cases/illustration-anime.md)
+- [Escenas creativas](#scenes-creative) (125) · [todos](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -307,7 +307,7 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 ## Producto y e-commerce
 
-6 destacados · [Ver los 46](cases/product-photography.md) · [Categoría en cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 destacados · [Ver los 51](cases/product-photography.md) · [Categoría en cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -1432,7 +1432,7 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 ## Ilustración y anime
 
-6 destacados · [Ver los 87](cases/illustration-anime.md) · [Categoría en cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 destacados · [Ver los 92](cases/illustration-anime.md) · [Categoría en cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -1526,7 +1526,7 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 ## Escenas creativas
 
-6 destacados · [Ver los 106](cases/scenes-creative.md) · [Categoría en cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 destacados · [Ver los 125](cases/scenes-creative.md) · [Categoría en cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 

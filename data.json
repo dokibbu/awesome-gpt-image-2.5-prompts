@@ -1,15 +1,15 @@
 {
   "model": "gpt-image-2.5",
-  "count": 759,
+  "count": 788,
   "categories": {
     "portrait": 79,
-    "product-photography": 46,
+    "product-photography": 51,
     "poster-design": 67,
     "infographic-ui": 40,
     "3d-figurines": 111,
     "food-drink": 223,
-    "illustration-anime": 87,
-    "scenes-creative": 106
+    "illustration-anime": 92,
+    "scenes-creative": 125
   },
   "slugs": [
     "product-mockup-storyboard-grid",
@@ -770,6 +770,35 @@
     "pixel-rpg-items-swamp-grid",
     "pixel-rpg-items-steampunk-grid",
     "pixel-rpg-universe-sprite-sheet",
-    "pixel-nature-retro-game-bg"
+    "pixel-nature-retro-game-bg",
+    "phone-lock-brutalist-stairwell",
+    "phone-lock-thunderhead-plain",
+    "phone-lock-salt-flat-mirror",
+    "phone-lock-frost-crystalline-plain",
+    "soft-abstract-blue-silk-folds",
+    "soft-abstract-lavender-mist",
+    "soft-abstract-apricot-fabric",
+    "soft-abstract-forest-green-silk",
+    "soft-abstract-pearl-white-waves",
+    "minimal-roman-temple-wallpaper",
+    "minimal-torii-distant-fuji",
+    "brutalist-concrete-corridor-wallpaper",
+    "desert-arch-ruin-wallpaper",
+    "fog-gothic-spires-wallpaper",
+    "desktop-misty-mountain-lake",
+    "desktop-riverside-dusk",
+    "desktop-cozy-fall-leaves",
+    "desktop-lost-in-blue-sea-fog",
+    "desktop-foggy-pine-forest",
+    "studio-seamless-warm-ivory",
+    "studio-matte-charcoal-sweep",
+    "studio-morandi-pink-seamless",
+    "studio-soft-gray-marble",
+    "studio-light-wood-overhead",
+    "illus-retro-gouache-hills",
+    "illus-flat-empty-city-night",
+    "illus-gouache-coastal-lighthouse",
+    "illus-paper-cut-sunrise",
+    "illus-flat-block-mountain-dusk"
   ]
 }

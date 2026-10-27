@@ -1,6 +1,6 @@
 # Creative Scenes · GPT Image 2.5
 
-[← README](../README.md) · 106 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 125 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 
@@ -1675,3 +1675,269 @@ cinematic boss fight gameplay screenshot, fictional mech pilot in a sleek bipeda
 - Author: [@TopviewAIhq](https://x.com/TopviewAIhq)
 - Original post: https://x.com/TopviewAIhq/status/2046770035994370357
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ue5-boss-mech-pilot-vs-iron-leviathan?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Brutalist Stairwell From Below Lock Screen
+
+<a href="https://cinel.ai/prompts/p/phone-lock-brutalist-stairwell?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/phone-lock-brutalist-stairwell.webp" alt="Brutalist Stairwell From Below Lock Screen" width="360"></a>
+
+> Empty-nature / empty-architecture phone lock wallpaper: spiral concrete stairwell from below, hard daylight slab, vast negative space for icons. No people, no text.
+
+```text
+Vertical 9:16 photoreal cinematic iPhone lock-screen wallpaper. Looking straight up a spiral brutalist concrete stairwell from below: concrete folded into a spiral, one hard slab of daylight arriving from above, soft shadow on the inner wall. Empty architecture, vast calm negative space in the upper third for clock/icons. No people, no text, no logos, no watermarks, no brands. Photoreal, cinematic contrast, premium editorial aesthetic.
+```
+
+- Author: [@CliffWade](https://x.com/CliffWade)
+- Original post: https://x.com/CliffWade/status/2114832341981855770
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/phone-lock-brutalist-stairwell?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Thunderhead Over A Plain Lock Screen
+
+<a href="https://cinel.ai/prompts/p/phone-lock-thunderhead-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/phone-lock-thunderhead-plain.webp" alt="Thunderhead Over A Plain Lock Screen" width="360"></a>
+
+> Empty nature phone lock: one thunderhead over flat grass, gold rim light, no people, calm negative space.
+
+```text
+Vertical 9:16 photoreal cinematic iPhone lock-screen wallpaper. One thunderhead storm cell standing alone over a flat grassy plain, lit gold on one side, nothing under it but quiet grass. Low horizon, vast sky for negative space, no people, no animals, no text, no logos. Photoreal, cinematic atmosphere, empty nature lock wallpaper.
+```
+
+- Author: [@CliffWade](https://x.com/CliffWade)
+- Original post: https://x.com/CliffWade/status/2114450647110013331
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/phone-lock-thunderhead-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Salt Flat Mirror With Clouds Lock Screen
+
+<a href="https://cinel.ai/prompts/p/phone-lock-salt-flat-mirror?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/phone-lock-salt-flat-mirror.webp" alt="Salt Flat Mirror With Clouds Lock Screen" width="360"></a>
+
+> Mirror salt flat with cloud reflection, horizon nearly gone — classic empty lock wallpaper.
+
+```text
+Vertical 9:16 photoreal cinematic iPhone lock-screen wallpaper. Salt flat mirror with clouds: a thin film of water over white salt, the sky lying on the ground so the horizon nearly vanishes. Soft cloud reflections, empty, calm negative space in the upper half. No people, no footprints, no text, no logos. Photoreal, serene, premium empty nature lock wallpaper.
+```
+
+- Author: [@CliffWade](https://x.com/CliffWade)
+- Original post: https://x.com/CliffWade/status/2111463228081320176
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/phone-lock-salt-flat-mirror?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Frost Crystalline Plain Lock Screen
+
+<a href="https://cinel.ai/prompts/p/phone-lock-frost-crystalline-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/phone-lock-frost-crystalline-plain.webp" alt="Frost Crystalline Plain Lock Screen" width="360"></a>
+
+> Adapted from CliffWade frost crystalline pillars prompt into an empty phone-lock nature wallpaper (no people).
+
+```text
+Vertical 9:16 photoreal cinematic iPhone lock-screen wallpaper. Crystalline frost pillars on a wide pale plain beneath a sky of soft drifting aurora light, frost glittering on the cold ground. Empty scene, no people, no text, no logos, no watermarks. Bold clear focal point, calm negative space for lock UI, photoreal naturalistic light, premium empty nature wallpaper.
+```
+
+- Author: [@CliffWade](https://x.com/CliffWade)
+- Original post: https://x.com/CliffWade/status/2112755841413660711
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/phone-lock-frost-crystalline-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Soft Blue Silk Folds Lock Screen
+
+<a href="https://cinel.ai/prompts/p/soft-abstract-blue-silk-folds?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/soft-abstract-blue-silk-folds.webp" alt="Soft Blue Silk Folds Lock Screen" width="360"></a>
+
+> Calm soft-abstract lock wallpaper inspired by TimeTravelWalls soft blue folds — pure fabric abstract, no figures.
+
+```text
+Vertical 9:16 soft abstract phone lock wallpaper. Soft folds of blue silk fabric filling the frame, gentle gradient shadows between folds, calm diffused lighting, luxurious matte-satin texture. No people, no faces, no text, no logos, no watermarks. Minimal, serene, premium calm lock-screen abstract.
+```
+
+- Author: [@TimeTravelWalls](https://x.com/TimeTravelWalls)
+- Original post: https://x.com/TimeTravelWalls/status/2110324751763640611
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/soft-abstract-blue-silk-folds?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Lavender Mist Soft Abstract Lock
+
+<a href="https://cinel.ai/prompts/p/soft-abstract-lavender-mist?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/soft-abstract-lavender-mist.webp" alt="Lavender Mist Soft Abstract Lock" width="360"></a>
+
+> Variant of soft abstract calm lock: lavender mist gradient, attributed to same TimeTravelWalls soft-folds post as inspiration.
+
+```text
+Vertical 9:16 soft abstract phone lock wallpaper. Lavender mist soft gradient filling the frame: lilac fog drifting over pale mauve, subtle soft grain, no hard edges, dreamy quiet atmosphere. No people, no objects, no text, no logos. Calm premium abstract lock wallpaper.
+```
+
+- Author: [@TimeTravelWalls](https://x.com/TimeTravelWalls)
+- Original post: https://x.com/TimeTravelWalls/status/2110324751763640611
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/soft-abstract-lavender-mist?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Warm Apricot Fabric Soft Abstract Lock
+
+<a href="https://cinel.ai/prompts/p/soft-abstract-apricot-fabric?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/soft-abstract-apricot-fabric.webp" alt="Warm Apricot Fabric Soft Abstract Lock" width="360"></a>
+
+> Warm apricot/terracotta soft fabric abstract lock, attributed to HDWallArt minimal abstract wallpaper post.
+
+```text
+Vertical 9:16 soft abstract phone lock wallpaper. Warm apricot soft fabric folds with gentle terracotta shadow curves, clean calm composition, matte soft lighting, aesthetic minimal abstract. No people, no text, no logos, no hard geometric lines. Premium calm lock wallpaper.
+```
+
+- Author: [@HDWallArt](https://x.com/HDWallArt)
+- Original post: https://x.com/HDWallArt/status/2104001060109164898
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/soft-abstract-apricot-fabric?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Deep Forest Green Silk Soft Abstract Lock
+
+<a href="https://cinel.ai/prompts/p/soft-abstract-forest-green-silk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/soft-abstract-forest-green-silk.webp" alt="Deep Forest Green Silk Soft Abstract Lock" width="360"></a>
+
+> Deep green silk soft abstract lock, attributed to wallpapppers soft porcelain/texture phone wallpaper series.
+
+```text
+Vertical 9:16 soft abstract phone lock wallpaper. Deep forest-green silk soft undulating folds, subtle low-contrast highlights, luxurious quiet depth, calm diffused light. No people, no text, no logos. Premium dark-mode-friendly calm abstract lock wallpaper.
+```
+
+- Author: [@wallpapppers](https://x.com/wallpapppers)
+- Original post: https://x.com/wallpapppers/status/2104525621464383624
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/soft-abstract-forest-green-silk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pearl White Soft Waves Abstract Lock
+
+<a href="https://cinel.ai/prompts/p/soft-abstract-pearl-white-waves?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/soft-abstract-pearl-white-waves.webp" alt="Pearl White Soft Waves Abstract Lock" width="360"></a>
+
+> Pearl Shore soft pastel abstract lock attributed to PAE soft-art free wallpaper post; aspect 4:5 mix.
+
+```text
+Vertical 4:5 soft abstract phone wallpaper. Pearl white soft waves: ivory-to-pearl gentle undulating forms, subtle pastel sheen, almost empty calm surface, soft diffused light. No people, no text, no logos. Premium soft pastel lock/home wallpaper.
+```
+
+- Author: [@xxxPanoooPanxxx](https://x.com/xxxPanoooPanxxx)
+- Original post: https://x.com/xxxPanoooPanxxx/status/2114562029428052321
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/soft-abstract-pearl-white-waves?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Ultra-Minimal Roman Temple Desktop Wallpaper
+
+<a href="https://cinel.ai/prompts/p/minimal-roman-temple-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/minimal-roman-temple-wallpaper.webp" alt="Ultra-Minimal Roman Temple Desktop Wallpaper" width="480"></a>
+
+> Near-verbatim from shushant_l ultra-minimal Roman Empire wallpaper prompt; no people, no text.
+
+```text
+Ultra-minimal wallpaper of the Ancient Roman Empire, featuring a solitary grand Roman temple with towering marble columns, subtle distant aqueducts and classical ruins, warm golden sunset, muted beige and terracotta palette, vast negative space, clean geometric composition, soft cinematic lighting, elegant historical atmosphere, minimal details, no people, no text, premium editorial aesthetic, 16:9 aspect ratio.
+```
+
+- Author: [@shushant_l](https://x.com/shushant_l)
+- Original post: https://x.com/shushant_l/status/2097988208357474530
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/minimal-roman-temple-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Minimal Distant Torii At Sunset Desktop
+
+<a href="https://cinel.ai/prompts/p/minimal-torii-distant-fuji?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/minimal-torii-distant-fuji.webp" alt="Minimal Distant Torii At Sunset Desktop" width="480"></a>
+
+> Minimal Japanese torii distant scene wallpaper attributed to ohmy_wall Mount Fuji Torii wallpaper post; no brands, no people.
+
+```text
+Ultra-minimal 16:9 desktop wallpaper: a distant vermilion Japanese torii gate as a small silhouette in soft mountain haze at warm muted sunset, vast empty negative space, clean geometric calm composition, photoreal cinematic, elegant quiet atmosphere. No people, no text, no logos, no shrine names, no watermarks. Premium editorial aesthetic.
+```
+
+- Author: [@ohmy_wall](https://x.com/ohmy_wall)
+- Original post: https://x.com/ohmy_wall/status/2104532258782662691
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/minimal-torii-distant-fuji?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Brutalist Concrete Corridor Phone Wallpaper
+
+<a href="https://cinel.ai/prompts/p/brutalist-concrete-corridor-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/brutalist-concrete-corridor-wallpaper.webp" alt="Brutalist Concrete Corridor Phone Wallpaper" width="360"></a>
+
+> Brutalist concrete corridor empty wallpaper attributed to Aidaal93 brutalist concrete wallpaper post.
+
+```text
+Vertical 9:16 photoreal cinematic phone wallpaper. Empty brutalist concrete corridor with rhythmic pillars and a soft skylight, cool gray palette, strong one-point perspective, vast calm negative space. No people, no graffiti, no text, no logos. Premium minimal architecture lock wallpaper.
+```
+
+- Author: [@Aidaal93](https://x.com/Aidaal93)
+- Original post: https://x.com/Aidaal93/status/2107390514878206090
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/brutalist-concrete-corridor-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Desert Arch Ruin Minimal Desktop Wallpaper
+
+<a href="https://cinel.ai/prompts/p/desert-arch-ruin-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/desert-arch-ruin-wallpaper.webp" alt="Desert Arch Ruin Minimal Desktop Wallpaper" width="480"></a>
+
+> Desert arch ruin minimal wallpaper attributed to velpaper architecture 4K wallpaper post.
+
+```text
+Ultra-minimal 16:9 desktop wallpaper: a solitary stone arch ruin standing alone in an empty desert, soft golden late-afternoon light, vast sand negative space, clean quiet composition, photoreal cinematic. No people, no text, no logos, no modern objects. Premium editorial aesthetic.
+```
+
+- Author: [@velpaper](https://x.com/velpaper)
+- Original post: https://x.com/velpaper/status/2114779143082569873
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/desert-arch-ruin-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Fog Gothic Spires Silhouette Phone Wallpaper
+
+<a href="https://cinel.ai/prompts/p/fog-gothic-spires-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/fog-gothic-spires-wallpaper.webp" alt="Fog Gothic Spires Silhouette Phone Wallpaper" width="360"></a>
+
+> Fog gothic spires silhouette wallpaper attributed to Aidaal93 city brutalist wallpaper heat post; empty, no people.
+
+```text
+Vertical 9:16 photoreal cinematic phone wallpaper. Gothic cathedral spires as dark silhouettes dissolving into thick cool blue-gray fog, empty streets below implied only as soft tone, vast quiet negative space. No people, no text, no logos, no readable signs. Premium minimal architecture lock wallpaper.
+```
+
+- Author: [@Aidaal93](https://x.com/Aidaal93)
+- Original post: https://x.com/Aidaal93/status/2108913972422570153
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/fog-gothic-spires-wallpaper?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Misty Mountain Lake Calm Desktop Wallpaper
+
+<a href="https://cinel.ai/prompts/p/desktop-misty-mountain-lake?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/desktop-misty-mountain-lake.webp" alt="Misty Mountain Lake Calm Desktop Wallpaper" width="480"></a>
+
+> Near-verbatim calm wallpaper prompt from promptdig; no people, no birds, no text.
+
+```text
+Photorealistic misty mountain lake at dawn. Soft blue water, lavender mist, peach light on the peaks. Small wooden rowboat near shore, left of center. Low-detail sky, calm dark water. Light film grain. No text, no people, no birds. Cinematic 16:9 desktop wallpaper.
+```
+
+- Author: [@promptdig](https://x.com/promptdig)
+- Original post: https://x.com/promptdig/status/2111517544938962982
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/desktop-misty-mountain-lake?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Riverside Dusk Desktop Wallpaper
+
+<a href="https://cinel.ai/prompts/p/desktop-riverside-dusk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/desktop-riverside-dusk.webp" alt="Riverside Dusk Desktop Wallpaper" width="480"></a>
+
+> Rewrote noahmungmung vertical riverside dusk wallpaper into 16:9 desktop; no people or text.
+
+```text
+Cinematic 16:9 desktop wallpaper. Quiet riverside at dusk, purple-orange sky reflected in calm water, a curved empty path along the bank, distant soft bridge silhouette. Photoreal, calm atmosphere. No people, no text, no logos. Premium landscape wallpaper.
+```
+
+- Author: [@noahmungmung](https://x.com/noahmungmung)
+- Original post: https://x.com/noahmungmung/status/2108909643829543090
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/desktop-riverside-dusk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Cozy Fall Golden Leaves Desktop Wallpaper
+
+<a href="https://cinel.ai/prompts/p/desktop-cozy-fall-leaves?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/desktop-cozy-fall-leaves.webp" alt="Cozy Fall Golden Leaves Desktop Wallpaper" width="480"></a>
+
+> Cozy fall golden-leaves desktop landscape attributed to lhzliew sun-over-mountain desktop wallpaper post as landscape wallpaper source.
+
+```text
+Cinematic 16:9 desktop wallpaper. Cozy fall forest: sunlit autumn path with golden leaves, warm backlight through the canopy, soft haze, empty trail. Photoreal, calm cozy atmosphere. No people, no text, no logos. Premium landscape wallpaper.
+```
+
+- Author: [@lhzliew](https://x.com/lhzliew)
+- Original post: https://x.com/lhzliew/status/2110339846934044764
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/desktop-cozy-fall-leaves?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Lost-In-Blue Sea Fog Desktop Wallpaper
+
+<a href="https://cinel.ai/prompts/p/desktop-lost-in-blue-sea-fog?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/desktop-lost-in-blue-sea-fog.webp" alt="Lost-In-Blue Sea Fog Desktop Wallpaper" width="480"></a>
+
+> Lost-in-blue sea fog desktop attributed to ChromaticScreen misty forest phone wallpaper series as calm nature wallpaper source; aspect 3:2 mix.
+
+```text
+Cinematic 3:2 desktop wallpaper. Lost-in-blue sea fog: endless soft blue ocean horizon swallowed by pale mist, calm dark water, almost monochrome cool azure palette, vast empty calm. Photoreal. No people, no boats, no birds, no text, no logos. Premium serene landscape wallpaper.
+```
+
+- Author: [@ChromaticScreen](https://x.com/ChromaticScreen)
+- Original post: https://x.com/ChromaticScreen/status/2109256495841845585
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/desktop-lost-in-blue-sea-fog?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Foggy Pine Forest Desktop Wallpaper
+
+<a href="https://cinel.ai/prompts/p/desktop-foggy-pine-forest?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/desktop-foggy-pine-forest.webp" alt="Foggy Pine Forest Desktop Wallpaper" width="480"></a>
+
+> Foggy pine forest desktop attributed to ChromaticScreen misty moonlit forest phone wallpaper post.
+
+```text
+Cinematic 16:9 desktop wallpaper. Misty moonlit pine forest path with soft layered fog, cool teal-gray palette, empty trail, calm depth. Photoreal. No people, no text, no logos. Premium landscape wallpaper.
+```
+
+- Author: [@ChromaticScreen](https://x.com/ChromaticScreen)
+- Original post: https://x.com/ChromaticScreen/status/2107671718328172903
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/desktop-foggy-pine-forest?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

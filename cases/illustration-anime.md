@@ -1,6 +1,6 @@
 # Illustration & Anime · GPT Image 2.5
 
-[← README](../README.md) · 87 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 92 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -1308,3 +1308,73 @@ colorful pixel art nature scene with mountains, flowers and blue sky, heavy half
 - Author: [@betomoedano](https://x.com/betomoedano)
 - Original post: https://x.com/betomoedano/status/2046727843925942564
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-nature-retro-game-bg?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Retro Gouache Rolling Hills Wallpaper
+
+<a href="https://cinel.ai/prompts/p/illus-retro-gouache-hills?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/illus-retro-gouache-hills.webp" alt="Retro Gouache Rolling Hills Wallpaper" width="360"></a>
+
+> Retro gouache hills wallpaper from frameprompts Retro Gouache Wallpapers prompt-review series; empty landscape, no faces.
+
+```text
+Vertical 9:16 retro gouache illustrated wallpaper. Soft rolling hills at warm dusk as painted forms with soft airbrush shading and matte grain. Empty landscape, no people, no faces, no text, no logos. Calm lock-screen friendly composition, premium illustrated background.
+```
+
+- Author: [@frameprompts](https://x.com/frameprompts)
+- Original post: https://x.com/frameprompts/status/2111005222537752910
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/illus-retro-gouache-hills?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Flat Manga Empty City Night Wallpaper
+
+<a href="https://cinel.ai/prompts/p/illus-flat-empty-city-night?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/illus-flat-empty-city-night.webp" alt="Flat Manga Empty City Night Wallpaper" width="360"></a>
+
+> Flat manga color-block empty night city wallpaper inspired by frameprompts illustrated wallpaper direction; no real faces/characters.
+
+```text
+Vertical 9:16 flat manga-style illustrated wallpaper. Empty night city skyline in hard color blocks, simple rectangular windows, limited palette of indigo navy and soft yellow, no neon logos, no people, no faces, no readable signs, no text. Calm empty-scene lock wallpaper, premium flat illustration.
+```
+
+- Author: [@frameprompts](https://x.com/frameprompts)
+- Original post: https://x.com/frameprompts/status/2111005222537752910
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/illus-flat-empty-city-night?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Gouache Coastal Lighthouse Wallpaper
+
+<a href="https://cinel.ai/prompts/p/illus-gouache-coastal-lighthouse?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/illus-gouache-coastal-lighthouse.webp" alt="Gouache Coastal Lighthouse Wallpaper" width="360"></a>
+
+> Gouache coastal lighthouse wallpaper variant from frameprompts Retro Gouache Wallpapers series; empty, no faces.
+
+```text
+Vertical 3:4 retro gouache illustrated wallpaper. Coastal cliffs with a small lighthouse, painted forms, soft airbrush shading, matte grain, calm empty coast. No people, no faces, no text, no logos. Premium illustrated wallpaper.
+```
+
+- Author: [@frameprompts](https://x.com/frameprompts)
+- Original post: https://x.com/frameprompts/status/2111005222537752910
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/illus-gouache-coastal-lighthouse?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Paper-Cut Sunrise Silhouette Wallpaper
+
+<a href="https://cinel.ai/prompts/p/illus-paper-cut-sunrise?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/illus-paper-cut-sunrise.webp" alt="Paper-Cut Sunrise Silhouette Wallpaper" width="360"></a>
+
+> Paper-cut sunrise silhouette wallpaper inspired by frameprompts illustrated wallpaper direction; abstract empty scene.
+
+```text
+Vertical 9:16 paper-cut illustrated wallpaper. Layered paper-cut silhouette hills under a rising sun disk, soft shadows between paper layers, craft-paper texture, empty abstract landscape. No people, no animals, no text, no logos. Calm lock-screen friendly composition.
+```
+
+- Author: [@frameprompts](https://x.com/frameprompts)
+- Original post: https://x.com/frameprompts/status/2111005222537752910
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/illus-paper-cut-sunrise?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Flat Color-Block Mountain Dusk Wallpaper
+
+<a href="https://cinel.ai/prompts/p/illus-flat-block-mountain-dusk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/illus-flat-block-mountain-dusk.webp" alt="Flat Color-Block Mountain Dusk Wallpaper" width="360"></a>
+
+> Flat color-block mountain dusk wallpaper inspired by frameprompts illustrated wallpaper / flat graphic direction; no faces.
+
+```text
+Vertical 3:4 flat illustrated wallpaper. Geometric color-block mountain ranges at dusk, hard edges, limited palette of coral plum and slate, empty abstract landscape. No people, no faces, no text, no logos. Premium flat graphic lock/home wallpaper.
+```
+
+- Author: [@frameprompts](https://x.com/frameprompts)
+- Original post: https://x.com/frameprompts/status/2111005222537752910
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/illus-flat-block-mountain-dusk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

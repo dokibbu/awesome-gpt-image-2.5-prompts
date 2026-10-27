@@ -13,20 +13,20 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-精選 **759** 條 GPT Image 2.5 提示詞，每條都附示例圖、完整提示詞、原作者和原帖連結。資料來自 [cinel.ai](https://cinel.ai/zh-hant/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示詞庫，自動同步更新。
+精選 **788** 條 GPT Image 2.5 提示詞，每條都附示例圖、完整提示詞、原作者和原帖連結。資料來自 [cinel.ai](https://cinel.ai/zh-hant/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示詞庫，自動同步更新。
 
 👉 [在 cinel.ai 瀏覽全部並線上生成](https://cinel.ai/zh-hant/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ## 目錄
 
 - [人像寫真](#portrait) (79) · [全部](cases/portrait.md)
-- [產品與電商](#product-photography) (46) · [全部](cases/product-photography.md)
+- [產品與電商](#product-photography) (51) · [全部](cases/product-photography.md)
 - [海報與平面設計](#poster-design) (67) · [全部](cases/poster-design.md)
 - [資訊圖與 UI](#infographic-ui) (40) · [全部](cases/infographic-ui.md)
 - [3D 角色與公仔](#3d-figurines) (111) · [全部](cases/3d-figurines.md)
 - [美食飲品](#food-drink) (223) · [全部](cases/food-drink.md)
-- [插畫與動漫](#illustration-anime) (87) · [全部](cases/illustration-anime.md)
-- [創意場景](#scenes-creative) (106) · [全部](cases/scenes-creative.md)
+- [插畫與動漫](#illustration-anime) (92) · [全部](cases/illustration-anime.md)
+- [創意場景](#scenes-creative) (125) · [全部](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -307,7 +307,7 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 ## 產品與電商
 
-精選 6 條 · [查看本類全部 46 條](cases/product-photography.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精選 6 條 · [查看本類全部 51 條](cases/product-photography.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -1432,7 +1432,7 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 ## 插畫與動漫
 
-精選 6 條 · [查看本類全部 87 條](cases/illustration-anime.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精選 6 條 · [查看本類全部 92 條](cases/illustration-anime.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -1526,7 +1526,7 @@ Transform the input photo into a refined monochromatic ink portrait on a pure wh
 
 ## 創意場景
 
-精選 6 條 · [查看本類全部 106 條](cases/scenes-creative.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精選 6 條 · [查看本類全部 125 條](cases/scenes-creative.md) · [cinel 分類頁](https://cinel.ai/zh-hant/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 

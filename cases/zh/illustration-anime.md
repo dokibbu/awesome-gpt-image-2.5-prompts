@@ -1,6 +1,6 @@
 # 插画与动漫 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 87 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 92 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 极简黑白线稿人物插画提示词
 
@@ -1308,3 +1308,73 @@ colorful pixel art nature scene with mountains, flowers and blue sky, heavy half
 - 原作者: [@betomoedano](https://x.com/betomoedano)
 - 原帖: https://x.com/betomoedano/status/2046727843925942564
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-nature-retro-game-bg?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 复古水粉起伏山丘壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/illus-retro-gouache-hills?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/illus-retro-gouache-hills.webp" alt="复古水粉起伏山丘壁纸" width="360"></a>
+
+> 复古水粉山丘壁纸，来自 frameprompts Retro Gouache Wallpapers 提示词评测系列；空风景，无人脸。
+
+```text
+Vertical 9:16 retro gouache illustrated wallpaper. Soft rolling hills at warm dusk as painted forms with soft airbrush shading and matte grain. Empty landscape, no people, no faces, no text, no logos. Calm lock-screen friendly composition, premium illustrated background.
+```
+
+- 原作者: [@frameprompts](https://x.com/frameprompts)
+- 原帖: https://x.com/frameprompts/status/2111005222537752910
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/illus-retro-gouache-hills?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 扁平漫画空城夜景壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/illus-flat-empty-city-night?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/illus-flat-empty-city-night.webp" alt="扁平漫画空城夜景壁纸" width="360"></a>
+
+> 扁平漫画色块空城夜景壁纸，受 frameprompts 插画壁纸方向启发；无真人脸/可识别角色。
+
+```text
+Vertical 9:16 flat manga-style illustrated wallpaper. Empty night city skyline in hard color blocks, simple rectangular windows, limited palette of indigo navy and soft yellow, no neon logos, no people, no faces, no readable signs, no text. Calm empty-scene lock wallpaper, premium flat illustration.
+```
+
+- 原作者: [@frameprompts](https://x.com/frameprompts)
+- 原帖: https://x.com/frameprompts/status/2111005222537752910
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/illus-flat-empty-city-night?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 水粉海岸灯塔壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/illus-gouache-coastal-lighthouse?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/illus-gouache-coastal-lighthouse.webp" alt="水粉海岸灯塔壁纸" width="360"></a>
+
+> 水粉海岸灯塔壁纸变体，来自 frameprompts Retro Gouache 系列；空，无人脸。
+
+```text
+Vertical 3:4 retro gouache illustrated wallpaper. Coastal cliffs with a small lighthouse, painted forms, soft airbrush shading, matte grain, calm empty coast. No people, no faces, no text, no logos. Premium illustrated wallpaper.
+```
+
+- 原作者: [@frameprompts](https://x.com/frameprompts)
+- 原帖: https://x.com/frameprompts/status/2111005222537752910
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/illus-gouache-coastal-lighthouse?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 纸艺剪影日出壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/illus-paper-cut-sunrise?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/illus-paper-cut-sunrise.webp" alt="纸艺剪影日出壁纸" width="360"></a>
+
+> 纸艺剪影日出壁纸，受 frameprompts 插画壁纸方向启发；抽象空景。
+
+```text
+Vertical 9:16 paper-cut illustrated wallpaper. Layered paper-cut silhouette hills under a rising sun disk, soft shadows between paper layers, craft-paper texture, empty abstract landscape. No people, no animals, no text, no logos. Calm lock-screen friendly composition.
+```
+
+- 原作者: [@frameprompts](https://x.com/frameprompts)
+- 原帖: https://x.com/frameprompts/status/2111005222537752910
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/illus-paper-cut-sunrise?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 扁平色块山峦黄昏壁纸
+
+<a href="https://cinel.ai/zh/prompts/p/illus-flat-block-mountain-dusk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/illus-flat-block-mountain-dusk.webp" alt="扁平色块山峦黄昏壁纸" width="360"></a>
+
+> 扁平色块山峦黄昏壁纸，受 frameprompts 插画/平面图形方向启发；无人脸。
+
+```text
+Vertical 3:4 flat illustrated wallpaper. Geometric color-block mountain ranges at dusk, hard edges, limited palette of coral plum and slate, empty abstract landscape. No people, no faces, no text, no logos. Premium flat graphic lock/home wallpaper.
+```
+
+- 原作者: [@frameprompts](https://x.com/frameprompts)
+- 原帖: https://x.com/frameprompts/status/2111005222537752910
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/illus-flat-block-mountain-dusk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

@@ -1,6 +1,6 @@
 # 产品与电商 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 46 · [cinel 分类页](https://cinel.ai/zh/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 51 · [cinel 分类页](https://cinel.ai/zh/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 九宫格产品样机分镜提示词
 
@@ -1304,3 +1304,73 @@ Premium daily-necessities social media marketing poster for a fictional laundry 
 - 原作者: [@PixuryAI](https://x.com/PixuryAI)
 - 原帖: https://x.com/PixuryAI/status/2061657972145635434
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/home-care-product-promo-layout?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 无缝暖象牙影棚背景
+
+<a href="https://cinel.ai/zh/prompts/p/studio-seamless-warm-ivory?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/studio-seamless-warm-ivory.webp" alt="无缝暖象牙影棚背景" width="480"></a>
+
+> 从 favprompt 产品摄影提示词抽出的纯无缝暖象牙影棚背景。空，无产品。
+
+```text
+Clean empty product photography background only: seamless warm ivory paper studio backdrop with subtle fine paper texture, bright diffused softbox lighting, soft even falloff, no product, no props, no people, no text, no logos. Square 1:1 premium e-commerce seamless background.
+```
+
+- 原作者: [@favprompt](https://x.com/favprompt)
+- 原帖: https://x.com/favprompt/status/2104323921998741980
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/studio-seamless-warm-ivory?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 哑光炭黑影棚弧面背景
+
+<a href="https://cinel.ai/zh/prompts/p/studio-matte-charcoal-sweep?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/studio-matte-charcoal-sweep.webp" alt="哑光炭黑影棚弧面背景" width="480"></a>
+
+> 哑光炭黑无缝影棚弧面，改编自 AIPromptLabX 深色反光产品背景提示词；仅空背景，无品牌。
+
+```text
+Clean empty product photography background only: matte charcoal seamless studio sweep, soft subtle gradient falloff, low-key even lighting, no glossy floor reflection, no product, no people, no text, no logos. Square 1:1 premium e-commerce dark seamless background.
+```
+
+- 原作者: [@AIPromptLabX](https://x.com/AIPromptLabX)
+- 原帖: https://x.com/AIPromptLabX/status/2114807910245216595
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/studio-matte-charcoal-sweep?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 莫兰迪粉无缝影棚背景
+
+<a href="https://cinel.ai/zh/prompts/p/studio-morandi-pink-seamless?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/studio-morandi-pink-seamless.webp" alt="莫兰迪粉无缝影棚背景" width="480"></a>
+
+> 莫兰迪粉无缝背景，改编自 PromptTip 暖米色影棚产品广告提示词；空，无品牌标签。
+
+```text
+Clean empty product photography background only: Morandi soft pink seamless studio backdrop, muted dusty blush pastel, soft natural even lighting, gentle falloff, no product, no props, no people, no text, no logos, no brand labels. Landscape 3:2 premium e-commerce seamless background.
+```
+
+- 原作者: [@PromptTip](https://x.com/PromptTip)
+- 原帖: https://x.com/PromptTip/status/2111760631179485583
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/studio-morandi-pink-seamless?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 浅灰大理石产品背景
+
+<a href="https://cinel.ai/zh/prompts/p/studio-soft-gray-marble?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/studio-soft-gray-marble.webp" alt="浅灰大理石产品背景" width="480"></a>
+
+> 浅灰大理石空产品台面，归因 OlatundeAI 干净白/中性影棚产品表提示词。
+
+```text
+Clean empty product photography background only: soft gray marble slab surface with subtle quiet veins, matte stone (not mirror polish), soft controlled even studio lighting, gentle contact-shadow zone implied but empty. No product, no people, no text, no logos. Landscape 3:2 premium e-commerce surface background.
+```
+
+- 原作者: [@OlatundeAI](https://x.com/OlatundeAI)
+- 原帖: https://x.com/OlatundeAI/status/2104523280153468972
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/studio-soft-gray-marble?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 浅木纹桌面俯拍背景
+
+<a href="https://cinel.ai/zh/prompts/p/studio-light-wood-overhead?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/studio-light-wood-overhead.webp" alt="浅木纹桌面俯拍背景" width="480"></a>
+
+> 浅木俯拍空桌面背景，改编自 KeyoAPI 暖米白影棚产品参考提示词；空，无品牌。
+
+```text
+Clean empty product photography background only: light oak wood desk surface photographed straight from above, soft natural window light, subtle wood grain, mostly empty flat lay. No products, no brands, no people, no text, no logos. Square 1:1 premium e-commerce wood surface background.
+```
+
+- 原作者: [@KeyoAPI](https://x.com/KeyoAPI)
+- 原帖: https://x.com/KeyoAPI/status/2111646675513073820
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/studio-light-wood-overhead?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
