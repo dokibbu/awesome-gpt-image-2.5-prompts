@@ -1,6 +1,6 @@
 # Illustration & Anime · GPT Image 2.5
 
-[← README](../README.md) · 92 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 101 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -1378,3 +1378,129 @@ Vertical 3:4 flat illustrated wallpaper. Geometric color-block mountain ranges a
 - Author: [@frameprompts](https://x.com/frameprompts)
 - Original post: https://x.com/frameprompts/status/2111005222537752910
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/illus-flat-block-mountain-dusk?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Molten Gold Midnight Oil Portrait
+
+<a href="https://cinel.ai/prompts/p/molten-gold-midnight-oil-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/molten-gold-midnight-oil-portrait.webp" alt="Molten Gold Midnight Oil Portrait" width="360"></a>
+
+> Expressive oil painting editorial; swap light color.
+
+```text
+Expressive oil painting, cinematic fine-art portraiture, impressionistic brushwork, dramatic romantic fantasy. Create an image of a woman standing gracefully in an elegant off-the-shoulder ivory gown with softly draped fabric, a fitted waist, and a flowing skirt with a subtle thigh slit. Her head turns gently to one side, eyes closed, conveying a peaceful, contemplative mood. Let long, flowing strands of hair sweep around her shoulders, illuminated by a brilliant golden halo of backlight. Surround her silhouette with delicate, looping golden lines that curve organically through the composition, blending into expressive painterly strokes. Use a dramatic palette of molten gold, warm amber, muted teal, slate blue, and deep charcoal. Emphasize thick impasto brushwork, visible palette-knife textures, layered oil pigments, luminous highlights along the gown and hair, and an atmospheric dark background. Compose a full-length vertical portrait with a sophisticated, dreamlike fine-art quality, vertical portrait format 3:4 No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@antrospike](https://x.com/antrospike)
+- Original post: https://x.com/antrospike/status/2115364194698854546
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/molten-gold-midnight-oil-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pink Headphones Impasto Fashion Portrait
+
+<a href="https://cinel.ai/prompts/p/pink-headphones-impasto-fashion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pink-headphones-impasto-fashion.webp" alt="Pink Headphones Impasto Fashion Portrait" width="480"></a>
+
+> Playful impressionist fashion; swap headphone color.
+
+```text
+Expressive impressionist oil painting, vibrant contemporary fine art, thick impasto brushwork, playful retro fashion illustration. Create an image of a stylish woman enjoying music in a carefree, expressive pose, her head tilted slightly backward and one arm raised gracefully above her head, palm open toward the sunlight. Dress her in oversized glossy pink headphones with golden accents, reflective gold sunglasses, a pink headband, chunky gold bracelets, and a flowing rose-pink outfit with dramatic folds. Give her a relaxed, confident expression with softly parted lips, conveying a feeling of freedom and joyful self-expression. Frame the portrait from a slightly low angle, emphasizing the raised arm, sparkling accessories, and elegant neck line. Render the scene as an expressive oil painting with thick palette-knife strokes, layered impasto textures, bold coral and fuchsia accents, turquoise and aqua background tones, warm peach highlights, and shimmering metallic gold details. Preserve visible brushwork throughout the face, clothing, and background for a lively, tactile, gallery-quality finish, vertical portrait format 3:4 No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@antrospike](https://x.com/antrospike)
+- Original post: https://x.com/antrospike/status/2115341545272644059
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pink-headphones-impasto-fashion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Liquid Color Paint Hair Portrait
+
+<a href="https://cinel.ai/prompts/p/liquid-color-paint-hair-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/liquid-color-paint-hair-portrait.webp" alt="Liquid Color Paint Hair Portrait" width="360"></a>
+
+> Source prompt was image-led; filled from caption + liquid-paint style. Swap paint colors.
+
+```text
+Hyper-detailed surreal 3D beauty portrait of a woman with a calm dreamy expression and closed or half-lidded eyes, face centered, hair formed entirely from glossy flowing liquid paint in cobalt blue and amber-orange. Thick molten paint strands swirl and cascade around her head and shoulders like wet ribbons of enamel, with reflective highlights and soft drips. Smooth porcelain skin, soft peach blush, delicate lashes, muted rose lips. Pure black or deep charcoal studio backdrop. Macro detail, octane-style render, soft beauty lighting, high contrast between matte skin and wet paint gloss, vertical 9:16. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@sabzar_Ai](https://x.com/sabzar_Ai)
+- Original post: https://x.com/sabzar_Ai/status/2114188447334248500
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/liquid-color-paint-hair-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Monochrome Holographic Yin-Yang Beauty
+
+<a href="https://cinel.ai/prompts/p/monochrome-holographic-yin-yang-beauty?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/monochrome-holographic-yin-yang-beauty.webp" alt="Monochrome Holographic Yin-Yang Beauty" width="360"></a>
+
+> Selective-color surreal beauty; swap holographic accents.
+
+```text
+Hyper-detailed surreal beauty portrait of a woman with closed eyes and a serene dreamy expression, face tilted slightly upward, bust-up framing, soft grey gradient background. Smooth grayscale porcelain skin. Hair split yin-yang: flowing white sculpted waves on the left and thick glossy black liquid-like curls on the right, with a black ink tendril curling down the forehead and another trailing from the eye like a tear. Holographic iridescent eyeshadow in violet, teal, gold and rainbow across both lids, bold winged black liner, long lashes. Glossy jet-black lips slightly parted. Gold glitter dust across neck and shoulder; translucent holographic petals burst from the upper right. Surreal fashion illustration, selective color on monochrome base, soft studio lighting, macro detail, vertical 9:16. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@sabzar_Ai](https://x.com/sabzar_Ai)
+- Original post: https://x.com/sabzar_Ai/status/2114320568191537182
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/monochrome-holographic-yin-yang-beauty?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Purple Sugar Skull Macro Beauty
+
+<a href="https://cinel.ai/prompts/p/purple-sugar-skull-macro-beauty?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/purple-sugar-skull-macro-beauty.webp" alt="Purple Sugar Skull Macro Beauty" width="360"></a>
+
+> Gothic-glam calavera beauty; swap gem color.
+
+```text
+A hyper-detailed fantasy macro portrait in a tall vertical composition, cropped tightly on one half of a woman's face, Day-of-the-Dead-inspired sugar-skull beauty style. Smooth pale lavender-gray skin with fine leather-like grain. Glowing amber-gold eye with deep golden-orange iris, thick sculpted glossy violet eyeshadow like raised paint, heavy dark lashes. Delicate three-dimensional gold filigree sweeps across brow, temple, cheek and chin. Raised glossy purple floral and butterfly-wing petals in magenta, orchid and violet around the eye. Dark violet lacquered lips with a stitched skeletal smile line of fine tick marks. Long silky purple and pink hair with golden bead ornaments. Soft dreamy magenta-purple bokeh background. Soft diffused beauty lighting, macro detail, shallow depth of field. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@sabzar_Ai](https://x.com/sabzar_Ai)
+- Original post: https://x.com/sabzar_Ai/status/2114937635517116565
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/purple-sugar-skull-macro-beauty?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Undead Egyptian Mummy Warrior
+
+<a href="https://cinel.ai/prompts/p/undead-mummy-warrior-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/undead-mummy-warrior-portrait.webp" alt="Undead Egyptian Mummy Warrior" width="360"></a>
+
+> Dark fantasy character; swap weapon prop.
+
+```text
+Ultra-detailed dark fantasy portrait of an undead Egyptian mummy warrior woman, vertical composition, dynamic pose with one clawed hand reaching toward the viewer in sharp foreground focus, the other gripping a curved dagger, menacing intense stare. Ashen grey-green cracked skin with hieroglyph markings across forehead and cheeks, glowing amber-gold eyes, heavy smoky black eyeliner, dark muted lips, long sharp dark nails. Long black dreadlocks and braids adorned with gold beads, tiny gold cuffs and dangling gold charms. Layered gold and bronze beaded collar necklaces. Body wrapped in aged frayed tan linen mummy bandages with loose hanging strands. Curved ornate black ritual blade with engraved patterns and jeweled crossguard. Ancient dark tomb with hieroglyph-carved stone walls, worn sandstone steps, sandy floor, floating dust. Moody earthy palette of charcoal, sand, bronze and sickly green-grey, dramatic cinematic low-key lighting, 3:4. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@sabzar_Ai](https://x.com/sabzar_Ai)
+- Original post: https://x.com/sabzar_Ai/status/2115313360010990074
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/undead-mummy-warrior-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pagoda Doorway Double Exposure Face
+
+<a href="https://cinel.ai/prompts/p/pagoda-doorway-double-exposure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pagoda-doorway-double-exposure.webp" alt="Pagoda Doorway Double Exposure Face" width="360"></a>
+
+> Surreal double-exposure landscape-in-face; swap architecture.
+
+```text
+Ultra-detailed surreal double-exposure fantasy art of a woman's face in extreme close-up, vertical composition, eyes closed, serene dreamy expression, face tilted and cropped on the left. Warm glowing peach and rose skin with golden shimmer particles, long dark lashes, glossy metallic liquid-gold lips. Her cheek and jawline dissolve into a rocky cliff landscape: carved stone staircase winding up to a glowing multi-tiered Japanese pagoda with blue-tiled roofs and warm lantern-lit windows, mossy rocks and bonsai-like shrubs, pink blossoms. A twisted dark tree grows from her brow heavy with lavender cherry blossoms. Cascading turquoise waterfalls beside her face. Cracked kintsugi-style gold veins across the skin with stained-glass mosaic patches in teal, pink and violet. Dramatic sunset sky in pink, violet and orange. Cinematic magical glow, 9:16. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@sabzar_Ai](https://x.com/sabzar_Ai)
+- Original post: https://x.com/sabzar_Ai/status/2115251703721124086
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pagoda-doorway-double-exposure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Fire Spirit Ember Portrait
+
+<a href="https://cinel.ai/prompts/p/fire-spirit-ember-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/fire-spirit-ember-portrait.webp" alt="Fire Spirit Ember Portrait" width="360"></a>
+
+> Fire elemental cinematic portrait; swap ember density.
+
+```text
+Hyper-detailed cinematic fire-spirit portrait of a fierce young woman, extreme close-up, face tilted slightly downward with an intense predatory stare, pitch-black background with floating embers, glowing sparks and drifting ash. Pale porcelain skin with light freckles and a warm red glow on one side. Eyes burn with molten gold-orange starburst irises, dark smoky liner, furrowed brows. Soft muted rose lips, stern controlled expression. Long wild hair made of living flames in crimson and ember-orange with bright yellow-white streaks flowing upward. Glowing lava-like cracks and charred scratches across temple and cheek. Neck and shoulders dissolve into smoldering red smoke. Dark fantasy cinematic portrait, volumetric fire and smoke, dramatic rim lighting, 9:16. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@sabzar_Ai](https://x.com/sabzar_Ai)
+- Original post: https://x.com/sabzar_Ai/status/2115325996916473938
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/fire-spirit-ember-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Teal Skin Crimson Cyberpunk Pop Portrait
+
+<a href="https://cinel.ai/prompts/p/teal-crimson-cyberpunk-pop-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/teal-crimson-cyberpunk-pop-portrait.webp" alt="Teal Skin Crimson Cyberpunk Pop Portrait" width="360"></a>
+
+> High-contrast cyberpunk pop; swap background hue.
+
+```text
+Hyper-detailed cyberpunk pop-art portrait of a stylish young woman with cool aqua-teal skin tone, head tilted back and to the side with a sultry aloof expression, solid saturated crimson-red background. Oversized round black-framed glasses with translucent red lenses, cat-eye red-lens sunglasses pushed up on her head. Eyes glow molten orange-red inside dramatic red eyeshadow, extra-long spiky black lashes. Bold glossy coral-pink lips with thick black outlines. Messy dark navy-black hair in two voluminous space buns with curly escape strands, thick black hoop earrings. Chunky black choker with translucent crystal blocks over a black bodysuit lined with glowing red-orange neon tubing. Retro-futuristic cyberpunk pop art, neon tube glow, high contrast, 9:16. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@sabzar_Ai](https://x.com/sabzar_Ai)
+- Original post: https://x.com/sabzar_Ai/status/2115401148618428816
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/teal-crimson-cyberpunk-pop-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

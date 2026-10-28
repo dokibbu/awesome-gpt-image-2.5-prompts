@@ -13,26 +13,26 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Özenle seçilmiş **788** GPT Image 2.5 prompt'u. Her birinde örnek görsel, tam prompt ve orijinal gönderi bağlantısıyla birlikte orijinal yazarın adı yer alır. Veriler [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) prompt kütüphanesinden gelir ve otomatik olarak senkronize edilir.
+Özenle seçilmiş **817** GPT Image 2.5 prompt'u. Her birinde örnek görsel, tam prompt ve orijinal gönderi bağlantısıyla birlikte orijinal yazarın adı yer alır. Veriler [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) prompt kütüphanesinden gelir ve otomatik olarak senkronize edilir.
 
 👉 [Tümüne cinel.ai'de göz at ve çevrimiçi üret](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ## İçindekiler
 
-- [Portre ve vesikalık](#portrait) (79) · [tümü](cases/portrait.md)
-- [Ürün ve e-ticaret](#product-photography) (51) · [tümü](cases/product-photography.md)
+- [Portre ve vesikalık](#portrait) (92) · [tümü](cases/portrait.md)
+- [Ürün ve e-ticaret](#product-photography) (53) · [tümü](cases/product-photography.md)
 - [Afiş, logo ve grafik tasarım](#poster-design) (67) · [tümü](cases/poster-design.md)
 - [İnfografik ve UI](#infographic-ui) (40) · [tümü](cases/infographic-ui.md)
-- [3D karakter ve figürler](#3d-figurines) (111) · [tümü](cases/3d-figurines.md)
+- [3D karakter ve figürler](#3d-figurines) (114) · [tümü](cases/3d-figurines.md)
 - [Yemek ve içecek](#food-drink) (223) · [tümü](cases/food-drink.md)
-- [İllüstrasyon ve anime](#illustration-anime) (92) · [tümü](cases/illustration-anime.md)
-- [Yaratıcı sahneler](#scenes-creative) (125) · [tümü](cases/scenes-creative.md)
+- [İllüstrasyon ve anime](#illustration-anime) (101) · [tümü](cases/illustration-anime.md)
+- [Yaratıcı sahneler](#scenes-creative) (127) · [tümü](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
 ## Portre ve vesikalık
 
-Öne çıkan 6 · [79 öğenin tümü](cases/portrait.md) · [cinel'de kategori](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [92 öğenin tümü](cases/portrait.md) · [cinel'de kategori](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Olive Velvet Saree High-Fashion Studio Portrait
 
@@ -307,7 +307,7 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 ## Ürün ve e-ticaret
 
-Öne çıkan 6 · [51 öğenin tümü](cases/product-photography.md) · [cinel'de kategori](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [53 öğenin tümü](cases/product-photography.md) · [cinel'de kategori](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -886,7 +886,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized.
 
 ## 3D karakter ve figürler
 
-Öne çıkan 6 · [111 öğenin tümü](cases/3d-figurines.md) · [cinel'de kategori](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [114 öğenin tümü](cases/3d-figurines.md) · [cinel'de kategori](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1402,7 +1402,7 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 ## İllüstrasyon ve anime
 
-Öne çıkan 6 · [92 öğenin tümü](cases/illustration-anime.md) · [cinel'de kategori](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [101 öğenin tümü](cases/illustration-anime.md) · [cinel'de kategori](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Silent Vampire Pixel Game
 
@@ -1492,7 +1492,7 @@ A simple black-and-white illustration of a young woman in an oversized knit swea
 
 ## Yaratıcı sahneler
 
-Öne çıkan 6 · [125 öğenin tümü](cases/scenes-creative.md) · [cinel'de kategori](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [127 öğenin tümü](cases/scenes-creative.md) · [cinel'de kategori](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 

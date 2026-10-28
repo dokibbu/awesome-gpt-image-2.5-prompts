@@ -1,6 +1,6 @@
 # Creative Scenes · GPT Image 2.5
 
-[← README](../README.md) · 125 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 127 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 
@@ -1941,3 +1941,31 @@ Cinematic 16:9 desktop wallpaper. Misty moonlit pine forest path with soft layer
 - Author: [@ChromaticScreen](https://x.com/ChromaticScreen)
 - Original post: https://x.com/ChromaticScreen/status/2107671718328172903
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/desktop-foggy-pine-forest?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Art Deco Crystal City At Twilight
+
+<a href="https://cinel.ai/prompts/p/art-deco-crystal-city-twilight?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/art-deco-crystal-city-twilight.webp" alt="Art Deco Crystal City At Twilight" width="480"></a>
+
+> Epic matte-painting skyline; swap time of day.
+
+```text
+Cinematic matte painting of a crystalline city at twilight whose Art Deco geometry has grown into living towers, sharp chevrons and sunbursts refracting the last light into permanent rainbow arches that lock the skyline in place. Epic landscape 16:9. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2115247181447975072
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/art-deco-crystal-city-twilight?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Tennis Racket Vine Canopy Forest
+
+<a href="https://cinel.ai/prompts/p/tennis-racket-vine-canopy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/tennis-racket-vine-canopy.webp" alt="Tennis Racket Vine Canopy Forest" width="480"></a>
+
+> Surreal sports landscape; swap sport prop.
+
+```text
+Photorealistic cinematic view of an enormous tennis racket standing as a forest, strings grown into living vine canopy, a ball frozen at the exact instant of impact with concentric rings of light still suspended in the weave. Landscape 16:9. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2115201881169445008
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/tennis-racket-vine-canopy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

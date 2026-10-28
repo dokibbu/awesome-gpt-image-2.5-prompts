@@ -13,26 +13,26 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Подборка из **788** промптов для GPT Image 2.5. У каждого есть пример изображения, полный текст промпта и ссылка на автора и оригинальный пост. Данные берутся из библиотеки промптов [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) и синхронизируются автоматически.
+Подборка из **817** промптов для GPT Image 2.5. У каждого есть пример изображения, полный текст промпта и ссылка на автора и оригинальный пост. Данные берутся из библиотеки промптов [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) и синхронизируются автоматически.
 
 👉 [Смотреть все и генерировать онлайн на cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ## Содержание
 
-- [Портреты](#portrait) (79) · [все](cases/portrait.md)
-- [Товары и e-commerce](#product-photography) (51) · [все](cases/product-photography.md)
+- [Портреты](#portrait) (92) · [все](cases/portrait.md)
+- [Товары и e-commerce](#product-photography) (53) · [все](cases/product-photography.md)
 - [Постеры, логотипы и графический дизайн](#poster-design) (67) · [все](cases/poster-design.md)
 - [Инфографика и UI](#infographic-ui) (40) · [все](cases/infographic-ui.md)
-- [3D-персонажи и фигурки](#3d-figurines) (111) · [все](cases/3d-figurines.md)
+- [3D-персонажи и фигурки](#3d-figurines) (114) · [все](cases/3d-figurines.md)
 - [Еда и напитки](#food-drink) (223) · [все](cases/food-drink.md)
-- [Иллюстрации и аниме](#illustration-anime) (92) · [все](cases/illustration-anime.md)
-- [Креативные сцены](#scenes-creative) (125) · [все](cases/scenes-creative.md)
+- [Иллюстрации и аниме](#illustration-anime) (101) · [все](cases/illustration-anime.md)
+- [Креативные сцены](#scenes-creative) (127) · [все](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
 ## Портреты
 
-Избранное: 6 · [Все 79](cases/portrait.md) · [Категория на cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Избранное: 6 · [Все 92](cases/portrait.md) · [Категория на cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Olive Velvet Saree High-Fashion Studio Portrait
 
@@ -307,7 +307,7 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 ## Товары и e-commerce
 
-Избранное: 6 · [Все 51](cases/product-photography.md) · [Категория на cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Избранное: 6 · [Все 53](cases/product-photography.md) · [Категория на cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -886,7 +886,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized.
 
 ## 3D-персонажи и фигурки
 
-Избранное: 6 · [Все 111](cases/3d-figurines.md) · [Категория на cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Избранное: 6 · [Все 114](cases/3d-figurines.md) · [Категория на cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1402,7 +1402,7 @@ Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real pe
 
 ## Иллюстрации и аниме
 
-Избранное: 6 · [Все 92](cases/illustration-anime.md) · [Категория на cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Избранное: 6 · [Все 101](cases/illustration-anime.md) · [Категория на cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Silent Vampire Pixel Game
 
@@ -1492,7 +1492,7 @@ A simple black-and-white illustration of a young woman in an oversized knit swea
 
 ## Креативные сцены
 
-Избранное: 6 · [Все 125](cases/scenes-creative.md) · [Категория на cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Избранное: 6 · [Все 127](cases/scenes-creative.md) · [Категория на cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 

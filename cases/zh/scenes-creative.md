@@ -1,6 +1,6 @@
 # 创意场景 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 125 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 127 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 巨型钢笔写出书中世界的魔幻场景提示词
 
@@ -1941,3 +1941,31 @@ Cinematic 16:9 desktop wallpaper. Misty moonlit pine forest path with soft layer
 - 原作者: [@ChromaticScreen](https://x.com/ChromaticScreen)
 - 原帖: https://x.com/ChromaticScreen/status/2107671718328172903
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/desktop-foggy-pine-forest?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 装饰艺术水晶之城·暮色
+
+<a href="https://cinel.ai/zh/prompts/p/art-deco-crystal-city-twilight?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/art-deco-crystal-city-twilight.webp" alt="装饰艺术水晶之城·暮色" width="480"></a>
+
+> 史诗雾面绘天际线；可换时段。
+
+```text
+Cinematic matte painting of a crystalline city at twilight whose Art Deco geometry has grown into living towers, sharp chevrons and sunbursts refracting the last light into permanent rainbow arches that lock the skyline in place. Epic landscape 16:9. No brands, logos, watermarks, or readable text.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2115247181447975072
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/art-deco-crystal-city-twilight?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 网球拍藤蔓天棚森林
+
+<a href="https://cinel.ai/zh/prompts/p/tennis-racket-vine-canopy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/tennis-racket-vine-canopy.webp" alt="网球拍藤蔓天棚森林" width="480"></a>
+
+> 超现实运动景观；可换运动道具。
+
+```text
+Photorealistic cinematic view of an enormous tennis racket standing as a forest, strings grown into living vine canopy, a ball frozen at the exact instant of impact with concentric rings of light still suspended in the weave. Landscape 16:9. No brands, logos, watermarks, or readable text.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2115201881169445008
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/tennis-racket-vine-canopy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

@@ -1,6 +1,6 @@
 # 产品与电商 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 51 · [cinel 分类页](https://cinel.ai/zh/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 53 · [cinel 分类页](https://cinel.ai/zh/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 九宫格产品样机分镜提示词
 
@@ -1374,3 +1374,31 @@ Clean empty product photography background only: light oak wood desk surface pho
 - 原作者: [@KeyoAPI](https://x.com/KeyoAPI)
 - 原帖: https://x.com/KeyoAPI/status/2111646675513073820
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/studio-light-wood-overhead?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 钻石牙齿·白虎特写
+
+<a href="https://cinel.ai/zh/prompts/p/diamond-teeth-white-tiger?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/diamond-teeth-white-tiger.webp" alt="钻石牙齿·白虎特写" width="360"></a>
+
+> 低调动物大片；可换宝石种类。
+
+```text
+Low-key aesthetic animal image, close-up of a white tiger face roaring with open mouth, teeth decorated with sparkling diamonds, black and white striped fur, solid black background to highlight the subject, vintage grainy film texture, powerful wild visual. Vertical 3:4. No brands, logos, watermarks, or readable text.
+```
+
+- 原作者: [@rare_glass](https://x.com/rare_glass)
+- 原帖: https://x.com/rare_glass/status/2114779113051267352
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/diamond-teeth-white-tiger?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 编辑风乐福鞋·书桌静物
+
+<a href="https://cinel.ai/zh/prompts/p/editorial-loafers-desk-still-life?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/editorial-loafers-desk-still-life.webp" alt="编辑风乐福鞋·书桌静物" width="360"></a>
+
+> 安静奢华产品静物；可换袜色。
+
+```text
+Editorial still life photograph, close up at desk height, slightly angled side view. A man's crossed legs in dark tailored trousers rest on a wooden work desk, entering from the left. Polished dark brown leather penny loafers, no logos. Mismatched fine knit socks: left deep red, right deep green. Desk is lightly cluttered: two monitors with blurred candlestick charts pushed aside, keyboard, mouse, document folders, brass desk lamp, charging cable, ceramic coffee cup. Warm expensive office interior: dark walnut wood paneled walls, built-in shelving, warm pendant light, moss green carpet hint. Shoes and socks in sharp focus, shallow depth of field, warm color palette, soft warm lighting, subtle film grain, quiet luxury, calm relaxed mood, high end magazine editorial style, photorealistic. Vertical 3:4. No brands, logos, watermarks, or readable text.
+```
+
+- 原作者: [@rare_glass](https://x.com/rare_glass)
+- 原帖: https://x.com/rare_glass/status/2113057778323349868
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/editorial-loafers-desk-still-life?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

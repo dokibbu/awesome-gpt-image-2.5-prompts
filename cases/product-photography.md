@@ -1,6 +1,6 @@
 # Product & E-commerce · GPT Image 2.5
 
-[← README](../README.md) · 51 · [Category on cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 53 · [Category on cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -1374,3 +1374,31 @@ Clean empty product photography background only: light oak wood desk surface pho
 - Author: [@KeyoAPI](https://x.com/KeyoAPI)
 - Original post: https://x.com/KeyoAPI/status/2111646675513073820
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/studio-light-wood-overhead?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Diamond Teeth White Tiger Close-Up
+
+<a href="https://cinel.ai/prompts/p/diamond-teeth-white-tiger?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/diamond-teeth-white-tiger.webp" alt="Diamond Teeth White Tiger Close-Up" width="360"></a>
+
+> Low-key animal editorial; swap gem type.
+
+```text
+Low-key aesthetic animal image, close-up of a white tiger face roaring with open mouth, teeth decorated with sparkling diamonds, black and white striped fur, solid black background to highlight the subject, vintage grainy film texture, powerful wild visual. Vertical 3:4. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@rare_glass](https://x.com/rare_glass)
+- Original post: https://x.com/rare_glass/status/2114779113051267352
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/diamond-teeth-white-tiger?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Editorial Loafers Desk Still Life
+
+<a href="https://cinel.ai/prompts/p/editorial-loafers-desk-still-life?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/editorial-loafers-desk-still-life.webp" alt="Editorial Loafers Desk Still Life" width="360"></a>
+
+> Quiet luxury product still life; swap sock colors.
+
+```text
+Editorial still life photograph, close up at desk height, slightly angled side view. A man's crossed legs in dark tailored trousers rest on a wooden work desk, entering from the left. Polished dark brown leather penny loafers, no logos. Mismatched fine knit socks: left deep red, right deep green. Desk is lightly cluttered: two monitors with blurred candlestick charts pushed aside, keyboard, mouse, document folders, brass desk lamp, charging cable, ceramic coffee cup. Warm expensive office interior: dark walnut wood paneled walls, built-in shelving, warm pendant light, moss green carpet hint. Shoes and socks in sharp focus, shallow depth of field, warm color palette, soft warm lighting, subtle film grain, quiet luxury, calm relaxed mood, high end magazine editorial style, photorealistic. Vertical 3:4. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@rare_glass](https://x.com/rare_glass)
+- Original post: https://x.com/rare_glass/status/2113057778323349868
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/editorial-loafers-desk-still-life?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

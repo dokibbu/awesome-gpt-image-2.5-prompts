@@ -1,6 +1,6 @@
 # 3D Characters & Figurines · GPT Image 2.5
 
-[← README](../README.md) · 111 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 114 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -2081,3 +2081,45 @@ Square 1:1. No brand logos, no watermarks, no real celebrity likeness.
 - Author: [@aleenaamiir](https://x.com/aleenaamiir)
 - Original post: https://x.com/aleenaamiir/status/2013493349156823287
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/edu-diorama-how-solar-panels-make-electricity?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Alien Jellyfish Candy 3D Portrait
+
+<a href="https://cinel.ai/prompts/p/alien-jellyfish-candy-3d-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/alien-jellyfish-candy-3d-portrait.webp" alt="Alien Jellyfish Candy 3D Portrait" width="360"></a>
+
+> Cute-creepy 3D character; swap candy palette.
+
+```text
+Hyper-detailed surreal 3D character portrait of a floating alien-jellyfish girl, front-facing, symmetrical, deep midnight-navy background with tiny floating confetti sparks and glowing particles. Smooth doll-like face with creamy white skin on the lower half and turquoise reptile-scale texture across upper cheeks and eye area, dotted with tiny glossy candy beads in pink, orange, aqua and purple. Large hypnotic eyes with iridescent blue-green irises, dark pink-tinted lids, long lashes. Soft mauve-pink lips. Hair is a thick sculpted mass of glossy squishy tubes and loops in bubblegum pink, aqua blue, coral orange and peach, curled like brain or coral, with bulbous spore-like tips. Long wavy pink and blue tentacle strands hang below like jellyfish arms with glossy syrup drips. Surreal 3D digital sculpture, vinyl toy and soft-clay textures, bioluminescent deep-sea aesthetic, 9:16. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@sabzar_Ai](https://x.com/sabzar_Ai)
+- Original post: https://x.com/sabzar_Ai/status/2115308562398560406
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/alien-jellyfish-candy-3d-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Tetris Block Anatomy Creature
+
+<a href="https://cinel.ai/prompts/p/tetris-block-anatomy-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/tetris-block-anatomy-creature.webp" alt="Tetris Block Anatomy Creature" width="480"></a>
+
+> Abstract 3D creature; avoid brand names on blocks. Swap palette.
+
+```text
+3D render of a colossal creature of interlocking luminous Tetris blocks paused mid-assembly on an empty grid plain, each piece locked into anatomical form, hard shadows stretching into secondary architecture, strong material and lighting control. Square 1:1 composition. No brands, logos, watermarks, or readable text. No brand logos on blocks.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2115156579393945673
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/tetris-block-anatomy-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Gelatin Molar Creature Strut
+
+<a href="https://cinel.ai/prompts/p/gelatin-molar-creature-strut?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/gelatin-molar-creature-strut.webp" alt="Gelatin Molar Creature Strut" width="360"></a>
+
+> Weird cute gelatin character; swap boot color.
+
+```text
+Weird gelatin creature strutting forward: a giant glossy white molar tooth is the whole body, seen from the front, pearlescent enamel, soft rounded shape. A small dark hole on the front of the tooth, from it a pair of simple flat white almond-shaped cartoon eyes with round black pupils peek out, sly sideways glance. Tiny shiny gold halo ring floating above. Two lanky lilac gelatin legs grow from under the tooth, lime jelly knee pads, exaggerated sassy stride, back leg kicked high. Shiny dark plum patent platform boots with lime laces, chunky heels. No arms, torso, face, realistic eyes, eyelids, veins, roots, extra legs, or gums. Vertical 4:5. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@rare_glass](https://x.com/rare_glass)
+- Original post: https://x.com/rare_glass/status/2114341222479253604
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/gelatin-molar-creature-strut?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

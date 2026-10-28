@@ -1,6 +1,6 @@
 # Portrait & Headshot · GPT Image 2.5
 
-[← README](../README.md) · 79 · [Category on cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 92 · [Category on cinel](https://cinel.ai/prompts/portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Olive Velvet Saree High-Fashion Studio Portrait
 
@@ -2062,3 +2062,185 @@ Trendy aesthetic 3×3 photo collage of nine photos of the same fictional young a
 - Author: [@MissDelulu9](https://x.com/MissDelulu9)
 - Original post: https://x.com/MissDelulu9/status/2061724922435760244
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/doodle-blue-sky-nine-grid-collage?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Champagne Gown Grand Staircase Entrance
+
+<a href="https://cinel.ai/prompts/p/staircase-champagne-gown-entrance?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/staircase-champagne-gown-entrance.webp" alt="Champagne Gown Grand Staircase Entrance" width="360"></a>
+
+> Luxury evening couture on a grand staircase; swap gown color or architecture.
+
+```text
+Photorealistic luxury evening fashion photography, elegant bridal couture editorial, cinematic candid aesthetic. Create an image of a woman descending an elegant staircase in a breathtaking champagne-white couture gown featuring an asymmetrical one-shoulder neckline, a sculpted fitted bodice, intricate crystal beadwork, delicate shimmering embellishments, and layers of sheer translucent fabric cascading into a dramatic flowing train. Add a high slit partially revealed beneath the airy overskirt, creating graceful movement as she steps forward in elegant metallic high-heeled sandals. Style her hair in a sophisticated updo with a few loose strands framing her face, complemented by sparkling drop earrings, a delicate statement necklace, and refined bracelets. Capture the full-length figure from a high, diagonal overhead angle as she looks downward with a poised, serene expression. Surround her with dark architectural lines, polished staircase surfaces, and a metallic handrail, emphasizing the contrast between the luminous gown and shadowy setting, realistic fabric textures, subtle film grain, and understated luxury, vertical portrait format 3:4 No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@antrospike](https://x.com/antrospike)
+- Original post: https://x.com/antrospike/status/2115303796578672694
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/staircase-champagne-gown-entrance?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Ivory Lace Mini Dress With Black Cat
+
+<a href="https://cinel.ai/prompts/p/black-cat-ivory-lace-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/black-cat-ivory-lace-editorial.webp" alt="Ivory Lace Mini Dress With Black Cat" width="360"></a>
+
+> Vintage glamour studio portrait with a black cat prop; swap dress fabric or chair.
+
+```text
+Photorealistic luxury fashion editorial, elegant vintage glamour, refined fine-art studio portraiture. Create an image of a woman seated elegantly in an ornate royal-style armchair upholstered in ivory fabric and decorated with elaborate antique-gold carvings. Dress her in a sophisticated ivory lace mini dress with a delicate sweetheart neckline, sheer lace detailing, soft feather trim along the off-the-shoulder sleeves, and a flowing feather accent draped beside her. Add long white satin opera gloves and elegant ivory pointed-toe high heels with thin crisscross ankle laces. Pose her with legs crossed gracefully, holding a small black cat securely and gently on her lap, one gloved hand resting delicately near the cat. Give her a calm, poised expression and direct gaze toward the camera. Style her hair in soft, loose waves. Capture the entire seated figure from a straight-on camera angle, emphasizing the chair's ornate silhouette, luxurious textures, crisp lace details, and the striking contrast between ivory, gold, black, and charcoal gray, vertical portrait format 3:4 No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@antrospike](https://x.com/antrospike)
+- Original post: https://x.com/antrospike/status/2115375520367972555
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/black-cat-ivory-lace-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Golden Organza Petal Couture Studio
+
+<a href="https://cinel.ai/prompts/p/golden-organza-petal-couture?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/golden-organza-petal-couture.webp" alt="Golden Organza Petal Couture Studio" width="360"></a>
+
+> Avant-garde organza petal couture on seamless studio; swap petal color.
+
+```text
+Photorealistic haute couture editorial, avant-garde luxury fashion photography, dreamy fine-art aesthetic. Create an image of a woman posing elegantly in an extraordinary couture gown crafted from layers of translucent golden-yellow and ivory organza. Design the dress with oversized sculptural ruffles that resemble blooming petals, sweeping asymmetrically across the bodice and expanding into a voluminous flowing skirt. Incorporate delicate sheer panels and subtle olive-gold undertones beneath the fabric for depth and contrast. Style her hair in a loose, refined updo with fine wisps floating around her face, and accessorize with intricate gold floral earrings. Position her body at a graceful three-quarter angle, with one shoulder subtly raised and her chin lifted as she looks directly toward the camera with a composed, confident expression. Use a slightly low camera angle, elegant negative space, realistic fabric translucency, exquisite organza textures, creamy highlights, pale butter-yellow tones, and polished luxury magazine aesthetics, vertical portrait format 3:4 No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@antrospike](https://x.com/antrospike)
+- Original post: https://x.com/antrospike/status/2115352876298150353
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/golden-organza-petal-couture?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Black-and-White Chiaroscuro Evening Elegance
+
+<a href="https://cinel.ai/prompts/p/bw-chiaroscuro-evening-elegance?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/bw-chiaroscuro-evening-elegance.webp" alt="Black-and-White Chiaroscuro Evening Elegance" width="360"></a>
+
+> Timeless B&W luxury editorial; swap pose or hair updo.
+
+```text
+Fine-art black-and-white portrait photography, cinematic chiaroscuro, timeless luxury editorial aesthetic. Create an image of a woman in a sophisticated black-and-white fine-art portrait, wearing a minimalist black evening garment with an elegant, understated silhouette. Position her body slightly turned away from the camera, with one bare shoulder visible, while she gently turns her head over her shoulder and gazes upward toward the left with a thoughtful, quietly confident expression. Style her hair in a polished low bun with a few softly swept strands framing the forehead, complemented by delicate understated earrings. Use a close three-quarter composition from slightly below eye level, emphasizing graceful posture and the elegant line of the neck and shoulder. Illuminate one side of her face with a narrow, soft directional light while allowing the opposite side to dissolve into rich shadow. Set her against a seamless charcoal-gray background, with monochrome tonal gradation, subtle film grain, exquisite detail, deep blacks, luminous highlights, and a timeless, contemplative mood, vertical portrait format 3:4 No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@antrospike](https://x.com/antrospike)
+- Original post: https://x.com/antrospike/status/2115269825136034204
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/bw-chiaroscuro-evening-elegance?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Powder Blue Tulle Gown In Misty Meadow
+
+<a href="https://cinel.ai/prompts/p/powder-blue-meadow-tulle-gown?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/powder-blue-meadow-tulle-gown.webp" alt="Powder Blue Tulle Gown In Misty Meadow" width="360"></a>
+
+> Ethereal fairytale fashion in misty grass; swap flower color.
+
+```text
+Dreamy fine-art fashion photography, ethereal fairytale editorial, photorealistic with a soft cinematic finish. Create an image of a woman standing gracefully in a quiet meadow, wearing an enchanting powder-blue couture gown made of layers of translucent tulle, with dramatic oversized puff sleeves, a softly fitted bodice, and a flowing voluminous skirt. She cradles an abundant bouquet of vivid blue ruffled flowers against her chest, creating a striking contrast with the delicate fabric. Arrange her hair in a loose, elegant updo with a few wisps framing her face. Give her a serene, contemplative expression, softly parted lips, and a gentle gaze directed toward the camera. Use a waist-up to three-quarter fashion portrait composition, with tall dried grasses and a pale misty sky in the background. Emphasize intricate flower petals, airy fabric layers, cool blue tones, muted earthy browns, dreamy atmospheric depth, and refined editorial realism, vertical portrait format 3:4 No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@antrospike](https://x.com/antrospike)
+- Original post: https://x.com/antrospike/status/2115258498250322424
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/powder-blue-meadow-tulle-gown?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Emerald Eucalyptus Botanical Beauty
+
+<a href="https://cinel.ai/prompts/p/emerald-eucalyptus-botanical-beauty?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/emerald-eucalyptus-botanical-beauty.webp" alt="Emerald Eucalyptus Botanical Beauty" width="360"></a>
+
+> Minimal botanical beauty; swap leaf species or blouse color.
+
+```text
+Photorealistic botanical beauty editorial, minimalist luxury fashion photography, soft fine-art portraiture. Create an image of a woman in an elegant botanical-inspired fashion portrait, wearing a deep forest-green blouse with a dramatic gathered high neckline, intricate vertical pleats, and softly draped fabric. Position her in a three-quarter profile with her shoulders slightly angled away from the camera while her head turns gently toward the viewer. Give her a serene, contemplative expression with relaxed lips and a subtle, confident gaze. Arrange a delicate eucalyptus branch beside her head, allowing its round, dusty-green leaves to frame the composition naturally. Style her hair in a loose, effortless updo with a few wispy strands falling around her face. Use a smooth sage-green studio backdrop, shallow depth of field, realistic fabric folds, detailed botanical textures, refined natural makeup, and a harmonious palette of muted sage, deep emerald, and warm neutrals for an understated, sophisticated mood, vertical portrait format 3:4 No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@antrospike](https://x.com/antrospike)
+- Original post: https://x.com/antrospike/status/2115247174040830233
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/emerald-eucalyptus-botanical-beauty?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Seaside Travel Smartphone Snapshot
+
+<a href="https://cinel.ai/prompts/p/seaside-travel-smartphone-snapshot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/seaside-travel-smartphone-snapshot.webp" alt="Seaside Travel Smartphone Snapshot" width="360"></a>
+
+> Candid travel phone snapshot; logo stripped from cap. Swap location lighting.
+
+```text
+A real vertical smartphone travel snapshot of a young adult woman in her early 20s at a seaside viewpoint, framed from the top of her plain white baseball cap to the lower waist in a close front-facing medium portrait. She stands or leans near a wall, very close to the camera, at street level. She wears a white ribbed scoop-neck tank top and a lightweight white jacket half-slipped off her shoulders, with visible rib texture, wrinkles, snap-button and zipper details, and a small strip of lower abdomen visible above a white bottom waistband. Her hair is deep black, long, side-tied or in a low side ponytail, falling over the left shoulder with windblown strands around her face. She has a small oval face, soft jawline, natural East Asian features, sheer clean vacation makeup, muted pink-coral lips, and a calm expression with lips closed. Her eyes look gently toward the camera from under the cap brim shadow. Plain white baseball cap with no logos, embroidery, or text. Strong midday sun from the upper left creates hard highlights and cool ocean-reflected shadows. Natural skin texture, slightly imperfect framing, subtle phone compression, deep smartphone depth of field. Avoid plastic skin, studio polish, heavy makeup, exaggerated proportions, app UI, cartoon or CGI style. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@MissDelulu9](https://x.com/MissDelulu9)
+- Original post: https://x.com/MissDelulu9/status/2115357570722566196
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/seaside-travel-smartphone-snapshot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Oversized Sweater In Autumn Pumpkin Patch
+
+<a href="https://cinel.ai/prompts/p/autumn-sweater-pumpkin-patch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/autumn-sweater-pumpkin-patch.webp" alt="Oversized Sweater In Autumn Pumpkin Patch" width="360"></a>
+
+> Moody autumn editorial; swap sweater knit or pumpkin color.
+
+```text
+Moody autumn editorial photography, romantic rustic aesthetic, cinematic fine-art portrait, soft film grain, photorealistic detail.. Create an image of a woman seated gracefully in a rustic autumn pumpkin patch, wearing a flowing ivory knitted sweater dress with intricate open-knit patterns and a cozy high neckline. Her posture is relaxed and slightly turned toward the camera, conveying a quiet, dreamy, introspective mood. Wind gently lifts loose strands of hair across her face as a delicate branch of tiny pale wildflowers crosses the foreground, partially obscuring her features. Surround her with orange and muted green pumpkins, rustic hay bales, a brown plaid blanket, and an antique lantern glowing warmly beside her. Use a shallow depth of field, softly blurred autumn trees, earthy brown and cream tones, cinematic shadows, subtle film grain, and richly detailed natural textures, vertical portrait format 3:4 No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@antrospike](https://x.com/antrospike)
+- Original post: https://x.com/antrospike/status/2115088630347608308
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/autumn-sweater-pumpkin-patch?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Ivory Satin Suit In Antique Library
+
+<a href="https://cinel.ai/prompts/p/ivory-satin-antique-library?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ivory-satin-antique-library.webp" alt="Ivory Satin Suit In Antique Library" width="360"></a>
+
+> Classical oil-painting editorial; swap jewelry or book props.
+
+```text
+Classical oil painting, luxurious vintage editorial portrait, realistic fine-art brushwork, glamorous old-Hollywood aesthetic.. Create an image of an elegant woman seated gracefully on a chair formed by stacks of antique books, wearing a sophisticated ivory satin blazer dress with a deep neckline, delicate pearl necklaces, sparkling bracelets, dangling earrings, and glamorous pointed high heels. One leg crosses elegantly over the other while one hand rests thoughtfully near her cheek, creating a poised, contemplative expression with a hint of vintage sophistication. Surround her with weathered leather-bound books, oversized round eyeglasses, and an ornate antique box draped with cascading pearl strands. Use a nearly black, painterly background, rich brown undertones, luminous cream fabric, realistic folds, expressive oil brushstrokes, and exquisite fine-art detail, vertical portrait format 3:4 No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@antrospike](https://x.com/antrospike)
+- Original post: https://x.com/antrospike/status/2114786640983986381
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ivory-satin-antique-library?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Underwater Peony Beauty Editorial
+
+<a href="https://cinel.ai/prompts/p/underwater-peony-beauty-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/underwater-peony-beauty-editorial.webp" alt="Underwater Peony Beauty Editorial" width="360"></a>
+
+> Ethereal underwater beauty; swap flower species.
+
+```text
+Ethereal underwater fine-art photography, dreamy luxury beauty editorial, photorealistic surrealism. Create an image of a woman floating gracefully just beneath the surface of crystal-clear water, surrounded by oversized pale blush-pink peonies and delicate translucent ivory fabric drifting weightlessly around her shoulders. Arrange soft, flowing strands of hair around her head, blending naturally with the underwater movement. Give her a serene, dreamy expression with slightly parted lips and a relaxed gaze directed toward the camera. Dress her in an elegant sheer ivory gown with intricate lace textures and subtle crystalline embellishments around the neckline. Capture an intimate, straight-on close-up portrait with the rippling water surface visible across the top of the frame. Surround her face with tiny suspended air bubbles and shimmering droplets, while sunlight creates intricate refracted patterns across the scene. Use a harmonious palette of pale aqua, pearl white, champagne, and soft pink, with delicate textures, realistic underwater optics, and an ethereal editorial atmosphere, vertical portrait format 3:4 No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@antrospike](https://x.com/antrospike)
+- Original post: https://x.com/antrospike/status/2115386844028588465
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/underwater-peony-beauty-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Ivory Chiffon Spiral Couture
+
+<a href="https://cinel.ai/prompts/p/ivory-chiffon-spiral-couture?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ivory-chiffon-spiral-couture.webp" alt="Ivory Chiffon Spiral Couture" width="360"></a>
+
+> Romantic couture fantasy; swap chiffon tint.
+
+```text
+Ethereal high-fashion editorial photography, romantic couture fantasy, photorealistic fine-art portraiture. Create an image of a woman standing gracefully in an ethereal couture setting, wearing an elegant ivory strapless gown with a softly sculpted sweetheart bodice. Surround her with enormous flowing ribbons of translucent white chiffon that twist, curl, and spiral through the air, wrapping loosely around her silhouette and cascading into voluminous folds across the foreground. Let the fabric appear weightless, as though suspended by a gentle invisible breeze, creating dramatic sculptural movement without obscuring her face. Style her hair in a simple, loosely gathered updo with a few wisps framing her face. Give her a calm, introspective expression, softly parted lips, and a poised gaze directed toward the camera. Use a centered three-quarter portrait composition, creamy ivory and pale champagne tones, luminous backlighting, realistic silk textures, delicate shadows, and a serene, dreamlike atmosphere, vertical portrait format 3:4 No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@antrospike](https://x.com/antrospike)
+- Original post: https://x.com/antrospike/status/2115322679536542188
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ivory-chiffon-spiral-couture?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Purple Braids Tribal Beauty Portrait
+
+<a href="https://cinel.ai/prompts/p/purple-braids-tribal-beauty?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/purple-braids-tribal-beauty.webp" alt="Purple Braids Tribal Beauty Portrait" width="360"></a>
+
+> Caption-led filled rewrite (thread prompt missing); swap braid color.
+
+```text
+Photorealistic fantasy tribal beauty portrait, 9:16, tight close-up of the face and shoulders, slightly low three-quarter angle. A striking woman looks toward the camera with a calm intense stare. Vivid glowing green eyes with an amber ring, turquoise eyeshadow, pale ice-blue-white porcelain skin, glossy deep crimson lips. Bold jet-black tribal face paint: ring-and-dot motif on forehead, calligraphic strokes across cheekbones and jaw, turquoise arrowhead between brows. Thick long purple and violet braids hang down both sides of her face, laced with thin orange cord and gold beads, black bead-studded straps, a golden leaf feather ornament in one braid. Black leather headband with fire-orange gemstone in antique-gold sunburst mount. Dark tribal collar with black beads, gold filigree, sapphire-blue cabochon. Soft cool blue-gray backdrop. Mystical ceremonial mood, soft frontal key light with warm orange kicker, 100mm macro look, ultra-detailed. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@sabzar_Ai](https://x.com/sabzar_Ai)
+- Original post: https://x.com/sabzar_Ai/status/2114204049998315706
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/purple-braids-tribal-beauty?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Textile Tassel Folk Beauty Editorial
+
+<a href="https://cinel.ai/prompts/p/textile-tassel-folk-beauty?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/textile-tassel-folk-beauty.webp" alt="Textile Tassel Folk Beauty Editorial" width="360"></a>
+
+> Craft-fashion beauty; swap tassel palette.
+
+```text
+Ultra-detailed high-fashion editorial beauty portrait of a young woman with green eyes, close-up, centered, chin resting on one hand, calm direct gaze. Smooth porcelain skin, sleek dark hair pulled back, natural brows, matte dusty-rose nude lips. Playful textile-inspired makeup: turquoise and teal eyeshadow with dotted lashes, tiny embroidered-style flowers in magenta, red, yellow and teal under the eyes and on the cheeks, rhinestone dots on temples. A row of colorful yarn tassels in dusty pink, burnt orange, deep teal, mustard yellow and sage green across the forehead. Oversized handmade earrings of crocheted turquoise flowers, woven medallions and dangling tassels. Chunky knit sweater and scarf in woven stripes of teal, mustard, red, burgundy and cream. Soft blurred grey-blue background. Soft diffused studio lighting, 4:5. No brands, logos, watermarks, or readable text.
+```
+
+- Author: [@sabzar_Ai](https://x.com/sabzar_Ai)
+- Original post: https://x.com/sabzar_Ai/status/2115221001361600566
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/textile-tassel-folk-beauty?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
