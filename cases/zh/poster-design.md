@@ -1,6 +1,6 @@
 # 海报与平面设计 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 67 · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 68 · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 运动员致敬双重曝光拼贴海报提示词
 
@@ -1621,3 +1621,17 @@ Square 1:1 split vintage travel poster of Banff, Canada: the top shows a realist
 - 原作者: [@aiwithlumi](https://x.com/aiwithlumi)
 - 原帖: https://x.com/aiwithlumi/status/2101265866226602262
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/split-real-lowpoly-banff-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 包豪斯角色拼贴海报
+
+<a href="https://cinel.ai/zh/prompts/p/bauhaus-character-collage-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/bauhaus-character-collage-poster.webp" alt="包豪斯角色拼贴海报" width="360"></a>
+
+> 艺术运动海报模板填包豪斯；大标题仅可写 BAUHAUS。
+
+```text
+Create ONE tall vertical illustrated poster about Bauhaus. Playful mid-century children's editorial illustration × contemporary paper-cut collage × 1960s educational poster × kawaii object character design × bold retro souvenir graphics. Oversized friendly central geometric architect mascot occupying 55-70% height, body as container for Bauhaus world: primary red yellow blue shapes, tubular steel chair icons, grid buildings, compass and T-square as selectively googly-eyed props. Dense vertical pyramid composition on warm ivory aged cream paper with fibers. Flat vector-like shapes, cut-paper construction, screenprint texture, restrained shading. Massive chunky retro display title at bottom reading only BAUHAUS in bold condensed block letters with slight black offset shadow. Approximately 2:3 aspect. No photorealism, no 3D CGI, no extra paragraphs of text, no logos, no watermark.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2115289705851879927
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/bauhaus-character-collage-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

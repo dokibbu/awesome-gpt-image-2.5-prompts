@@ -1,6 +1,6 @@
 # 美食饮品 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 223 · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 238 · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 食材悬浮爆炸式美食信息图提示词
 
@@ -3802,3 +3802,213 @@ Square 1:1 hyper-realistic editorial food visual of Indonesian es teler. A tradi
 - 原作者: [@woleswoosh](https://x.com/woleswoosh)
 - 原帖: https://x.com/woleswoosh/status/1994773362875535462
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/floating-es-teler-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 怪诞美食·焦糖布丁
+
+<a href="https://cinel.ai/zh/prompts/p/grotesque-gourmet-creme-brulee?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/grotesque-gourmet-creme-brulee.webp" alt="怪诞美食·焦糖布丁" width="480"></a>
+
+> 可复用模板：替换菜品与怪诞元素。
+
+```text
+crème brûlée with crystalline glass-shard sugar shards, high-end food commercial product photography, the dish presented as a luxurious hero shot on an elegant plate, appetizing and slightly uncanny at the same time, the grotesque detail blending seamlessly and realistically into the food, glossy caramelized sugar crust cracked open to reveal creamy custard, fresh mint garnish and perfect plating, professional studio lighting with soft key light, crisp rim light and subtle reflections, macro lens close-up, shallow depth of field with creamy background blur, clean seamless neutral backdrop, ultra detailed textures, visible moisture and surface sheen, photorealistic, sharp focus, premium advertising campaign look, square 1:1, no text, no logos, no watermark, no blood, no gore
+```
+
+- 原作者: [@ToshiArte](https://x.com/ToshiArte)
+- 原帖: https://x.com/ToshiArte/status/2115186779821080816
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/grotesque-gourmet-creme-brulee?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 高级藏红花烩饭编辑风
+
+<a href="https://cinel.ai/zh/prompts/p/premium-saffron-risotto-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/premium-saffron-risotto-editorial.webp" alt="高级藏红花烩饭编辑风" width="360"></a>
+
+> 源自美食×字体海报；去掉大字保留主视觉。
+
+```text
+Premium photorealistic food editorial vertical poster featuring saffron risotto as the hero subject, luxury commercial food photography. Creamy golden risotto in a shallow ceramic bowl, one spoon lifting a glistening bite with soft steam, micro greens and edible flowers as garnish, refined plating, authentic rice texture, rich saffron color, subtle oil sheen. Soft studio lighting, realistic shadows, shallow depth of field, generous negative space in the upper third, muted warm background, sophisticated restaurant advertising look. Vertical 9:16, ultra-detailed, print-quality, photorealistic. No typography, no logos, no watermarks, no gibberish text, no cartoon styling.
+```
+
+- 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- 原帖: https://x.com/Goodmanprotocol/status/2114946920372466002
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/premium-saffron-risotto-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 生酮AR料理解构盘
+
+<a href="https://cinel.ai/zh/prompts/p/keto-ar-culinary-deconstruction?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/keto-ar-culinary-deconstruction.webp" alt="生酮AR料理解构盘" width="480"></a>
+
+> 将 Gdgtify 2x2 生酮AR模板改成单帧。
+
+```text
+Clean white studio, soft overhead softbox. AR Culinary Deconstruction still life of an avocado egg bowl: textured dark slate base with a clean white plate holding deconstructed primary ingredients — ripe avocado halves, soft-boiled egg, crispy bacon crumbles, microgreens — glossy and photoreal. A 1/12 scale plastic country-chef action figure poses with tiny tongs beside the plate. Background menu box showing the completed dish. Frosted glass spatial UI cards orbiting the plate with a flavor radar chart graphic (illegible abstract marks only). Floating flat graphic steam and herbs. High-end food photography, top-down to 45-degree angle, extremely shallow DOF, hyper-realistic food textures, bright soft diffused lighting, square 1:1. No logos, no readable brand text, no cartoon plastic food.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2114406635397591336
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/keto-ar-culinary-deconstruction?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 麻婆豆腐AR盘
+
+<a href="https://cinel.ai/zh/prompts/p/spicy-mapo-tofu-ar-plate?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/spicy-mapo-tofu-ar-plate.webp" alt="麻婆豆腐AR盘" width="480"></a>
+
+> 将 Gdgtify 冷门辣味料理网格改成单帧。
+
+```text
+Hyper-realistic spicy mapo tofu plated on a dark slate board, glossy chili oil sheen and Sichuan pepper dust, soft porous tofu cubes in rich red sauce, miniature plastic chef figure gripping tongs beside the plate, frosted-glass AR panels orbiting with abstract illegible flavor charts, clean bright soft diffused studio lighting, high-end food photography, 45-degree angle, extremely shallow depth of field, hyper-realistic food textures, subtle reflections on the plate, landscape 3:2. No logos, no readable text, no cartoonish plastic food, no messy clutter.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2115479957828702510
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/spicy-mapo-tofu-ar-plate?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 药剂师香料圣物匣·烤肉串
+
+<a href="https://cinel.ai/zh/prompts/p/apothecary-spice-reliquary-shashlik?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/apothecary-spice-reliquary-shashlik.webp" alt="药剂师香料圣物匣·烤肉串" width="480"></a>
+
+> 药剂师香料匣模板；黑白食谱墙、彩色食物。
+
+```text
+Hyper-realistic 1:1 product photo of an Apothecary Spice Reliquary Diorama for grilled shashlik: U-shaped apothecary shelf box with tiny glass spice jars illusion at desktop scale. Chibi chef mascot in matte PVC holding tongs, food elements glossy-real — charred meat skewers, grilled peppers, spice dust. Background walls with B&W recipe-card typography and ingredient diagrams as abstract illegible marks only. Floor with pop-up spice dust, herb confetti, steam ribbons as paper cut-outs. Figure pours a 2D sauce spiral that becomes a 3D glossy ribbon over the floor. Soft food-photography highlights, no harsh shadows, appetizing miniature realism, square 1:1. No logos, no readable brand or recipe text.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2115115053703938176
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/apothecary-spice-reliquary-shashlik?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 等距迷你拉面店
+
+<a href="https://cinel.ai/zh/prompts/p/isometric-miniature-ramen-shop?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/isometric-miniature-ramen-shop.webp" alt="等距迷你拉面店" width="360"></a>
+
+> 收藏级玩具拉面店；雨夜路边温馨感。
+
+```text
+Isometric miniature diorama of a tiny nighttime ramen shop, crafted like a detailed collectible toy set on a plain soft-gray studio surface. Cutaway shop box: warm orange interior light, four miniature stools at a narrow counter, steaming bowls with soft vapor curls, tiny chopsticks, a small chalkboard menu with illegible miniature marks (no readable brand names), hanging paper lanterns, a bicycle parked outside the shop front, rain-wet asphalt with puddle reflections, a tiny orange tabby cat under the eaves. Stylized 3D toy/miniature aesthetic, clean plastic and painted wood materials, subtle subsurface glow from interior lamps, shallow depth of field, centered isometric three-quarter view, cheerful cozy mood. No logos, no watermark, no real restaurant brands, no readable English brand text, vertical 4:5 composition.
+```
+
+- 原作者: [@Alyssa4aicreate](https://x.com/Alyssa4aicreate)
+- 原帖: https://x.com/Alyssa4aicreate/status/2114152038926032952
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/isometric-miniature-ramen-shop?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 巨构芝士汉堡活动主视觉
+
+<a href="https://cinel.ai/zh/prompts/p/monumental-cheeseburger-campaign-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/monumental-cheeseburger-campaign-hero.webp" alt="巨构芝士汉堡活动主视觉" width="360"></a>
+
+> 3x3汉堡活动单格改写；去掉品牌字体。
+
+```text
+Premium fast-casual burger campaign key visual as a single full-bleed vertical poster tile. Monumental photoreal classic triple cheeseburger as the hero product — identical layer order of bun, melted cheddar, beef patties, lettuce, tomato, pickles, glossy sauce — centered and large, consistent product identity. Background world: neon rainy alley atmosphere with wet reflections, cinematic lighting, bold color grade, surrounding motion suggested by steam and light streaks only. No hand-painted typography, no brand names, no logos, no readable headlines. Ultra-detailed food textures, commercial advertising look, vertical 2:3. No watermark.
+```
+
+- 原作者: [@ou_zhen599](https://x.com/ou_zhen599)
+- 原帖: https://x.com/ou_zhen599/status/2114736657610277087
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/monumental-cheeseburger-campaign-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 郁金香拉花·薄荷绿杯静物
+
+<a href="https://cinel.ai/zh/prompts/p/tulip-latte-mint-mug-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/tulip-latte-mint-mug-still.webp" alt="郁金香拉花·薄荷绿杯静物" width="360"></a>
+
+> 由咖啡馆生活照改写为以杯子为主的静物（无人像）。
+
+```text
+Photorealistic lifestyle product still life of a handmade sage-green ceramic cappuccino cup on a pale stone café tabletop, both hands cropped out — only the rounded mug and saucer fill the frame. Beautifully defined white tulip latte art surrounded by rich golden-brown crema, soft steam rising. Warm natural afternoon sunlight, gentle specular highlights on glaze, muted beige and sage-green palette, soft filmic contrast, ultra-high-resolution photographic realism, shallow depth of field, vertical 4:5. No people, no faces, no jewelry focus, no logos, no watermark, no readable menu text.
+```
+
+- 原作者: [@Kunda623270](https://x.com/Kunda623270)
+- 原帖: https://x.com/Kunda623270/status/2115694114620731616
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/tulip-latte-mint-mug-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 万圣节南瓜咖啡静物
+
+<a href="https://cinel.ai/zh/prompts/p/halloween-pumpkin-coffee-still-life?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/halloween-pumpkin-coffee-still-life.webp" alt="万圣节南瓜咖啡静物" width="480"></a>
+
+> 万圣节静物；骷髅手为道具非真人。
+
+```text
+An illustration features a Halloween-themed still life composition with a blend of autumnal and spooky elements. Color palette dominated by warm oranges, yellows, and browns, contrasted with black and white accents. In the foreground, several pumpkins of varying sizes are clustered together, smooth surfaces reflecting light. Adjacent, a large sunflower with golden petals and a dark center, accompanied by smaller sunflowers and autumn leaves in brown and orange. A white coffee cup is held by a skeletal hand coming up into the scene from behind the pumpkins, adding a macabre touch. The cup contains a latte with intricate latte art, steam rising. Plain white background. Balanced composition, festive and visually appealing. Square 1:1. No logos, no watermark, no readable brand text.
+```
+
+- 原作者: [@heathergreen](https://x.com/heathergreen)
+- 原帖: https://x.com/heathergreen/status/2114009025851658392
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/halloween-pumpkin-coffee-still-life?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 香蕉蛋白奶昔飞溅主视觉
+
+<a href="https://cinel.ai/zh/prompts/p/banana-protein-shake-splash-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/banana-protein-shake-splash-hero.webp" alt="香蕉蛋白奶昔飞溅主视觉" width="360"></a>
+
+> 通用无标罐；去掉源广告品牌痕迹。
+
+```text
+Hyper-realistic product advertisement of an unlabeled protein shake can with yellow and cream design (no brand logos, no readable product names), surrounded by floating banana slices, almonds, and peanuts, dynamic milk splash bursting around the can, glossy condensation droplets on surface, vibrant warm yellow background, high-speed splash photography, ultra-detailed textures, commercial food photography style, dramatic lighting, vertical 4:5. No logos, no watermark, no barcode, no fake nutrition labels with readable text.
+```
+
+- 原作者: [@MohdAdnanA86218](https://x.com/MohdAdnanA86218)
+- 原帖: https://x.com/MohdAdnanA86218/status/2112525598426075184
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/banana-protein-shake-splash-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 悬浮蓝莓松饼
+
+<a href="https://cinel.ai/zh/prompts/p/floating-blueberry-pancakes?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/floating-blueberry-pancakes.webp" alt="悬浮蓝莓松饼" width="480"></a>
+
+> 可复用悬浮美食模板；可换菜与配料。
+
+```text
+A stack of fluffy buttermilk pancakes topped with fresh blueberries and a drizzle of maple syrup, suspended in midair against a clean white isolated background, premium food photography, rich natural surface texture, appetizing detail, realistic fibers and moisture, subtle seasoning, soft studio lighting, crisp natural shadow, dynamic floating composition, commercial advertising aesthetic, sharp focus, high detail, landscape 3:2. No logos, no watermark, no text.
+```
+
+- 原作者: [@promptlabdaily](https://x.com/promptlabdaily)
+- 原帖: https://x.com/promptlabdaily/status/2115253766806995177
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/floating-blueberry-pancakes?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 纯肉饮食迷你牛排立体场景
+
+<a href="https://cinel.ai/zh/prompts/p/carnivore-miniature-steak-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/carnivore-miniature-steak-diorama.webp" alt="纯肉饮食迷你牛排立体场景" width="480"></a>
+
+> 国际纯肉饮食网格模板的单帧。
+
+```text
+Cinematic 16:9 miniature diorama × pop-up book engineering × culinary narrative × tilt-shift macro of a seared ribeye steak: glistening crust, rendered fat, pink medium center, tiny herb sprigs as paper-cut foliage, miniature butcher tools as props, soft warm kitchen light, shallow tilt-shift focus band, hyper-realistic meat texture against crafted paper and wood staging, appetizing and playful. No logos, no readable text, no blood gore, no cartoon plastic meat.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2113636813902352429
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/carnivore-miniature-steak-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 哥特咖啡日出第一人称
+
+<a href="https://cinel.ai/zh/prompts/p/gothic-coffee-sunrise-pov?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/gothic-coffee-sunrise-pov.webp" alt="哥特咖啡日出第一人称" width="480"></a>
+
+> 咖啡作前景锚点；幻想都市背景。
+
+```text
+Cinematic first-person fantasy sunrise: a steaming ceramic coffee cup in sharp foreground on a stone railing, soft vapor curling upward, beyond it a glowing Gothic metropolis with floating islands and a colossal pale moon low on the horizon, warm golden sunrise light mixing with cool blue shadows, ultra-detailed photoreal cup texture, painterly atmospheric haze on the city, epic wide composition, landscape 16:9. No logos on the cup, no watermark, no readable signage.
+```
+
+- 原作者: [@AIPromptoria](https://x.com/AIPromptoria)
+- 原帖: https://x.com/AIPromptoria/status/2111077865726812176
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/gothic-coffee-sunrise-pov?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 悬浮剖面千层蛋糕
+
+<a href="https://cinel.ai/zh/prompts/p/floating-cutaway-layer-cake?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/floating-cutaway-layer-cake.webp" alt="悬浮剖面千层蛋糕" width="480"></a>
+
+> 悬浮蛋糕模板；去掉源帖中文引线标签。
+
+```text
+8K ultra high definition hyper-realistic floating strawberry cream layer cake with a clean vertical cutaway revealing sponge, cream, and fresh strawberry layers, suspended in midair against a soft pastel studio backdrop, premium dessert commercial photography, soft directional light, delicate crumbs and cream texture, appetizing moisture, no callout lines, no ingredient labels, no typography, square 1:1. No logos, no watermark.
+```
+
+- 原作者: [@AlanMalone131](https://x.com/AlanMalone131)
+- 原帖: https://x.com/AlanMalone131/status/2113625735877599488
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/floating-cutaway-layer-cake?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 温暖橙片马克杯马克笔插画
+
+<a href="https://cinel.ai/zh/prompts/p/cozy-orange-mug-marker-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/cozy-orange-mug-marker-illustration.webp" alt="温暖橙片马克杯马克笔插画" width="360"></a>
+
+> 季节饮品温馨静物；手可作道具入画。
+
+```text
+A cozy, modern still-life illustration of a hand holding a dark rust-colored ceramic mug filled with a warm seasonal drink, garnished with two bright orange slices, cinnamon sticks, and fresh evergreen sprigs. The hand and forearm enter from the RIGHT side, palm upward supporting the mug, deep burgundy nail polish, burnt mustard-yellow sleeve with small cream geometric check and dark olive cuff. Soft muted sage green background with scattered translucent cream and pale golden circles suggesting gentle bokeh. Minimal elegant composition with generous negative space, warm autumn-winter colors, tactile handmade charm. Drawn entirely with alcohol art markers on lightly textured paper: bold opaque strokes, visible overlapping color layers, subtle streaking, expressive hand-drawn outlines, imperfect organic edges. Rich rust, burnt orange, burgundy, mustard, forest green, and sage palette. Contemporary editorial illustration, vertical 3:4. No logos, no watermark, no readable text.
+```
+
+- 原作者: [@heathergreen](https://x.com/heathergreen)
+- 原帖: https://x.com/heathergreen/status/2114886547958804844
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/cozy-orange-mug-marker-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

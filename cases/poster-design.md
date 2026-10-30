@@ -1,6 +1,6 @@
 # Posters, Logos & Graphic Design · GPT Image 2.5
 
-[← README](../README.md) · 67 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 68 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sports Tribute Double-Exposure Collage Poster Prompt
 
@@ -1621,3 +1621,17 @@ Square 1:1 split vintage travel poster of Banff, Canada: the top shows a realist
 - Author: [@aiwithlumi](https://x.com/aiwithlumi)
 - Original post: https://x.com/aiwithlumi/status/2101265866226602262
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/split-real-lowpoly-banff-travel-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Bauhaus Character Collage Poster
+
+<a href="https://cinel.ai/prompts/p/bauhaus-character-collage-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/bauhaus-character-collage-poster.webp" alt="Bauhaus Character Collage Poster" width="360"></a>
+
+> Art-movement poster template filled with Bauhaus; chunky title OK as BAUHAUS only.
+
+```text
+Create ONE tall vertical illustrated poster about Bauhaus. Playful mid-century children's editorial illustration × contemporary paper-cut collage × 1960s educational poster × kawaii object character design × bold retro souvenir graphics. Oversized friendly central geometric architect mascot occupying 55-70% height, body as container for Bauhaus world: primary red yellow blue shapes, tubular steel chair icons, grid buildings, compass and T-square as selectively googly-eyed props. Dense vertical pyramid composition on warm ivory aged cream paper with fibers. Flat vector-like shapes, cut-paper construction, screenprint texture, restrained shading. Massive chunky retro display title at bottom reading only BAUHAUS in bold condensed block letters with slight black offset shadow. Approximately 2:3 aspect. No photorealism, no 3D CGI, no extra paragraphs of text, no logos, no watermark.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2115289705851879927
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/bauhaus-character-collage-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

@@ -1,6 +1,6 @@
 # Creative Scenes · GPT Image 2.5
 
-[← README](../README.md) · 127 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 131 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 
@@ -1969,3 +1969,59 @@ Photorealistic cinematic view of an enormous tennis racket standing as a forest,
 - Author: [@RealLeeForest](https://x.com/RealLeeForest)
 - Original post: https://x.com/RealLeeForest/status/2115201881169445008
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/tennis-racket-vine-canopy?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Motorcycle Tsunami Coastal Keyframe
+
+<a href="https://cinel.ai/prompts/p/motorcycle-tsunami-coastal-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/motorcycle-tsunami-coastal-keyframe.webp" alt="Motorcycle Tsunami Coastal Keyframe" width="480"></a>
+
+> Still keyframe rewritten from Seedance/Runway 15s video escape template.
+
+```text
+Ultra-photorealistic cinematic still keyframe: a scarlet superbike tears along a tropical coastal highway at ferocious speed, rider crouched low in anonymous dark gear with visor down (no face likeness, no logos). An immense turquoise tsunami breaks through the waterfront immediately beside the rider, towering moving sea wall filling half the frame, spray and debris frozen midair. Low tracking camera almost against the asphalt, motion-blurred road texture, sharp focus on bike and wave crest, dramatic side light, high dynamic range, landscape 16:9. No cuts implied, no text, no logos, no readable plates, no celebrity likeness.
+```
+
+- Author: [@umesh_ai](https://x.com/umesh_ai)
+- Original post: https://x.com/umesh_ai/status/2115371979238990137
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/motorcycle-tsunami-coastal-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Motorcycle Island Chain Tsunami Keyframe
+
+<a href="https://cinel.ai/prompts/p/motorcycle-island-tsunami-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/motorcycle-island-tsunami-keyframe.webp" alt="Motorcycle Island Chain Tsunami Keyframe" width="480"></a>
+
+> Second umesh escape variant; still keyframe of island chain disaster.
+
+```text
+Ultra-photorealistic cinematic still keyframe of a motorcycle escape through a chain of white limestone islands as a vast turquoise tsunami tears their connecting waterfront apart. Anonymous adult rider in dark gear, bike near peak speed on a narrow causeway, eight disaster elements frozen in frame — collapsing pier, pulled cables, shattered seawall, lifted empty ferry — all missing the bike by tiny visible margins. Camera high three-quarter pursue angle revealing ocean panorama and cracked island crossing behind the rear tire. Dramatic sunlight, ultra-sharp spray detail, landscape 16:9. No text, no logos, no readable plates, no face likeness.
+```
+
+- Author: [@umesh_ai](https://x.com/umesh_ai)
+- Original post: https://x.com/umesh_ai/status/2115431880594227646
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/motorcycle-island-tsunami-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Taipei Rooftop Planet Afternoon
+
+<a href="https://cinel.ai/prompts/p/taipei-rooftop-planet-afternoon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/taipei-rooftop-planet-afternoon.webp" alt="Taipei Rooftop Planet Afternoon" width="480"></a>
+
+> Game-scene Midjourney prompt; figure from behind OK, no face.
+
+```text
+humid Taipei rooftop in late afternoon after rain, corrugated tin shacks, rusted water tanks, potted plants, laundry lines with everyday clothes, wet concrete reflecting soft warm window light, lone figure seen from behind sitting on the ledge reading a handwritten letter, enormous pale icy planet hanging low over the hazy skyline, fine drizzle, gentle volumetric haze, painterly stylized 3D, subtle ink wash texture, muted teal and amber, quiet melancholic mood, cinematic wide shot, no neon, no cyberpunk, landscape 16:9. No logos, no readable text on signs.
+```
+
+- Author: [@haomaaax](https://x.com/haomaaax)
+- Original post: https://x.com/haomaaax/status/2115261737767510471
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/taipei-rooftop-planet-afternoon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Antique Study Miniature City
+
+<a href="https://cinel.ai/prompts/p/antique-study-miniature-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/antique-study-miniature-city.webp" alt="Antique Study Miniature City" width="360"></a>
+
+> City physically built inside room; warm golden light.
+
+```text
+Ultra-detailed photorealistic miniature diorama of an entire city contained inside a luxurious antique study. Complete intricately constructed miniature metropolis with skyscrapers, roads, bridges, tiny vehicles, parks, and pedestrians, surrounded by towering dark wooden bookshelves, antique globes, brass telescopes, framed historical maps with illegible marks only, ornate Persian rugs, carved furniture, and a magnificent crystal chandelier. Warm golden lighting and soft daylight. Wide-angle slightly elevated viewpoint balancing miniature city in foreground/midground with elaborate antique interior behind. Rich walnut wood, antique gold, deep burgundy, cinematic shadows, realistic scale contrast, museum-quality craftsmanship. The city must look physically built inside the room, not floating. Vertical 4:5. No logos, no readable text on maps or books.
+```
+
+- Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- Original post: https://x.com/Goodmanprotocol/status/2114363628715663450
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/antique-study-miniature-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

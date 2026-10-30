@@ -1,6 +1,6 @@
 # 插画与动漫 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 101 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 103 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 极简黑白线稿人物插画提示词
 
@@ -1504,3 +1504,31 @@ Hyper-detailed cyberpunk pop-art portrait of a stylish young woman with cool aqu
 - 原作者: [@sabzar_Ai](https://x.com/sabzar_Ai)
 - 原帖: https://x.com/sabzar_Ai/status/2115401148618428816
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/teal-crimson-cyberpunk-pop-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 云中村落双重曝光
+
+<a href="https://cinel.ai/zh/prompts/p/cloud-village-double-exposure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/cloud-village-double-exposure.webp" alt="云中村落双重曝光" width="360"></a>
+
+> 思绪漂移提示分享；撕纸拼贴质感。
+
+```text
+Surreal double-exposure collage of one broad glowing cloud drifting above a moonlit bay. Inside its translucent silhouette sits a tiny seaside village with three warmly lit houses and a small silver train curling between them. Torn-paper edges, translucent color layers, pearly highlights, and visible handmade collage textures in lilac, blue, and cream. Keep the cloud large and the surroundings spacious. Portrait 3:4, no readable text, no logos, no watermark.
+```
+
+- 原作者: [@RenRose321](https://x.com/RenRose321)
+- 原帖: https://x.com/RenRose321/status/2115227167994863801
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/cloud-village-double-exposure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 秋日狐狸双重曝光
+
+<a href="https://cinel.ai/zh/prompts/p/autumn-fox-double-exposure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/autumn-fox-double-exposure.webp" alt="秋日狐狸双重曝光" width="480"></a>
+
+> 经典双重曝光野生动物×季节模板。
+
+```text
+A surreal double exposure profile silhouette of a red fox, the inside of the silhouette revealing a fiery autumn forest at sunset with falling leaves, stark white background, highly visual, sharp silhouette edge, cinematic color, landscape 3:2. No text, no logos, no watermark.
+```
+
+- 原作者: [@darthjav](https://x.com/darthjav)
+- 原帖: https://x.com/darthjav/status/2113757124945928587
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/autumn-fox-double-exposure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

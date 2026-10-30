@@ -1,6 +1,6 @@
 # Illustration & Anime · GPT Image 2.5
 
-[← README](../README.md) · 101 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 103 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -1504,3 +1504,31 @@ Hyper-detailed cyberpunk pop-art portrait of a stylish young woman with cool aqu
 - Author: [@sabzar_Ai](https://x.com/sabzar_Ai)
 - Original post: https://x.com/sabzar_Ai/status/2115401148618428816
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/teal-crimson-cyberpunk-pop-portrait?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Cloud Village Double Exposure
+
+<a href="https://cinel.ai/prompts/p/cloud-village-double-exposure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/cloud-village-double-exposure.webp" alt="Cloud Village Double Exposure" width="360"></a>
+
+> Let Thoughts Drift prompt share; torn-paper collage textures.
+
+```text
+Surreal double-exposure collage of one broad glowing cloud drifting above a moonlit bay. Inside its translucent silhouette sits a tiny seaside village with three warmly lit houses and a small silver train curling between them. Torn-paper edges, translucent color layers, pearly highlights, and visible handmade collage textures in lilac, blue, and cream. Keep the cloud large and the surroundings spacious. Portrait 3:4, no readable text, no logos, no watermark.
+```
+
+- Author: [@RenRose321](https://x.com/RenRose321)
+- Original post: https://x.com/RenRose321/status/2115227167994863801
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/cloud-village-double-exposure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Autumn Fox Double Exposure
+
+<a href="https://cinel.ai/prompts/p/autumn-fox-double-exposure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/autumn-fox-double-exposure.webp" alt="Autumn Fox Double Exposure" width="480"></a>
+
+> Classic double-exposure wildlife×season template.
+
+```text
+A surreal double exposure profile silhouette of a red fox, the inside of the silhouette revealing a fiery autumn forest at sunset with falling leaves, stark white background, highly visual, sharp silhouette edge, cinematic color, landscape 3:2. No text, no logos, no watermark.
+```
+
+- Author: [@darthjav](https://x.com/darthjav)
+- Original post: https://x.com/darthjav/status/2113757124945928587
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/autumn-fox-double-exposure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

@@ -13,20 +13,20 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-精选 **817** 条 GPT Image 2.5 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示词库，自动同步更新。
+精选 **847** 条 GPT Image 2.5 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示词库，自动同步更新。
 
 👉 [在 cinel.ai 浏览全部并在线生成](https://cinel.ai/zh/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ## 目录
 
 - [人像写真](#portrait) (92) · [全部](cases/zh/portrait.md)
-- [产品与电商](#product-photography) (53) · [全部](cases/zh/product-photography.md)
-- [海报与平面设计](#poster-design) (67) · [全部](cases/zh/poster-design.md)
+- [产品与电商](#product-photography) (61) · [全部](cases/zh/product-photography.md)
+- [海报与平面设计](#poster-design) (68) · [全部](cases/zh/poster-design.md)
 - [信息图与 UI](#infographic-ui) (40) · [全部](cases/zh/infographic-ui.md)
 - [3D 角色与手办](#3d-figurines) (114) · [全部](cases/zh/3d-figurines.md)
-- [美食饮品](#food-drink) (223) · [全部](cases/zh/food-drink.md)
-- [插画与动漫](#illustration-anime) (101) · [全部](cases/zh/illustration-anime.md)
-- [创意场景](#scenes-creative) (127) · [全部](cases/zh/scenes-creative.md)
+- [美食饮品](#food-drink) (238) · [全部](cases/zh/food-drink.md)
+- [插画与动漫](#illustration-anime) (103) · [全部](cases/zh/illustration-anime.md)
+- [创意场景](#scenes-creative) (131) · [全部](cases/zh/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -307,7 +307,35 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 ## 产品与电商
 
-精选 6 条 · [查看本类全部 53 条](cases/zh/product-photography.md) · [cinel 分类页](https://cinel.ai/zh/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 61 条](cases/zh/product-photography.md) · [cinel 分类页](https://cinel.ai/zh/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 针织云纱雨
+
+<a href="https://cinel.ai/zh/prompts/p/knitted-cloud-yarn-rain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/knitted-cloud-yarn-rain.webp" alt="针织云纱雨" width="480"></a>
+
+> 工艺材料气象模板；去掉手写签名。
+
+```text
+Create a premium square handmade surreal editorial photograph of a pearl-white knitted cloud entirely reimagined using yarn craft: the cloud rains cobalt yarn that becomes an embroidered puddle on ivory linen. Keep source, motion and final trace materially coherent. Macro fibers, refined stitches, realistic shadows and soft side light. Clean composition, no people or extra props. Square 1:1. No handwritten signature, no logos, no watermark.
+```
+
+- 原作者: [@ksa8Turky](https://x.com/ksa8Turky)
+- 原帖: https://x.com/ksa8Turky/status/2115190047372919113
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/knitted-cloud-yarn-rain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### ESC键帽内的海洋
+
+<a href="https://cinel.ai/zh/prompts/p/ocean-inside-escape-keycap?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/ocean-inside-escape-keycap.webp" alt="ESC键帽内的海洋" width="480"></a>
+
+> 日常物体内容纳不可能的迷你世界；无签名。
+
+```text
+Create a square surreal editorial macro photograph of a transparent glass ESC keyboard key, translating its everyday function into one impossible miniature world contained inside it: an ocean and one tiny sailboat. Convincing refraction, tactile materials, navy shadows, warm inner light and clean composition. No people or extra objects. Square 1:1. No handwritten signature, no logos, no watermark.
+```
+
+- 原作者: [@ksa8Turky](https://x.com/ksa8Turky)
+- 原帖: https://x.com/ksa8Turky/status/2114706863522517229
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/ocean-inside-escape-keycap?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 九宫格产品样机分镜提示词
 
@@ -490,39 +518,25 @@ Using the attached image, create an illustration sheet of professional industria
 - 原帖: https://x.com/noorwithwifi/status/2039679180775063573
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/industrial-packaging-design-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-### 俯拍产品平铺：食材环绕与水花飞溅提示词
-
-<a href="https://cinel.ai/zh/prompts/p/top-down-flat-lay-ingredients-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/top-down-flat-lay-ingredients-product-shot.webp" alt="俯拍产品平铺：食材环绕与水花飞溅提示词" width="480"></a>
-
-> 只有产品和食材两个空，是灵感库里复用性最强的产品提示词之一。它把居中俯拍平铺和定格水花结合在一起，这很少见：水花通常是侧拍，从正上方看，它变成一圈环绕产品的液体画框。标签上的水珠、暖米色背景和方向性阳光增添了清新感。我们用冷压橙汁搭配橙子和薄荷，成品一眼就是果汁广告。注意原文仍写着“高端护肤品广告”，请把这句改成你的品类（饮料、食品、美妆），道具和光线会更贴切。
-
-```text
-A glass bottle of cold-pressed orange juice, centered top down flat lay, surrounded by oranges and fresh mint leaves, fresh slices and whole pieces, glossy wet look, water splash frozen mid motion around the product, dewy droplets on label and surface, warm beige seamless background, soft directional sunlight, crisp realistic shadow, high end skincare advertising, ultra realistic macro product photography, 100mm lens look, f/8 sharp focus, clean composition, no extra text, 8k, 1:1
-```
-
-- 原作者: [@azed_ai](https://x.com/azed_ai)
-- 原帖: https://x.com/azed_ai/status/2015423674061643925
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/top-down-flat-lay-ingredients-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 纹理台面俯拍高级产品图提示词
-
-<a href="https://cinel.ai/zh/prompts/p/top-down-textured-surface-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/top-down-textured-surface-product-shot.webp" alt="纹理台面俯拍高级产品图提示词" width="480"></a>
-
-> 比水花平铺安静得多，这个模板依靠质感和光线。产品平放在石材、沙、亚麻或盐等材质上；台面“被轻轻扰动，暗示刚刚有过动作或互动”——这个细微线索让场景感觉被人触碰过，而不是软件摆出来的。左上方的阳光投下温暖的长影，提示词还为搭配道具留了位置。用琥珀色精华油滴管瓶、洞石台面、干花和折叠亚麻布，我们的成品就像护肤品牌的杂志大片。模型自己编了一个标签（Radiant Face Oil），请写明你的标签文字，或要求瓶身无标签。
-
-```text
-A high-end editorial photo of a amber glass face-oil bottle with a dropper placed flat on a travertine stone slab, captured from a direct top-down view. The surface is gently disturbed to suggest recent motion or interaction. The front of the product is fully visible and properly oriented upright. The area around the product is intentionally left open to optionally place dried flowers and a folded linen cloth that visually enhance the scene. Natural sunlight from the upper left casts warm, realistic shadows. 3D realism, luxury product photography, shallow depth of field, 1:1 format.
-```
-
-- 原作者: [@Kerroudjm](https://x.com/Kerroudjm)
-- 原帖: https://x.com/Kerroudjm/status/2008559850968473671
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/top-down-textured-surface-product-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
 <a id="poster-design"></a>
 
 ## 海报与平面设计
 
-精选 6 条 · [查看本类全部 67 条](cases/zh/poster-design.md) · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 68 条](cases/zh/poster-design.md) · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 包豪斯角色拼贴海报
+
+<a href="https://cinel.ai/zh/prompts/p/bauhaus-character-collage-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/bauhaus-character-collage-poster.webp" alt="包豪斯角色拼贴海报" width="360"></a>
+
+> 艺术运动海报模板填包豪斯；大标题仅可写 BAUHAUS。
+
+```text
+Create ONE tall vertical illustrated poster about Bauhaus. Playful mid-century children's editorial illustration × contemporary paper-cut collage × 1960s educational poster × kawaii object character design × bold retro souvenir graphics. Oversized friendly central geometric architect mascot occupying 55-70% height, body as container for Bauhaus world: primary red yellow blue shapes, tubular steel chair icons, grid buildings, compass and T-square as selectively googly-eyed props. Dense vertical pyramid composition on warm ivory aged cream paper with fibers. Flat vector-like shapes, cut-paper construction, screenprint texture, restrained shading. Massive chunky retro display title at bottom reading only BAUHAUS in bold condensed block letters with slight black offset shadow. Approximately 2:3 aspect. No photorealism, no 3D CGI, no extra paragraphs of text, no logos, no watermark.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2115289705851879927
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/bauhaus-character-collage-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 运动员致敬双重曝光拼贴海报提示词
 
@@ -706,140 +720,11 @@ Render engine: Octane Render or Redshift — physically accurate subsurface scat
 - 原帖: https://x.com/AmirMushich/status/2043381172646920237
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/y2k-chrome-3d-type-streetwear-logo?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-### 餐饮品牌触点矩阵 VI 样机展示板提示词
-
-<a href="https://cinel.ai/zh/prompts/p/restaurant-brand-identity-mockup-board?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/restaurant-brand-identity-mockup-board.webp" alt="餐饮品牌触点矩阵 VI 样机展示板提示词" width="360"></a>
-
-> 这个中文模板就像一份交给设计公司的需求单。必填只有两项：品牌名和经营类目；主打产品、口号、风格、配色、客群、价格、地域风格等选填项留空时会自动推导。随后它规定了物料层级：大号袋子和盒子做视觉锚点，菜单和海报负责信息，贴纸、纸巾、餐具补足完整度。我们填入了虚构的手工拉面品牌“山野面馆”，暖米白配番茄红与竹青，得到一张统一的展示板：面碗、外卖袋、纸杯、菜单和价格牌一应俱全。价格和菜单文字由模型生成，使用前请换成你自己的。
-
-```text
-生成一张餐饮品牌触点矩阵系列视觉图，用于展示一个完整的餐饮品牌视觉系统与包装应用方案。
-
-这是一个面向餐饮行业的品牌VI样机展示板 / 包装系统陈列图 / 品牌提案页。画面不是单张宣传海报，而是将品牌主视觉、主打产品、包装物料、菜单信息、促销内容与小型延展物料整合成一张系统化品牌展示图。
-
-【用户输入信息】
-- 品牌名：山野面馆
-- 经营类目：手工拉面
-
-【可选补充信息】
-- 主打产品：番茄牛腩拉面
-- 品牌口号：一碗慢火，一口山野
-- 风格方向：新中式清新
-- 主色调：暖米白
-- 辅助色：番茄红与竹青
-- 客群定位：城市年轻上班族
-- 价格定位：平价
-- 地域风格：西北
-- 画幅比例：3:4
-
-【自动补全规则】
-如果用户没有提供完整品牌信息，请根据【品牌名】与【经营类目】自动推导并完成最优组合，包括：
-1. 判断品牌调性（年轻、亲和、国潮、复古、清新、治愈、精致、快餐感等）
-2. 匹配适合该类目的视觉风格
-3. 自动设定合理的主色、辅助色与点缀色
-4. 自动补全主打产品与辅助产品
-5. 自动生成适合餐饮传播的品牌口号、卖点文案、价格信息与推荐标签
-6. 自动匹配合适的餐饮物料类型与展示内容
-
-【画面内容要求】
-画面中应围绕【品牌名】构建一整套餐饮品牌物料系统，包含但不限于以下内容：
-- 核心包装：手提袋、外卖袋、包装盒、打包盒、纸袋、塑料袋
-- 饮品 / 食品容器：纸杯、杯套、碗、餐盒、封口贴、标签
-- 信息传播物料：菜单、促销海报、价格牌、桌牌、立牌、小卡片
-- 小型品牌延展：贴纸、徽章、纸巾、餐具、包装封条、吊牌
-- 产品表现：主打餐品照片、单品主视觉、食物特写、切面图、推荐组合图
-
-【构图与版式要求】
-采用竖版【画幅比例】构图，整体为白色、米白色或浅灰色背景，以品牌提案板 / 样机矩阵板的方式组织画面。
-通过大中小物料混排形成视觉层级：
-- 大型包装和主视觉物料作为视觉锚点
-- 中型菜单、海报和价格模块负责信息传达
-- 小型贴纸、餐具、标签与周边物料增强系统完整度
-
-整体构图应具有明确秩序感，接近品牌方案展示页、作品集陈列页、包装提案页的视觉效果。元素要排列整齐但不呆板，丰富但不杂乱，具有模块化与可阅读性。
-
-【风格与质感要求】
-整体风格应符合【经营类目】与【品牌名】气质，具有明显的餐饮品牌感、商业传播感、样机展示感与系统设计感。
-可融合以下风格倾向：现代简洁、国潮趣味、轻复古、生活方式感、快消感、温暖治愈感、年轻化传播感。
-材质真实，包含纸张、塑料、布袋、包装盒、杯体、贴纸、餐具等真实物料质感；光影柔和统一，像在干净摄影棚环境中拍摄的品牌物料合集。
-
-【文字与图形要求】
-所有物料上应统一出现品牌名、Logo、品牌符号、主色块、口号或卖点文案。
-文案可为中文或中英混排，但要符合餐饮传播表达，简洁直接，具备商品售卖感。
-图形系统可以根据品牌调性选择简洁插画、几何图形、卡通吉祥物、符号化图标或辅助纹样，用于增强品牌记忆点。
-
-【输出目标】
-最终生成一张完整的【品牌名】餐饮品牌视觉系统展示图，像设计团队为该餐饮品牌制作的整套品牌提案样机板。
-要求画面统一、精致、具备商业落地感与作品集展示质量，并能清楚体现品牌风格、主打类目与多触点包装延展能力。
-
-Make the aspect ratio 9:16
-```
-
-- 原作者: [@MrLarus](https://x.com/MrLarus)
-- 原帖: https://x.com/MrLarus/status/2048360321379701233
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/restaurant-brand-identity-mockup-board?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
 <a id="infographic-ui"></a>
 
 ## 信息图与 UI
 
 精选 6 条 · [查看本类全部 40 条](cases/zh/infographic-ui.md) · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 奥术像素RPG道具网格
-
-<a href="https://cinel.ai/zh/prompts/p/pixel-rpg-items-arcane-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-rpg-items-arcane-grid.webp" alt="奥术像素RPG道具网格" width="480"></a>
-
-> 平面2D像素RPG道具精灵表（30个独特arcane主题道具）白底网格。
-
-```text
-A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a arcane theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
-```
-
-- 原作者: [@johnsavage_ai](https://x.com/johnsavage_ai)
-- 原帖: https://x.com/johnsavage_ai/status/1991958964813148541
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-rpg-items-arcane-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 沼泽像素RPG道具网格
-
-<a href="https://cinel.ai/zh/prompts/p/pixel-rpg-items-swamp-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-rpg-items-swamp-grid.webp" alt="沼泽像素RPG道具网格" width="480"></a>
-
-> 平面2D像素RPG道具精灵表（30个独特swamp主题道具）白底网格。
-
-```text
-A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a swamp theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
-```
-
-- 原作者: [@johnsavage_ai](https://x.com/johnsavage_ai)
-- 原帖: https://x.com/johnsavage_ai/status/1991958964813148541
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-rpg-items-swamp-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 蒸汽朋克像素RPG道具网格
-
-<a href="https://cinel.ai/zh/prompts/p/pixel-rpg-items-steampunk-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-rpg-items-steampunk-grid.webp" alt="蒸汽朋克像素RPG道具网格" width="480"></a>
-
-> 平面2D像素RPG道具精灵表（30个独特steampunk主题道具）白底网格。
-
-```text
-A flat 2D pixel art sprite sheet containing 30 unique fantasy RPG items. The items follow a steampunk theme. High-quality 32-bit retro game style. The items are arranged in a neat grid with spacing between them, isolated on a pure white background. No overlapping items, high variety, distinct silhouettes. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
-```
-
-- 原作者: [@johnsavage_ai](https://x.com/johnsavage_ai)
-- 原帖: https://x.com/johnsavage_ai/status/1991958964813148541
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-rpg-items-steampunk-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 像素RPG宇宙精灵表
-
-<a href="https://cinel.ai/zh/prompts/p/pixel-rpg-universe-sprite-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-rpg-universe-sprite-sheet.webp" alt="像素RPG宇宙精灵表" width="480"></a>
-
-> 根据热帖要点重建的英文提示词：连贯10×10（100素材）RPG像素精灵表（原帖写“prompt👇”但无可粘贴正文）。
-
-```text
-Create a coherent fantasy RPG universe as a single 10x10 pixel-art sprite sheet with exactly 100 assets. Theme: moonlit woodland kingdom. Include a mix of playable adventurers, forest mobs, weapons, potions, loot bags, and environmental props that all share one visual style and muted teal-and-gold palette. Flat 2D game-asset sheet on a clean light background, neat equal grid cells, no overlapping, distinct silhouettes, high-quality retro pixel art. Square 1:1. No brand logos, no watermarks, no real celebrity likeness, no copyrighted game IP.
-```
-
-- 原作者: [@givros](https://x.com/givros)
-- 原帖: https://x.com/givros/status/2049883610136600939
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-rpg-universe-sprite-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D 国家旅行指南地图信息图提示词
 
@@ -881,6 +766,92 @@ Output: 1080×1080, ultra-crisp, social-feed optimized.
 - 原作者: [@TechieBySA](https://x.com/TechieBySA)
 - 原帖: https://x.com/TechieBySA/status/2017928823497453789
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/isometric-technical-infographic-annotated-object?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 3×3 网格触感 3D 图标套组提示词
+
+<a href="https://cinel.ai/zh/prompts/p/tactile-3d-icon-set-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/tactile-3d-icon-set-grid.webp" alt="3×3 网格触感 3D 图标套组提示词" width="480"></a>
+
+> 不到 50 个单词，是灵感库里最短的提示词之一。它之所以好用，是因为只规定了关键的东西：一个主题、3×3 网格、白底、“彩色且有触感的 3D”质感、不要文字。后面那串列表其实是作者给出的示例主题，并不属于指令本身。我们用“露营”主题时把列表留在了原文里，结果模型把它们混在一起：背包小狗、下雪的一月日历、香蕉和小猫，与帐篷、篝火排在一起。这正好说明：删掉列表，只写一个主题，才能得到风格统一、可直接用于贴纸、应用空状态或幻灯片的一套图标。
+
+```text
+Create a collection of icons representing a cozy camping trip, they belong together as a single theme. Put them in a 3x3 grid. The background is white. Make the icons in a colorful and tactile 3D style. No text.
+
+- dogs with different emotions
+- bananas
+- January
+- the same cat in different emotions
+```
+
+- 原作者: [@NanoBanana](https://x.com/NanoBanana)
+- 原帖: https://x.com/NanoBanana/status/2009660363227152653
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/tactile-3d-icon-set-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 实拍物品叠加技术草图标注信息图提示词
+
+<a href="https://cinel.ai/zh/prompts/p/photo-with-technical-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/photo-with-technical-annotation-infographic.webp" alt="实拍物品叠加技术草图标注信息图提示词" width="480"></a>
+
+> 它和“等距技术拆解”是姊妹模板，但有一个重要区别：严格只用白底黑墨，没有点缀色。这个限制让成品更安静，更像一本工程笔记。叠加内容清单（部件标签、爆炸图轮廓、尺寸、材料标注、流向箭头）足够宽泛，几乎适用于任何物品。用陶瓷茶壶测试，模型画出了显示蒸汽与水的剖面图、壶盖—滤网—壶身的爆炸图和材料说明框；但也出现了拼写错误（heat reistant）和略显伪科学的流向图，小字标注请务必校对。功能清晰的日常物品——水壶、自行车、相机——最适合。
+
+```text
+Create an infographic image of a ceramic teapot, combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.
+
+Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:
+•Key component labels
+•Internal cutaway or exploded-view outlines
+•Measurements, dimensions, and scale markers
+•Material callouts and quantities
+•Arrows indicating function, force, or flow (air, sound, power, pressure)
+•Simple schematic or sectional diagrams where relevant
+
+Place the title a ceramic teapot inside a hand-drawn technical annotation box in one corner.
+
+Style & layout rules:
+•The real object remains clearly visible beneath the annotations
+•Annotations feel sketched, technical, and architectural
+•Clean composition with balanced negative space
+•Educational, museum-exhibit / engineering-manual vibe
+
+Visual style:
+Minimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.
+
+Color palette:
+White background, black annotation lines and text only. No colors.
+
+Output:
+1080×1080, ultra-crisp, social-feed optimized, no watermark.
+```
+
+- 原作者: [@TechieBySA](https://x.com/TechieBySA)
+- 原帖: https://x.com/TechieBySA/status/2013316513701216688
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/photo-with-technical-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 地标实景照片 + 蓝图标注提示词
+
+<a href="https://cinel.ai/zh/prompts/p/landmark-blueprint-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/landmark-blueprint-annotation-infographic.webp" alt="地标实景照片 + 蓝图标注提示词" width="480"></a>
+
+> 这个一段话的模板，靠一个“反转”获得了独特的观感：不是白底黑线，而是在真实照片上画白色粉笔风格的蓝图草图，让地标和天空在图解背后依然可见。叠加内容清单——尺寸、材料用量、内部结构图、受力流向箭头、剖面图、平面图——把画面填得像一块建筑师的展示板。我们的荷兰风车示例，在金色时刻的写实风车周围排布了立面图、风帆细节、“工作原理”流程和楼层平面图。图中数字是编造的，还有一个单位不对（茅草用了立方米），除非核实过，否则只把数据当作装饰。
+
+```text
+Create an infographic image of a traditional Dutch windmill, combining a real photograph of the landmark with blueprint-style technical annotations and diagrams overlaid on the image. Include the title “a traditional Dutch windmill” in a hand-drawn box in the corner. Add white chalk-style sketches showing key structural data, important measurements, material quantities, internal diagrams, load-flow arrows, cross-sections, floor plans, and notable architectural or engineering features. Style: blueprint aesthetic with white line drawings on the photograph, technical/architectural annotation style, educational infographic feel, with the real environment visible behind the annotations.
+```
+
+- 原作者: [@TechieBySA](https://x.com/TechieBySA)
+- 原帖: https://x.com/TechieBySA/status/2007523056822939698
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/landmark-blueprint-annotation-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 产品内部结构爆炸图广告提示词
+
+<a href="https://cinel.ai/zh/prompts/p/exploded-product-inner-mechanics-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/exploded-product-inner-mechanics-ad.webp" alt="产品内部结构爆炸图广告提示词" width="480"></a>
+
+> 爆炸图用 3D 软件做成本很高，这条短提示词却能做得相当接近。关键短语是“外壳悬浮在核心上方”“微型螺丝和零件悬停”“隐含完美对齐参考线”，它们一起告诉模型沿同一轴线垂直分离各层，画面因此井然有序而不是一团乱。相机语言（100mm、f/8）保证所有部件都清晰。我们的机械键盘示例，把键帽、轴体、定位板、PCB、消音棉和外壳完美地垂直排开，角落里飘着细小的螺丝。键盘、耳机、手表、音箱这类层次分明的产品效果最好。注意方括号插在句子中间，填写时要保证语法通顺。
+
+```text
+Create an exploded products with inner mechanics of a mechanical keyboard, high-end product advertising, white seamless background, exploded view with inner mechanics revealed, outer shell hovering above core, micro screws and components suspended, perfect alignment guides implied, crisp soft shadow, ultra realistic, macro product photography, 100mm lens look, f/8, 8k, 1:1
+```
+
+- 原作者: [@azed_ai](https://x.com/azed_ai)
+- 原帖: https://x.com/azed_ai/status/2010350005870276897
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/exploded-product-inner-mechanics-ad?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 <a id="3d-figurines"></a>
 
@@ -1075,404 +1046,111 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## 美食饮品
 
-精选 6 条 · [查看本类全部 223 条](cases/zh/food-drink.md) · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 238 条](cases/zh/food-drink.md) · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-### 食材悬浮爆炸式美食信息图提示词
+### 怪诞美食·焦糖布丁
 
-<a href="https://cinel.ai/zh/prompts/p/exploded-dish-food-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/exploded-dish-food-infographic.webp" alt="食材悬浮爆炸式美食信息图提示词" width="480"></a>
+<a href="https://cinel.ai/zh/prompts/p/grotesque-gourmet-creme-brulee?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/grotesque-gourmet-creme-brulee.webp" alt="怪诞美食·焦糖布丁" width="480"></a>
 
-> 这条提示词用 JSON 写成，可以逐个字段修改：菜系、悬浮食材清单、标签语言、背景和光线。“碗在底部、食材向上升起”的纵向层级，让任何菜品都有同样清晰的构图；要求用该菜系本地语言做标签，则增加了地道感。我们的印尼菜示例用印尼语正确标注了牛肉、炸豆腐、青柠、大蒜、辣椒和油葱酥，但有一条指引线指错了对象，提醒你要检查指向。复用时，菜系和食材清单要一起改；食材控制在 6–8 种，每个标签才有空间。
-
-```text
-{
-  "image_prompt": {
-    "type": "Hyper-realistic food infographic",
-    "subject": {
-      "cuisine": "Indonesian",
-      "base_element": "Traditional bowl with steaming hot dish at the bottom",
-      "levitating_ingredients": [
-        "Juicy meat",
-        "Crispy tofu",
-        "Glossy sauce splashes",
-        "Fresh herbs",
-        "Chilies",
-        "Lime",
-        "Garlic",
-        "Fried shallots"
-      ]
-    },
-    "composition": {
-      "layout": "Clean vertical composition",
-      "arrangement": "Realistic gravity-defying/floating elements",
-      "background": "Rustic wooden surface",
-      "visual_hierarchy": "Bowl anchored at bottom, ingredients rising vertically"
-    },
-    "graphic_design_elements": {
-      "labels": "Clear Indonesian text",
-      "lines": "Thin white pointing lines",
-      "style": "Editorial infographic layout, professional food magazine style"
-    },
-    "lighting_and_mood": {
-      "lighting": "Cinematic studio lighting",
-      "color_palette": "Warm tones",
-      "effects": "Dramatic steam, motion-frozen ingredients"
-    },
-    "technical_specs": {
-      "camera_settings": "Shallow depth of field, sharp focus, DSLR look",
-      "details": "Ultra-detailed textures",
-      "resolution": "8K ultra-realistic"
-    }
-  }
-}
-```
-
-- 原作者: [@Taaruk_](https://x.com/Taaruk_)
-- 原帖: https://x.com/Taaruk_/status/2017865644365255078
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/exploded-dish-food-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 悬浮菜品菜谱信息图提示词
-
-<a href="https://cinel.ai/zh/prompts/p/recipe-infographic-floating-dish?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/recipe-infographic-floating-dish.webp" alt="悬浮菜品菜谱信息图提示词" width="480"></a>
-
-> 大多数菜谱卡提示词出来的都是扁平的俯视版式。这条要求成品菜以倾斜角度、略微悬浮地展示，食材和步骤环绕流动，并设定了清晰的层级（菜品 > 步骤 > 食材 > 数据），让视线知道该往哪里走。毛玻璃步骤卡片和小烹饪图标带来了类似 App 的现代感。我们的印度香饭版本是一张完整可信的菜谱卡：食材用量、六个编号步骤、时间徽章和小贴士一应俱全，唯一的问题是烹饪总时长与各步骤用时对不上。注意：菜名是直接写在提示词里的（原文拼作 briyani），每次复用都要记得替换。
+> 可复用模板：替换菜品与怪诞元素。
 
 ```text
-Ultra-clean modern recipe infographic. Showcase briyani in a visually appealing finished form—sliced, plated, or portioned—floating slightly in perspective or angled view. Arrange ingredients, steps, and tips around the dish in a dynamic editorial layout, not restricted to top-down. Ingredients Section: Include icons or mini illustrations for each ingredient with quantities. Arrange them in clusters, lists, or circular flows connected visually to the dish. Steps Section: Show preparation steps with numbered panels, arrows, or lines, forming a logical flow around the main dish. Include small cooking icons (knife, pan, oven, timer) where helpful. Additional Info (optional): Total calories, prep/cook time, servings, spice level—displayed as clean bubbles or badges near the dish. Visual Style: Editorial infographic meets lifestyle food photography. Vibrant, natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels. Accent colors can highlight key info (calories, prep time). Composition Guidelines: Finished meal as hero visual (perspective or angled) Ingredients and steps flow dynamically around the dish Clear visual hierarchy: dish > steps > ingredients > optional stats Enough negative space to keep design airy and readable Lighting & Background: Soft, natural studio lighting, minimal textured or gradient background for premium editorial feel. Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.
+crème brûlée with crystalline glass-shard sugar shards, high-end food commercial product photography, the dish presented as a luxurious hero shot on an elegant plate, appetizing and slightly uncanny at the same time, the grotesque detail blending seamlessly and realistically into the food, glossy caramelized sugar crust cracked open to reveal creamy custard, fresh mint garnish and perfect plating, professional studio lighting with soft key light, crisp rim light and subtle reflections, macro lens close-up, shallow depth of field with creamy background blur, clean seamless neutral backdrop, ultra detailed textures, visible moisture and surface sheen, photorealistic, sharp focus, premium advertising campaign look, square 1:1, no text, no logos, no watermark, no blood, no gore
 ```
 
-- 原作者: [@Strength04_X](https://x.com/Strength04_X)
-- 原帖: https://x.com/Strength04_X/status/2013186574390046844
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/recipe-infographic-floating-dish?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- 原作者: [@ToshiArte](https://x.com/ToshiArte)
+- 原帖: https://x.com/ToshiArte/status/2115186779821080816
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/grotesque-gourmet-creme-brulee?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-### 开心果果仁蜜饼四模块甜品广告提示词
+### 药剂师香料圣物匣·烤肉串
 
-<a href="https://cinel.ai/zh/prompts/p/pistachio-baklava-dessert-commercial-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pistachio-baklava-dessert-commercial-shot.webp" alt="开心果果仁蜜饼四模块甜品广告提示词" width="360"></a>
+<a href="https://cinel.ai/zh/prompts/p/apothecary-spice-reliquary-shashlik?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/apothecary-spice-reliquary-shashlik.webp" alt="药剂师香料圣物匣·烤肉串" width="480"></a>
 
-> 和那条饮品“主提示词”一样，这条也把全局设置和分镜模块分开，这里是四个巴克拉瓦场景，各有自己的背景色。它之所以适合酥皮点心，在于质感词汇：“清晰可见”的超薄酥皮层、菱形切块、夹在层间的鲜绿开心果碎、边缘闪亮的糖浆，以及定格在半空的糖浆滴。我们的四格成品正是如此：深绿底上的悬浮叠塔、奶油底上的整盘、深棕底上的淋糖浆特写、橄榄绿底上飞散的酥皮。“一模块一底色”的规则让整组图非常适合菜单或社交网格。可以把巴克拉瓦换成任何多层甜点，比如拿破仑酥或库纳法，但质感描述要保留。
+> 药剂师香料匣模板；黑白食谱墙、彩色食物。
 
 ```text
-{
-  "resolution": "8K UHD",
-  "aspect_ratio": "3:4",
-  "image_style": "hyper-realistic commercial dessert photography",
-  "global_settings": {
-    "quality": "Ultra-high detail, razor-sharp focus, luxury dessert clarity",
-    "lighting": "Controlled studio lighting emphasizing texture, layers, and syrup highlights",
-    "motion": "Frozen mid-air elements with subtle gravity realism",
-    "background_style": "Solid or smooth gradient background, color varies per module",
-    "camera": "High-speed photography look, shallow to medium depth of field",
-    "post_processing": "Rich contrast, warm tones, natural shine, no artificial glow"
-  },
-  "modules": { "module_1_classic_baklava_stack_explosion": {
-      "scene_description": "A dramatic stack of classic pistachio baklava with flying syrup droplets",
-      "baklava": {
-        "type": "Traditional pistachio baklava",
-        "layers": "Ultra-thin phyllo layers clearly visible",
-        "cut": "Diamond-shaped pieces",
-        "position": "Stacked and floating mid-air"
-      },
-      "details": {
-        "nuts": "Finely ground bright green pistachios between layers",
-        "syrup": "Golden sugar syrup glistening on edges"
-      },
-      "motion_effects": {
-        "syrup": "Small syrup droplets splashing outward",
-        "crumbs": "Tiny phyllo flakes suspended in air"
-      },
-      "background": {
-        "color": "Deep emerald green",
-        "texture": "Smooth, seamless"
-      }
-    }, "module_2_minimal_baklava_plate_floating": {
-      "scene_description": "Minimalist premium baklava presentation with controlled floating crumbs",
-      "baklava": {
-        "type": "Single-layer pistachio baklava pieces",
-        "arrangement": "Neatly aligned rectangular cuts",
-        "surface": "Glossy with light syrup sheen"
-      },
-      "accent_elements": {
-        "nuts": "Crushed pistachio dust lightly floating",
-        "syrup": "Thin syrup drizzle frozen mid-air"
-      },
-      "motion_effects": {
-        "particles": "Subtle floating crumbs and nut dust"
-      },
-      "background": {
-        "color": "Warm beige",
-        "gradient": "Very soft tonal gradient"
-      }
-    }, "module_3_baklava_syrup_pour_drama": {
-      "scene_description": "Cinematic syrup pour over baklava stack",
-      "baklava": {
-        "type": "Thick stacked baklava slices",
-        "texture": "Highly detailed crispy layers"
-      },
-      "additional_elements": {
-        "syrup": {
-          "state": "Thick golden syrup pouring from above",
-          "motion": "Frozen in elegant flowing strands"
-        },
-        "nuts": [
-          "Whole pistachio kernels",
-          "Crushed pistachio fragments"
-        ]
-      },
-      "motion_effects": {
-        "splashes": "Micro syrup splashes on impact points",
-        "particles": "Floating nut fragments"
-      },
-      "background": {
-        "color": "Dark chocolate brown",
-        "tone": "High contrast, luxury feel"
-      }
-    }, "module_4_modern_baklava_floating_composition": {
-      "scene_description": "Modern deconstructed baklava composition in mid-air",
-      "elements": {
-        "phyllo": "Crispy golden phyllo sheets floating separately",
-        "nuts": "Pistachio layers suspended between sheets",
-        "syrup": "Glossy syrup threads connecting elements"
-      },
-      "motion_effects": {
-        "flakes": "Ultra-fine pastry flakes suspended",
-        "drops": "Minimal syrup droplets"
-      },
-      "background": {
-        "color": "Muted olive green",
-        "texture": "Smooth, seamless"
-      }
-    }
-  },
-  "negative_prompt": [
-    "text",
-    "logos",
-    "branding",
-    "hands",
-    "people",
-    "utensils",
-    "plates",
-    "tables",
-    "cartoon style",
-    "excessive syrup pooling",
-    "burnt pastry",
-    "overexposure",
-    "artificial glow",
-    "low detail textures"
-  ]
-}
+Hyper-realistic 1:1 product photo of an Apothecary Spice Reliquary Diorama for grilled shashlik: U-shaped apothecary shelf box with tiny glass spice jars illusion at desktop scale. Chibi chef mascot in matte PVC holding tongs, food elements glossy-real — charred meat skewers, grilled peppers, spice dust. Background walls with B&W recipe-card typography and ingredient diagrams as abstract illegible marks only. Floor with pop-up spice dust, herb confetti, steam ribbons as paper cut-outs. Figure pours a 2D sauce spiral that becomes a 3D glossy ribbon over the floor. Soft food-photography highlights, no harsh shadows, appetizing miniature realism, square 1:1. No logos, no readable brand or recipe text.
 ```
 
-- 原作者: [@kaanakz](https://x.com/kaanakz)
-- 原帖: https://x.com/kaanakz/status/2009204329236828239
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pistachio-baklava-dessert-commercial-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2115115053703938176
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/apothecary-spice-reliquary-shashlik?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-### 金色标注的悬浮甜点叠塔广告提示词
+### 等距迷你拉面店
 
-<a href="https://cinel.ai/zh/prompts/p/cinematic-studio-food-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/cinematic-studio-food-photography.webp" alt="金色标注的悬浮甜点叠塔广告提示词" width="360"></a>
+<a href="https://cinel.ai/zh/prompts/p/isometric-miniature-ramen-shop?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/isometric-miniature-ramen-shop.webp" alt="等距迷你拉面店" width="360"></a>
 
-> 这条模块化提示词的独到之处是文字设计系统，它在全局设置里一次定义好：金属金色的衬线字体食材名、纯白色的无衬线说明文字、细长圆角的金色指示线。每个模块都继承这套系统，所以即使场景差异很大，标注看起来依然统一。“不缩放、不裁切、居中纵向”的规则让悬浮叠塔完整留在画面里。我们的双格成品，一边是粉色渐变底上的蛋糕叠塔，一边是氛围昏暗的酥点场景，两者的金色标注风格完全一致。说明文字是泛泛的营销文案，请替换成你真实的菜单内容；用不到的模块直接删掉。
+> 收藏级玩具拉面店；雨夜路边温馨感。
 
 ```text
-{
-  "global_settings": {
-    "resolution": "8K ultra high definition",
-    "aspect_ratio": "3:4",
-    "camera_style": "studio food photography with cinematic lighting",
-    "depth_of_field": "shallow depth of field, sharp subject, soft background",
-    "lighting": "soft directional key light, subtle rim light, controlled highlights",
-    "style": "hyper-realistic food illustration with editorial infographic overlays",
-    "composition_rules": [
-      "no zoom",
-      "no crop",
-      "center-weighted vertical composition",
-      "floating elements frozen in motion"
-    ],
-    "text_design": {
-      "ingredient_name_color": "metallic gold",
-      "ingredient_description_color": "pure white",
-      "font_style": "elegant serif for titles, clean sans-serif for descriptions",
-      "indicator_lines": "long, thin, smooth golden lines with rounded corners"
-    }
-  },
-
-  "module_1_image_1_style": {
-    "scene_description": "A vertical stack of assorted cake slices floating above a white ceramic plate against a soft pink gradient background.",
-    "background": {
-      "color": "soft pastel pink",
-      "texture": "smooth gradient",
-      "lighting": "even, studio-lit, no harsh shadows"
-    },
-    "main_subjects": [
-      "multiple layered sponge cake slices",
-      "white whipped cream layers",
-      "raspberry cream layer",
-      "chocolate cream topping"
-    ],
-    "visible_ingredients": [
-      "vanilla sponge cake",
-      "whipped cream",
-      "raspberries",
-      "blueberries",
-      "strawberries",
-      "macarons (vanilla and chocolate)",
-      "chocolate bar pieces",
-      "mint leaves",
-      "small nut fragments"
-    ],
-    "motion_elements": [
-      "floating fruits",
-      "floating macarons",
-      "crumbs suspended in air"
-    ],
-    "text_labels": [
-      "Vanilla Cake – soft, fluffy sponge cake layered with white cream filling",
-      "Macaron – creamy filling between almond meringue shells",
-      "Raspberries – juicy, fresh raspberries",
-      "Chocolate Bar – chunks of smooth milk chocolate",
-      "Raspberry Cream – soft sponge cake layered with creamy, fruity raspberry cream"
-    ]
-  },
-
-  "module_2_image_2_style": {
-    "scene_description": "Rolled Syrian dessert presented vertically with syrup pouring from above, placed in a warm, rustic kitchen environment.",
-    "background": {
-      "environment": "traditional kitchen",
-      "elements": [
-        "warm lantern light",
-        "wooden surfaces",
-        "brass and copper utensils"
-      ],
-      "lighting": "warm ambient lighting with soft highlights"
-    },
-    "main_subjects": [
-      "rolled white dessert dough",
-      "cream filling spilling out",
-      "golden syrup stream"
-    ],
-    "visible_ingredients": [
-      "white cheese dough",
-      "cream filling",
-      "pistachios",
-      "sugar syrup"
-    ],
-    "motion_elements": [
-      "syrup dripping vertically",
-      "pistachio crumbs falling"
-    ],
-    "text_labels": [
-      "White Cheese Dough – soft outer layer made from cheese and semolina",
-      "Cream Filling – creamy filling inside the roll",
-      "Pistachios – crushed pistachios sprinkled over and inside the rolls"
-    ]
-  }
+Isometric miniature diorama of a tiny nighttime ramen shop, crafted like a detailed collectible toy set on a plain soft-gray studio surface. Cutaway shop box: warm orange interior light, four miniature stools at a narrow counter, steaming bowls with soft vapor curls, tiny chopsticks, a small chalkboard menu with illegible miniature marks (no readable brand names), hanging paper lanterns, a bicycle parked outside the shop front, rain-wet asphalt with puddle reflections, a tiny orange tabby cat under the eaves. Stylized 3D toy/miniature aesthetic, clean plastic and painted wood materials, subtle subsurface glow from interior lamps, shallow depth of field, centered isometric three-quarter view, cheerful cozy mood. No logos, no watermark, no real restaurant brands, no readable English brand text, vertical 4:5 composition.
 ```
 
-- 原作者: [@meng_dagg695](https://x.com/meng_dagg695)
-- 原帖: https://x.com/meng_dagg695/status/2011994819124752631
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/cinematic-studio-food-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- 原作者: [@Alyssa4aicreate](https://x.com/Alyssa4aicreate)
+- 原帖: https://x.com/Alyssa4aicreate/status/2114152038926032952
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/isometric-miniature-ramen-shop?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-### 白底悬浮分层美食广告提示词
+### 巨构芝士汉堡活动主视觉
 
-<a href="https://cinel.ai/zh/prompts/p/floating-stacked-food-ad-white-background?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/floating-stacked-food-ad-white-background.webp" alt="白底悬浮分层美食广告提示词" width="480"></a>
+<a href="https://cinel.ai/zh/prompts/p/monumental-cheeseburger-campaign-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/monumental-cheeseburger-campaign-hero.webp" alt="巨构芝士汉堡活动主视觉" width="360"></a>
 
-> 快餐广告里的“爆炸汉堡”风格，被简化成了两个空。提示词把菜品纵向拆开（悬浮叠层构图、悬空的部件），在周围撒上小块食材，再用台面上一道清晰柔和的投影把一切落地——正是这个细节让悬浮看起来像拍出来的，而不是抠图。高调光和 100mm 微距质感让纹理保持诱人。我们的双层芝士汉堡被整齐地拆成面包、生菜、番茄、两片带融化芝士的肉饼和酸黄瓜，生菜丝四处飞散。三明治、塔可、千层蛋糕、寿司塔，只要有明显分层就适用。撒的食材要是这道菜里真正有的。
+> 3x3汉堡活动单格改写；去掉品牌字体。
 
 ```text
-A stacked double cheeseburger, premium food advertising, white seamless background, high key studio lighting, floating stacked composition, levitating pieces, sesame seeds, shredded lettuce and tomato slices scattered, clean minimal layout, crisp soft shadow on surface, ultra realistic, macro product photography, 100mm lens look, f/8 sharp focus, subtle texture detail, editorial commercial, 8k
+Premium fast-casual burger campaign key visual as a single full-bleed vertical poster tile. Monumental photoreal classic triple cheeseburger as the hero product — identical layer order of bun, melted cheddar, beef patties, lettuce, tomato, pickles, glossy sauce — centered and large, consistent product identity. Background world: neon rainy alley atmosphere with wet reflections, cinematic lighting, bold color grade, surrounding motion suggested by steam and light streaks only. No hand-painted typography, no brand names, no logos, no readable headlines. Ultra-detailed food textures, commercial advertising look, vertical 2:3. No watermark.
 ```
 
-- 原作者: [@azed_ai](https://x.com/azed_ai)
-- 原帖: https://x.com/azed_ai/status/2009625733933736157
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/floating-stacked-food-ad-white-background?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- 原作者: [@ou_zhen599](https://x.com/ou_zhen599)
+- 原帖: https://x.com/ou_zhen599/status/2114736657610277087
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/monumental-cheeseburger-campaign-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-### 俯拍餐桌变身社交帖子的创意提示词
+### 郁金香拉花·薄荷绿杯静物
 
-<a href="https://cinel.ai/zh/prompts/p/top-down-dining-table-group-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/top-down-dining-table-group-shot.webp" alt="俯拍餐桌变身社交帖子的创意提示词" width="480"></a>
+<a href="https://cinel.ai/zh/prompts/p/tulip-latte-mint-mug-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/tulip-latte-mint-mug-still.webp" alt="郁金香拉花·薄荷绿杯静物" width="360"></a>
 
-> 一个把实体和数字结合起来的巧妙概念：餐桌本身被做成一条巨大的社交帖子——顶部是白色头像条，底部是点赞、分享图标，彩色中心区域就是“照片”。机位拉得很远，留出大片空地，提示词还严格要求所有食物、饮料和手都在彩色中心区域内，错觉才能成立。我们设定了夏日早午餐：柠檬黄桌心、天蓝色地面，四位穿亚麻衣服的朋友倒柠檬水、传递莓果，账号名为虚构的 sunday.table。很适合餐厅开业或品牌周年活动。每个人的动作都要写清楚，笼统的描述会让大家做同一个动作。
+> 由咖啡馆生活照改写为以杯子为主的静物（无人像）。
 
 ```text
-Ultra-wide-angle hyper-realistic shooting in top-down mode. A group of 4 real people sitting at a square dining table. The camera is pushed far back, creating a significant negative space (empty floor area) around the people and the table, which provides a clear, minimalistic composition. Scene (relaxed summer brunch, casual linen clothing): Four people are dressed in casual summer linen outfits in cream and soft blue. Their interaction is specific: one pours lemonade, one passes a bowl of berries, one slices a quiche, one raises a glass. The table is a custom-made physical prop, designed as an Instagram post: it has a solid white stripe ONLY along the top and bottom edges (no white frames on the left or right). - The upper white stripe shows a drawn profile photo with a simple lemon-slice icon, the username "sunday.table", followed by a small blue icon with a confirmed check mark, and "..." on the right. - Red hearts, comment and share icons are painted on the bottom white stripe on the left, and a Bookmarks icon on the right. The center of the table is filled in pastel lemon yellow (#FFF4B8). The table shows a quiche, fresh berries, croissants, a jug of lemonade and four glasses. important: ALL food, beverages, objects, and hands that interact with them must be located strictly within this central area, colored in pastel lemon yellow (#FFF4B8). NOTHING should go beyond the white stripes or beyond the table. The background of the floor is made in soft sky blue to create a visual separation. Professional studio lighting with clear shadows. 8k, clear focus.
+Photorealistic lifestyle product still life of a handmade sage-green ceramic cappuccino cup on a pale stone café tabletop, both hands cropped out — only the rounded mug and saucer fill the frame. Beautifully defined white tulip latte art surrounded by rich golden-brown crema, soft steam rising. Warm natural afternoon sunlight, gentle specular highlights on glaze, muted beige and sage-green palette, soft filmic contrast, ultra-high-resolution photographic realism, shallow depth of field, vertical 4:5. No people, no faces, no jewelry focus, no logos, no watermark, no readable menu text.
 ```
 
-- 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
-- 原帖: https://x.com/Goodmanprotocol/status/2045009725218226475
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/top-down-dining-table-group-shot?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- 原作者: [@Kunda623270](https://x.com/Kunda623270)
+- 原帖: https://x.com/Kunda623270/status/2115694114620731616
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/tulip-latte-mint-mug-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 悬浮剖面千层蛋糕
+
+<a href="https://cinel.ai/zh/prompts/p/floating-cutaway-layer-cake?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/floating-cutaway-layer-cake.webp" alt="悬浮剖面千层蛋糕" width="480"></a>
+
+> 悬浮蛋糕模板；去掉源帖中文引线标签。
+
+```text
+8K ultra high definition hyper-realistic floating strawberry cream layer cake with a clean vertical cutaway revealing sponge, cream, and fresh strawberry layers, suspended in midair against a soft pastel studio backdrop, premium dessert commercial photography, soft directional light, delicate crumbs and cream texture, appetizing moisture, no callout lines, no ingredient labels, no typography, square 1:1. No logos, no watermark.
+```
+
+- 原作者: [@AlanMalone131](https://x.com/AlanMalone131)
+- 原帖: https://x.com/AlanMalone131/status/2113625735877599488
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/floating-cutaway-layer-cake?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 <a id="illustration-anime"></a>
 
 ## 插画与动漫
 
-精选 6 条 · [查看本类全部 101 条](cases/zh/illustration-anime.md) · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 103 条](cases/zh/illustration-anime.md) · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
-### 默片吸血鬼像素游戏
+### 云中村落双重曝光
 
-<a href="https://cinel.ai/zh/prompts/p/pixel-game-silent-vampire-film?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-silent-vampire-film.webp" alt="默片吸血鬼像素游戏" width="360"></a>
+<a href="https://cinel.ai/zh/prompts/p/cloud-village-double-exposure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/cloud-village-double-exposure.webp" alt="云中村落双重曝光" width="360"></a>
 
-> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a silent-era expressionist vampire film”），非现代片厂IP片名。
-
-```text
-Make me a pixel art version of a silent-era expressionist vampire film if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: German-expressionist angles, jagged castle silhouettes, chalk-white vampire figure, high-contrast black/white/crimson pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
-```
-
-- 原作者: [@icreatelife](https://x.com/icreatelife)
-- 原帖: https://x.com/icreatelife/status/1992598016868720997
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-silent-vampire-film?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 大都会劳工像素游戏
-
-<a href="https://cinel.ai/zh/prompts/p/pixel-game-metropolis-workers-scifi?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-metropolis-workers-scifi.webp" alt="大都会劳工像素游戏" width="360"></a>
-
-> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a 1920s metropolis workers-vs-machines sci-fi”），非现代片厂IP片名。
+> 思绪漂移提示分享；撕纸拼贴质感。
 
 ```text
-Make me a pixel art version of a 1920s metropolis workers-vs-machines sci-fi if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: towering art-deco city, workers marching below giant gears and chrome robots, teal-and-amber pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
+Surreal double-exposure collage of one broad glowing cloud drifting above a moonlit bay. Inside its translucent silhouette sits a tiny seaside village with three warmly lit houses and a small silver train curling between them. Torn-paper edges, translucent color layers, pearly highlights, and visible handmade collage textures in lilac, blue, and cream. Keep the cloud large and the surroundings spacious. Portrait 3:4, no readable text, no logos, no watermark.
 ```
 
-- 原作者: [@icreatelife](https://x.com/icreatelife)
-- 原帖: https://x.com/icreatelife/status/1992598016868720997
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-metropolis-workers-scifi?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 西部劫火车像素游戏
-
-<a href="https://cinel.ai/zh/prompts/p/pixel-game-western-train-robbery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-western-train-robbery.webp" alt="西部劫火车像素游戏" width="360"></a>
-
-> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a dusty western train-robbery epic”），非现代片厂IP片名。
-
-```text
-Make me a pixel art version of a dusty western train-robbery epic if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: desert mesa, steam locomotive, masked outlaws on horseback, sunset orange pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
-```
-
-- 原作者: [@icreatelife](https://x.com/icreatelife)
-- 原帖: https://x.com/icreatelife/status/1992598016868720997
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-western-train-robbery?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 哥特鬼宅像素游戏
-
-<a href="https://cinel.ai/zh/prompts/p/pixel-game-gothic-haunted-mansion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-gothic-haunted-mansion.webp" alt="哥特鬼宅像素游戏" width="360"></a>
-
-> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“a gothic haunted-mansion mystery”），非现代片厂IP片名。
-
-```text
-Make me a pixel art version of a gothic haunted-mansion mystery if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: looming Victorian mansion, moonlit wrought-iron gates, candle windows, purple-and-teal gothic pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
-```
-
-- 原作者: [@icreatelife](https://x.com/icreatelife)
-- 原帖: https://x.com/icreatelife/status/1992598016868720997
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-gothic-haunted-mansion?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 深海巨鱿像素游戏
-
-<a href="https://cinel.ai/zh/prompts/p/pixel-game-oceanic-giant-squid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/pixel-game-oceanic-giant-squid.webp" alt="深海巨鱿像素游戏" width="360"></a>
-
-> 可复用的1:1像素游戏主视觉模板，填充虚构/公有领域安全的电影概念（“an oceanic adventure with giant squid”），非现代片厂IP片名。
-
-```text
-Make me a pixel art version of an oceanic adventure with giant squid if it was a video game. Portrait 2:3 (vertical game cover / card) retro video-game key art: wooden sailing ship dwarfed by a colossal squid, stormy waves, deep-blue and seafoam pixel palette. Dense readable pixels, strong silhouette, limited vibrant palette, cinematic composition suitable as a game title screen. Do not use any real studio film titles, brand logos, watermarks, or trademarked franchise names. No real celebrity likeness. Optional fictional title lettering only if it is clearly invented and not a known trademark. Portrait 2:3 (vertical game cover / card).
-```
-
-- 原作者: [@icreatelife](https://x.com/icreatelife)
-- 原帖: https://x.com/icreatelife/status/1992598016868720997
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-game-oceanic-giant-squid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+- 原作者: [@RenRose321](https://x.com/RenRose321)
+- 原帖: https://x.com/RenRose321/status/2115227167994863801
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/cloud-village-double-exposure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 极简黑白线稿人物插画提示词
 
@@ -1488,11 +1166,85 @@ A simple black-and-white illustration of a young woman in an oversized knit swea
 - 原帖: https://x.com/azed_ai/status/2043284009116160473
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/minimal-black-white-line-art-character?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
+### 毛茸茸小动物四格故事漫画提示词
+
+<a href="https://cinel.ai/zh/prompts/p/four-panel-fluffy-creatures-story?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/four-panel-fluffy-creatures-story.webp" alt="毛茸茸小动物四格故事漫画提示词" width="480"></a>
+
+> 这条提示词没有描述画面，而是描述了一条故事线——目标、挫折、协作、圆满结局，把视觉交给模型发挥。唯一关键的技术指令是“三个角色保持一致的形象”。作者原本的用法是在对话式生成中逐张生成四张 16:9 图片。像我们的示例这样一次生成时，模型会把四个情节画进同一张图：小熊、小兔和浣熊做计划、失败（“Oops… not so easy”）、在夕阳下干活、在完工的树屋里庆祝。两种方式都能快速得到绘本或社交轮播图的草稿。给角色起名字，一致性会更好。
+
+```text
+Create a funny 4-part story featuring 3 fluffy creatures building a treehouse. The story has emotional highs and lows and ends in a happy moment. Maintain consistent identity across the 3 characters. Generate 4 images in 16:9 format, one at a time.
+```
+
+- 原作者: [@GoogleAI](https://x.com/GoogleAI)
+- 原帖: https://x.com/GoogleAI/status/2027094912357761319
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/four-panel-fluffy-creatures-story?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 未来沙漠文明世界观设定集提示词
+
+<a href="https://cinel.ai/zh/prompts/p/futuristic-desert-worldbuilding-concept-art?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/futuristic-desert-worldbuilding-concept-art.webp" alt="未来沙漠文明世界观设定集提示词" width="480"></a>
+
+> 就产出而言，它短得惊人。提示词只给出一个设定（依靠太阳能的未来沙漠文明），列出概念美术会覆盖的类别（建筑、角色、服饰、载具、地图），并要求统一的设计语言。一次生成时，我们得到了一整张名为 SOLARA 的提案板：穹顶城市、长袍角色、服饰细节、悬浮载具、室内、农业和羊皮纸地图，全部统一在沙色与天空蓝的配色里。原文“多张图片”假定的是对话式生成；单次生成会得到拼贴图。替换环境和能源（极地 + 地热、海洋 + 潮汐），就能创造新的世界。
+
+```text
+Create a complete visual worldbuilding set for a futuristic desert civilization powered by solar technology, multiple images including architecture, characters, clothing, vehicles, and maps, cohesive design language, cinematic realism, ultra detailed.
+```
+
+- 原作者: [@aleenaamiir](https://x.com/aleenaamiir)
+- 原帖: https://x.com/aleenaamiir/status/2046866168208916503
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/futuristic-desert-worldbuilding-concept-art?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 木刻版画风格人像插画提示词
+
+<a href="https://cinel.ai/zh/prompts/p/woodcut-engraving-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/woodcut-engraving-portrait-illustration.webp" alt="木刻版画风格人像插画提示词" width="480"></a>
+
+> 版画风格对图像模型来说不容易，因为它们总爱滑向柔和的铅笔明暗。这条提示词从两头着手：正向部分精确点名技法（交叉排线、线条明暗、下巴和头发周围的浓重墨影、硬朗轮廓线），一长串负面词则排除了水彩、柔和明暗、3D、动漫和模糊线条。我们的成品是一位卷发松散的女性头肩像，完全由平行线和交叉线在暖色纸上刻画而成，像复古杂志插图或钞票上的肖像小图。适合作者头像、简报刊头、酒标或周边商品。想要特定人物的样貌，可以附上自己的照片。
+
+```text
+Black and white engraved portrait illustration of a person.
+Drawn in classic woodcut / linocut engraving style, high contrast black ink on textured off-white paper background. Fine cross-hatching and line shading to create depth and shadow, bold black ink shadows under chin and around hair, strong contour lines, traditional printmaking aesthetic.
+Minimal composition, centered portrait, no body visible, clean negative space, vintage editorial illustration style, ultra detailed linework, sharp crisp ink strokes, professional vector-ready engraving look, monochrome palette, dramatic contrast.
+Negative Prompt:
+color, watercolor, soft shading, blurred lines, low contrast, realistic photography, 3D render, anime style, cartoon style, messy sketch, thick uneven strokes, background objects, noisy texture, pixelated, distorted face, extra eyes, extra ears, bad anatomy, modern digital painting, glossy skin, overexposed highlights
+```
+
+- 原作者: [@Naiknelofar788](https://x.com/Naiknelofar788)
+- 原帖: https://x.com/Naiknelofar788/status/2042785774245154868
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/woodcut-engraving-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 高对比水墨黑色电影人像插画提示词
+
+<a href="https://cinel.ai/zh/prompts/p/ink-noir-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/ink-noir-portrait-illustration.webp" alt="高对比水墨黑色电影人像插画提示词" width="480"></a>
+
+> 简短而有氛围：整个效果来自把媒介限定为黑色墨水——笔触加可控的墨点飞溅，只让纸张留白的地方成为高光。“厚重的阴影占据主导”把画面推向近乎剪影，“像定格在最戏剧化一格的图像小说”定下了情绪。我们选了一位穿风衣、戴软呢帽的疲惫侦探，成品是一张很有冲击力的笔刷插画：帽檐把眼睛压进阴影，墨点打散了风衣，背景隐约有路灯和尖顶。适合书封、海报、纹身稿或播客封面。换主体即可，但保留“只用墨水”的规则。
+
+```text
+A high-contrast ink noir portrait of a weary detective in a trench coat and fedora, illustrated entirely with expressive black ink strokes and controlled splatter. Heavy shadows dominate the composition while selective highlights emerge through negative space. Subtle paper grain is visible. Atmosphere is moody, cinematic, and intense, like a graphic novel frozen at its most dramatic panel.
+```
+
+- 原作者: [@aleenaamiir](https://x.com/aleenaamiir)
+- 原帖: https://x.com/aleenaamiir/status/2008431391235862892
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/ink-noir-portrait-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
 <a id="scenes-creative"></a>
 
 ## 创意场景
 
-精选 6 条 · [查看本类全部 127 条](cases/zh/scenes-creative.md) · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 131 条](cases/zh/scenes-creative.md) · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 古董书房迷你城市
+
+<a href="https://cinel.ai/zh/prompts/p/antique-study-miniature-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/antique-study-miniature-city.webp" alt="古董书房迷你城市" width="360"></a>
+
+> 城市实体建在室内；暖金光。
+
+```text
+Ultra-detailed photorealistic miniature diorama of an entire city contained inside a luxurious antique study. Complete intricately constructed miniature metropolis with skyscrapers, roads, bridges, tiny vehicles, parks, and pedestrians, surrounded by towering dark wooden bookshelves, antique globes, brass telescopes, framed historical maps with illegible marks only, ornate Persian rugs, carved furniture, and a magnificent crystal chandelier. Warm golden lighting and soft daylight. Wide-angle slightly elevated viewpoint balancing miniature city in foreground/midground with elaborate antique interior behind. Rich walnut wood, antique gold, deep burgundy, cinematic shadows, realistic scale contrast, museum-quality craftsmanship. The city must look physically built inside the room, not floating. Vertical 4:5. No logos, no readable text on maps or books.
+```
+
+- 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- 原帖: https://x.com/Goodmanprotocol/status/2114363628715663450
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/antique-study-miniature-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 巨型钢笔写出书中世界的魔幻场景提示词
 
@@ -1568,20 +1320,6 @@ A reading room pulled apart in 3D, every surface and object  floating at its exa
 - 原作者: [@AllaAisling](https://x.com/AllaAisling)
 - 原帖: https://x.com/AllaAisling/status/2035390729527378146
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/exploded-room-3d-floating-objects?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
-
-### 日落时分伊斯坦布尔加拉塔桥上的渔夫提示词
-
-<a href="https://cinel.ai/zh/prompts/p/fishermen-bridge-sunset-silhouette?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="images/fishermen-bridge-sunset-silhouette.webp" alt="日落时分伊斯坦布尔加拉塔桥上的渔夫提示词" width="480"></a>
-
-> 一条在著名地点讲述小小人间故事的旅行摄影提示词：日落时分，垂钓者排满加拉塔桥，前景一位疲惫的渔夫倚着栏杆，金角湾对岸是苏莱曼尼耶清真寺朦胧的剪影，海鸥在头顶盘旋，整体是温暖的橙色和深蓝色。我们把原文里的相机品牌和镜头改成了通用的全画幅 85mm f/1.4 描述。成品把氛围拿捏得很美：太阳沉入圆顶和宣礼塔林立的天际线后方，鱼竿在水面上弯成弧线，人物剪影沿着雕花栏杆排开。这样的地名能很好地引导模型；天际线请当作意境呈现，而不是精确的建筑写实。
-
-```text
-A cinematic silhouette shot of local fishermen lining the Galata Bridge in Istanbul during sunset. In the foreground, a weary fisherman leans against the railing, looking at the sea. The background features the hazy, dreamlike silhouette of the Süleymaniye Mosque and seagulls flying over the Golden Horn. Warm orange and deep blue color palette. Shot on a full-frame mirrorless camera with an 85mm f/1.4 lens at f/1.8. Atmospheric haze, emotional storytelling, award-winning travel photography.
-```
-
-- 原作者: [@ozan_sihay](https://x.com/ozan_sihay)
-- 原帖: https://x.com/ozan_sihay/status/2001003144566681621
-- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/fishermen-bridge-sunset-silhouette?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ## 许可
 

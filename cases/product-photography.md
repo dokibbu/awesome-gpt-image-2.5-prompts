@@ -1,6 +1,6 @@
 # Product & E-commerce · GPT Image 2.5
 
-[← README](../README.md) · 53 · [Category on cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 61 · [Category on cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -1402,3 +1402,115 @@ Editorial still life photograph, close up at desk height, slightly angled side v
 - Author: [@rare_glass](https://x.com/rare_glass)
 - Original post: https://x.com/rare_glass/status/2113057778323349868
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/editorial-loafers-desk-still-life?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Wet Paint Product Collision
+
+<a href="https://cinel.ai/prompts/p/wet-paint-product-collision?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/wet-paint-product-collision.webp" alt="Wet Paint Product Collision" width="480"></a>
+
+> Midjourney product template; remove stencil word / brand.
+
+```text
+Minimalist glass perfume bottle (unlabeled, no logos) manifested through the wet-paint collision, where a razor-sharp studio still life is ambushed at the shutter by thick palette-knife acrylic, running drips, torn masking tape and gold-foil fragments over torn paper, the product pristine and photoreal while the paint crackles with impasto texture. Ivory glass finish with cobalt and cadmium attacking strokes separating hero from havoc. Shot as Phase One IQ4 150MP with 120mm macro, focus-stacked, Rembrandt key light with hard rim, wet gloss on fresh paint, visible paper fibers, editorial product photography, gallery-grade tactile detail, landscape 3:2. No stencil words, no logos, no watermark.
+```
+
+- Author: [@seirdotmk](https://x.com/seirdotmk)
+- Original post: https://x.com/seirdotmk/status/2113937513408610366
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/wet-paint-product-collision?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Molten Genesis Product Canvas
+
+<a href="https://cinel.ai/prompts/p/molten-genesis-product-canvas?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/molten-genesis-product-canvas.webp" alt="Molten Genesis Product Canvas" width="480"></a>
+
+> Product as stellar combustion print object; no brand marks.
+
+```text
+Unlabeled white sneaker manifested through an act of stellar combustion, where its lower mass hardens into dark jagged lava crusts along the lower left while its upper forms dissolve into wispy smoke and a deep starry vacuum, the whole image printed on a rectangular stretched canvas hung on a plain grey wall and photographed from a steep side angle so the canvas edge, the stretcher bar depth, the print grain and the wall shadow all read as physical objects. Burning molten cloud banks and glowing seams against cold vacuum depth. Phase One XF 120mm macro feel, focus stacked, split lighting from one strip strobe with grazing rim light raising the canvas weave, fine art product photography, tilt-shift corrected verticals, ultra sharp texture, high dynamic range, landscape 3:2. No logos, no readable text.
+```
+
+- Author: [@seirdotmk](https://x.com/seirdotmk)
+- Original post: https://x.com/seirdotmk/status/2114097981745967483
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/molten-genesis-product-canvas?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Sundial Drift Product Shadow
+
+<a href="https://cinel.ai/prompts/p/sundial-drift-product-shadow?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/sundial-drift-product-shadow.webp" alt="Sundial Drift Product Shadow" width="480"></a>
+
+> Shadows keep better records than memory — seirdotmk sundial template.
+
+```text
+Matte ceramic bud vase (unlabeled) manifested through solar chronometry and sediment memory, standing alone on a finely granular matte plane, its single cast shadow splits into a fan of successive silhouettes, each fainter and more eroded than the last, as though a low sun had logged every hour. Warm neutral key of oatmeal, bone and taupe, nothing darker than soft sepia black, dry speckled plaster texture like pressed sand, crisp shadow edges softening only at the tips into faint penumbra. Object matte finish with outermost drifting shadow and sediment trail in cooler taupe. Hard directional sun rake, fine art product photography, wide negative space with diagonal sweep, flat compressed telephoto perspective, no specular glare, low contrast warm midtones, gentle analogue grain, matte print finish, landscape 3:2. No logos, no text.
+```
+
+- Author: [@seirdotmk](https://x.com/seirdotmk)
+- Original post: https://x.com/seirdotmk/status/2114986530435432477
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/sundial-drift-product-shadow?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Knitted Cloud Yarn Rain
+
+<a href="https://cinel.ai/prompts/p/knitted-cloud-yarn-rain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/knitted-cloud-yarn-rain.webp" alt="Knitted Cloud Yarn Rain" width="480"></a>
+
+> Craft-material weather template; strip handwritten signature.
+
+```text
+Create a premium square handmade surreal editorial photograph of a pearl-white knitted cloud entirely reimagined using yarn craft: the cloud rains cobalt yarn that becomes an embroidered puddle on ivory linen. Keep source, motion and final trace materially coherent. Macro fibers, refined stitches, realistic shadows and soft side light. Clean composition, no people or extra props. Square 1:1. No handwritten signature, no logos, no watermark.
+```
+
+- Author: [@ksa8Turky](https://x.com/ksa8Turky)
+- Original post: https://x.com/ksa8Turky/status/2115190047372919113
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/knitted-cloud-yarn-rain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Ocean Inside Escape Keycap
+
+<a href="https://cinel.ai/prompts/p/ocean-inside-escape-keycap?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/ocean-inside-escape-keycap.webp" alt="Ocean Inside Escape Keycap" width="480"></a>
+
+> Impossible miniature world inside familiar object; no signature.
+
+```text
+Create a square surreal editorial macro photograph of a transparent glass ESC keyboard key, translating its everyday function into one impossible miniature world contained inside it: an ocean and one tiny sailboat. Convincing refraction, tactile materials, navy shadows, warm inner light and clean composition. No people or extra objects. Square 1:1. No handwritten signature, no logos, no watermark.
+```
+
+- Author: [@ksa8Turky](https://x.com/ksa8Turky)
+- Original post: https://x.com/ksa8Turky/status/2114706863522517229
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/ocean-inside-escape-keycap?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 2035 Concept Car Studio
+
+<a href="https://cinel.ai/prompts/p/concept-car-2035-studio?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/concept-car-2035-studio.webp" alt="2035 Concept Car Studio" width="480"></a>
+
+> Strip nose panel year lettering if it becomes gibberish; keep clean studio car.
+
+```text
+Photorealistic professional studio photograph of a sleek 2035 futuristic concept car. A low, elongated, highly aerodynamic four-door sedan with a smooth capsule-like silhouette and flowing organic body lines. Vibrant neon lime-green glossy paint with deep mirror-like reflections. Continuous black glass canopy roof blending into dark tinted side windows with no visible pillars. Thin horizontal LED light bar glowing soft pink-white. Large oversized black wheels with multi-blade turbine design and subtle metallic accents. Black lower cladding and sculpted side skirts. Three-quarter view emphasizing long side profile and front. Soft even diffused studio lighting from large softboxes, crisp specular highlights, seamless light-gray-to-white gradient background, polished studio floor with faint colored light reflections. Ultra-sharp, photorealistic materials, landscape 16:9. No brand emblems, no readable nose lettering, no logos, no watermark.
+```
+
+- Author: [@MystiqueLicorne](https://x.com/MystiqueLicorne)
+- Original post: https://x.com/MystiqueLicorne/status/2113934023303352456
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/concept-car-2035-studio?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Butterfly White Gold Jewelry Set
+
+<a href="https://cinel.ai/prompts/p/butterfly-white-gold-jewelry-set?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/butterfly-white-gold-jewelry-set.webp" alt="Butterfly White Gold Jewelry Set" width="480"></a>
+
+> Luxury jewelry campaign; strip hashtag brand.
+
+```text
+An exquisite luxury jewelry design collection inspired by butterflies. Crafted from polished 18K white gold, featuring intricately sculpted butterfly wings, fine engraved patterns, delicate filigree, and brilliant pavé-set diamonds. Coordinated collection of butterfly necklace, elegant earrings, statement ring, and sophisticated bracelet. Lifelike wing structures, precise craftsmanship, sparkling gemstones, refined curves. Sophisticated luxury jewelry campaign aesthetic, photorealistic 3D rendering, macro photography, realistic white-gold reflections, brilliant diamond sparkle, soft studio lighting, pure white background, elegant minimalist composition, ultra-sharp focus, premium jewelry catalog presentation. Square 1:1. No brand logos, no hallmarks with readable text, no watermark.
+```
+
+- Author: [@VivienYam](https://x.com/VivienYam)
+- Original post: https://x.com/VivienYam/status/2113826432585695585
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/butterfly-white-gold-jewelry-set?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Negative Fill Black Product Still
+
+<a href="https://cinel.ai/prompts/p/negative-fill-black-product-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/negative-fill-black-product-still.webp" alt="Negative Fill Black Product Still" width="360"></a>
+
+> Master trick prompt: black flags for dimensional black-on-black.
+
+```text
+Dark premium product photography of an unlabeled matte black wireless speaker on a near-black seamless backdrop. Black flags positioned close to the product, absorbing ambient bounce light and creating deep, sculpted shadows while preserving precise specular highlights. Dimensional black-on-black, tactile material read, soft controlled key with rim kiss, vertical 4:5, ultra-detailed, commercial catalog look. No logos, no readable UI text on device, no watermark.
+```
+
+- Author: [@getimg_ai](https://x.com/getimg_ai)
+- Original post: https://x.com/getimg_ai/status/2114707073128689737
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/negative-fill-black-product-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

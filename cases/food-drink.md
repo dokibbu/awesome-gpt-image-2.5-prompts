@@ -1,6 +1,6 @@
 # Food & Drink · GPT Image 2.5
 
-[← README](../README.md) · 223 · [Category on cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 238 · [Category on cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
@@ -3802,3 +3802,213 @@ Square 1:1 hyper-realistic editorial food visual of Indonesian es teler. A tradi
 - Author: [@woleswoosh](https://x.com/woleswoosh)
 - Original post: https://x.com/woleswoosh/status/1994773362875535462
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-es-teler-no-text?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Grotesque Gourmet Crème Brûlée
+
+<a href="https://cinel.ai/prompts/p/grotesque-gourmet-creme-brulee?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/grotesque-gourmet-creme-brulee.webp" alt="Grotesque Gourmet Crème Brûlée" width="480"></a>
+
+> Reusable Toshi Lab template: swap dish + grotesque element.
+
+```text
+crème brûlée with crystalline glass-shard sugar shards, high-end food commercial product photography, the dish presented as a luxurious hero shot on an elegant plate, appetizing and slightly uncanny at the same time, the grotesque detail blending seamlessly and realistically into the food, glossy caramelized sugar crust cracked open to reveal creamy custard, fresh mint garnish and perfect plating, professional studio lighting with soft key light, crisp rim light and subtle reflections, macro lens close-up, shallow depth of field with creamy background blur, clean seamless neutral backdrop, ultra detailed textures, visible moisture and surface sheen, photorealistic, sharp focus, premium advertising campaign look, square 1:1, no text, no logos, no watermark, no blood, no gore
+```
+
+- Author: [@ToshiArte](https://x.com/ToshiArte)
+- Original post: https://x.com/ToshiArte/status/2115186779821080816
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/grotesque-gourmet-creme-brulee?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Premium Saffron Risotto Editorial
+
+<a href="https://cinel.ai/prompts/p/premium-saffron-risotto-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/premium-saffron-risotto-editorial.webp" alt="Premium Saffron Risotto Editorial" width="360"></a>
+
+> Adapted from food×typography poster; typography removed for clean hero.
+
+```text
+Premium photorealistic food editorial vertical poster featuring saffron risotto as the hero subject, luxury commercial food photography. Creamy golden risotto in a shallow ceramic bowl, one spoon lifting a glistening bite with soft steam, micro greens and edible flowers as garnish, refined plating, authentic rice texture, rich saffron color, subtle oil sheen. Soft studio lighting, realistic shadows, shallow depth of field, generous negative space in the upper third, muted warm background, sophisticated restaurant advertising look. Vertical 9:16, ultra-detailed, print-quality, photorealistic. No typography, no logos, no watermarks, no gibberish text, no cartoon styling.
+```
+
+- Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- Original post: https://x.com/Goodmanprotocol/status/2114946920372466002
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/premium-saffron-risotto-editorial?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Keto AR Culinary Deconstruction
+
+<a href="https://cinel.ai/prompts/p/keto-ar-culinary-deconstruction?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/keto-ar-culinary-deconstruction.webp" alt="Keto AR Culinary Deconstruction" width="480"></a>
+
+> Single-panel adapt of Gdgtify 2x2 keto AR template.
+
+```text
+Clean white studio, soft overhead softbox. AR Culinary Deconstruction still life of an avocado egg bowl: textured dark slate base with a clean white plate holding deconstructed primary ingredients — ripe avocado halves, soft-boiled egg, crispy bacon crumbles, microgreens — glossy and photoreal. A 1/12 scale plastic country-chef action figure poses with tiny tongs beside the plate. Background menu box showing the completed dish. Frosted glass spatial UI cards orbiting the plate with a flavor radar chart graphic (illegible abstract marks only). Floating flat graphic steam and herbs. High-end food photography, top-down to 45-degree angle, extremely shallow DOF, hyper-realistic food textures, bright soft diffused lighting, square 1:1. No logos, no readable brand text, no cartoon plastic food.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2114406635397591336
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/keto-ar-culinary-deconstruction?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Spicy Mapo Tofu AR Plate
+
+<a href="https://cinel.ai/prompts/p/spicy-mapo-tofu-ar-plate?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/spicy-mapo-tofu-ar-plate.webp" alt="Spicy Mapo Tofu AR Plate" width="480"></a>
+
+> Single-frame adapt of Gdgtify underrated spicy meals grid.
+
+```text
+Hyper-realistic spicy mapo tofu plated on a dark slate board, glossy chili oil sheen and Sichuan pepper dust, soft porous tofu cubes in rich red sauce, miniature plastic chef figure gripping tongs beside the plate, frosted-glass AR panels orbiting with abstract illegible flavor charts, clean bright soft diffused studio lighting, high-end food photography, 45-degree angle, extremely shallow depth of field, hyper-realistic food textures, subtle reflections on the plate, landscape 3:2. No logos, no readable text, no cartoonish plastic food, no messy clutter.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2115479957828702510
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/spicy-mapo-tofu-ar-plate?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Apothecary Spice Reliquary Shashlik
+
+<a href="https://cinel.ai/prompts/p/apothecary-spice-reliquary-shashlik?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/apothecary-spice-reliquary-shashlik.webp" alt="Apothecary Spice Reliquary Shashlik" width="480"></a>
+
+> Apothecary spice reliquary diorama template; B&W recipe walls, color food.
+
+```text
+Hyper-realistic 1:1 product photo of an Apothecary Spice Reliquary Diorama for grilled shashlik: U-shaped apothecary shelf box with tiny glass spice jars illusion at desktop scale. Chibi chef mascot in matte PVC holding tongs, food elements glossy-real — charred meat skewers, grilled peppers, spice dust. Background walls with B&W recipe-card typography and ingredient diagrams as abstract illegible marks only. Floor with pop-up spice dust, herb confetti, steam ribbons as paper cut-outs. Figure pours a 2D sauce spiral that becomes a 3D glossy ribbon over the floor. Soft food-photography highlights, no harsh shadows, appetizing miniature realism, square 1:1. No logos, no readable brand or recipe text.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2115115053703938176
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/apothecary-spice-reliquary-shashlik?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Isometric Miniature Ramen Shop
+
+<a href="https://cinel.ai/prompts/p/isometric-miniature-ramen-shop?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/isometric-miniature-ramen-shop.webp" alt="Isometric Miniature Ramen Shop" width="360"></a>
+
+> Collectible toy-set ramen shop; cozy rain curb night.
+
+```text
+Isometric miniature diorama of a tiny nighttime ramen shop, crafted like a detailed collectible toy set on a plain soft-gray studio surface. Cutaway shop box: warm orange interior light, four miniature stools at a narrow counter, steaming bowls with soft vapor curls, tiny chopsticks, a small chalkboard menu with illegible miniature marks (no readable brand names), hanging paper lanterns, a bicycle parked outside the shop front, rain-wet asphalt with puddle reflections, a tiny orange tabby cat under the eaves. Stylized 3D toy/miniature aesthetic, clean plastic and painted wood materials, subtle subsurface glow from interior lamps, shallow depth of field, centered isometric three-quarter view, cheerful cozy mood. No logos, no watermark, no real restaurant brands, no readable English brand text, vertical 4:5 composition.
+```
+
+- Author: [@Alyssa4aicreate](https://x.com/Alyssa4aicreate)
+- Original post: https://x.com/Alyssa4aicreate/status/2114152038926032952
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/isometric-miniature-ramen-shop?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Monumental Cheeseburger Campaign Hero
+
+<a href="https://cinel.ai/prompts/p/monumental-cheeseburger-campaign-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/monumental-cheeseburger-campaign-hero.webp" alt="Monumental Cheeseburger Campaign Hero" width="360"></a>
+
+> Single-tile adapt of 3x3 burger campaign; brand typography removed.
+
+```text
+Premium fast-casual burger campaign key visual as a single full-bleed vertical poster tile. Monumental photoreal classic triple cheeseburger as the hero product — identical layer order of bun, melted cheddar, beef patties, lettuce, tomato, pickles, glossy sauce — centered and large, consistent product identity. Background world: neon rainy alley atmosphere with wet reflections, cinematic lighting, bold color grade, surrounding motion suggested by steam and light streaks only. No hand-painted typography, no brand names, no logos, no readable headlines. Ultra-detailed food textures, commercial advertising look, vertical 2:3. No watermark.
+```
+
+- Author: [@ou_zhen599](https://x.com/ou_zhen599)
+- Original post: https://x.com/ou_zhen599/status/2114736657610277087
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/monumental-cheeseburger-campaign-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Tulip Latte Mint Mug Still
+
+<a href="https://cinel.ai/prompts/p/tulip-latte-mint-mug-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/tulip-latte-mint-mug-still.webp" alt="Tulip Latte Mint Mug Still" width="360"></a>
+
+> Rewritten as mug-first still life from lifestyle café post (no portrait).
+
+```text
+Photorealistic lifestyle product still life of a handmade sage-green ceramic cappuccino cup on a pale stone café tabletop, both hands cropped out — only the rounded mug and saucer fill the frame. Beautifully defined white tulip latte art surrounded by rich golden-brown crema, soft steam rising. Warm natural afternoon sunlight, gentle specular highlights on glaze, muted beige and sage-green palette, soft filmic contrast, ultra-high-resolution photographic realism, shallow depth of field, vertical 4:5. No people, no faces, no jewelry focus, no logos, no watermark, no readable menu text.
+```
+
+- Author: [@Kunda623270](https://x.com/Kunda623270)
+- Original post: https://x.com/Kunda623270/status/2115694114620731616
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/tulip-latte-mint-mug-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Halloween Pumpkin Coffee Still Life
+
+<a href="https://cinel.ai/prompts/p/halloween-pumpkin-coffee-still-life?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/halloween-pumpkin-coffee-still-life.webp" alt="Halloween Pumpkin Coffee Still Life" width="480"></a>
+
+> Halloween still life; skeletal hand is prop, not a real person.
+
+```text
+An illustration features a Halloween-themed still life composition with a blend of autumnal and spooky elements. Color palette dominated by warm oranges, yellows, and browns, contrasted with black and white accents. In the foreground, several pumpkins of varying sizes are clustered together, smooth surfaces reflecting light. Adjacent, a large sunflower with golden petals and a dark center, accompanied by smaller sunflowers and autumn leaves in brown and orange. A white coffee cup is held by a skeletal hand coming up into the scene from behind the pumpkins, adding a macabre touch. The cup contains a latte with intricate latte art, steam rising. Plain white background. Balanced composition, festive and visually appealing. Square 1:1. No logos, no watermark, no readable brand text.
+```
+
+- Author: [@heathergreen](https://x.com/heathergreen)
+- Original post: https://x.com/heathergreen/status/2114009025851658392
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/halloween-pumpkin-coffee-still-life?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Banana Protein Shake Splash Hero
+
+<a href="https://cinel.ai/prompts/p/banana-protein-shake-splash-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/banana-protein-shake-splash-hero.webp" alt="Banana Protein Shake Splash Hero" width="360"></a>
+
+> Generic unlabeled can; strip any brand marks from source ad look.
+
+```text
+Hyper-realistic product advertisement of an unlabeled protein shake can with yellow and cream design (no brand logos, no readable product names), surrounded by floating banana slices, almonds, and peanuts, dynamic milk splash bursting around the can, glossy condensation droplets on surface, vibrant warm yellow background, high-speed splash photography, ultra-detailed textures, commercial food photography style, dramatic lighting, vertical 4:5. No logos, no watermark, no barcode, no fake nutrition labels with readable text.
+```
+
+- Author: [@MohdAdnanA86218](https://x.com/MohdAdnanA86218)
+- Original post: https://x.com/MohdAdnanA86218/status/2112525598426075184
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/banana-protein-shake-splash-hero?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Blueberry Pancakes
+
+<a href="https://cinel.ai/prompts/p/floating-blueberry-pancakes?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-blueberry-pancakes.webp" alt="Floating Blueberry Pancakes" width="480"></a>
+
+> Reusable floating-food template; swap dish and garnish.
+
+```text
+A stack of fluffy buttermilk pancakes topped with fresh blueberries and a drizzle of maple syrup, suspended in midair against a clean white isolated background, premium food photography, rich natural surface texture, appetizing detail, realistic fibers and moisture, subtle seasoning, soft studio lighting, crisp natural shadow, dynamic floating composition, commercial advertising aesthetic, sharp focus, high detail, landscape 3:2. No logos, no watermark, no text.
+```
+
+- Author: [@promptlabdaily](https://x.com/promptlabdaily)
+- Original post: https://x.com/promptlabdaily/status/2115253766806995177
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-blueberry-pancakes?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Carnivore Miniature Steak Diorama
+
+<a href="https://cinel.ai/prompts/p/carnivore-miniature-steak-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/carnivore-miniature-steak-diorama.webp" alt="Carnivore Miniature Steak Diorama" width="480"></a>
+
+> Single panel from international carnivore diet grid template.
+
+```text
+Cinematic 16:9 miniature diorama × pop-up book engineering × culinary narrative × tilt-shift macro of a seared ribeye steak: glistening crust, rendered fat, pink medium center, tiny herb sprigs as paper-cut foliage, miniature butcher tools as props, soft warm kitchen light, shallow tilt-shift focus band, hyper-realistic meat texture against crafted paper and wood staging, appetizing and playful. No logos, no readable text, no blood gore, no cartoon plastic meat.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2113636813902352429
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/carnivore-miniature-steak-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Gothic Coffee Sunrise POV
+
+<a href="https://cinel.ai/prompts/p/gothic-coffee-sunrise-pov?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/gothic-coffee-sunrise-pov.webp" alt="Gothic Coffee Sunrise POV" width="480"></a>
+
+> Coffee as foreground anchor; fantasy city backdrop.
+
+```text
+Cinematic first-person fantasy sunrise: a steaming ceramic coffee cup in sharp foreground on a stone railing, soft vapor curling upward, beyond it a glowing Gothic metropolis with floating islands and a colossal pale moon low on the horizon, warm golden sunrise light mixing with cool blue shadows, ultra-detailed photoreal cup texture, painterly atmospheric haze on the city, epic wide composition, landscape 16:9. No logos on the cup, no watermark, no readable signage.
+```
+
+- Author: [@AIPromptoria](https://x.com/AIPromptoria)
+- Original post: https://x.com/AIPromptoria/status/2111077865726812176
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/gothic-coffee-sunrise-pov?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Cutaway Layer Cake
+
+<a href="https://cinel.ai/prompts/p/floating-cutaway-layer-cake?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-cutaway-layer-cake.webp" alt="Floating Cutaway Layer Cake" width="480"></a>
+
+> Floating cake template; strip Chinese callout labels from source.
+
+```text
+8K ultra high definition hyper-realistic floating strawberry cream layer cake with a clean vertical cutaway revealing sponge, cream, and fresh strawberry layers, suspended in midair against a soft pastel studio backdrop, premium dessert commercial photography, soft directional light, delicate crumbs and cream texture, appetizing moisture, no callout lines, no ingredient labels, no typography, square 1:1. No logos, no watermark.
+```
+
+- Author: [@AlanMalone131](https://x.com/AlanMalone131)
+- Original post: https://x.com/AlanMalone131/status/2113625735877599488
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-cutaway-layer-cake?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Cozy Orange Mug Marker Illustration
+
+<a href="https://cinel.ai/prompts/p/cozy-orange-mug-marker-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/cozy-orange-mug-marker-illustration.webp" alt="Cozy Orange Mug Marker Illustration" width="360"></a>
+
+> Cozy seasonal drink still life; hand OK as prop crop.
+
+```text
+A cozy, modern still-life illustration of a hand holding a dark rust-colored ceramic mug filled with a warm seasonal drink, garnished with two bright orange slices, cinnamon sticks, and fresh evergreen sprigs. The hand and forearm enter from the RIGHT side, palm upward supporting the mug, deep burgundy nail polish, burnt mustard-yellow sleeve with small cream geometric check and dark olive cuff. Soft muted sage green background with scattered translucent cream and pale golden circles suggesting gentle bokeh. Minimal elegant composition with generous negative space, warm autumn-winter colors, tactile handmade charm. Drawn entirely with alcohol art markers on lightly textured paper: bold opaque strokes, visible overlapping color layers, subtle streaking, expressive hand-drawn outlines, imperfect organic edges. Rich rust, burnt orange, burgundy, mustard, forest green, and sage palette. Contemporary editorial illustration, vertical 3:4. No logos, no watermark, no readable text.
+```
+
+- Author: [@heathergreen](https://x.com/heathergreen)
+- Original post: https://x.com/heathergreen/status/2114886547958804844
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/cozy-orange-mug-marker-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
