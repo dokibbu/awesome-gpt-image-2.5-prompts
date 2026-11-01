@@ -1,6 +1,6 @@
 # 插画与动漫 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 103 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 104 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 极简黑白线稿人物插画提示词
 
@@ -1532,3 +1532,17 @@ A surreal double exposure profile silhouette of a red fox, the inside of the sil
 - 原作者: [@darthjav](https://x.com/darthjav)
 - 原帖: https://x.com/darthjav/status/2113757124945928587
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/autumn-fox-double-exposure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 复古像素兽人领地·按时辰
+
+<a href="https://cinel.ai/zh/prompts/p/retro-pixel-orc-lands-night?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/retro-pixel-orc-lands-night.webp" alt="复古像素兽人领地·按时辰" width="480"></a>
+
+> Toshi Lab 模板：改 [TIME] 重定时辰。
+
+```text
+A retro 16-bit pixel art scene of a vast orc landscape at 20:30, the sky, moon position and lighting accurately matching late evening, jagged volcanic mountains and a dark fortress on the horizon, a wooden orc war camp with spiked palisades, glowing campfires and tattered banners in the middle ground, small orc warriors patrolling, sharpening axes and gathering around the fires, a winding dirt path in the foreground, layered parallax background like a classic side-scrolling fantasy video game, limited retro color palette, crisp hand-placed pixels, dithered gradients in the sky, nostalgic 90s console game art, highly detailed, atmospheric and epic, wide 16:9, no readable modern logos, no watermark.
+```
+
+- 原作者: [@ToshiArte](https://x.com/ToshiArte)
+- 原帖: https://x.com/ToshiArte/status/2115911551886488058
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/retro-pixel-orc-lands-night?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

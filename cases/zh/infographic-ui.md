@@ -1,6 +1,6 @@
 # 信息图与 UI · GPT Image 2.5
 
-[← README](../../README_zh.md) · 40 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 41 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D 国家旅行指南地图信息图提示词
 
@@ -1262,3 +1262,17 @@ Create a coherent fantasy RPG universe as a single 10x10 pixel-art sprite sheet 
 - 原作者: [@givros](https://x.com/givros)
 - 原帖: https://x.com/givros/status/2049883610136600939
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixel-rpg-universe-sprite-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 光合作用纪念碑信息图
+
+<a href="https://cinel.ai/zh/prompts/p/photosynthesis-monument-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/photosynthesis-monument-infographic.webp" alt="光合作用纪念碑信息图" width="480"></a>
+
+> 混合教育作品：替换主题隐喻。
+
+```text
+Create an extraordinary educational artwork about photosynthesis that combines a beautiful hand-drawn science infographic with an enormous three-dimensional conceptual sculpture and a highly detailed miniature diorama. Central metaphor: a gigantic leaf cathedral of weathered bronze. Populate with dozens of tiny figures interacting with ladders, walkways and chloroplast workshops. Surround with vintage science field-guide language on warm ivory paper: delicate black ink, muted sage-green watercolor, organic curved dashed guides, short explanatory labels. Warm directional lighting. Sophisticated restrained palette: parchment, sepia, weathered gray, aged bronze, dark ink, botanical green. One cohesive 16:9 artwork, captivating from a distance and rich in micro-details up close. No brands, no watermark, no unrelated factory gears.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2116193409727885477
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/photosynthesis-monument-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

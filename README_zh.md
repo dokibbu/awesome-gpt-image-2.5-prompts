@@ -13,20 +13,20 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-精选 **847** 条 GPT Image 2.5 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示词库，自动同步更新。
+精选 **875** 条 GPT Image 2.5 提示词，每条都附示例图、完整提示词、原作者和原帖链接。数据来自 [cinel.ai](https://cinel.ai/zh/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) 提示词库，自动同步更新。
 
 👉 [在 cinel.ai 浏览全部并在线生成](https://cinel.ai/zh/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ## 目录
 
 - [人像写真](#portrait) (92) · [全部](cases/zh/portrait.md)
-- [产品与电商](#product-photography) (61) · [全部](cases/zh/product-photography.md)
-- [海报与平面设计](#poster-design) (68) · [全部](cases/zh/poster-design.md)
-- [信息图与 UI](#infographic-ui) (40) · [全部](cases/zh/infographic-ui.md)
-- [3D 角色与手办](#3d-figurines) (114) · [全部](cases/zh/3d-figurines.md)
+- [产品与电商](#product-photography) (63) · [全部](cases/zh/product-photography.md)
+- [海报与平面设计](#poster-design) (70) · [全部](cases/zh/poster-design.md)
+- [信息图与 UI](#infographic-ui) (41) · [全部](cases/zh/infographic-ui.md)
+- [3D 角色与手办](#3d-figurines) (120) · [全部](cases/zh/3d-figurines.md)
 - [美食饮品](#food-drink) (238) · [全部](cases/zh/food-drink.md)
-- [插画与动漫](#illustration-anime) (103) · [全部](cases/zh/illustration-anime.md)
-- [创意场景](#scenes-creative) (131) · [全部](cases/zh/scenes-creative.md)
+- [插画与动漫](#illustration-anime) (104) · [全部](cases/zh/illustration-anime.md)
+- [创意场景](#scenes-creative) (147) · [全部](cases/zh/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -307,7 +307,7 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 ## 产品与电商
 
-精选 6 条 · [查看本类全部 61 条](cases/zh/product-photography.md) · [cinel 分类页](https://cinel.ai/zh/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 63 条](cases/zh/product-photography.md) · [cinel 分类页](https://cinel.ai/zh/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 针织云纱雨
 
@@ -522,7 +522,7 @@ Using the attached image, create an illustration sheet of professional industria
 
 ## 海报与平面设计
 
-精选 6 条 · [查看本类全部 68 条](cases/zh/poster-design.md) · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 70 条](cases/zh/poster-design.md) · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 包豪斯角色拼贴海报
 
@@ -724,7 +724,7 @@ Render engine: Octane Render or Redshift — physically accurate subsurface scat
 
 ## 信息图与 UI
 
-精选 6 条 · [查看本类全部 40 条](cases/zh/infographic-ui.md) · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 41 条](cases/zh/infographic-ui.md) · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D 国家旅行指南地图信息图提示词
 
@@ -857,7 +857,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## 3D 角色与手办
 
-精选 6 条 · [查看本类全部 114 条](cases/zh/3d-figurines.md) · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 120 条](cases/zh/3d-figurines.md) · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 照片转极简 3D 玩具角色风格提示词
 
@@ -1136,7 +1136,7 @@ Photorealistic lifestyle product still life of a handmade sage-green ceramic cap
 
 ## 插画与动漫
 
-精选 6 条 · [查看本类全部 103 条](cases/zh/illustration-anime.md) · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 104 条](cases/zh/illustration-anime.md) · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 云中村落双重曝光
 
@@ -1230,7 +1230,7 @@ A high-contrast ink noir portrait of a weary detective in a trench coat and fedo
 
 ## 创意场景
 
-精选 6 条 · [查看本类全部 131 条](cases/zh/scenes-creative.md) · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+精选 6 条 · [查看本类全部 147 条](cases/zh/scenes-creative.md) · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 古董书房迷你城市
 

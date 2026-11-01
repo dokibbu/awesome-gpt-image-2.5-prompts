@@ -1,6 +1,6 @@
 # 创意场景 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 131 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 147 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 巨型钢笔写出书中世界的魔幻场景提示词
 
@@ -2025,3 +2025,227 @@ Ultra-detailed photorealistic miniature diorama of an entire city contained insi
 - 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
 - 原帖: https://x.com/Goodmanprotocol/status/2114363628715663450
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/antique-study-miniature-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 黄铜留声机号角峡谷
+
+<a href="https://cinel.ai/zh/prompts/p/brass-gramophone-horn-canyon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/brass-gramophone-horn-canyon.webp" alt="黄铜留声机号角峡谷" width="360"></a>
+
+> 物件即风景：替换乐器与内部细节。
+
+```text
+Photorealistic cinematic view of a vast brass canyon formed by the horn of a single enormous 1920s gramophone, a black record lake below with the needle locked mid-groove and warm light pooling inside the metal, ultra detailed brass patina, wide 16:9, no text, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2115564272398831700
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/brass-gramophone-horn-canyon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 漂浮纸板都会
+
+<a href="https://cinel.ai/zh/prompts/p/cardboard-floating-metropolis?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/cardboard-floating-metropolis.webp" alt="漂浮纸板都会" width="480"></a>
+
+> 材质城市模板：替换面板材质与边缘物件。
+
+```text
+Cinematic matte painting of a floating city of rigid cardboard panels unfolded into towers and bridges, seams glowing from within, a single small sled resting on one outer edge under low golden light, atmospheric depth, landscape 3:2, no text, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2115609568474800448
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/cardboard-floating-metropolis?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 雨伞天幕天空城
+
+<a href="https://cinel.ai/zh/prompts/p/umbrella-canopy-sky-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/umbrella-canopy-sky-city.webp" alt="雨伞天幕天空城" width="480"></a>
+
+> 天幕世界模板：替换伞状物件与悬浮城材质。
+
+```text
+Cinematic matte painting of a vast open umbrella whose canopy has become a sky of fabric, holding a suspended city of crystallized raindrops that glow from within while the handle rises as a single central tower under soft overcast light, square 1:1, no text, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2116289045357875589
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/umbrella-canopy-sky-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 摩天楼皮猿·攀爬
+
+<a href="https://cinel.ai/zh/prompts/p/skyscraper-hide-ape-climb?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/skyscraper-hide-ape-climb.webp" alt="摩天楼皮猿·攀爬" width="360"></a>
+
+> 建筑皮肤模板：替换建筑类型与攀爬节拍。
+
+```text
+3D render of a colossal ape-like creature whose hide is the skyscraper itself, frozen mid-climb, windows serving as scales, interior light leaking through the joints of the living facade, strong material and lighting control, tall 9:16, no text, no logos, no watermark, no real brand signage.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2115790762784997536
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/skyscraper-hide-ape-climb?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 萨克斯黄铜峡谷
+
+<a href="https://cinel.ai/zh/prompts/p/saxophone-brass-canyon-sound?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/saxophone-brass-canyon-sound.webp" alt="萨克斯黄铜峡谷" width="360"></a>
+
+> 乐器峡谷：替换铜管乐器与声波定格。
+
+```text
+Photorealistic cinematic view of a vast canyon of curved brass formed by a single enormous saxophone, solid ripples of sound locked in the air above the bell while warm light pools along the metal interior, ultra detailed, wide 16:9, no text, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2115971954976997876
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/saxophone-brass-canyon-sound?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 月球结晶旗原
+
+<a href="https://cinel.ai/zh/prompts/p/lunar-crystal-flag-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/lunar-crystal-flag-plain.webp" alt="月球结晶旗原" width="480"></a>
+
+> 天体平原：替换植入徽记与结晶行为。
+
+```text
+Cinematic matte painting of a pale lunar plain where regolith has risen into crystalline towers around a single planted abstract fabric flag, the fabric frozen into permanent sails of light while fine dust hangs as suspended crystals in the low sun, landscape 3:2, no national symbols, no text, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2116153153016025390
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/lunar-crystal-flag-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 剧院帷幕峡谷
+
+<a href="https://cinel.ai/zh/prompts/p/theater-curtain-canyon-bridges?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/theater-curtain-canyon-bridges.webp" alt="剧院帷幕峡谷" width="360"></a>
+
+> 剧场景观：替换织物与光桥类型。
+
+```text
+Cinematic matte painting of a vast theater canyon whose walls are frozen stage curtains, heavy velvet folds hardened into cliffs while solid beams of spotlight form permanent bridges across the proscenium under warm theatrical light, wide 16:9, no text, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2116515531461099936
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/theater-curtain-canyon-bridges?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 高尔夫球陨坑地形
+
+<a href="https://cinel.ai/zh/prompts/p/golf-ball-cratered-terrain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/golf-ball-cratered-terrain.webp" alt="高尔夫球陨坑地形" width="480"></a>
+
+> 球体地形：替换球类物件与拖尾。
+
+```text
+Photorealistic cinematic view of an enormous golf ball frozen mid-flight as cratered terrain, dimples hardened into valleys and ridges, a thin arc of solid trajectory light still trailing from its surface under clear side illumination, landscape 3:2, no text, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2116243747818377419
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/golf-ball-cratered-terrain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 腕表齿轮表盘地形
+
+<a href="https://cinel.ai/zh/prompts/p/wristwatch-gear-dial-terrain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/wristwatch-gear-dial-terrain.webp" alt="腕表齿轮表盘地形" width="480"></a>
+
+> 机械景观：替换时计与桥式指针。
+
+```text
+Photorealistic cinematic view of an enormous wristwatch face standing as terrain, exposed gears hardened into ridges and valleys, the hands locked as rigid bridges across the dial under clear overhead light, square 1:1, no brand logos, no readable numerals as trademarks, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2116606133204910150
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/wristwatch-gear-dial-terrain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 红青3D眼镜双透镜平原
+
+<a href="https://cinel.ai/zh/prompts/p/anaglyph-glasses-dual-lens-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/anaglyph-glasses-dual-lens-plain.webp" alt="红青3D眼镜双透镜平原" width="360"></a>
+
+> 光学景观：替换镜片颜色与地貌。
+
+```text
+Cinematic matte painting of a vast plain split into twin landscapes by an enormous pair of 3D glasses, one lens a red dune field and the other a cyan ridge, dual shadows locked in place under split light, wide 16:9, no text, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2116651432237564240
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/anaglyph-glasses-dual-lens-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 冻结金砖罂粟路
+
+<a href="https://cinel.ai/zh/prompts/p/frozen-gold-brick-poppy-road?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/frozen-gold-brick-poppy-road.webp" alt="冻结金砖罂粟路" width="480"></a>
+
+> 路径材质替换：金属流与结晶花田。
+
+```text
+Cinematic matte painting of a winding path of solid gold bricks frozen mid-flow across a field of crystalline poppies, the bricks still catching light as if liquid while emerald sky light holds the whole plain in place, landscape 3:2, no text, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2115881353753530550
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/frozen-gold-brick-poppy-road?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 骨浪地平线·小帆船
+
+<a href="https://cinel.ai/zh/prompts/p/bone-wave-horizon-tiny-ship?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/bone-wave-horizon-tiny-ship.webp" alt="骨浪地平线·小帆船" width="360"></a>
+
+> 冻海模板：替换浪材质与小船。
+
+```text
+Cinematic matte painting of a pale horizon of solid white ridges that were once open sea, frozen into bone-like waves with a tiny sailing ship perched on one crest under thin, even light, wide 16:9, no text, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2115518967301513514
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/bone-wave-horizon-tiny-ship?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 篮球筐光网
+
+<a href="https://cinel.ai/zh/prompts/p/basketball-hoop-light-web?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/basketball-hoop-light-web.webp" alt="篮球筐光网" width="480"></a>
+
+> 运动物件定格：替换场上物件与能量环。
+
+```text
+Photorealistic cinematic view of an enormous basketball hoop standing alone on an empty court, its net a rigid web of solid light, a ball frozen at the exact moment it passes through with concentric rings of energy locked in the weave, square 1:1, no team logos, no text, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2115473673746579596
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/basketball-hoop-light-web?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 自行车轮辐条桥
+
+<a href="https://cinel.ai/zh/prompts/p/bicycle-wheel-spoke-bridges?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/bicycle-wheel-spoke-bridges.webp" alt="自行车轮辐条桥" width="360"></a>
+
+> 轮地形：替换轮型与骑手节拍。
+
+```text
+Photorealistic cinematic view of an enormous bicycle wheel standing as circular terrain, spokes hardened into bridges that span the rim, a rider silhouette frozen mid-pedal on the upper arc under clear side light, portrait 3:4, no brand logos, no text, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2115836063038005551
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/bicycle-wheel-spoke-bridges?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 小红帽立体书桌上剖面
+
+<a href="https://cinel.ai/zh/prompts/p/little-red-riding-popup-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/little-red-riding-popup-diorama.webp" alt="小红帽立体书桌上剖面" width="480"></a>
+
+> 书中涌现世界：替换公版故事。
+
+```text
+Physical literary research diorama for Little Red Riding Hood: an old open storybook on a physical desk; printed woods become roads, ink lines become architecture, illustrations become inhabited three-dimensional scenes. Gradient from printed page to relief to paper sculpture to full miniature world. Zones for forest path, grandmother cottage, and wolf tension communicated visually. Subject-relevant desk artifacts: spectacles, sketches, maps, notes. Warm tungsten archival desk light plus selective glow from the miniature world. Elevated oblique tabletop view, 40–55mm, miniature world sharp. Landscape 3:2. No generic fantasy village clutter, no unrelated typewriter decoration, no watermark, no brands.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2116431478729159101
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/little-red-riding-popup-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 猩红超跑机场崩塌静帧
+
+<a href="https://cinel.ai/zh/prompts/p/scarlet-hypercar-airport-collapse-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/scarlet-hypercar-airport-collapse-keyframe.webp" alt="猩红超跑机场崩塌静帧" width="480"></a>
+
+> 视频提示词改编为单一超写实电影静帧。
+
+```text
+Ultra-photorealistic cinematic still from an uninterrupted aerial vantage. A scarlet hypercar accelerates across an evacuated cargo airport toward a clear outer taxiway. Camera about 40 meters above pavement in a diagonal track. Behind the car: an earthquake fissure, a colossal radar mast crushing pavement beside the lane, an empty cargo aircraft wing sweeping just above the roof, a maintenance hangar folding open, and a towering orange fire curtain from ignited fuel spray. Heavy structures, photographic reflections, relentless implied speed, golden storm-break light. Wide 16:9. No text, no logos, no watermark, no readable airline brands.
+```
+
+- 原作者: [@umesh_ai](https://x.com/umesh_ai)
+- 原帖: https://x.com/umesh_ai/status/2116050968127402339
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/scarlet-hypercar-airport-collapse-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

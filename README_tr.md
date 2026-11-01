@@ -13,20 +13,20 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Özenle seçilmiş **847** GPT Image 2.5 prompt'u. Her birinde örnek görsel, tam prompt ve orijinal gönderi bağlantısıyla birlikte orijinal yazarın adı yer alır. Veriler [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) prompt kütüphanesinden gelir ve otomatik olarak senkronize edilir.
+Özenle seçilmiş **875** GPT Image 2.5 prompt'u. Her birinde örnek görsel, tam prompt ve orijinal gönderi bağlantısıyla birlikte orijinal yazarın adı yer alır. Veriler [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) prompt kütüphanesinden gelir ve otomatik olarak senkronize edilir.
 
 👉 [Tümüne cinel.ai'de göz at ve çevrimiçi üret](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ## İçindekiler
 
 - [Portre ve vesikalık](#portrait) (92) · [tümü](cases/portrait.md)
-- [Ürün ve e-ticaret](#product-photography) (61) · [tümü](cases/product-photography.md)
-- [Afiş, logo ve grafik tasarım](#poster-design) (68) · [tümü](cases/poster-design.md)
-- [İnfografik ve UI](#infographic-ui) (40) · [tümü](cases/infographic-ui.md)
-- [3D karakter ve figürler](#3d-figurines) (114) · [tümü](cases/3d-figurines.md)
+- [Ürün ve e-ticaret](#product-photography) (63) · [tümü](cases/product-photography.md)
+- [Afiş, logo ve grafik tasarım](#poster-design) (70) · [tümü](cases/poster-design.md)
+- [İnfografik ve UI](#infographic-ui) (41) · [tümü](cases/infographic-ui.md)
+- [3D karakter ve figürler](#3d-figurines) (120) · [tümü](cases/3d-figurines.md)
 - [Yemek ve içecek](#food-drink) (238) · [tümü](cases/food-drink.md)
-- [İllüstrasyon ve anime](#illustration-anime) (103) · [tümü](cases/illustration-anime.md)
-- [Yaratıcı sahneler](#scenes-creative) (131) · [tümü](cases/scenes-creative.md)
+- [İllüstrasyon ve anime](#illustration-anime) (104) · [tümü](cases/illustration-anime.md)
+- [Yaratıcı sahneler](#scenes-creative) (147) · [tümü](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -307,7 +307,7 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 ## Ürün ve e-ticaret
 
-Öne çıkan 6 · [61 öğenin tümü](cases/product-photography.md) · [cinel'de kategori](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [63 öğenin tümü](cases/product-photography.md) · [cinel'de kategori](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Knitted Cloud Yarn Rain
 
@@ -522,7 +522,7 @@ Using the attached image, create an illustration sheet of professional industria
 
 ## Afiş, logo ve grafik tasarım
 
-Öne çıkan 6 · [68 öğenin tümü](cases/poster-design.md) · [cinel'de kategori](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [70 öğenin tümü](cases/poster-design.md) · [cinel'de kategori](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Bauhaus Character Collage Poster
 
@@ -724,7 +724,7 @@ Render engine: Octane Render or Redshift — physically accurate subsurface scat
 
 ## İnfografik ve UI
 
-Öne çıkan 6 · [40 öğenin tümü](cases/infographic-ui.md) · [cinel'de kategori](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [41 öğenin tümü](cases/infographic-ui.md) · [cinel'de kategori](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -857,7 +857,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## 3D karakter ve figürler
 
-Öne çıkan 6 · [114 öğenin tümü](cases/3d-figurines.md) · [cinel'de kategori](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [120 öğenin tümü](cases/3d-figurines.md) · [cinel'de kategori](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1136,7 +1136,7 @@ Photorealistic lifestyle product still life of a handmade sage-green ceramic cap
 
 ## İllüstrasyon ve anime
 
-Öne çıkan 6 · [103 öğenin tümü](cases/illustration-anime.md) · [cinel'de kategori](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [104 öğenin tümü](cases/illustration-anime.md) · [cinel'de kategori](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Cloud Village Double Exposure
 
@@ -1230,7 +1230,7 @@ A high-contrast ink noir portrait of a weary detective in a trench coat and fedo
 
 ## Yaratıcı sahneler
 
-Öne çıkan 6 · [131 öğenin tümü](cases/scenes-creative.md) · [cinel'de kategori](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+Öne çıkan 6 · [147 öğenin tümü](cases/scenes-creative.md) · [cinel'de kategori](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Antique Study Miniature City
 

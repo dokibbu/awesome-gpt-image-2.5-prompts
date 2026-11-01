@@ -1,15 +1,15 @@
 {
   "model": "gpt-image-2.5",
-  "count": 847,
+  "count": 875,
   "categories": {
     "portrait": 92,
-    "product-photography": 61,
-    "poster-design": 68,
-    "infographic-ui": 40,
-    "3d-figurines": 114,
+    "product-photography": 63,
+    "poster-design": 70,
+    "infographic-ui": 41,
+    "3d-figurines": 120,
     "food-drink": 238,
-    "illustration-anime": 103,
-    "scenes-creative": 131
+    "illustration-anime": 104,
+    "scenes-creative": 147
   },
   "slugs": [
     "product-mockup-storyboard-grid",
@@ -858,6 +858,34 @@
     "bauhaus-character-collage-poster",
     "concept-car-2035-studio",
     "butterfly-white-gold-jewelry-set",
-    "negative-fill-black-product-still"
+    "negative-fill-black-product-still",
+    "retro-pixel-orc-lands-night",
+    "living-doghouse-creature-stride",
+    "brass-gramophone-horn-canyon",
+    "cardboard-floating-metropolis",
+    "umbrella-canopy-sky-city",
+    "film-strip-moth-midflight",
+    "skyscraper-hide-ape-climb",
+    "saxophone-brass-canyon-sound",
+    "lunar-crystal-flag-plain",
+    "theater-curtain-canyon-bridges",
+    "headphone-twin-cavern-bridge",
+    "golf-ball-cratered-terrain",
+    "patchwork-fabric-terrain-creature",
+    "wristwatch-gear-dial-terrain",
+    "anaglyph-glasses-dual-lens-plain",
+    "living-corset-lace-wing-creature",
+    "frozen-gold-brick-poppy-road",
+    "bone-wave-horizon-tiny-ship",
+    "basketball-hoop-light-web",
+    "bicycle-wheel-spoke-bridges",
+    "nautilus-science-atlas-poster",
+    "embroidered-lemons-gingham-plate",
+    "burnt-orange-coffee-pouch-still",
+    "photosynthesis-monument-infographic",
+    "bauhaus-letter-hacker-diorama",
+    "pi-symbol-infrastructure-city",
+    "little-red-riding-popup-diorama",
+    "scarlet-hypercar-airport-collapse-keyframe"
   ]
 }

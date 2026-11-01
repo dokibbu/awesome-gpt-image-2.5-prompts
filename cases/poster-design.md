@@ -1,6 +1,6 @@
 # Posters, Logos & Graphic Design · GPT Image 2.5
 
-[← README](../README.md) · 68 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 70 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sports Tribute Double-Exposure Collage Poster Prompt
 
@@ -1635,3 +1635,31 @@ Create ONE tall vertical illustrated poster about Bauhaus. Playful mid-century c
 - Author: [@Gdgtify](https://x.com/Gdgtify)
 - Original post: https://x.com/Gdgtify/status/2115289705851879927
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/bauhaus-character-collage-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Nautilus Science Atlas Poster
+
+<a href="https://cinel.ai/prompts/p/nautilus-science-atlas-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/nautilus-science-atlas-poster.webp" alt="Nautilus Science Atlas Poster" width="360"></a>
+
+> Reusable atlas layout: swap core object + title labels.
+
+```text
+An aesthetic scientific information atlas poster. A large three-dimensional nautilus shell expands outward, a fine geometric wireframe hugs its outline, and small forms create sharp scale contrast. Asymmetric grid: hero visual and title in the upper part, tidy data columns below; main form right of center, a stable vertical text block on the left. Reading path: big title → main form → data cells. Multi-level clean sans-serif typography, even spacing, white space around title and form; flat light background, no scenery. Rendering: 3D medical-grade modeling with soft shadows and real depth of field, vector line drawing for geometry, flat charts for supporting info. Color: high-key, cool, low-chroma neutral base with one saturated accent color only on the title, key marks and data highlights. Mood: rational, clear, calm. Exact text: title "NAUTILUS ATLAS", subtitle "Chamber Ratios", small labels "spiral", "septa", "growth". Vertical 3:4. No brands, no watermark.
+```
+
+- Author: [@LeoZuo_AI](https://x.com/LeoZuo_AI)
+- Original post: https://x.com/LeoZuo_AI/status/2116736472233427001
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/nautilus-science-atlas-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pi Symbol Infrastructure City
+
+<a href="https://cinel.ai/prompts/p/pi-symbol-infrastructure-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pi-symbol-infrastructure-city.webp" alt="Pi Symbol Infrastructure City" width="480"></a>
+
+> Symbol-as-city: swap emblem + accent signal color.
+
+```text
+Editorial architectural poster × isometric micro-diorama of a monumental pi (π) symbol that becomes functioning architecture and infrastructure. Dominant cream ivory background; structural colors black, charcoal, white; one strong signal-red accent on active systems. Hollow, terrace and bridge the pi so tiny workers, visitors, tools and micro-scenes inhabit production floors, archives and circulation loops. Large centered three-quarter symbol, slightly elevated viewpoint, clean negative space. Monumental symbolic infrastructure look: graphic from a distance, intricate up close. Square 1:1. No brands, no photoreal city backdrop, no unreadable silhouette, no watermark.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2116454379242877378
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pi-symbol-infrastructure-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

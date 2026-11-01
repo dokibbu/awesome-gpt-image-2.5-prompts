@@ -1,6 +1,6 @@
 # Product & E-commerce · GPT Image 2.5
 
-[← README](../README.md) · 61 · [Category on cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 63 · [Category on cinel](https://cinel.ai/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Nine-Panel Product Mockup Storyboard Prompt
 
@@ -1514,3 +1514,31 @@ Dark premium product photography of an unlabeled matte black wireless speaker on
 - Author: [@getimg_ai](https://x.com/getimg_ai)
 - Original post: https://x.com/getimg_ai/status/2114707073128689737
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/negative-fill-black-product-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Embroidered Lemons on Gingham Plate
+
+<a href="https://cinel.ai/prompts/p/embroidered-lemons-gingham-plate?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/embroidered-lemons-gingham-plate.webp" alt="Embroidered Lemons on Gingham Plate" width="480"></a>
+
+> Textile still-life: swap fruit embroidery + cloth pattern.
+
+```text
+A top-down, high-angle studio shot of a blue ceramic plate centered on a pink and white gingham tablecloth. The plate is filled with several realistic, textured lemons, each featuring intricate, hand-stitched embroidery detailing that mimics the bumpy skin of the fruit. The lemons are accompanied by vibrant green embroidered leaves and a small sprig of white citrus blossoms. The lighting is bright and even, highlighting the tactile, thread-work texture of the lemons against the smooth, glazed surface of the blue plate. Square 1:1, no text, no logos, no watermark.
+```
+
+- Author: [@heathergreen](https://x.com/heathergreen)
+- Original post: https://x.com/heathergreen/status/2116696734340637007
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/embroidered-lemons-gingham-plate?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Burnt-Orange Coffee Pouch Still
+
+<a href="https://cinel.ai/prompts/p/burnt-orange-coffee-pouch-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/burnt-orange-coffee-pouch-still.webp" alt="Burnt-Orange Coffee Pouch Still" width="360"></a>
+
+> Art-direction still: swap pack color + surface.
+
+```text
+Create a 4:5 coffee-ad still life. One burnt-orange matte pouch on dark charcoal stone; its only text is large cream COFFEE. A tilted copper scoop enters from upper left, spilling distinct roasted beans beside the pouch. Keep the label unobscured. One hard warm light from upper right; deep petrol-blue background, crisp shadows and a clear contact shadow under the pack. Tactile paper, copper and stone. Keep the pack fully in frame. No logos, extra text, people or watermark.
+```
+
+- Author: [@DYoung_AI](https://x.com/DYoung_AI)
+- Original post: https://x.com/DYoung_AI/status/2116570731534541231
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/burnt-orange-coffee-pouch-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

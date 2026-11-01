@@ -1,6 +1,6 @@
 # Illustration & Anime · GPT Image 2.5
 
-[← README](../README.md) · 103 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 104 · [Category on cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Minimal Black-and-White Line Art Character Prompt
 
@@ -1532,3 +1532,17 @@ A surreal double exposure profile silhouette of a red fox, the inside of the sil
 - Author: [@darthjav](https://x.com/darthjav)
 - Original post: https://x.com/darthjav/status/2113757124945928587
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/autumn-fox-double-exposure?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Retro Pixel Orc Lands by Hour
+
+<a href="https://cinel.ai/prompts/p/retro-pixel-orc-lands-night?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/retro-pixel-orc-lands-night.webp" alt="Retro Pixel Orc Lands by Hour" width="480"></a>
+
+> Toshi's Lab template: change [TIME] to retime the whole scene.
+
+```text
+A retro 16-bit pixel art scene of a vast orc landscape at 20:30, the sky, moon position and lighting accurately matching late evening, jagged volcanic mountains and a dark fortress on the horizon, a wooden orc war camp with spiked palisades, glowing campfires and tattered banners in the middle ground, small orc warriors patrolling, sharpening axes and gathering around the fires, a winding dirt path in the foreground, layered parallax background like a classic side-scrolling fantasy video game, limited retro color palette, crisp hand-placed pixels, dithered gradients in the sky, nostalgic 90s console game art, highly detailed, atmospheric and epic, wide 16:9, no readable modern logos, no watermark.
+```
+
+- Author: [@ToshiArte](https://x.com/ToshiArte)
+- Original post: https://x.com/ToshiArte/status/2115911551886488058
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/retro-pixel-orc-lands-night?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

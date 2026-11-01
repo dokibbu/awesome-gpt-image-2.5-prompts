@@ -1,6 +1,6 @@
 # 3D Characters & Figurines · GPT Image 2.5
 
-[← README](../README.md) · 114 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 120 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -2123,3 +2123,87 @@ Weird gelatin creature strutting forward: a giant glossy white molar tooth is th
 - Author: [@rare_glass](https://x.com/rare_glass)
 - Original post: https://x.com/rare_glass/status/2114341222479253604
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/gelatin-molar-creature-strut?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Living Doghouse Creature
+
+<a href="https://cinel.ai/prompts/p/living-doghouse-creature-stride?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/living-doghouse-creature-stride.webp" alt="Living Doghouse Creature" width="480"></a>
+
+> Lee Forest object-creature template: swap object + terrain.
+
+```text
+3D render of a colossal wooden doghouse grown into a living creature, roof tiles as armored plates, frozen mid-stride across a suburban plain with warm interior light leaking from the doorway, strong material and lighting control, photoreal materials, cinematic side light, landscape 3:2, no text, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2116334343241277915
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/living-doghouse-creature-stride?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Film-Strip Moth Mid-Flight
+
+<a href="https://cinel.ai/prompts/p/film-strip-moth-midflight?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/film-strip-moth-midflight.webp" alt="Film-Strip Moth Mid-Flight" width="360"></a>
+
+> Media-creature: swap media membrane + freeze pose.
+
+```text
+3D render of a colossal moth whose wings are translucent film strips solidified into membranes, frozen mid-flight, projected light from the frames hanging as permanent colored shapes inside the wings, strong material and lighting control, portrait 4:5, no text, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2115926656426864952
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/film-strip-moth-midflight?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Headphone Twin Caverns
+
+<a href="https://cinel.ai/prompts/p/headphone-twin-cavern-bridge?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/headphone-twin-cavern-bridge.webp" alt="Headphone Twin Caverns" width="480"></a>
+
+> Wearable-as-architecture: swap device + interior wave.
+
+```text
+3D render of a colossal pair of headphones standing as twin caverns, the headband a rigid bridge between them, solid waves of sound locked inside the earcups under focused interior light, strong material and lighting control, square 1:1, no logos, no text, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2116198457685733652
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/headphone-twin-cavern-bridge?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Patchwork Fabric Terrain Creature
+
+<a href="https://cinel.ai/prompts/p/patchwork-fabric-terrain-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/patchwork-fabric-terrain-creature.webp" alt="Patchwork Fabric Terrain Creature" width="360"></a>
+
+> Textile creature: swap fabric eras + seam glow.
+
+```text
+3D render of a colossal patchwork creature whose body is a walking landscape of stitched fabrics from many eras, seams glowing faintly, frozen mid-stride across an empty plain under low side light, strong material and lighting control, portrait 4:5, no text, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2116560829927526432
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/patchwork-fabric-terrain-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Living Corset Lace-Wing Creature
+
+<a href="https://cinel.ai/prompts/p/living-corset-lace-wing-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/living-corset-lace-wing-creature.webp" alt="Living Corset Lace-Wing Creature" width="360"></a>
+
+> Fashion-object creature: swap garment + ground scatter.
+
+```text
+3D render of a colossal corset grown into a living creature, boning as armored ribs and lace as translucent wings, frozen mid-rise across a plain of scattered pearls under soft side light, strong material and lighting control, portrait 2:3, no text, no logos, no watermark, no NSFW.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2116696728657445016
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/living-corset-lace-wing-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Bauhaus Letter Hacker Diorama
+
+<a href="https://cinel.ai/prompts/p/bauhaus-letter-hacker-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/bauhaus-letter-hacker-diorama.webp" alt="Bauhaus Letter Hacker Diorama" width="480"></a>
+
+> Typographic city diorama: swap letter city + clay character.
+
+```text
+Macro photography, tilt-shift lens, miniature stop-motion set on a warm tactile cream-colored physical paper backdrop. Soft studio lighting, deep physical shadows. Environment constructed entirely from giant physical 3D Bauhaus letterforms spelling HACK; letter surfaces etched with dense black scratchboard-style technical linework and schematics; thin raised physical wires as node-link data lines connecting the letters. A miniature tactile clay-figurine hacker with matte vinyl texture, oversized round head, tiny hoodie, holding a physical miniature keyboard, sitting on the horizontal crossbar of a massive 3D letter A, plugging a physical cable into the letter's scratchboard-etched surface. Wide 16:9, no brand logos, no watermark.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2116214045519081856
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/bauhaus-letter-hacker-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

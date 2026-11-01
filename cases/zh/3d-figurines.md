@@ -1,6 +1,6 @@
 # 3D 角色与手办 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 114 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 120 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 照片转极简 3D 玩具角色风格提示词
 
@@ -2123,3 +2123,87 @@ Weird gelatin creature strutting forward: a giant glossy white molar tooth is th
 - 原作者: [@rare_glass](https://x.com/rare_glass)
 - 原帖: https://x.com/rare_glass/status/2114341222479253604
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/gelatin-molar-creature-strut?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 活体狗屋生物
+
+<a href="https://cinel.ai/zh/prompts/p/living-doghouse-creature-stride?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/living-doghouse-creature-stride.webp" alt="活体狗屋生物" width="480"></a>
+
+> Lee Forest 物件生物模板：替换物件与地形。
+
+```text
+3D render of a colossal wooden doghouse grown into a living creature, roof tiles as armored plates, frozen mid-stride across a suburban plain with warm interior light leaking from the doorway, strong material and lighting control, photoreal materials, cinematic side light, landscape 3:2, no text, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2116334343241277915
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/living-doghouse-creature-stride?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 胶片蛾·定格飞行
+
+<a href="https://cinel.ai/zh/prompts/p/film-strip-moth-midflight?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/film-strip-moth-midflight.webp" alt="胶片蛾·定格飞行" width="360"></a>
+
+> 媒介生物：替换媒介膜与定格姿态。
+
+```text
+3D render of a colossal moth whose wings are translucent film strips solidified into membranes, frozen mid-flight, projected light from the frames hanging as permanent colored shapes inside the wings, strong material and lighting control, portrait 4:5, no text, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2115926656426864952
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/film-strip-moth-midflight?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 耳机双洞窟
+
+<a href="https://cinel.ai/zh/prompts/p/headphone-twin-cavern-bridge?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/headphone-twin-cavern-bridge.webp" alt="耳机双洞窟" width="480"></a>
+
+> 穿戴即建筑：替换设备与内部波纹。
+
+```text
+3D render of a colossal pair of headphones standing as twin caverns, the headband a rigid bridge between them, solid waves of sound locked inside the earcups under focused interior light, strong material and lighting control, square 1:1, no logos, no text, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2116198457685733652
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/headphone-twin-cavern-bridge?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 拼布地貌生物
+
+<a href="https://cinel.ai/zh/prompts/p/patchwork-fabric-terrain-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/patchwork-fabric-terrain-creature.webp" alt="拼布地貌生物" width="360"></a>
+
+> 织物生物：替换织物年代与接缝光。
+
+```text
+3D render of a colossal patchwork creature whose body is a walking landscape of stitched fabrics from many eras, seams glowing faintly, frozen mid-stride across an empty plain under low side light, strong material and lighting control, portrait 4:5, no text, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2116560829927526432
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/patchwork-fabric-terrain-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 活体胸衣蕾丝翅生物
+
+<a href="https://cinel.ai/zh/prompts/p/living-corset-lace-wing-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/living-corset-lace-wing-creature.webp" alt="活体胸衣蕾丝翅生物" width="360"></a>
+
+> 时装物件生物：替换衣物与地面散落物。
+
+```text
+3D render of a colossal corset grown into a living creature, boning as armored ribs and lace as translucent wings, frozen mid-rise across a plain of scattered pearls under soft side light, strong material and lighting control, portrait 2:3, no text, no logos, no watermark, no NSFW.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2116696728657445016
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/living-corset-lace-wing-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 包豪斯字母黑客剖面
+
+<a href="https://cinel.ai/zh/prompts/p/bauhaus-letter-hacker-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/bauhaus-letter-hacker-diorama.webp" alt="包豪斯字母黑客剖面" width="480"></a>
+
+> 字体城市剖面：替换字母城与黏土角色。
+
+```text
+Macro photography, tilt-shift lens, miniature stop-motion set on a warm tactile cream-colored physical paper backdrop. Soft studio lighting, deep physical shadows. Environment constructed entirely from giant physical 3D Bauhaus letterforms spelling HACK; letter surfaces etched with dense black scratchboard-style technical linework and schematics; thin raised physical wires as node-link data lines connecting the letters. A miniature tactile clay-figurine hacker with matte vinyl texture, oversized round head, tiny hoodie, holding a physical miniature keyboard, sitting on the horizontal crossbar of a massive 3D letter A, plugging a physical cable into the letter's scratchboard-etched surface. Wide 16:9, no brand logos, no watermark.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2116214045519081856
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/bauhaus-letter-hacker-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

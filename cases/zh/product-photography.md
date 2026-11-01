@@ -1,6 +1,6 @@
 # 产品与电商 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 61 · [cinel 分类页](https://cinel.ai/zh/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 63 · [cinel 分类页](https://cinel.ai/zh/prompts/product-photography?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 九宫格产品样机分镜提示词
 
@@ -1514,3 +1514,31 @@ Dark premium product photography of an unlabeled matte black wireless speaker on
 - 原作者: [@getimg_ai](https://x.com/getimg_ai)
 - 原帖: https://x.com/getimg_ai/status/2114707073128689737
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/negative-fill-black-product-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 方格布上的刺绣柠檬盘
+
+<a href="https://cinel.ai/zh/prompts/p/embroidered-lemons-gingham-plate?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/embroidered-lemons-gingham-plate.webp" alt="方格布上的刺绣柠檬盘" width="480"></a>
+
+> 织物静物：替换刺绣果实与桌布纹样。
+
+```text
+A top-down, high-angle studio shot of a blue ceramic plate centered on a pink and white gingham tablecloth. The plate is filled with several realistic, textured lemons, each featuring intricate, hand-stitched embroidery detailing that mimics the bumpy skin of the fruit. The lemons are accompanied by vibrant green embroidered leaves and a small sprig of white citrus blossoms. The lighting is bright and even, highlighting the tactile, thread-work texture of the lemons against the smooth, glazed surface of the blue plate. Square 1:1, no text, no logos, no watermark.
+```
+
+- 原作者: [@heathergreen](https://x.com/heathergreen)
+- 原帖: https://x.com/heathergreen/status/2116696734340637007
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/embroidered-lemons-gingham-plate?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 焦橙咖啡袋静物广告
+
+<a href="https://cinel.ai/zh/prompts/p/burnt-orange-coffee-pouch-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/burnt-orange-coffee-pouch-still.webp" alt="焦橙咖啡袋静物广告" width="360"></a>
+
+> 艺术指导静物：替换包装色与台面。
+
+```text
+Create a 4:5 coffee-ad still life. One burnt-orange matte pouch on dark charcoal stone; its only text is large cream COFFEE. A tilted copper scoop enters from upper left, spilling distinct roasted beans beside the pouch. Keep the label unobscured. One hard warm light from upper right; deep petrol-blue background, crisp shadows and a clear contact shadow under the pack. Tactile paper, copper and stone. Keep the pack fully in frame. No logos, extra text, people or watermark.
+```
+
+- 原作者: [@DYoung_AI](https://x.com/DYoung_AI)
+- 原帖: https://x.com/DYoung_AI/status/2116570731534541231
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/burnt-orange-coffee-pouch-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

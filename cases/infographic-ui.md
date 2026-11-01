@@ -1,6 +1,6 @@
 # Infographics & UI · GPT Image 2.5
 
-[← README](../README.md) · 40 · [Category on cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 41 · [Category on cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -1262,3 +1262,17 @@ Create a coherent fantasy RPG universe as a single 10x10 pixel-art sprite sheet 
 - Author: [@givros](https://x.com/givros)
 - Original post: https://x.com/givros/status/2049883610136600939
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixel-rpg-universe-sprite-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Photosynthesis Monument Infographic
+
+<a href="https://cinel.ai/prompts/p/photosynthesis-monument-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/photosynthesis-monument-infographic.webp" alt="Photosynthesis Monument Infographic" width="480"></a>
+
+> Hybrid educational artwork: swap $SUBJECT metaphor.
+
+```text
+Create an extraordinary educational artwork about photosynthesis that combines a beautiful hand-drawn science infographic with an enormous three-dimensional conceptual sculpture and a highly detailed miniature diorama. Central metaphor: a gigantic leaf cathedral of weathered bronze. Populate with dozens of tiny figures interacting with ladders, walkways and chloroplast workshops. Surround with vintage science field-guide language on warm ivory paper: delicate black ink, muted sage-green watercolor, organic curved dashed guides, short explanatory labels. Warm directional lighting. Sophisticated restrained palette: parchment, sepia, weathered gray, aged bronze, dark ink, botanical green. One cohesive 16:9 artwork, captivating from a distance and rich in micro-details up close. No brands, no watermark, no unrelated factory gears.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2116193409727885477
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/photosynthesis-monument-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

@@ -1,6 +1,6 @@
 # 海报与平面设计 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 68 · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 70 · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 运动员致敬双重曝光拼贴海报提示词
 
@@ -1635,3 +1635,31 @@ Create ONE tall vertical illustrated poster about Bauhaus. Playful mid-century c
 - 原作者: [@Gdgtify](https://x.com/Gdgtify)
 - 原帖: https://x.com/Gdgtify/status/2115289705851879927
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/bauhaus-character-collage-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 鹦鹉螺科学图集海报
+
+<a href="https://cinel.ai/zh/prompts/p/nautilus-science-atlas-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/nautilus-science-atlas-poster.webp" alt="鹦鹉螺科学图集海报" width="360"></a>
+
+> 可复用图集版式：替换核心物件与标题标签。
+
+```text
+An aesthetic scientific information atlas poster. A large three-dimensional nautilus shell expands outward, a fine geometric wireframe hugs its outline, and small forms create sharp scale contrast. Asymmetric grid: hero visual and title in the upper part, tidy data columns below; main form right of center, a stable vertical text block on the left. Reading path: big title → main form → data cells. Multi-level clean sans-serif typography, even spacing, white space around title and form; flat light background, no scenery. Rendering: 3D medical-grade modeling with soft shadows and real depth of field, vector line drawing for geometry, flat charts for supporting info. Color: high-key, cool, low-chroma neutral base with one saturated accent color only on the title, key marks and data highlights. Mood: rational, clear, calm. Exact text: title "NAUTILUS ATLAS", subtitle "Chamber Ratios", small labels "spiral", "septa", "growth". Vertical 3:4. No brands, no watermark.
+```
+
+- 原作者: [@LeoZuo_AI](https://x.com/LeoZuo_AI)
+- 原帖: https://x.com/LeoZuo_AI/status/2116736472233427001
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/nautilus-science-atlas-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 圆周率符号基建之城
+
+<a href="https://cinel.ai/zh/prompts/p/pi-symbol-infrastructure-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pi-symbol-infrastructure-city.webp" alt="圆周率符号基建之城" width="480"></a>
+
+> 符号即城：替换徽记与强调信号色。
+
+```text
+Editorial architectural poster × isometric micro-diorama of a monumental pi (π) symbol that becomes functioning architecture and infrastructure. Dominant cream ivory background; structural colors black, charcoal, white; one strong signal-red accent on active systems. Hollow, terrace and bridge the pi so tiny workers, visitors, tools and micro-scenes inhabit production floors, archives and circulation loops. Large centered three-quarter symbol, slightly elevated viewpoint, clean negative space. Monumental symbolic infrastructure look: graphic from a distance, intricate up close. Square 1:1. No brands, no photoreal city backdrop, no unreadable silhouette, no watermark.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2116454379242877378
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pi-symbol-infrastructure-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

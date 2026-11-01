@@ -1,6 +1,6 @@
 # Creative Scenes · GPT Image 2.5
 
-[← README](../README.md) · 131 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 147 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 
@@ -2025,3 +2025,227 @@ Ultra-detailed photorealistic miniature diorama of an entire city contained insi
 - Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
 - Original post: https://x.com/Goodmanprotocol/status/2114363628715663450
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/antique-study-miniature-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Brass Gramophone Horn Canyon
+
+<a href="https://cinel.ai/prompts/p/brass-gramophone-horn-canyon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/brass-gramophone-horn-canyon.webp" alt="Brass Gramophone Horn Canyon" width="360"></a>
+
+> Object-as-landscape: swap instrument + interior detail.
+
+```text
+Photorealistic cinematic view of a vast brass canyon formed by the horn of a single enormous 1920s gramophone, a black record lake below with the needle locked mid-groove and warm light pooling inside the metal, ultra detailed brass patina, wide 16:9, no text, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2115564272398831700
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/brass-gramophone-horn-canyon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Cardboard Metropolis
+
+<a href="https://cinel.ai/prompts/p/cardboard-floating-metropolis?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/cardboard-floating-metropolis.webp" alt="Floating Cardboard Metropolis" width="480"></a>
+
+> Material city template: swap panel material + edge object.
+
+```text
+Cinematic matte painting of a floating city of rigid cardboard panels unfolded into towers and bridges, seams glowing from within, a single small sled resting on one outer edge under low golden light, atmospheric depth, landscape 3:2, no text, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2115609568474800448
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/cardboard-floating-metropolis?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Umbrella Canopy Sky City
+
+<a href="https://cinel.ai/prompts/p/umbrella-canopy-sky-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/umbrella-canopy-sky-city.webp" alt="Umbrella Canopy Sky City" width="480"></a>
+
+> Canopy-world template: swap canopy object + suspended city material.
+
+```text
+Cinematic matte painting of a vast open umbrella whose canopy has become a sky of fabric, holding a suspended city of crystallized raindrops that glow from within while the handle rises as a single central tower under soft overcast light, square 1:1, no text, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2116289045357875589
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/umbrella-canopy-sky-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Skyscraper-Hide Ape Climb
+
+<a href="https://cinel.ai/prompts/p/skyscraper-hide-ape-climb?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/skyscraper-hide-ape-climb.webp" alt="Skyscraper-Hide Ape Climb" width="360"></a>
+
+> Architecture-hide template: swap building type + climb beat.
+
+```text
+3D render of a colossal ape-like creature whose hide is the skyscraper itself, frozen mid-climb, windows serving as scales, interior light leaking through the joints of the living facade, strong material and lighting control, tall 9:16, no text, no logos, no watermark, no real brand signage.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2115790762784997536
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/skyscraper-hide-ape-climb?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Saxophone Brass Canyon
+
+<a href="https://cinel.ai/prompts/p/saxophone-brass-canyon-sound?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/saxophone-brass-canyon-sound.webp" alt="Saxophone Brass Canyon" width="360"></a>
+
+> Instrument canyon: swap brass instrument + sound freeze.
+
+```text
+Photorealistic cinematic view of a vast canyon of curved brass formed by a single enormous saxophone, solid ripples of sound locked in the air above the bell while warm light pools along the metal interior, ultra detailed, wide 16:9, no text, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2115971954976997876
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/saxophone-brass-canyon-sound?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Lunar Crystal Flag Plain
+
+<a href="https://cinel.ai/prompts/p/lunar-crystal-flag-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/lunar-crystal-flag-plain.webp" alt="Lunar Crystal Flag Plain" width="480"></a>
+
+> Celestial plain: swap planted emblem + crystal behavior.
+
+```text
+Cinematic matte painting of a pale lunar plain where regolith has risen into crystalline towers around a single planted abstract fabric flag, the fabric frozen into permanent sails of light while fine dust hangs as suspended crystals in the low sun, landscape 3:2, no national symbols, no text, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2116153153016025390
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/lunar-crystal-flag-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Theater Curtain Canyon
+
+<a href="https://cinel.ai/prompts/p/theater-curtain-canyon-bridges?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/theater-curtain-canyon-bridges.webp" alt="Theater Curtain Canyon" width="360"></a>
+
+> Theater landscape: swap fabric + light bridge type.
+
+```text
+Cinematic matte painting of a vast theater canyon whose walls are frozen stage curtains, heavy velvet folds hardened into cliffs while solid beams of spotlight form permanent bridges across the proscenium under warm theatrical light, wide 16:9, no text, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2116515531461099936
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/theater-curtain-canyon-bridges?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Golf Ball Cratered Terrain
+
+<a href="https://cinel.ai/prompts/p/golf-ball-cratered-terrain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/golf-ball-cratered-terrain.webp" alt="Golf Ball Cratered Terrain" width="480"></a>
+
+> Sphere-terrain: swap sphere sport object + trail.
+
+```text
+Photorealistic cinematic view of an enormous golf ball frozen mid-flight as cratered terrain, dimples hardened into valleys and ridges, a thin arc of solid trajectory light still trailing from its surface under clear side illumination, landscape 3:2, no text, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2116243747818377419
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/golf-ball-cratered-terrain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Wristwatch Gear Dial Terrain
+
+<a href="https://cinel.ai/prompts/p/wristwatch-gear-dial-terrain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/wristwatch-gear-dial-terrain.webp" alt="Wristwatch Gear Dial Terrain" width="480"></a>
+
+> Mechanism landscape: swap timepiece + bridge hands.
+
+```text
+Photorealistic cinematic view of an enormous wristwatch face standing as terrain, exposed gears hardened into ridges and valleys, the hands locked as rigid bridges across the dial under clear overhead light, square 1:1, no brand logos, no readable numerals as trademarks, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2116606133204910150
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/wristwatch-gear-dial-terrain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Anaglyph Glasses Dual-Lens Plain
+
+<a href="https://cinel.ai/prompts/p/anaglyph-glasses-dual-lens-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/anaglyph-glasses-dual-lens-plain.webp" alt="Anaglyph Glasses Dual-Lens Plain" width="360"></a>
+
+> Optics landscape: swap lens colors + land types.
+
+```text
+Cinematic matte painting of a vast plain split into twin landscapes by an enormous pair of 3D glasses, one lens a red dune field and the other a cyan ridge, dual shadows locked in place under split light, wide 16:9, no text, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2116651432237564240
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/anaglyph-glasses-dual-lens-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Frozen Gold Brick Poppy Road
+
+<a href="https://cinel.ai/prompts/p/frozen-gold-brick-poppy-road?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/frozen-gold-brick-poppy-road.webp" alt="Frozen Gold Brick Poppy Road" width="480"></a>
+
+> Path material swap: metal flow + flower crystal field.
+
+```text
+Cinematic matte painting of a winding path of solid gold bricks frozen mid-flow across a field of crystalline poppies, the bricks still catching light as if liquid while emerald sky light holds the whole plain in place, landscape 3:2, no text, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2115881353753530550
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/frozen-gold-brick-poppy-road?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Bone-Wave Horizon Tiny Ship
+
+<a href="https://cinel.ai/prompts/p/bone-wave-horizon-tiny-ship?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/bone-wave-horizon-tiny-ship.webp" alt="Bone-Wave Horizon Tiny Ship" width="360"></a>
+
+> Frozen sea template: swap wave material + tiny craft.
+
+```text
+Cinematic matte painting of a pale horizon of solid white ridges that were once open sea, frozen into bone-like waves with a tiny sailing ship perched on one crest under thin, even light, wide 16:9, no text, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2115518967301513514
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/bone-wave-horizon-tiny-ship?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Basketball Hoop Light-Web
+
+<a href="https://cinel.ai/prompts/p/basketball-hoop-light-web?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/basketball-hoop-light-web.webp" alt="Basketball Hoop Light-Web" width="480"></a>
+
+> Sports object freeze: swap court object + energy rings.
+
+```text
+Photorealistic cinematic view of an enormous basketball hoop standing alone on an empty court, its net a rigid web of solid light, a ball frozen at the exact moment it passes through with concentric rings of energy locked in the weave, square 1:1, no team logos, no text, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2115473673746579596
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/basketball-hoop-light-web?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Bicycle Wheel Spoke Bridges
+
+<a href="https://cinel.ai/prompts/p/bicycle-wheel-spoke-bridges?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/bicycle-wheel-spoke-bridges.webp" alt="Bicycle Wheel Spoke Bridges" width="360"></a>
+
+> Wheel terrain: swap wheel type + rider beat.
+
+```text
+Photorealistic cinematic view of an enormous bicycle wheel standing as circular terrain, spokes hardened into bridges that span the rim, a rider silhouette frozen mid-pedal on the upper arc under clear side light, portrait 3:4, no brand logos, no text, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2115836063038005551
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/bicycle-wheel-spoke-bridges?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Little Red Riding Hood Pop-Up Diorama
+
+<a href="https://cinel.ai/prompts/p/little-red-riding-popup-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/little-red-riding-popup-diorama.webp" alt="Little Red Riding Hood Pop-Up Diorama" width="480"></a>
+
+> Book-emergence world: swap public-domain tale.
+
+```text
+Physical literary research diorama for Little Red Riding Hood: an old open storybook on a physical desk; printed woods become roads, ink lines become architecture, illustrations become inhabited three-dimensional scenes. Gradient from printed page to relief to paper sculpture to full miniature world. Zones for forest path, grandmother cottage, and wolf tension communicated visually. Subject-relevant desk artifacts: spectacles, sketches, maps, notes. Warm tungsten archival desk light plus selective glow from the miniature world. Elevated oblique tabletop view, 40–55mm, miniature world sharp. Landscape 3:2. No generic fantasy village clutter, no unrelated typewriter decoration, no watermark, no brands.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2116431478729159101
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/little-red-riding-popup-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Scarlet Hypercar Airport Collapse Keyframe
+
+<a href="https://cinel.ai/prompts/p/scarlet-hypercar-airport-collapse-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/scarlet-hypercar-airport-collapse-keyframe.webp" alt="Scarlet Hypercar Airport Collapse Keyframe" width="480"></a>
+
+> Video prompt adapted to a single ultra-photoreal cinematic still.
+
+```text
+Ultra-photorealistic cinematic still from an uninterrupted aerial vantage. A scarlet hypercar accelerates across an evacuated cargo airport toward a clear outer taxiway. Camera about 40 meters above pavement in a diagonal track. Behind the car: an earthquake fissure, a colossal radar mast crushing pavement beside the lane, an empty cargo aircraft wing sweeping just above the roof, a maintenance hangar folding open, and a towering orange fire curtain from ignited fuel spray. Heavy structures, photographic reflections, relentless implied speed, golden storm-break light. Wide 16:9. No text, no logos, no watermark, no readable airline brands.
+```
+
+- Author: [@umesh_ai](https://x.com/umesh_ai)
+- Original post: https://x.com/umesh_ai/status/2116050968127402339
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/scarlet-hypercar-airport-collapse-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
