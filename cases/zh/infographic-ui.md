@@ -1,6 +1,6 @@
 # 信息图与 UI · GPT Image 2.5
 
-[← README](../../README_zh.md) · 41 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 44 · [cinel 分类页](https://cinel.ai/zh/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D 国家旅行指南地图信息图提示词
 
@@ -1276,3 +1276,45 @@ Create an extraordinary educational artwork about photosynthesis that combines a
 - 原作者: [@Gdgtify](https://x.com/Gdgtify)
 - 原帖: https://x.com/Gdgtify/status/2116193409727885477
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/photosynthesis-monument-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 等距年代建筑剖切图
+
+<a href="https://cinel.ai/zh/prompts/p/isometric-decade-section-cutaway?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/isometric-decade-section-cutaway.webp" alt="等距年代建筑剖切图" width="480"></a>
+
+> 真等距剖面，适合关卡或设定图。
+
+```text
+True isometric dimetric section-cut of a multi-floor 1990 arcade loft workshop, roof and one facade sliced away to expose all rooms at once, dense era props: CRT cabinets, sticky soda cups, neon posters, soldering benches, cartridge shelves, tangled cables, tiny anonymous figures at work, soft practical room lights, clean white outer void, wide 16:9, no brand logos, no watermark.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2113546971243778189
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/isometric-decade-section-cutaway?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 主题字形字母表网格
+
+<a href="https://cinel.ai/zh/prompts/p/theme-glyph-alphabet-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/theme-glyph-alphabet-grid.webp" alt="主题字形字母表网格" width="480"></a>
+
+> 游戏 UI 字表：母题基元雕刻每个字母。
+
+```text
+Strict orthogonal 26-cell A-to-Z glyph sheet, each letter a dense solid-black mass carved by cyberpunk circuitry motif primitives — hooks, traces, vias, sweeping tails — negative-space eye holes and gaps, premium editorial game-UI font poster, clean off-white ground, square 1:1, no logos, no watermark.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2116667031051231705
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/theme-glyph-alphabet-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 等距房间·年代四象限
+
+<a href="https://cinel.ai/zh/prompts/p/isometric-room-era-quadrants?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/isometric-room-era-quadrants.webp" alt="等距房间·年代四象限" width="480"></a>
+
+> 物件顺时针时间环；建筑骨架一致。
+
+```text
+Isometric cutaway of a single study room divided into four seamless quadrants showing creator desk tools across 1890, 1950, 1995 and 2025, architecture morphs subtly but stays consistent, 25–30 historically consistent objects, neat surfaces, soft shadows, no perspective distortion, wide 16:9, no brand logos, no watermark.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2114978151285887406
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/isometric-room-era-quadrants?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

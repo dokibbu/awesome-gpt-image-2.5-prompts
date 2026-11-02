@@ -13,7 +13,7 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Visualizza-009246)](README_it.md)
 
-Eine kuratierte Liste mit **875** GPT Image 2.5-Prompts. Jeder Eintrag enthält ein Beispielbild, den vollständigen Prompt und die Nennung des Originalautors mit Link zum Originalbeitrag. Die Daten stammen aus der Prompt-Bibliothek von [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) und werden automatisch synchronisiert.
+Eine kuratierte Liste mit **905** GPT Image 2.5-Prompts. Jeder Eintrag enthält ein Beispielbild, den vollständigen Prompt und die Nennung des Originalautors mit Link zum Originalbeitrag. Die Daten stammen aus der Prompt-Bibliothek von [cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts) und werden automatisch synchronisiert.
 
 👉 [Alle ansehen und online generieren auf cinel.ai](https://cinel.ai/prompts/model/gpt-image-2-5?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
@@ -21,12 +21,12 @@ Eine kuratierte Liste mit **875** GPT Image 2.5-Prompts. Jeder Eintrag enthält 
 
 - [Porträt & Headshot](#portrait) (92) · [alle](cases/portrait.md)
 - [Produkt & E-Commerce](#product-photography) (63) · [alle](cases/product-photography.md)
-- [Poster, Logos & Grafikdesign](#poster-design) (70) · [alle](cases/poster-design.md)
-- [Infografiken & UI](#infographic-ui) (41) · [alle](cases/infographic-ui.md)
-- [3D-Figuren & Charaktere](#3d-figurines) (120) · [alle](cases/3d-figurines.md)
-- [Essen & Trinken](#food-drink) (238) · [alle](cases/food-drink.md)
-- [Illustration & Anime](#illustration-anime) (104) · [alle](cases/illustration-anime.md)
-- [Kreative Szenen](#scenes-creative) (147) · [alle](cases/scenes-creative.md)
+- [Poster, Logos & Grafikdesign](#poster-design) (71) · [alle](cases/poster-design.md)
+- [Infografiken & UI](#infographic-ui) (44) · [alle](cases/infographic-ui.md)
+- [3D-Figuren & Charaktere](#3d-figurines) (127) · [alle](cases/3d-figurines.md)
+- [Essen & Trinken](#food-drink) (248) · [alle](cases/food-drink.md)
+- [Illustration & Anime](#illustration-anime) (107) · [alle](cases/illustration-anime.md)
+- [Kreative Szenen](#scenes-creative) (153) · [alle](cases/scenes-creative.md)
 
 <a id="portrait"></a>
 
@@ -522,7 +522,7 @@ Using the attached image, create an illustration sheet of professional industria
 
 ## Poster, Logos & Grafikdesign
 
-6 ausgewählt · [Alle 70 ansehen](cases/poster-design.md) · [Kategorie auf cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 ausgewählt · [Alle 71 ansehen](cases/poster-design.md) · [Kategorie auf cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Bauhaus Character Collage Poster
 
@@ -724,7 +724,7 @@ Render engine: Octane Render or Redshift — physically accurate subsurface scat
 
 ## Infografiken & UI
 
-6 ausgewählt · [Alle 41 ansehen](cases/infographic-ui.md) · [Kategorie auf cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 ausgewählt · [Alle 44 ansehen](cases/infographic-ui.md) · [Kategorie auf cinel](https://cinel.ai/prompts/infographic-ui?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 3D Country Travel Guide Map Infographic Prompt
 
@@ -857,7 +857,7 @@ Create an exploded products with inner mechanics of a mechanical keyboard, high-
 
 ## 3D-Figuren & Charaktere
 
-6 ausgewählt · [Alle 120 ansehen](cases/3d-figurines.md) · [Kategorie auf cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 ausgewählt · [Alle 127 ansehen](cases/3d-figurines.md) · [Kategorie auf cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -1046,7 +1046,7 @@ Background remains solid warm cream. Top center text displays THE BICYCLE in bol
 
 ## Essen & Trinken
 
-6 ausgewählt · [Alle 238 ansehen](cases/food-drink.md) · [Kategorie auf cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 ausgewählt · [Alle 248 ansehen](cases/food-drink.md) · [Kategorie auf cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Grotesque Gourmet Crème Brûlée
 
@@ -1136,7 +1136,7 @@ Photorealistic lifestyle product still life of a handmade sage-green ceramic cap
 
 ## Illustration & Anime
 
-6 ausgewählt · [Alle 104 ansehen](cases/illustration-anime.md) · [Kategorie auf cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 ausgewählt · [Alle 107 ansehen](cases/illustration-anime.md) · [Kategorie auf cinel](https://cinel.ai/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Cloud Village Double Exposure
 
@@ -1230,7 +1230,7 @@ A high-contrast ink noir portrait of a weary detective in a trench coat and fedo
 
 ## Kreative Szenen
 
-6 ausgewählt · [Alle 147 ansehen](cases/scenes-creative.md) · [Kategorie auf cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+6 ausgewählt · [Alle 153 ansehen](cases/scenes-creative.md) · [Kategorie auf cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Antique Study Miniature City
 

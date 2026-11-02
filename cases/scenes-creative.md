@@ -1,6 +1,6 @@
 # Creative Scenes · GPT Image 2.5
 
-[← README](../README.md) · 147 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 153 · [Category on cinel](https://cinel.ai/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Giant Fountain Pen Writing a Book's World into Life
 
@@ -2249,3 +2249,87 @@ Ultra-photorealistic cinematic still from an uninterrupted aerial vantage. A sca
 - Author: [@umesh_ai](https://x.com/umesh_ai)
 - Original post: https://x.com/umesh_ai/status/2116050968127402339
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/scarlet-hypercar-airport-collapse-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Collector Artifact Chess Set
+
+<a href="https://cinel.ai/prompts/p/fandom-artifact-chess-set?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/fandom-artifact-chess-set.webp" alt="Collector Artifact Chess Set" width="480"></a>
+
+> No character figures: pieces are stylized artifacts only.
+
+```text
+Hyper-realistic isometric 3D product render of a premium collector's edition chess set for a Horde vs Alliance fantasy rivalry. Left/white pieces are organic rounded green-blue artifact totems; right/black pieces are sharp industrial red-purple artifacts. Board surface split into living grass versus charred earth. No miniature characters or action figures — only stylized artifact totems for kings, queens, knights, bishops, rooks and pawns. Soft studio lighting, museum display quality, wide 16:9, no brand logos, no watermark.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2110668504244314398
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/fandom-artifact-chess-set?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Balloon City Parade Float
+
+<a href="https://cinel.ai/prompts/p/balloon-city-parade-float?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/balloon-city-parade-float.webp" alt="Balloon City Parade Float" width="480"></a>
+
+> Each orb a rigid tower; ribbons harden into bridges.
+
+```text
+Cinematic matte painting of a floating city of solid parade balloons frozen mid-ascent, each orb a rigid tower of primary parade colors while ribbons harden into bridges between them under bright festival light, wide 16:9, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2116938323159580866
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/balloon-city-parade-float?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Isometric Dollhouse Decade Diorama
+
+<a href="https://cinel.ai/prompts/p/isometric-dollhouse-decade-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/isometric-dollhouse-decade-diorama.webp" alt="Isometric Dollhouse Decade Diorama" width="480"></a>
+
+> Pop-culture homage without named IP: decade props only.
+
+```text
+Premium isometric architectural dollhouse cutaway of a split-level townhouse themed as a 1980s home-computer den, 45° projection, roof and wall sectioned away, rooms packed with beige PCs, floppy disks, mosaic tile kitchens, wood-panel TVs, cassette stacks, poster walls, warm practical lamps per zone, high semiotic prop density, lore-book insert quality, wide 16:9, no brand logos, no watermark.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2111488407545278746
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/isometric-dollhouse-decade-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Clapperboard Terrain Plain
+
+<a href="https://cinel.ai/prompts/p/clapperboard-terrain-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/clapperboard-terrain-plain.webp" alt="Clapperboard Terrain Plain" width="480"></a>
+
+> Black/white bars as ridges; solid sound arc above.
+
+```text
+Photorealistic cinematic view of an enormous film clapperboard standing as striped terrain on an empty soundstage plain, black and white bars hardened into ridges, the clapper frozen mid-snap with a thin arc of solid sound still hanging above the slate under clear overhead light, wide 16:9, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2116893020041707971
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/clapperboard-terrain-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Euler Knowledge Monument Scene
+
+<a href="https://cinel.ai/prompts/p/euler-knowledge-monument?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/euler-knowledge-monument.webp" alt="Euler Knowledge Monument Scene" width="480"></a>
+
+> One adaptive visual language, not a four-style collage.
+
+```text
+Wide 16:9 unified maximalist editorial scene for Euler: the identity becomes a sculptural three-dimensional knowledge monument fused with giant illustrated letterform landscapes, architectural black-and-white blueprint typography, tiny expressive symbolic characters, precise geometric conceptual diagrams, sophisticated negative space. Solve as one adaptive visual language, not a four-style collage. Readable equation motif e^{iπ}+1=0 integrated as architecture. No photographic portrait dependency, no logos, no watermark.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2117037723295047807
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/euler-knowledge-monument?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Coat of Rain Figure Still
+
+<a href="https://cinel.ai/prompts/p/coat-of-rain-figure-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/coat-of-rain-figure-still.webp" alt="Coat of Rain Figure Still" width="360"></a>
+
+> Shoulders remain cloth; droplets locked as the coat becomes weather.
+
+```text
+Cinematic film still of an anonymous figure in a long trench coat frozen mid-step, the lower half of the fabric already solid rain while the shoulders remain cloth, each droplet locked in place as the coat itself becomes the weather, vertical 2:3, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2117028917513187710
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/coat-of-rain-figure-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

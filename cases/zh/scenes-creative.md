@@ -1,6 +1,6 @@
 # 创意场景 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 147 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 153 · [cinel 分类页](https://cinel.ai/zh/prompts/scenes-creative?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 巨型钢笔写出书中世界的魔幻场景提示词
 
@@ -2249,3 +2249,87 @@ Ultra-photorealistic cinematic still from an uninterrupted aerial vantage. A sca
 - 原作者: [@umesh_ai](https://x.com/umesh_ai)
 - 原帖: https://x.com/umesh_ai/status/2116050968127402339
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/scarlet-hypercar-airport-collapse-keyframe?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 收藏级抽象图腾象棋
+
+<a href="https://cinel.ai/zh/prompts/p/fandom-artifact-chess-set?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/fandom-artifact-chess-set.webp" alt="收藏级抽象图腾象棋" width="480"></a>
+
+> 不要角色小人：棋子只做风格化图腾器物。
+
+```text
+Hyper-realistic isometric 3D product render of a premium collector's edition chess set for a Horde vs Alliance fantasy rivalry. Left/white pieces are organic rounded green-blue artifact totems; right/black pieces are sharp industrial red-purple artifacts. Board surface split into living grass versus charred earth. No miniature characters or action figures — only stylized artifact totems for kings, queens, knights, bishops, rooks and pawns. Soft studio lighting, museum display quality, wide 16:9, no brand logos, no watermark.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2110668504244314398
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/fandom-artifact-chess-set?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 气球Parade浮城
+
+<a href="https://cinel.ai/zh/prompts/p/balloon-city-parade-float?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/balloon-city-parade-float.webp" alt="气球Parade浮城" width="480"></a>
+
+> 每球是刚性塔；缎带硬成桥。
+
+```text
+Cinematic matte painting of a floating city of solid parade balloons frozen mid-ascent, each orb a rigid tower of primary parade colors while ribbons harden into bridges between them under bright festival light, wide 16:9, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2116938323159580866
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/balloon-city-parade-float?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 等距玩偶屋·年代立体剖面
+
+<a href="https://cinel.ai/zh/prompts/p/isometric-dollhouse-decade-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/isometric-dollhouse-decade-diorama.webp" alt="等距玩偶屋·年代立体剖面" width="480"></a>
+
+> 流行文化致敬但不点名 IP：只用年代道具。
+
+```text
+Premium isometric architectural dollhouse cutaway of a split-level townhouse themed as a 1980s home-computer den, 45° projection, roof and wall sectioned away, rooms packed with beige PCs, floppy disks, mosaic tile kitchens, wood-panel TVs, cassette stacks, poster walls, warm practical lamps per zone, high semiotic prop density, lore-book insert quality, wide 16:9, no brand logos, no watermark.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2111488407545278746
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/isometric-dollhouse-decade-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 场记板地貌平原
+
+<a href="https://cinel.ai/zh/prompts/p/clapperboard-terrain-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/clapperboard-terrain-plain.webp" alt="场记板地貌平原" width="480"></a>
+
+> 黑白条作脊；上方固态声弧。
+
+```text
+Photorealistic cinematic view of an enormous film clapperboard standing as striped terrain on an empty soundstage plain, black and white bars hardened into ridges, the clapper frozen mid-snap with a thin arc of solid sound still hanging above the slate under clear overhead light, wide 16:9, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2116893020041707971
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/clapperboard-terrain-plain?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 欧拉知识纪念碑场景
+
+<a href="https://cinel.ai/zh/prompts/p/euler-knowledge-monument?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/euler-knowledge-monument.webp" alt="欧拉知识纪念碑场景" width="480"></a>
+
+> 一种自适应视觉语言，不是四风格拼贴。
+
+```text
+Wide 16:9 unified maximalist editorial scene for Euler: the identity becomes a sculptural three-dimensional knowledge monument fused with giant illustrated letterform landscapes, architectural black-and-white blueprint typography, tiny expressive symbolic characters, precise geometric conceptual diagrams, sophisticated negative space. Solve as one adaptive visual language, not a four-style collage. Readable equation motif e^{iπ}+1=0 integrated as architecture. No photographic portrait dependency, no logos, no watermark.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2117037723295047807
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/euler-knowledge-monument?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 雨衣化身雨幕人物静帧
+
+<a href="https://cinel.ai/zh/prompts/p/coat-of-rain-figure-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/coat-of-rain-figure-still.webp" alt="雨衣化身雨幕人物静帧" width="360"></a>
+
+> 肩仍是布；衣变天气时雨滴定格。
+
+```text
+Cinematic film still of an anonymous figure in a long trench coat frozen mid-step, the lower half of the fabric already solid rain while the shoulders remain cloth, each droplet locked in place as the coat itself becomes the weather, vertical 2:3, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2117028917513187710
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/coat-of-rain-figure-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

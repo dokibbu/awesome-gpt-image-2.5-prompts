@@ -1,6 +1,6 @@
 # 3D Characters & Figurines · GPT Image 2.5
 
-[← README](../README.md) · 120 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 127 · [Category on cinel](https://cinel.ai/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Photo to Minimal 3D Toy Character Style Transfer
 
@@ -2207,3 +2207,101 @@ Macro photography, tilt-shift lens, miniature stop-motion set on a warm tactile 
 - Author: [@Gdgtify](https://x.com/Gdgtify)
 - Original post: https://x.com/Gdgtify/status/2116214045519081856
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/bauhaus-letter-hacker-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### London City Fridge Magnet 3D
+
+<a href="https://cinel.ai/prompts/p/london-city-fridge-magnet-3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/london-city-fridge-magnet-3d.webp" alt="London City Fridge Magnet 3D" width="360"></a>
+
+> Dense layered landmarks on a thick rounded magnet.
+
+```text
+Ultra-photorealistic product photograph of a premium 3D miniature cityscape refrigerator magnet featuring London. Compact thick rectangular magnet with softly rounded edges, intricately sculpted miniature London built into the surface: Big Ben, Palace of Westminster, Tower Bridge, London Eye, St Paul's Cathedral, The Shard, River Thames, historic buildings, tiny streets, bridges, trees and gardens in dense layered composition. Extraordinary physical depth, realistic architectural materials, soft studio product lighting, vertical 3:4, no brand logos, no watermark.
+```
+
+- Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- Original post: https://x.com/Goodmanprotocol/status/2116542650321187278
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/london-city-fridge-magnet-3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Breath Ice Tunnel Creature
+
+<a href="https://cinel.ai/prompts/p/breath-ice-tunnel-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/breath-ice-tunnel-creature.webp" alt="Breath Ice Tunnel Creature" width="480"></a>
+
+> Tunnel walls still show throat interior under cold side light.
+
+```text
+Cinematic 3D render of an ancient frost wyrm whose open mouth releases a single frozen breath already hardened into a branching ice tunnel, tunnel walls still showing the interior shape of its throat, cold side light, strong material and lighting control, wide 16:9, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2117074215895740451
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/breath-ice-tunnel-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Living Top Hat Creature
+
+<a href="https://cinel.ai/prompts/p/living-top-hat-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/living-top-hat-creature.webp" alt="Living Top Hat Creature" width="480"></a>
+
+> Felt as armored hide; ribbon as trailing spine.
+
+```text
+3D render of a colossal top hat grown into a living creature, felt body as armored hide and ribbon as a trailing spine, frozen mid-tilt across a plain of scattered confetti under low side light, strong material and lighting control, wide 3:2, no logos, no watermark.
+```
+
+- Author: [@RealLeeForest](https://x.com/RealLeeForest)
+- Original post: https://x.com/RealLeeForest/status/2116983616790294873
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/living-top-hat-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Baby Penguin Plush 3D Icon
+
+<a href="https://cinel.ai/prompts/p/baby-penguin-plush-3d-icon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/baby-penguin-plush-3d-icon.webp" alt="Baby Penguin Plush 3D Icon" width="480"></a>
+
+> Cinema4D+Redshift quality; reusable icon set style.
+
+```text
+3D-rendered adorable cartoon baby penguin in a soft minimalist style, smooth rounded shapes, plump simplified body, glossy black eyes, small limbs, rosy cheeks, matte plush-like texture with subtle shading, Cinema4D + Redshift quality, soft diffused lighting no hard shadows, plain solid soft mint pastel background, front three-quarter angle, square 1:1, no logos, no watermark.
+```
+
+- Author: [@promptlabdaily](https://x.com/promptlabdaily)
+- Original post: https://x.com/promptlabdaily/status/2116679397046428079
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/baby-penguin-plush-3d-icon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pixar-Style Warrior Reinterpret
+
+<a href="https://cinel.ai/prompts/p/pixar-style-warrior-reinterpret?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pixar-style-warrior-reinterpret.webp" alt="Pixar-Style Warrior Reinterpret" width="360"></a>
+
+> Original character only; no licensed IP names.
+
+```text
+Premium Pixar-style 3D reinterpretation of an original lone ink-brush samurai scout, recognizable stylized facial features, signature topknot, travel cloak, short brush-sword accessory, calm focused expression, appealing rounded proportions, soft cinematic studio lighting, clean subtle backdrop, vertical 3:4, no licensed IP names, no logos, no watermark.
+```
+
+- Author: [@azed_ai](https://x.com/azed_ai)
+- Original post: https://x.com/azed_ai/status/2116121954382139842
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pixar-style-warrior-reinterpret?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Fox Lantern Knight Collectible
+
+<a href="https://cinel.ai/prompts/p/fox-lantern-knight-collectible?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/fox-lantern-knight-collectible.webp" alt="Fox Lantern Knight Collectible" width="360"></a>
+
+> Game-ready collectible lighting: softbox + warm rim.
+
+```text
+Stylized game-ready 3D hero collectible: a small lantern-keeper fox knight in a weathered teal cloak with brass buckles, quilted leather tabard, glowing paper lantern on a staff, confident three-quarter pose on a round matte-grey turntable base in a seamless soft-grey studio, large key softbox upper left, thin warm rim light, subtle bounce fill, PBR worn brass soft felt fur stitched leather, gentle ambient occlusion, 85mm crisp focus, soft contact shadow, vertical 4:5, no text, no logos, no watermark.
+```
+
+- Author: [@promptlabdaily](https://x.com/promptlabdaily)
+- Original post: https://x.com/promptlabdaily/status/2117064990033117236
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/fox-lantern-knight-collectible?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Resin Translucent City Dwelling
+
+<a href="https://cinel.ai/prompts/p/resin-translucent-city-dwelling?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/resin-translucent-city-dwelling.webp" alt="Resin Translucent City Dwelling" width="480"></a>
+
+> Walls floors furniture figures one milk-white material.
+
+```text
+Single miniature cutaway dwelling inferred from a Lisbon hillside flat, cast entirely in frosted translucent milk-white resin — walls, floors, furniture and tiny figures one material — two walls and the roof cut away on a clean section line, morning sun through frost making thin edges glow, soft studio ground, wide 16:9, no logos, no watermark.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2113805424092975601
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/resin-translucent-city-dwelling?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

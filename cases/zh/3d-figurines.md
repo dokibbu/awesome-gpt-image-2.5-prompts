@@ -1,6 +1,6 @@
 # 3D 角色与手办 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 120 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 127 · [cinel 分类页](https://cinel.ai/zh/prompts/3d-figurines?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 照片转极简 3D 玩具角色风格提示词
 
@@ -2207,3 +2207,101 @@ Macro photography, tilt-shift lens, miniature stop-motion set on a warm tactile 
 - 原作者: [@Gdgtify](https://x.com/Gdgtify)
 - 原帖: https://x.com/Gdgtify/status/2116214045519081856
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/bauhaus-letter-hacker-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 伦敦城市冰箱贴三维产品
+
+<a href="https://cinel.ai/zh/prompts/p/london-city-fridge-magnet-3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/london-city-fridge-magnet-3d.webp" alt="伦敦城市冰箱贴三维产品" width="360"></a>
+
+> 厚圆角磁贴上密集分层地标。
+
+```text
+Ultra-photorealistic product photograph of a premium 3D miniature cityscape refrigerator magnet featuring London. Compact thick rectangular magnet with softly rounded edges, intricately sculpted miniature London built into the surface: Big Ben, Palace of Westminster, Tower Bridge, London Eye, St Paul's Cathedral, The Shard, River Thames, historic buildings, tiny streets, bridges, trees and gardens in dense layered composition. Extraordinary physical depth, realistic architectural materials, soft studio product lighting, vertical 3:4, no brand logos, no watermark.
+```
+
+- 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- 原帖: https://x.com/Goodmanprotocol/status/2116542650321187278
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/london-city-fridge-magnet-3d?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 吐息冰隧生物
+
+<a href="https://cinel.ai/zh/prompts/p/breath-ice-tunnel-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/breath-ice-tunnel-creature.webp" alt="吐息冰隧生物" width="480"></a>
+
+> 隧壁仍显喉腔内形，冷侧光。
+
+```text
+Cinematic 3D render of an ancient frost wyrm whose open mouth releases a single frozen breath already hardened into a branching ice tunnel, tunnel walls still showing the interior shape of its throat, cold side light, strong material and lighting control, wide 16:9, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2117074215895740451
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/breath-ice-tunnel-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 活体高礼帽生物
+
+<a href="https://cinel.ai/zh/prompts/p/living-top-hat-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/living-top-hat-creature.webp" alt="活体高礼帽生物" width="480"></a>
+
+> 毡作铠甲皮；缎带作拖尾脊。
+
+```text
+3D render of a colossal top hat grown into a living creature, felt body as armored hide and ribbon as a trailing spine, frozen mid-tilt across a plain of scattered confetti under low side light, strong material and lighting control, wide 3:2, no logos, no watermark.
+```
+
+- 原作者: [@RealLeeForest](https://x.com/RealLeeForest)
+- 原帖: https://x.com/RealLeeForest/status/2116983616790294873
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/living-top-hat-creature?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 企鹅宝宝毛绒三维图标
+
+<a href="https://cinel.ai/zh/prompts/p/baby-penguin-plush-3d-icon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/baby-penguin-plush-3d-icon.webp" alt="企鹅宝宝毛绒三维图标" width="480"></a>
+
+> Cinema4D+Redshift 质感；可复用图标组风格。
+
+```text
+3D-rendered adorable cartoon baby penguin in a soft minimalist style, smooth rounded shapes, plump simplified body, glossy black eyes, small limbs, rosy cheeks, matte plush-like texture with subtle shading, Cinema4D + Redshift quality, soft diffused lighting no hard shadows, plain solid soft mint pastel background, front three-quarter angle, square 1:1, no logos, no watermark.
+```
+
+- 原作者: [@promptlabdaily](https://x.com/promptlabdaily)
+- 原帖: https://x.com/promptlabdaily/status/2116679397046428079
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/baby-penguin-plush-3d-icon?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 皮克斯风战士重塑
+
+<a href="https://cinel.ai/zh/prompts/p/pixar-style-warrior-reinterpret?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pixar-style-warrior-reinterpret.webp" alt="皮克斯风战士重塑" width="360"></a>
+
+> 仅原创角色；不写授权 IP 名。
+
+```text
+Premium Pixar-style 3D reinterpretation of an original lone ink-brush samurai scout, recognizable stylized facial features, signature topknot, travel cloak, short brush-sword accessory, calm focused expression, appealing rounded proportions, soft cinematic studio lighting, clean subtle backdrop, vertical 3:4, no licensed IP names, no logos, no watermark.
+```
+
+- 原作者: [@azed_ai](https://x.com/azed_ai)
+- 原帖: https://x.com/azed_ai/status/2116121954382139842
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pixar-style-warrior-reinterpret?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 狐狸灯骑士手办
+
+<a href="https://cinel.ai/zh/prompts/p/fox-lantern-knight-collectible?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/fox-lantern-knight-collectible.webp" alt="狐狸灯骑士手办" width="360"></a>
+
+> 游戏向手办布光：柔光箱+暖轮廓光。
+
+```text
+Stylized game-ready 3D hero collectible: a small lantern-keeper fox knight in a weathered teal cloak with brass buckles, quilted leather tabard, glowing paper lantern on a staff, confident three-quarter pose on a round matte-grey turntable base in a seamless soft-grey studio, large key softbox upper left, thin warm rim light, subtle bounce fill, PBR worn brass soft felt fur stitched leather, gentle ambient occlusion, 85mm crisp focus, soft contact shadow, vertical 4:5, no text, no logos, no watermark.
+```
+
+- 原作者: [@promptlabdaily](https://x.com/promptlabdaily)
+- 原帖: https://x.com/promptlabdaily/status/2117064990033117236
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/fox-lantern-knight-collectible?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 树脂半透明城市剖面屋
+
+<a href="https://cinel.ai/zh/prompts/p/resin-translucent-city-dwelling?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/resin-translucent-city-dwelling.webp" alt="树脂半透明城市剖面屋" width="480"></a>
+
+> 墙地板家具人偶同一乳白材料。
+
+```text
+Single miniature cutaway dwelling inferred from a Lisbon hillside flat, cast entirely in frosted translucent milk-white resin — walls, floors, furniture and tiny figures one material — two walls and the roof cut away on a clean section line, morning sun through frost making thin edges glow, soft studio ground, wide 16:9, no logos, no watermark.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2113805424092975601
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/resin-translucent-city-dwelling?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

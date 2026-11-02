@@ -1,6 +1,6 @@
 # Food & Drink · GPT Image 2.5
 
-[← README](../README.md) · 238 · [Category on cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 248 · [Category on cinel](https://cinel.ai/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Exploded Dish Food Infographic with Floating Ingredients
 
@@ -4012,3 +4012,143 @@ A cozy, modern still-life illustration of a hand holding a dark rust-colored cer
 - Author: [@heathergreen](https://x.com/heathergreen)
 - Original post: https://x.com/heathergreen/status/2114886547958804844
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/cozy-orange-mug-marker-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Pastel Gourmet Donut Infographic
+
+<a href="https://cinel.ai/prompts/p/pastel-gourmet-donut-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/pastel-gourmet-donut-infographic.webp" alt="Pastel Gourmet Donut Infographic" width="360"></a>
+
+> Text-only gourmet donut poster with pastel corners.
+
+```text
+Ultra-realistic pastel gourmet donut promotional infographic poster featuring blueberry glaze with fresh berries and mint leaves. One large freshly baked ring donut center, glossy icing, realistic golden-brown dough, soft texture, natural highlights. Clean playful pastel aesthetic, warm white background, soft pink mint-green baby-blue abstract corner shapes, delicate botanical accents, tiny elegant flavor callouts, vertical 3:4, no brand logos, no watermark.
+```
+
+- Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- Original post: https://x.com/Goodmanprotocol/status/2116856596928303163
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pastel-gourmet-donut-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Editorial Food Sketchbook Poster
+
+<a href="https://cinel.ai/prompts/p/editorial-food-sketchbook-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/editorial-food-sketchbook-poster.webp" alt="Editorial Food Sketchbook Poster" width="360"></a>
+
+> Upper photo plate + lower handmade ingredient notes.
+
+```text
+Premium 3:4 vertical editorial food-art poster for a Hanoi pho bowl. Upper ~48% photorealistic plate: fragrant broth, rice noodles, rare beef slices, Thai basil, lime, bean sprouts, steam rising, Hanoi street-dawn mood. Lower section handmade ingredient-observation sketchbook with pencil and watercolor notes for broth herbs and aromatics. Elegant travel-food editorial layout, text-to-image only, no brand logos, no watermark.
+```
+
+- Author: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- Original post: https://x.com/Goodmanprotocol/status/2108555814604812483
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/editorial-food-sketchbook-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Snack Decade Paper-Cut Grid
+
+<a href="https://cinel.ai/prompts/p/snack-decade-paper-cut-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/snack-decade-paper-cut-grid.webp" alt="Snack Decade Paper-Cut Grid" width="480"></a>
+
+> Cheerful paper-cut heroes + material typography, not photoreal food.
+
+```text
+2x2 grid on a wide 16:9 canvas of four international snack decades as semantic typographic worlds. One panel focuses on a 1990s chocolate surprise egg as an oversized cheerful paper-cut hero fused with custom material letterforms, vintage graphic poster colors, bold black pictograms, premium editorial micro-labels, strong negative space, iconic simplicity. No photoreal people, no clip-art collage, no brand logos, no watermark.
+```
+
+- Author: [@Gdgtify](https://x.com/Gdgtify)
+- Original post: https://x.com/Gdgtify/status/2116874397294453180
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/snack-decade-paper-cut-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Bosphorus Night Köfte Stall
+
+<a href="https://cinel.ai/prompts/p/bosphorus-kofte-night-stall?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/bosphorus-kofte-night-stall.webp" alt="Bosphorus Night Köfte Stall" width="480"></a>
+
+> Steam, DIY neon, charcoal glow; fictional stall name.
+
+```text
+Ultra-realistic night street photograph on the Istanbul Bosphorus waterfront. A tiny makeshift caravan food stall with slightly battered metal sides and rising steam. Hand-painted rickety neon-style sign reading Köfteci Usta in Turkish, uneven cyan and warm amber glow, DIY wires and brackets. Inside, an anonymous cook grilling köfte over charcoal with orange ember glow. Plastic stools and low tables outside, a few anonymous locals eating, plastic water jug near the counter. Dark Bosphorus water, distant city lights, faint ferry silhouette, wet pavement reflections, cinematic naturalism, wide 3:2, no brand logos, no watermark.
+```
+
+- Author: [@ozansihay](https://x.com/ozansihay)
+- Original post: https://x.com/ozansihay/status/2107544398531637407
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/bosphorus-kofte-night-stall?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Thanksgiving Pie Chase Comic
+
+<a href="https://cinel.ai/prompts/p/thanksgiving-pie-chase-comic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/thanksgiving-pie-chase-comic.webp" alt="Thanksgiving Pie Chase Comic" width="480"></a>
+
+> Ben-Day halftone, autumn palette, anthropomorphic food only.
+
+```text
+Wildly exaggerated Thanksgiving chase as a vintage 1950s comic-book panel. Mischievous anthropomorphic pumpkin pie slice with terrified expressive face, tiny running legs and flying crumbs, races away from a determined dinner roll wielding a fork like a tiny sword. Whipped cream swirl in the air, dramatic speed lines, bold hand-drawn ink contours, Ben-Day halftone, distressed print texture, warm autumn palette of pumpkin orange cinnamon brown mustard yellow creamy ivory, square 1:1, no logos, no watermark.
+```
+
+- Author: [@heathergreen](https://x.com/heathergreen)
+- Original post: https://x.com/heathergreen/status/2113193665761800295
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/thanksgiving-pie-chase-comic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Santa Mug Coffee Pencil Sketch
+
+<a href="https://cinel.ai/prompts/p/santa-mug-coffee-pencil?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/santa-mug-coffee-pencil.webp" alt="Santa Mug Coffee Pencil Sketch" width="480"></a>
+
+> Folklore Santa mug; loose pencil texture.
+
+```text
+Charming colored-pencil illustration of a ceramic coffee mug shaped like Santa Claus, floppy red hat curving to form the handle, filled with rich coffee and a generous swirl of whipped cream with cinnamon sticks, loose hastily drawn yet artful strokes, visible pencil texture, warm festive colors, softly textured off-white paper background, square 1:1, no logos, no watermark.
+```
+
+- Author: [@heathergreen](https://x.com/heathergreen)
+- Original post: https://x.com/heathergreen/status/2116334340942819341
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/santa-mug-coffee-pencil?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Autumn Steps Coffee POV
+
+<a href="https://cinel.ai/prompts/p/autumn-steps-coffee-pov?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/autumn-steps-coffee-pov.webp" alt="Autumn Steps Coffee POV" width="360"></a>
+
+> Hands/legs only; no face. Burnt-orange cup.
+
+```text
+Cozy autumn first-person top-down view looking down at anonymous hands and legs on wide weathered stone steps. One hand holds a burnt-orange takeaway coffee cup with black lid and delicate cream leaf pattern, deep burgundy nails, chunky oversized cream cable-knit sweater sleeve, rolled faded blue jeans, brown leather lace-up ankle boots. Scattered maple leaves in burnt orange copper crimson golden yellow russet across pale gray stone, vertical 3:4, no face, no logos, no watermark.
+```
+
+- Author: [@heathergreen](https://x.com/heathergreen)
+- Original post: https://x.com/heathergreen/status/2115971958558933199
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/autumn-steps-coffee-pov?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Avocado Toast Still
+
+<a href="https://cinel.ai/prompts/p/floating-avocado-toast-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-avocado-toast-still.webp" alt="Floating Avocado Toast Still" width="480"></a>
+
+> Commercial floating food template.
+
+```text
+A slice of sourdough avocado toast topped with chili flakes, microgreens and a poached egg, suspended in midair against a clean white isolated background, premium food photography, rich natural surface texture, appetizing detail, realistic fibers and moisture, subtle seasoning, soft studio lighting, crisp natural shadow, dynamic floating composition, commercial advertising aesthetic, sharp focus, high detail, square 1:1, no logos, no watermark.
+```
+
+- Author: [@promptlabdaily](https://x.com/promptlabdaily)
+- Original post: https://x.com/promptlabdaily/status/2116956582579728526
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-avocado-toast-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Exploding Glazed Donut Jam
+
+<a href="https://cinel.ai/prompts/p/exploding-glazed-donut-jam?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/exploding-glazed-donut-jam.webp" alt="Exploding Glazed Donut Jam" width="480"></a>
+
+> Split, burst, particles frozen mid-air.
+
+```text
+Exploding glazed donut filled with strawberry jam, split into two pieces as the jam splashes outward, sugar-glazed golden exterior, exposed fluffy brioche crumb, crumbs and particles frozen mid-air, clean pale sky-blue background, professional studio lighting, realistic food textures, sharp focus, high-end commercial food photography, premium advertising aesthetic, square 1:1, no logos, no watermark.
+```
+
+- Author: [@promptlabdaily](https://x.com/promptlabdaily)
+- Original post: https://x.com/promptlabdaily/status/2117043712404398475
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/exploding-glazed-donut-jam?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### Floating Ramen Bowl Still
+
+<a href="https://cinel.ai/prompts/p/floating-ramen-bowl-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/floating-ramen-bowl-still.webp" alt="Floating Ramen Bowl Still" width="480"></a>
+
+> Same floating commercial template as toast series.
+
+```text
+A bowl of rich tonkotsu ramen topped with a soft-boiled egg, sliced scallions and nori, suspended in midair against a clean white isolated background, premium food photography, rich natural surface texture, appetizing detail, realistic fibers and moisture, subtle seasoning, soft studio lighting, crisp natural shadow, dynamic floating composition, commercial advertising aesthetic, sharp focus, high detail, square 1:1, no logos, no watermark.
+```
+
+- Author: [@promptlabdaily](https://x.com/promptlabdaily)
+- Original post: https://x.com/promptlabdaily/status/2116228745916776786
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/floating-ramen-bowl-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

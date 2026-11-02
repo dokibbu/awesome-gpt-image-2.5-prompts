@@ -1,6 +1,6 @@
 # 插画与动漫 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 104 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 107 · [cinel 分类页](https://cinel.ai/zh/prompts/illustration-anime?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 极简黑白线稿人物插画提示词
 
@@ -1546,3 +1546,45 @@ A retro 16-bit pixel art scene of a vast orc landscape at 20:30, the sky, moon p
 - 原作者: [@ToshiArte](https://x.com/ToshiArte)
 - 原帖: https://x.com/ToshiArte/status/2115911551886488058
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/retro-pixel-orc-lands-night?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 体素浮岛龙·游戏HUD截图
+
+<a href="https://cinel.ai/zh/prompts/p/voxel-island-dragon-hud?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/voxel-island-dragon-hud.webp" alt="体素浮岛龙·游戏HUD截图" width="480"></a>
+
+> JimmyAI 体素游戏静帧：改主题与 HUD 字。
+
+```text
+Isometric 3D pixel-art voxel game screenshot of a tiny floating island city at dusk, blocky cubic buildings with glowing windows, a pixel dragon circling a central tower, game HUD with readable text LEVEL 3 top left and SCORE 004200 top right, crisp voxel shading, vibrant retro colors, layered parallax depth, clean UI frames, square 1:1 composition, no modern brand logos, no watermark.
+```
+
+- 原作者: [@JimmyCarsttle](https://x.com/JimmyCarsttle)
+- 原帖: https://x.com/JimmyCarsttle/status/2117044013627035776
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/voxel-island-dragon-hud?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 漫画侦探角色设定表
+
+<a href="https://cinel.ai/zh/prompts/p/manga-detective-character-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/manga-detective-character-sheet.webp" alt="漫画侦探角色设定表" width="480"></a>
+
+> 免费漫画设定表模板：改角色与服装。
+
+```text
+Character sheet sketch of a young detective with a short bob haircut, multiple viewing angles including front three-quarter and side, expressive facial variations, dynamic poses, oversized trench coat with knee socks and sneakers, pencil and blue ballpoint pen linework, delicate crosshatching, soft pastel fills, hand-drawn manga style, clean white background, square 1:1 composition, no logos, no watermark.
+```
+
+- 原作者: [@JimmyCarsttle](https://x.com/JimmyCarsttle)
+- 原帖: https://x.com/JimmyCarsttle/status/2116938323650543891
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/manga-detective-character-sheet?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 黏土动画年代 NPC 立体景
+
+<a href="https://cinel.ai/zh/prompts/p/claymation-era-npc-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/claymation-era-npc-diorama.webp" alt="黏土动画年代 NPC 立体景" width="480"></a>
+
+> 棚拍黏土 + 手绘墨线注释。
+
+```text
+Mixed-media isometric claymation diorama of tavern NPCs of different decades on an isometric tavern-floor earth slice, thick chunky clay figures, solid warm pastel flat background with zero depth, softbox studio lighting with soft drop shadows, hand-drawn ink call-out boxes and scribbled notes labeling roles, wide 16:9, no brand logos, no watermark.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2111629083536736629
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/claymation-era-npc-diorama?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

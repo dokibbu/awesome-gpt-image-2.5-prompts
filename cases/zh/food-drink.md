@@ -1,6 +1,6 @@
 # 美食饮品 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 238 · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 248 · [cinel 分类页](https://cinel.ai/zh/prompts/food-drink?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 食材悬浮爆炸式美食信息图提示词
 
@@ -4012,3 +4012,143 @@ A cozy, modern still-life illustration of a hand holding a dark rust-colored cer
 - 原作者: [@heathergreen](https://x.com/heathergreen)
 - 原帖: https://x.com/heathergreen/status/2114886547958804844
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/cozy-orange-mug-marker-illustration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 粉彩甜甜圈美食信息海报
+
+<a href="https://cinel.ai/zh/prompts/p/pastel-gourmet-donut-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/pastel-gourmet-donut-infographic.webp" alt="粉彩甜甜圈美食信息海报" width="360"></a>
+
+> 纯文生粉彩甜甜圈海报。
+
+```text
+Ultra-realistic pastel gourmet donut promotional infographic poster featuring blueberry glaze with fresh berries and mint leaves. One large freshly baked ring donut center, glossy icing, realistic golden-brown dough, soft texture, natural highlights. Clean playful pastel aesthetic, warm white background, soft pink mint-green baby-blue abstract corner shapes, delicate botanical accents, tiny elegant flavor callouts, vertical 3:4, no brand logos, no watermark.
+```
+
+- 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- 原帖: https://x.com/Goodmanprotocol/status/2116856596928303163
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pastel-gourmet-donut-infographic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 编辑风美食速写本海报
+
+<a href="https://cinel.ai/zh/prompts/p/editorial-food-sketchbook-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/editorial-food-sketchbook-poster.webp" alt="编辑风美食速写本海报" width="360"></a>
+
+> 上半写实盘菜 + 下半手绘食材笔记。
+
+```text
+Premium 3:4 vertical editorial food-art poster for a Hanoi pho bowl. Upper ~48% photorealistic plate: fragrant broth, rice noodles, rare beef slices, Thai basil, lime, bean sprouts, steam rising, Hanoi street-dawn mood. Lower section handmade ingredient-observation sketchbook with pencil and watercolor notes for broth herbs and aromatics. Elegant travel-food editorial layout, text-to-image only, no brand logos, no watermark.
+```
+
+- 原作者: [@Goodmanprotocol](https://x.com/Goodmanprotocol)
+- 原帖: https://x.com/Goodmanprotocol/status/2108555814604812483
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/editorial-food-sketchbook-poster?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 零食年代剪纸四宫格
+
+<a href="https://cinel.ai/zh/prompts/p/snack-decade-paper-cut-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/snack-decade-paper-cut-grid.webp" alt="零食年代剪纸四宫格" width="480"></a>
+
+> 欢快剪纸主角+材料字形，不要写实食物贴图。
+
+```text
+2x2 grid on a wide 16:9 canvas of four international snack decades as semantic typographic worlds. One panel focuses on a 1990s chocolate surprise egg as an oversized cheerful paper-cut hero fused with custom material letterforms, vintage graphic poster colors, bold black pictograms, premium editorial micro-labels, strong negative space, iconic simplicity. No photoreal people, no clip-art collage, no brand logos, no watermark.
+```
+
+- 原作者: [@Gdgtify](https://x.com/Gdgtify)
+- 原帖: https://x.com/Gdgtify/status/2116874397294453180
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/snack-decade-paper-cut-grid?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 博斯普鲁斯夜色肉丸摊
+
+<a href="https://cinel.ai/zh/prompts/p/bosphorus-kofte-night-stall?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/bosphorus-kofte-night-stall.webp" alt="博斯普鲁斯夜色肉丸摊" width="480"></a>
+
+> 蒸汽、手作霓虹、炭火；虚构摊名。
+
+```text
+Ultra-realistic night street photograph on the Istanbul Bosphorus waterfront. A tiny makeshift caravan food stall with slightly battered metal sides and rising steam. Hand-painted rickety neon-style sign reading Köfteci Usta in Turkish, uneven cyan and warm amber glow, DIY wires and brackets. Inside, an anonymous cook grilling köfte over charcoal with orange ember glow. Plastic stools and low tables outside, a few anonymous locals eating, plastic water jug near the counter. Dark Bosphorus water, distant city lights, faint ferry silhouette, wet pavement reflections, cinematic naturalism, wide 3:2, no brand logos, no watermark.
+```
+
+- 原作者: [@ozansihay](https://x.com/ozansihay)
+- 原帖: https://x.com/ozansihay/status/2107544398531637407
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/bosphorus-kofte-night-stall?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 感恩节派逃跑漫画格
+
+<a href="https://cinel.ai/zh/prompts/p/thanksgiving-pie-chase-comic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/thanksgiving-pie-chase-comic.webp" alt="感恩节派逃跑漫画格" width="480"></a>
+
+> 本戴网点、秋色、只拟人食物。
+
+```text
+Wildly exaggerated Thanksgiving chase as a vintage 1950s comic-book panel. Mischievous anthropomorphic pumpkin pie slice with terrified expressive face, tiny running legs and flying crumbs, races away from a determined dinner roll wielding a fork like a tiny sword. Whipped cream swirl in the air, dramatic speed lines, bold hand-drawn ink contours, Ben-Day halftone, distressed print texture, warm autumn palette of pumpkin orange cinnamon brown mustard yellow creamy ivory, square 1:1, no logos, no watermark.
+```
+
+- 原作者: [@heathergreen](https://x.com/heathergreen)
+- 原帖: https://x.com/heathergreen/status/2113193665761800295
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/thanksgiving-pie-chase-comic?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 圣诞老人杯咖啡铅笔速写
+
+<a href="https://cinel.ai/zh/prompts/p/santa-mug-coffee-pencil?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/santa-mug-coffee-pencil.webp" alt="圣诞老人杯咖啡铅笔速写" width="480"></a>
+
+> 民俗圣诞老人杯；松散铅笔质感。
+
+```text
+Charming colored-pencil illustration of a ceramic coffee mug shaped like Santa Claus, floppy red hat curving to form the handle, filled with rich coffee and a generous swirl of whipped cream with cinnamon sticks, loose hastily drawn yet artful strokes, visible pencil texture, warm festive colors, softly textured off-white paper background, square 1:1, no logos, no watermark.
+```
+
+- 原作者: [@heathergreen](https://x.com/heathergreen)
+- 原帖: https://x.com/heathergreen/status/2116334340942819341
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/santa-mug-coffee-pencil?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 秋阶咖啡第一人称俯视
+
+<a href="https://cinel.ai/zh/prompts/p/autumn-steps-coffee-pov?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/autumn-steps-coffee-pov.webp" alt="秋阶咖啡第一人称俯视" width="360"></a>
+
+> 只出手/腿；不要脸。焦橙纸杯。
+
+```text
+Cozy autumn first-person top-down view looking down at anonymous hands and legs on wide weathered stone steps. One hand holds a burnt-orange takeaway coffee cup with black lid and delicate cream leaf pattern, deep burgundy nails, chunky oversized cream cable-knit sweater sleeve, rolled faded blue jeans, brown leather lace-up ankle boots. Scattered maple leaves in burnt orange copper crimson golden yellow russet across pale gray stone, vertical 3:4, no face, no logos, no watermark.
+```
+
+- 原作者: [@heathergreen](https://x.com/heathergreen)
+- 原帖: https://x.com/heathergreen/status/2115971958558933199
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/autumn-steps-coffee-pov?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 悬浮牛油果吐司静物
+
+<a href="https://cinel.ai/zh/prompts/p/floating-avocado-toast-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/floating-avocado-toast-still.webp" alt="悬浮牛油果吐司静物" width="480"></a>
+
+> 商业悬浮食物模板。
+
+```text
+A slice of sourdough avocado toast topped with chili flakes, microgreens and a poached egg, suspended in midair against a clean white isolated background, premium food photography, rich natural surface texture, appetizing detail, realistic fibers and moisture, subtle seasoning, soft studio lighting, crisp natural shadow, dynamic floating composition, commercial advertising aesthetic, sharp focus, high detail, square 1:1, no logos, no watermark.
+```
+
+- 原作者: [@promptlabdaily](https://x.com/promptlabdaily)
+- 原帖: https://x.com/promptlabdaily/status/2116956582579728526
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/floating-avocado-toast-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 爆炸糖霜果酱甜甜圈
+
+<a href="https://cinel.ai/zh/prompts/p/exploding-glazed-donut-jam?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/exploding-glazed-donut-jam.webp" alt="爆炸糖霜果酱甜甜圈" width="480"></a>
+
+> 剖开、爆裂、颗粒定格半空。
+
+```text
+Exploding glazed donut filled with strawberry jam, split into two pieces as the jam splashes outward, sugar-glazed golden exterior, exposed fluffy brioche crumb, crumbs and particles frozen mid-air, clean pale sky-blue background, professional studio lighting, realistic food textures, sharp focus, high-end commercial food photography, premium advertising aesthetic, square 1:1, no logos, no watermark.
+```
+
+- 原作者: [@promptlabdaily](https://x.com/promptlabdaily)
+- 原帖: https://x.com/promptlabdaily/status/2117043712404398475
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/exploding-glazed-donut-jam?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 悬浮拉面碗静物
+
+<a href="https://cinel.ai/zh/prompts/p/floating-ramen-bowl-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/floating-ramen-bowl-still.webp" alt="悬浮拉面碗静物" width="480"></a>
+
+> 与吐司系列同款悬浮商业模板。
+
+```text
+A bowl of rich tonkotsu ramen topped with a soft-boiled egg, sliced scallions and nori, suspended in midair against a clean white isolated background, premium food photography, rich natural surface texture, appetizing detail, realistic fibers and moisture, subtle seasoning, soft studio lighting, crisp natural shadow, dynamic floating composition, commercial advertising aesthetic, sharp focus, high detail, square 1:1, no logos, no watermark.
+```
+
+- 原作者: [@promptlabdaily](https://x.com/promptlabdaily)
+- 原帖: https://x.com/promptlabdaily/status/2116228745916776786
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/floating-ramen-bowl-still?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

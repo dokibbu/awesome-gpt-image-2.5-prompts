@@ -1,6 +1,6 @@
 # 海报与平面设计 · GPT Image 2.5
 
-[← README](../../README_zh.md) · 70 · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../../README_zh.md) · 71 · [cinel 分类页](https://cinel.ai/zh/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### 运动员致敬双重曝光拼贴海报提示词
 
@@ -1663,3 +1663,17 @@ Editorial architectural poster × isometric micro-diorama of a monumental pi (π
 - 原作者: [@Gdgtify](https://x.com/Gdgtify)
 - 原帖: https://x.com/Gdgtify/status/2116454379242877378
 - [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/pi-symbol-infrastructure-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 1999 新金属游戏原声封面
+
+<a href="https://cinel.ai/zh/prompts/p/nu-metal-game-ost-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../../images/nu-metal-game-ost-cover.webp" alt="1999 新金属游戏原声封面" width="360"></a>
+
+> 仅虚构乐队；碎裂镀铬标志感。
+
+```text
+Vertical 2:3 1999 nu-metal debut game soundtrack cover for fictional band STATIC FORGE, album title BOOT SEQUENCE in cracked chrome lettering, five anonymous stylized bandmates in baggy cargo pants, chain wallets, frosted tips and bleached goatees, grimy warehouse backdrop, harsh flash lighting, grit and film grain, no readable modern brand logos, no real celebrity likeness, no watermark.
+```
+
+- 原作者: [@JimmyCarsttle](https://x.com/JimmyCarsttle)
+- 原帖: https://x.com/JimmyCarsttle/status/2116835188244390167
+- [在 cinel 上查看详情并一键生成](https://cinel.ai/zh/prompts/p/nu-metal-game-ost-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)

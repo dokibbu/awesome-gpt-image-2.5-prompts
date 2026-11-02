@@ -1,6 +1,6 @@
 # Posters, Logos & Graphic Design · GPT Image 2.5
 
-[← README](../README.md) · 70 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+[← README](../README.md) · 71 · [Category on cinel](https://cinel.ai/prompts/poster-design?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
 
 ### Sports Tribute Double-Exposure Collage Poster Prompt
 
@@ -1663,3 +1663,17 @@ Editorial architectural poster × isometric micro-diorama of a monumental pi (π
 - Author: [@Gdgtify](https://x.com/Gdgtify)
 - Original post: https://x.com/Gdgtify/status/2116454379242877378
 - [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/pi-symbol-infrastructure-city?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
+
+### 1999 Nu-Metal Game OST Cover
+
+<a href="https://cinel.ai/prompts/p/nu-metal-game-ost-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts"><img src="../images/nu-metal-game-ost-cover.webp" alt="1999 Nu-Metal Game OST Cover" width="360"></a>
+
+> Fictional band only; cracked chrome logo energy.
+
+```text
+Vertical 2:3 1999 nu-metal debut game soundtrack cover for fictional band STATIC FORGE, album title BOOT SEQUENCE in cracked chrome lettering, five anonymous stylized bandmates in baggy cargo pants, chain wallets, frosted tips and bleached goatees, grimy warehouse backdrop, harsh flash lighting, grit and film grain, no readable modern brand logos, no real celebrity likeness, no watermark.
+```
+
+- Author: [@JimmyCarsttle](https://x.com/JimmyCarsttle)
+- Original post: https://x.com/JimmyCarsttle/status/2116835188244390167
+- [View on cinel and generate with this prompt](https://cinel.ai/prompts/p/nu-metal-game-ost-cover?utm_source=github&utm_medium=awesome&utm_campaign=awesome-gpt-image-2.5-prompts)
